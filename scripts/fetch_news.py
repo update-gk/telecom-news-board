@@ -18,6 +18,8 @@ OUTPUT_PATH = Path(__file__).resolve().parent.parent / "data" / "news.json"
 
 # 取得元の設定。ITmedia Mobileはタイトルに"[ITmedia Mobile]"が付くITmedia全体RSSから
 # 絞り込む方式(ITmedia側にモバイル専用RSSが見当たらないため)。
+# docomo/auはキャリア公式のRSS配信。ソフトバンク/楽天モバイル/ワイモバイル/UQ mobileは
+# 確実なRSS配信元が見つかっていないため未対応(見つかり次第追加)。
 SOURCES = {
     "ktai": {
         "name": "ケータイWatch",
@@ -28,6 +30,16 @@ SOURCES = {
         "name": "ITmedia Mobile",
         "url": "https://rss.itmedia.co.jp/rss/2.0/itmedia_all.xml",
         "title_filter": lambda title: "ITmedia Mobile" in title,
+    },
+    "docomo": {
+        "name": "NTTドコモ",
+        "url": "https://www.docomo.ne.jp/info/rss/whatsnew.rdf",
+        "title_filter": None,
+    },
+    "au": {
+        "name": "au/KDDI",
+        "url": "https://newsroom.kddi.com/news/newsrelease.xml",
+        "title_filter": None,
     },
 }
 

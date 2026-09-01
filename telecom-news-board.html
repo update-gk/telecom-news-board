@@ -254,6 +254,8 @@
       <span class="row-label">情報源</span>
       <button class="chip active" data-source="ktai">ケータイWatch</button>
       <button class="chip active" data-source="itmedia">ITmedia Mobile</button>
+      <button class="chip active" data-source="docomo">NTTドコモ</button>
+      <button class="chip active" data-source="au">au/KDDI</button>
     </div>
     <div class="row">
       <span class="row-label">カテゴリ</span>
@@ -277,7 +279,7 @@
 </div>
 
 <div class="digest-panel">
-  <h2>お客様共有用まとめ</h2>
+  <h2>共有用まとめ</h2>
   <div id="digestEmpty" class="digest-empty">記事一覧で気になる記事にチェックを入れると、ここに共有用テキストが生成されます。</div>
   <div id="digestBody" style="display:none;">
     <textarea id="digestText" readonly></textarea>
@@ -290,12 +292,12 @@
 
 <div class="note">
   ※ このページは同じ階層の data/news.json を読み込んで表示しています。news.json は GitHub Actions(scripts/fetch_news.py)が定期的にRSSを取得して自動更新します。手動でRSSを取りに行く処理は行っていません。<br>
-  ※ キャリア公式サイトの情報は現時点で未対応です(RSS非提供のため個別のスクレイピング対応が必要)。
+  ※ キャリア公式は、公式RSSが確認できたNTTドコモ・au/KDDIのみ対応済みです。ソフトバンク・楽天モバイル・Y!mobile・UQ mobileはRSS配信元が未確認のため今後の対応となります。
 </div>
 
 <script>
 // 表示用の情報源名(実際の取得・分類はGitHub Actions側のscripts/fetch_news.pyが行う)
-const SOURCE_NAMES = { ktai: 'ケータイWatch', itmedia: 'ITmedia Mobile' };
+const SOURCE_NAMES = { ktai: 'ケータイWatch', itmedia: 'ITmedia Mobile', docomo: 'NTTドコモ', au: 'au/KDDI' };
 
 // カテゴリごとの見た目(色分け)。カテゴリの判定自体はfetch_news.py側で行い、
 // news.jsonにはcatKey/catLabelとして保存されている。
@@ -311,7 +313,7 @@ const CATEGORY_STYLE = {
 const NEWS_JSON_URL = './data/news.json';
 
 let allArticles = [];
-let activeSources = new Set(['ktai','itmedia']);
+let activeSources = new Set(['ktai','itmedia','docomo','au']);
 const ALL_CATS = ['price','device','campaign','trouble','mvno','other'];
 let activeCats = new Set(ALL_CATS);
 const selected = new Map();
