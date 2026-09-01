@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>スマホ・通信 速報ボード</title>
+<title>通信業界レーダー</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=M+PLUS+1+Code:wght@400;500;700&family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet">
 <style>
@@ -240,8 +240,8 @@
 <div class="board-frame">
   <header>
     <div>
-      <div class="board-title">SUMAHO / TSUSHIN NEWS BOARD</div>
-      <div class="board-sub">スマホ・通信業界 速報ボード</div>
+      <div class="board-title">通信業界レーダー</div>
+      <div class="board-sub">TSUSHIN INDUSTRY RADAR</div>
     </div>
     <div>
       <div class="clock" id="clock">--:--:--</div>
@@ -312,7 +312,8 @@ const NEWS_JSON_URL = './data/news.json';
 
 let allArticles = [];
 let activeSources = new Set(['ktai','itmedia']);
-let activeCats = new Set(['all','price','device','campaign','trouble','mvno','other']);
+const ALL_CATS = ['price','device','campaign','trouble','mvno','other'];
+let activeCats = new Set(ALL_CATS);
 const selected = new Map();
 
 function tickClock(){
@@ -330,11 +331,24 @@ document.querySelectorAll('.chip[data-source]').forEach(btn=>{
     render();
   });
 });
+function syncAllChip(){
+  const allBtn = document.querySelector('.chip[data-cat="all"]');
+  const isAllActive = ALL_CATS.every(c => activeCats.has(c));
+  allBtn.classList.toggle('active', isAllActive);
+}
+
 document.querySelectorAll('.chip[data-cat]').forEach(btn=>{
   btn.addEventListener('click', ()=>{
     const c = btn.dataset.cat;
-    btn.classList.toggle('active');
-    if(activeCats.has(c)) activeCats.delete(c); else activeCats.add(c);
+    if(c === 'all'){
+      // 「すべて」は常に全カテゴリを選択状態にする(トグルではない)
+      activeCats = new Set(ALL_CATS);
+      document.querySelectorAll('.chip[data-cat]').forEach(b => b.classList.add('active'));
+    } else {
+      btn.classList.toggle('active');
+      if(activeCats.has(c)) activeCats.delete(c); else activeCats.add(c);
+      syncAllChip();
+    }
     render();
   });
 });
