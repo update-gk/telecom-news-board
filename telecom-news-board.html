@@ -252,6 +252,7 @@
   <div class="controls">
     <div class="row">
       <span class="row-label">情報源</span>
+      <button class="chip active" data-source="all">すべて</button>
       <button class="chip active" data-source="ktai">ケータイWatch</button>
       <button class="chip active" data-source="itmedia">ITmedia Mobile</button>
       <button class="chip active" data-source="docomo">NTTドコモ</button>
@@ -321,9 +322,10 @@ const CATEGORY_STYLE = {
 const NEWS_JSON_URL = './data/news.json';
 
 let allArticles = [];
-let activeSources = new Set(['ktai','itmedia','docomo','au','softbank','rakuten','ymobile','uq']);
+const ALL_SOURCES = ['ktai','itmedia','docomo','au','softbank','rakuten','ymobile','uq'];
 const ALL_CATS = ['price','device','campaign','trouble','mvno','other'];
-let activeCats = new Set(ALL_CATS);
+const activeSources = new Set(ALL_SOURCES);
+const activeCats = new Set(ALL_CATS);
 const selected = new Map();
 
 function tickClock(){
@@ -333,35 +335,39 @@ function tickClock(){
 setInterval(tickClock, 1000);
 tickClock();
 
-document.querySelectorAll('.chip[data-source]').forEach(btn=>{
-  btn.addEventListener('click', ()=>{
-    const s = btn.dataset.source;
-    btn.classList.toggle('active');
-    if(activeSources.has(s)) activeSources.delete(s); else activeSources.add(s);
-    render();
+// 情報源・カテゴリの絞り込みチップ。各行に「すべて」ボタンを置き、
+// 押すたびに「全選択」⇔「全解除」をトグルする。
+function setupChipRow(attr, allKeys, activeSet){
+  const chips = Array.from(document.querySelectorAll('.chip[data-' + attr + ']'));
+  const allBtn = document.querySelector('.chip[data-' + attr + '="all"]');
+  const syncAllBtn = ()=>{
+    if(allBtn) allBtn.classList.toggle('active', allKeys.every(k => activeSet.has(k)));
+  };
+  chips.forEach(btn=>{
+    btn.addEventListener('click', ()=>{
+      const key = btn.dataset[attr];
+      if(key === 'all'){
+        const allSelected = allKeys.every(k => activeSet.has(k));
+        if(allSelected){
+          activeSet.clear();
+          chips.forEach(b => { if(b.dataset[attr] !== 'all') b.classList.remove('active'); });
+        }else{
+          allKeys.forEach(k => activeSet.add(k));
+          chips.forEach(b => b.classList.add('active'));
+        }
+      }else{
+        btn.classList.toggle('active');
+        if(activeSet.has(key)) activeSet.delete(key); else activeSet.add(key);
+      }
+      syncAllBtn();
+      render();
+    });
   });
-});
-function syncAllChip(){
-  const allBtn = document.querySelector('.chip[data-cat="all"]');
-  const isAllActive = ALL_CATS.every(c => activeCats.has(c));
-  allBtn.classList.toggle('active', isAllActive);
+  syncAllBtn();
 }
 
-document.querySelectorAll('.chip[data-cat]').forEach(btn=>{
-  btn.addEventListener('click', ()=>{
-    const c = btn.dataset.cat;
-    if(c === 'all'){
-      // 「すべて」は常に全カテゴリを選択状態にする(トグルではない)
-      activeCats = new Set(ALL_CATS);
-      document.querySelectorAll('.chip[data-cat]').forEach(b => b.classList.add('active'));
-    } else {
-      btn.classList.toggle('active');
-      if(activeCats.has(c)) activeCats.delete(c); else activeCats.add(c);
-      syncAllChip();
-    }
-    render();
-  });
-});
+setupChipRow('source', ALL_SOURCES, activeSources);
+setupChipRow('cat', ALL_CATS, activeCats);
 
 async function loadNews(){
   const btn = document.getElementById('fetchBtn');
