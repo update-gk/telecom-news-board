@@ -1,7 +1,47 @@
 {
-  "generated_at": "2026-09-01T14:30:34.204223+00:00",
+  "generated_at": "2026-09-01T16:14:37.474176+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/interview/2137447.html",
+      "title": "「Galaxy Z Fold 8」の薄さを進化させた日本企業の技術――サムスン副社長が語る開発秘話",
+      "link": "https://k-tai.watch.impress.co.jp/docs/interview/2137447.html",
+      "date": "2026-09-01T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/stapaapple/2137442.html",
+      "title": "iPhoneでサイクリングが変わる？　スマホと最新工具で走りが劇的変化",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/stapaapple/2137442.html",
+      "date": "2026-09-01T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/minna/2137061.html",
+      "title": "折り畳みスマホの“折りじわ”より気になるようになったヒンジの“出っ張り”",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/minna/2137061.html",
+      "date": "2026-09-01T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2137017.html",
+      "title": "カメラとAIを搭載する骨伝導ワイヤレスイヤホン「VibeLens MusicCam」が楽しい",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2137017.html",
+      "date": "2026-09-01T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2136657.html",
       "title": "シャオミ、2.1chウーファー搭載スマホ「POCO F9 Ultra」発売　早割で約13万円～",
@@ -163,6 +203,16 @@
       "carrier": null
     },
     {
+      "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr_s-76_4692.html",
+      "title": "三菱商事とKDDI、コンテンツ配信サービス「ローソンビジョン」を活用したリテールメディア事業始動",
+      "link": "https://newsroom.kddi.com/news/detail/kddi_nr_s-76_4692.html",
+      "date": "2026-09-01T06:00:00+00:00",
+      "sourceKey": "au",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "au/KDDI"
+    },
+    {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/01/news081.html",
       "title": "ドコモ、モバイルバッテリーになる蓄光素材の防災AC充電器を一般販売開始　6600円",
       "link": "https://www.itmedia.co.jp/mobile/articles/2609/01/news081.html",
@@ -191,6 +241,16 @@
       "catKey": "other",
       "catLabel": "その他",
       "carrier": "au/KDDI"
+    },
+    {
+      "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr-1145_4691.html",
+      "title": "「オフィスローソン」を他企業オフィスに初出店",
+      "link": "https://newsroom.kddi.com/news/detail/kddi_nr-1145_4691.html",
+      "date": "2026-09-01T05:00:00+00:00",
+      "sourceKey": "au",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null
     },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/01/news078.html",
@@ -283,6 +343,26 @@
       "carrier": "au/KDDI"
     },
     {
+      "id": "docomo-https://www.docomo.ne.jp/service/dvaluepass/contents_list/tool.html",
+      "title": "dバリューパスに「クーポンマップ」が新たに追加されました",
+      "link": "https://www.docomo.ne.jp/service/dvaluepass/contents_list/tool.html",
+      "date": "2026-09-01T02:00:00+00:00",
+      "sourceKey": "docomo",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null
+    },
+    {
+      "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr-1146_4693.html",
+      "title": "グループ最大級のビジネスイベント「KDDI SUMMIT 2026」を開催",
+      "link": "https://newsroom.kddi.com/news/detail/kddi_nr-1146_4693.html",
+      "date": "2026-09-01T01:00:00+00:00",
+      "sourceKey": "au",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "au/KDDI"
+    },
+    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/ranking/galapagos_ranking/2136665.html",
       "title": "電子書籍人気ランキング（8月21日～8月27日）",
       "link": "https://k-tai.watch.impress.co.jp/docs/ranking/galapagos_ranking/2136665.html",
@@ -363,44 +443,214 @@
       "carrier": "楽天モバイル"
     },
     {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2136982.html",
-      "title": "au PAY、9月は4自治体で最大40％割引のクーポンなど",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2136982.html",
-      "date": "2026-08-31T06:50:45+00:00",
-      "sourceKey": "ktai",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
+      "id": "docomo-https://www.docomo.ne.jp/support/product_update/m51e/index.html",
+      "title": "「motorola razr 50d M-51E」のソフトウェアアップデート情報のお知らせ",
+      "link": "https://www.docomo.ne.jp/support/product_update/m51e/index.html",
+      "date": "2026-08-31T01:00:00+00:00",
+      "sourceKey": "docomo",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null
+    },
+    {
+      "id": "docomo-https://www.docomo.ne.jp/support/product_update/m51f/index.html",
+      "title": "「motorola razr 60d M-51F」のソフトウェアアップデート情報のお知らせ",
+      "link": "https://www.docomo.ne.jp/support/product_update/m51f/index.html",
+      "date": "2026-08-31T01:00:00+00:00",
+      "sourceKey": "docomo",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null
+    },
+    {
+      "id": "docomo-https://www.docomo.ne.jp/support/product_update/so51f/index.html",
+      "title": "「Xperia 1 VII SO-51F」のソフトウェアアップデート情報のお知らせ",
+      "link": "https://www.docomo.ne.jp/support/product_update/so51f/index.html",
+      "date": "2026-08-31T01:00:00+00:00",
+      "sourceKey": "docomo",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null
+    },
+    {
+      "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr-1132_4683.html",
+      "title": "Osaka Metroの接客案内サービスにKDDI×AVITAのヒューマノイドを活用する実証実験を実施",
+      "link": "https://newsroom.kddi.com/news/detail/kddi_nr-1132_4683.html",
+      "date": "2026-08-28T01:00:00+00:00",
+      "sourceKey": "au",
+      "catKey": "other",
+      "catLabel": "その他",
       "carrier": "au/KDDI"
     },
     {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2136981.html",
-      "title": "U-NEXTとNBCユニバーサルが提携、「Universal+」独占配信やUSJ連携など",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2136981.html",
-      "date": "2026-08-31T06:40:18+00:00",
-      "sourceKey": "ktai",
+      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc57g/index.html",
+      "title": "「Samsung Galaxy Z Fold8 SC-57G」のソフトウェアアップデート情報のお知らせ",
+      "link": "https://www.docomo.ne.jp/support/product_update/sc57g/index.html",
+      "date": "2026-08-27T01:00:00+00:00",
+      "sourceKey": "docomo",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null
+    },
+    {
+      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc56g/index.html",
+      "title": "「Samsung Galaxy Z Fold8 Ultra SC-56G」のソフトウェアアップデート情報のお知らせ",
+      "link": "https://www.docomo.ne.jp/support/product_update/sc56g/index.html",
+      "date": "2026-08-27T01:00:00+00:00",
+      "sourceKey": "docomo",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null
+    },
+    {
+      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc55g/index.html",
+      "title": "「Samsung Galaxy Z Flip8 SC-55G」のソフトウェアアップデート情報のお知らせ",
+      "link": "https://www.docomo.ne.jp/support/product_update/sc55g/index.html",
+      "date": "2026-08-27T01:00:00+00:00",
+      "sourceKey": "docomo",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null
+    },
+    {
+      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sh51g/index.html",
+      "title": "「AQUOS R11 SH-51G」のソフトウェアアップデート情報のお知らせ",
+      "link": "https://www.docomo.ne.jp/support/product_update/sh51g/index.html",
+      "date": "2026-08-26T01:00:00+00:00",
+      "sourceKey": "docomo",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null
+    },
+    {
+      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc52e/index.html",
+      "title": "「Galaxy S24 Ultra SC-52E」のソフトウェアアップデート情報のお知らせ",
+      "link": "https://www.docomo.ne.jp/support/product_update/sc52e/index.html",
+      "date": "2026-08-26T01:00:00+00:00",
+      "sourceKey": "docomo",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null
+    },
+    {
+      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc51e/index.html",
+      "title": "「Galaxy S24 SC-51E」のソフトウェアアップデート情報のお知らせ",
+      "link": "https://www.docomo.ne.jp/support/product_update/sc51e/index.html",
+      "date": "2026-08-26T01:00:00+00:00",
+      "sourceKey": "docomo",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null
+    },
+    {
+      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc55d/index.html",
+      "title": "「Galaxy Z Fold5 SC-55D」のソフトウェアアップデート情報のお知らせ",
+      "link": "https://www.docomo.ne.jp/support/product_update/sc55d/index.html",
+      "date": "2026-08-26T01:00:00+00:00",
+      "sourceKey": "docomo",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null
+    },
+    {
+      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc54d/index.html",
+      "title": "「Galaxy Z Flip5 SC-54D」のソフトウェアアップデート情報のお知らせ",
+      "link": "https://www.docomo.ne.jp/support/product_update/sc54d/index.html",
+      "date": "2026-08-26T01:00:00+00:00",
+      "sourceKey": "docomo",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null
+    },
+    {
+      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc52d/index.html",
+      "title": "「Galaxy S23 Ultra SC-52D」のソフトウェアアップデート情報のお知らせ",
+      "link": "https://www.docomo.ne.jp/support/product_update/sc52d/index.html",
+      "date": "2026-08-25T01:00:00+00:00",
+      "sourceKey": "docomo",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null
+    },
+    {
+      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc51d/index.html",
+      "title": "「Galaxy S23 SC-51D」のソフトウェアアップデート情報のお知らせ",
+      "link": "https://www.docomo.ne.jp/support/product_update/sc51d/index.html",
+      "date": "2026-08-25T01:00:00+00:00",
+      "sourceKey": "docomo",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null
+    },
+    {
+      "id": "docomo-https://www.docomo.ne.jp/support/product_update/hp01/index.html",
+      "title": "「homeでんわ HP01」のソフトウェアアップデート情報のお知らせ",
+      "link": "https://www.docomo.ne.jp/support/product_update/hp01/index.html",
+      "date": "2026-08-25T01:00:00+00:00",
+      "sourceKey": "docomo",
       "catKey": "other",
       "catLabel": "その他",
       "carrier": null
     },
     {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2136916.html",
-      "title": "「Gemini Notebook」、利用制限を刷新　5時間ごとにリフレッシュ",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2136916.html",
-      "date": "2026-08-31T04:45:50+00:00",
-      "sourceKey": "ktai",
+      "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr-1130_4680.html",
+      "title": "AI時代の低遅延・低消費電力なネットワークの設計指針がITU-Tで国際標準化",
+      "link": "https://newsroom.kddi.com/news/detail/kddi_nr-1130_4680.html",
+      "date": "2026-08-21T01:00:00+00:00",
+      "sourceKey": "au",
       "catKey": "other",
       "catLabel": "その他",
       "carrier": null
     },
     {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2136862.html",
-      "title": "楽天ペイ、あま市で最大10％・枕崎市で最大20％還元　9月～",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2136862.html",
-      "date": "2026-08-31T03:24:20+00:00",
-      "sourceKey": "ktai",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": "楽天モバイル"
+      "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr-1131_4682.html",
+      "title": "位置情報を活用しAIが商業施設開発支援、「KDDI Market Compass」提供開始",
+      "link": "https://newsroom.kddi.com/news/detail/kddi_nr-1131_4682.html",
+      "date": "2026-08-20T04:00:00+00:00",
+      "sourceKey": "au",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "au/KDDI"
+    },
+    {
+      "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr-1127_4673.html",
+      "title": "日本発スタートアップの海外展開を支援「KDDI Beyond Borders Accelerator」開始",
+      "link": "https://newsroom.kddi.com/news/detail/kddi_nr-1127_4673.html",
+      "date": "2026-08-20T01:00:00+00:00",
+      "sourceKey": "au",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "au/KDDI"
+    },
+    {
+      "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr_s-75_4679.html",
+      "title": "フードデリバリーサービス「menu」の提供終了およびmenu株式会社の解散・清算について",
+      "link": "https://newsroom.kddi.com/news/detail/kddi_nr_s-75_4679.html",
+      "date": "2026-08-19T04:00:00+00:00",
+      "sourceKey": "au",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null
+    },
+    {
+      "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr-1125_4671.html",
+      "title": "「Google Pixel 11 シリーズ」をauから8月20日に発売",
+      "link": "https://newsroom.kddi.com/news/detail/kddi_nr-1125_4671.html",
+      "date": "2026-08-13T00:00:00+00:00",
+      "sourceKey": "au",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "au/KDDI"
+    },
+    {
+      "id": "au-https://newsroom.kddi.com/ir-news/detail/kddi_ir-1210_4659.html",
+      "title": "2027年3月期第1四半期決算について",
+      "link": "https://newsroom.kddi.com/ir-news/detail/kddi_ir-1210_4659.html",
+      "date": "2026-08-07T06:45:04+00:00",
+      "sourceKey": "au",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null
     }
   ]
 }
