@@ -1,0 +1,444 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>スマホ・通信 速報ボード</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=M+PLUS+1+Code:wght@400;500;700&family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --board-black:#15161c;
+    --board-panel:#1c1e26;
+    --board-frame:#33353f;
+    --amber:#ffb627;
+    --amber-dim:#8a6317;
+    --green:#4ade80;
+    --red:#ff5a5f;
+    --paper:#ece9e2;
+    --muted:#8b8d97;
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0;
+    background:var(--board-black);
+    color:var(--paper);
+    font-family:'Noto Sans JP',sans-serif;
+    min-height:100vh;
+    padding-bottom:60px;
+  }
+  .board-frame{
+    max-width:920px;
+    margin:0 auto;
+    border:2px solid var(--board-frame);
+    border-radius:6px;
+    margin-top:16px;
+    box-shadow:0 0 0 6px var(--board-black), 0 0 40px rgba(0,0,0,.6);
+    overflow:hidden;
+  }
+  header{
+    background:var(--board-panel);
+    border-bottom:2px solid var(--board-frame);
+    padding:18px 20px 14px;
+    display:flex;
+    justify-content:space-between;
+    align-items:flex-end;
+    flex-wrap:wrap;
+    gap:10px;
+  }
+  .board-title{
+    font-family:'M PLUS 1 Code',monospace;
+    font-weight:700;
+    font-size:22px;
+    letter-spacing:.08em;
+    color:var(--amber);
+    text-shadow:0 0 12px rgba(255,182,39,.35);
+  }
+  .board-sub{
+    font-size:11px;
+    color:var(--muted);
+    letter-spacing:.15em;
+    margin-top:4px;
+    font-family:'M PLUS 1 Code',monospace;
+  }
+  .clock{
+    font-family:'M PLUS 1 Code',monospace;
+    font-size:20px;
+    color:var(--amber);
+    letter-spacing:.05em;
+  }
+  .updated{
+    font-size:10px;
+    color:var(--muted);
+    text-align:right;
+    margin-top:2px;
+  }
+  .controls{
+    padding:14px 20px;
+    background:var(--board-black);
+    border-bottom:1px solid var(--board-frame);
+    display:flex;
+    flex-direction:column;
+    gap:10px;
+  }
+  .row{display:flex; gap:8px; flex-wrap:wrap; align-items:center;}
+  .row-label{font-size:11px; color:var(--muted); letter-spacing:.1em; width:64px; flex-shrink:0;}
+  .chip{
+    font-family:'M PLUS 1 Code',monospace;
+    font-size:11px;
+    padding:5px 10px;
+    border:1px solid var(--board-frame);
+    border-radius:3px;
+    color:var(--muted);
+    cursor:pointer;
+    background:transparent;
+    letter-spacing:.03em;
+    transition:.15s;
+  }
+  .chip.active{
+    color:var(--board-black);
+    background:var(--amber);
+    border-color:var(--amber);
+    font-weight:700;
+  }
+  .fetch-btn{
+    font-family:'M PLUS 1 Code',monospace;
+    background:var(--amber);
+    color:var(--board-black);
+    border:none;
+    padding:9px 16px;
+    border-radius:3px;
+    font-weight:700;
+    font-size:12px;
+    cursor:pointer;
+    letter-spacing:.05em;
+  }
+  .fetch-btn:disabled{opacity:.5; cursor:default;}
+  .status-line{font-size:11px; color:var(--muted); font-family:'M PLUS 1 Code',monospace;}
+  .status-line.error{color:var(--red);}
+
+  .list{ background:var(--board-black); }
+  .flap-row{
+    display:grid;
+    grid-template-columns:52px 84px 96px 1fr 28px;
+    gap:10px;
+    align-items:center;
+    padding:11px 20px;
+    border-bottom:1px solid var(--board-frame);
+    animation:flapin .35s ease both;
+  }
+  @keyframes flapin{
+    from{opacity:0; transform:translateY(-4px);}
+    to{opacity:1; transform:translateY(0);}
+  }
+  .flap-time{
+    font-family:'M PLUS 1 Code',monospace;
+    font-size:12px;
+    color:var(--amber);
+  }
+  .flap-source{
+    font-size:10px;
+    color:var(--muted);
+    font-family:'M PLUS 1 Code',monospace;
+    white-space:nowrap;
+    overflow:hidden;
+    text-overflow:ellipsis;
+  }
+  .flap-tag{
+    font-size:10px;
+    padding:2px 6px;
+    border-radius:2px;
+    text-align:center;
+    font-family:'M PLUS 1 Code',monospace;
+    white-space:nowrap;
+  }
+  .tag-price{background:rgba(74,222,128,.15); color:var(--green);}
+  .tag-device{background:rgba(255,182,39,.15); color:var(--amber);}
+  .tag-campaign{background:rgba(255,182,39,.15); color:var(--amber);}
+  .tag-trouble{background:rgba(255,90,95,.15); color:var(--red);}
+  .tag-mvno{background:rgba(139,141,151,.2); color:var(--paper);}
+  .tag-other{background:rgba(139,141,151,.15); color:var(--muted);}
+
+  .flap-title a{
+    color:var(--paper);
+    text-decoration:none;
+    font-size:13.5px;
+    line-height:1.4;
+  }
+  .flap-title a:hover{color:var(--amber);}
+  .flap-carrier{
+    font-size:9px;
+    color:var(--muted);
+    margin-top:2px;
+    font-family:'M PLUS 1 Code',monospace;
+  }
+  .flap-check{width:16px; height:16px; accent-color:var(--amber); cursor:pointer;}
+
+  .empty, .loading{
+    padding:40px 20px;
+    text-align:center;
+    color:var(--muted);
+    font-family:'M PLUS 1 Code',monospace;
+    font-size:12px;
+  }
+
+  .digest-panel{
+    max-width:920px;
+    margin:20px auto 0;
+    border:2px solid var(--board-frame);
+    border-radius:6px;
+    background:var(--board-panel);
+    padding:16px 20px;
+  }
+  .digest-panel h2{
+    font-family:'M PLUS 1 Code',monospace;
+    font-size:13px;
+    color:var(--amber);
+    letter-spacing:.08em;
+    margin:0 0 10px;
+  }
+  .digest-empty{color:var(--muted); font-size:12px;}
+  textarea{
+    width:100%;
+    min-height:140px;
+    background:var(--board-black);
+    color:var(--paper);
+    border:1px solid var(--board-frame);
+    border-radius:4px;
+    padding:10px;
+    font-family:'M PLUS 1 Code',monospace;
+    font-size:12px;
+    line-height:1.6;
+    resize:vertical;
+  }
+  .digest-actions{margin-top:10px; display:flex; gap:8px; align-items:center;}
+  .copy-btn{
+    font-family:'M PLUS 1 Code',monospace;
+    background:transparent;
+    border:1px solid var(--amber);
+    color:var(--amber);
+    padding:8px 14px;
+    border-radius:3px;
+    font-size:11px;
+    cursor:pointer;
+  }
+  .copy-msg{font-size:11px; color:var(--green); font-family:'M PLUS 1 Code',monospace;}
+  .note{
+    max-width:920px;
+    margin:14px auto 0;
+    font-size:11px;
+    color:var(--muted);
+    padding:0 4px;
+    line-height:1.7;
+  }
+  ::-webkit-scrollbar{width:8px;}
+  ::-webkit-scrollbar-thumb{background:var(--board-frame);}
+</style>
+</head>
+<body>
+
+<div class="board-frame">
+  <header>
+    <div>
+      <div class="board-title">SUMAHO / TSUSHIN NEWS BOARD</div>
+      <div class="board-sub">スマホ・通信業界 速報ボード</div>
+    </div>
+    <div>
+      <div class="clock" id="clock">--:--:--</div>
+      <div class="updated" id="updated">最終取得: 未取得</div>
+    </div>
+  </header>
+
+  <div class="controls">
+    <div class="row">
+      <span class="row-label">情報源</span>
+      <button class="chip active" data-source="ktai">ケータイWatch</button>
+      <button class="chip active" data-source="itmedia">ITmedia Mobile</button>
+    </div>
+    <div class="row">
+      <span class="row-label">カテゴリ</span>
+      <button class="chip active" data-cat="all">すべて</button>
+      <button class="chip active" data-cat="price">料金プラン</button>
+      <button class="chip active" data-cat="device">端末</button>
+      <button class="chip active" data-cat="campaign">キャンペーン</button>
+      <button class="chip active" data-cat="trouble">障害・不具合</button>
+      <button class="chip active" data-cat="mvno">MVNO・格安SIM</button>
+      <button class="chip active" data-cat="other">その他</button>
+    </div>
+    <div class="row">
+      <button class="fetch-btn" id="fetchBtn">news.jsonを再読み込み</button>
+      <span class="status-line" id="statusLine"></span>
+    </div>
+  </div>
+
+  <div class="list" id="list">
+    <div class="empty">読み込み中…</div>
+  </div>
+</div>
+
+<div class="digest-panel">
+  <h2>お客様共有用まとめ</h2>
+  <div id="digestEmpty" class="digest-empty">記事一覧で気になる記事にチェックを入れると、ここに共有用テキストが生成されます。</div>
+  <div id="digestBody" style="display:none;">
+    <textarea id="digestText" readonly></textarea>
+    <div class="digest-actions">
+      <button class="copy-btn" id="copyBtn">テキストをコピー</button>
+      <span class="copy-msg" id="copyMsg"></span>
+    </div>
+  </div>
+</div>
+
+<div class="note">
+  ※ このページは同じ階層の data/news.json を読み込んで表示しています。news.json は GitHub Actions(scripts/fetch_news.py)が定期的にRSSを取得して自動更新します。手動でRSSを取りに行く処理は行っていません。<br>
+  ※ キャリア公式サイトの情報は現時点で未対応です(RSS非提供のため個別のスクレイピング対応が必要)。
+</div>
+
+<script>
+// 表示用の情報源名(実際の取得・分類はGitHub Actions側のscripts/fetch_news.pyが行う)
+const SOURCE_NAMES = { ktai: 'ケータイWatch', itmedia: 'ITmedia Mobile' };
+
+// カテゴリごとの見た目(色分け)。カテゴリの判定自体はfetch_news.py側で行い、
+// news.jsonにはcatKey/catLabelとして保存されている。
+const CATEGORY_STYLE = {
+  trouble: 'tag-trouble',
+  price: 'tag-price',
+  campaign: 'tag-campaign',
+  mvno: 'tag-mvno',
+  device: 'tag-device',
+  other: 'tag-other'
+};
+
+const NEWS_JSON_URL = './data/news.json';
+
+let allArticles = [];
+let activeSources = new Set(['ktai','itmedia']);
+let activeCats = new Set(['all','price','device','campaign','trouble','mvno','other']);
+const selected = new Map();
+
+function tickClock(){
+  const now = new Date();
+  document.getElementById('clock').textContent = now.toLocaleTimeString('ja-JP', { hour12:false });
+}
+setInterval(tickClock, 1000);
+tickClock();
+
+document.querySelectorAll('.chip[data-source]').forEach(btn=>{
+  btn.addEventListener('click', ()=>{
+    const s = btn.dataset.source;
+    btn.classList.toggle('active');
+    if(activeSources.has(s)) activeSources.delete(s); else activeSources.add(s);
+    render();
+  });
+});
+document.querySelectorAll('.chip[data-cat]').forEach(btn=>{
+  btn.addEventListener('click', ()=>{
+    const c = btn.dataset.cat;
+    btn.classList.toggle('active');
+    if(activeCats.has(c)) activeCats.delete(c); else activeCats.add(c);
+    render();
+  });
+});
+
+async function loadNews(){
+  const btn = document.getElementById('fetchBtn');
+  const status = document.getElementById('statusLine');
+  btn.disabled = true;
+  status.classList.remove('error');
+  status.textContent = '読み込み中…';
+  document.getElementById('list').innerHTML = '<div class="loading">読み込み中…</div>';
+
+  try{
+    const res = await fetch(NEWS_JSON_URL + '?t=' + Date.now());
+    if(!res.ok) throw new Error('news.json の取得に失敗 (' + res.status + ')');
+    const data = await res.json();
+    allArticles = (data.articles || []).map(a => ({
+      ...a,
+      date: new Date(a.date)
+    }));
+    status.textContent = allArticles.length + '件の記事(GitHub Actionsが取得したデータ)';
+    if(data.generated_at){
+      document.getElementById('updated').textContent =
+        '最終取得: ' + new Date(data.generated_at).toLocaleString('ja-JP',{hour12:false});
+    }
+  }catch(err){
+    status.classList.add('error');
+    status.textContent = 'news.json の読み込みに失敗しました。GitHub Actionsがまだ一度も実行されていないか、data/news.json が同じ階層に無い可能性があります。';
+  }
+  btn.disabled = false;
+  render();
+}
+
+document.getElementById('fetchBtn').addEventListener('click', loadNews);
+window.addEventListener('DOMContentLoaded', loadNews);
+
+function render(){
+  const list = document.getElementById('list');
+  const filtered = allArticles.filter(a =>
+    activeSources.has(a.sourceKey) && activeCats.has(a.catKey)
+  );
+  if(!allArticles.length){
+    list.innerHTML = '<div class="empty">data/news.json にまだ記事がありません。GitHub Actionsの実行をお待ちください。</div>';
+    return;
+  }
+  if(!filtered.length){
+    list.innerHTML = '<div class="empty">条件に一致する記事がありません。</div>';
+    return;
+  }
+  list.innerHTML = filtered.map(a=>{
+    const time = a.date.toLocaleString('ja-JP',{month:'numeric',day:'numeric',hour:'2-digit',minute:'2-digit'});
+    const checked = selected.has(a.id) ? 'checked' : '';
+    return `<div class="flap-row">
+      <div class="flap-time">${time.split(' ')[1]||''}</div>
+      <div class="flap-source">${SOURCE_NAMES[a.sourceKey] || a.sourceKey}</div>
+      <div class="flap-tag ${CATEGORY_STYLE[a.catKey] || 'tag-other'}">${a.catLabel}</div>
+      <div class="flap-title">
+        <a href="${a.link}" target="_blank" rel="noopener">${a.title}</a>
+        ${a.carrier ? `<div class="flap-carrier">${a.carrier}</div>` : ''}
+      </div>
+      <input type="checkbox" class="flap-check" data-id="${a.id}" ${checked}>
+    </div>`;
+  }).join('');
+
+  list.querySelectorAll('.flap-check').forEach(cb=>{
+    cb.addEventListener('change', ()=>{
+      const article = allArticles.find(a=>a.id === cb.dataset.id);
+      if(cb.checked) selected.set(article.id, article);
+      else selected.delete(article.id);
+      renderDigest();
+    });
+  });
+}
+
+function renderDigest(){
+  const empty = document.getElementById('digestEmpty');
+  const body = document.getElementById('digestBody');
+  const textarea = document.getElementById('digestText');
+  if(!selected.size){
+    empty.style.display = 'block';
+    body.style.display = 'none';
+    return;
+  }
+  empty.style.display = 'none';
+  body.style.display = 'block';
+  const items = Array.from(selected.values()).sort((a,b)=> b.date - a.date);
+  const lines = ['【今週のスマホ・通信ニュース】', ''];
+  items.forEach(a=>{
+    lines.push(`■ ${a.title}`);
+    lines.push(a.link);
+    lines.push('');
+  });
+  textarea.value = lines.join('\n').trim();
+}
+
+document.getElementById('copyBtn').addEventListener('click', ()=>{
+  const textarea = document.getElementById('digestText');
+  textarea.select();
+  navigator.clipboard.writeText(textarea.value).then(()=>{
+    const msg = document.getElementById('copyMsg');
+    msg.textContent = 'コピーしました';
+    setTimeout(()=> msg.textContent = '', 2000);
+  });
+});
+</script>
+</body>
+</html>
