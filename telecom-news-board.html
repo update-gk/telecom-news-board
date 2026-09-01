@@ -256,6 +256,10 @@
       <button class="chip active" data-source="itmedia">ITmedia Mobile</button>
       <button class="chip active" data-source="docomo">NTTドコモ</button>
       <button class="chip active" data-source="au">au/KDDI</button>
+      <button class="chip active" data-source="softbank">ソフトバンク</button>
+      <button class="chip active" data-source="rakuten">楽天モバイル</button>
+      <button class="chip active" data-source="ymobile">Y!mobile</button>
+      <button class="chip active" data-source="uq">UQ mobile</button>
     </div>
     <div class="row">
       <span class="row-label">カテゴリ</span>
@@ -291,13 +295,17 @@
 </div>
 
 <div class="note">
-  ※ このページは同じ階層の data/news.json を読み込んで表示しています。news.json は GitHub Actions(scripts/fetch_news.py)が定期的にRSSを取得して自動更新します。手動でRSSを取りに行く処理は行っていません。<br>
-  ※ キャリア公式は、公式RSSが確認できたNTTドコモ・au/KDDIのみ対応済みです。ソフトバンク・楽天モバイル・Y!mobile・UQ mobileはRSS配信元が未確認のため今後の対応となります。
+  ※ このページは同じ階層の data/news.json を読み込んで表示しています。news.json は GitHub Actions(scripts/fetch_news.py)が定期的に各社の情報を取得して自動更新します。ページ側から直接取りに行く処理は行っていません。<br>
+  ※ NTTドコモ・au/KDDI はRSS、公式RSSが確認できないソフトバンク・楽天モバイル・Y!mobile・UQ mobile は公開ページ/JSON APIのスクレイピングで取得しています。各社サイトの構造変更で一時的に取得できなくなる場合があります(その際は news.json の errors 欄に記録されます)。
 </div>
 
 <script>
 // 表示用の情報源名(実際の取得・分類はGitHub Actions側のscripts/fetch_news.pyが行う)
-const SOURCE_NAMES = { ktai: 'ケータイWatch', itmedia: 'ITmedia Mobile', docomo: 'NTTドコモ', au: 'au/KDDI' };
+const SOURCE_NAMES = {
+  ktai: 'ケータイWatch', itmedia: 'ITmedia Mobile',
+  docomo: 'NTTドコモ', au: 'au/KDDI',
+  softbank: 'ソフトバンク', rakuten: '楽天モバイル', ymobile: 'Y!mobile', uq: 'UQ mobile'
+};
 
 // カテゴリごとの見た目(色分け)。カテゴリの判定自体はfetch_news.py側で行い、
 // news.jsonにはcatKey/catLabelとして保存されている。
@@ -313,7 +321,7 @@ const CATEGORY_STYLE = {
 const NEWS_JSON_URL = './data/news.json';
 
 let allArticles = [];
-let activeSources = new Set(['ktai','itmedia','docomo','au']);
+let activeSources = new Set(['ktai','itmedia','docomo','au','softbank','rakuten','ymobile','uq']);
 const ALL_CATS = ['price','device','campaign','trouble','mvno','other'];
 let activeCats = new Set(ALL_CATS);
 const selected = new Map();

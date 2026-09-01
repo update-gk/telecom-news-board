@@ -1,15 +1,28 @@
-# スマホ・通信 速報ボード
+# 通信業界レーダー
 
-ケータイWatch / ITmedia Mobile のRSSを自動取得し、分割フラップ表示風のボードで
-一覧・カテゴリ分類・お客様共有用テキスト生成ができるプロトタイプです。
+各通信キャリア/専門メディアの最新情報を自動取得し、分割フラップ表示風のボードで
+一覧・カテゴリ分類・共有用テキスト生成ができるプロトタイプです。
+
+## 情報源
+
+| 情報源 | 取得方法 |
+| --- | --- |
+| ケータイWatch / ITmedia Mobile | RSS |
+| NTTドコモ / au(KDDI) | RSS |
+| ソフトバンク | 公開JSON API（`sbkk_press_top`） |
+| 楽天モバイル / Y!mobile / UQ mobile | 公開ページのスクレイピング |
+
+公式RSSが確認できないキャリアは公開ページ/APIから取得しているため、
+サイト構造の変更で一時的に取得できなくなることがあります
+（その場合は `data/news.json` の `errors` 欄に記録されます）。
 
 ## 構成
 
 ```
 telecom-news-board.html      表示用ページ(GitHub Pagesで公開する)
 data/news.json               GitHub Actionsが自動生成するニュースデータ
-scripts/fetch_news.py        RSS取得・カテゴリ分類スクリプト
-scripts/requirements.txt     Python依存パッケージ
+scripts/fetch_news.py        RSS取得・スクレイピング・カテゴリ分類スクリプト
+scripts/requirements.txt     Python依存パッケージ(feedparser / requests / beautifulsoup4)
 .github/workflows/fetch-news.yml   3時間おきに自動実行するワークフロー
 ```
 
@@ -38,8 +51,8 @@ scripts/requirements.txt     Python依存パッケージ
 
 ## 今後の拡張候補
 
-- キャリア公式サイト(ドコモ/au/ソフトバンク/楽天モバイル等)のお知らせページを
-  追加取得(RSS非対応のためスクレイピング処理が別途必要)
+- スクレイピング対象の追加・セレクタ調整(`scripts/fetch_news.py` の
+  `SCRAPER_SOURCES` と各 `scrape_*` 関数)
 - カテゴリ・キャリア判定ルールの精度改善(`scripts/fetch_news.py` の
   `CATEGORY_RULES` / `CARRIER_RULES` を編集するだけで調整可能)
 - 障害・不具合カテゴリのみLINE通知するなど、通知系との連携
