@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T16:14:37.474176+00:00",
+  "generated_at": "2026-09-01T16:49:34.284795+00:00",
   "errors": [],
   "articles": [
     {
@@ -250,7 +250,7 @@
       "sourceKey": "au",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": null
+      "carrier": "au/KDDI"
     },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/01/news078.html",
@@ -350,7 +350,7 @@
       "sourceKey": "docomo",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": null
+      "carrier": "ドコモ"
     },
     {
       "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr-1146_4693.html",
@@ -450,7 +450,7 @@
       "sourceKey": "docomo",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": null
+      "carrier": "ドコモ"
     },
     {
       "id": "docomo-https://www.docomo.ne.jp/support/product_update/m51f/index.html",
@@ -460,7 +460,7 @@
       "sourceKey": "docomo",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": null
+      "carrier": "ドコモ"
     },
     {
       "id": "docomo-https://www.docomo.ne.jp/support/product_update/so51f/index.html",
@@ -470,7 +470,17 @@
       "sourceKey": "docomo",
       "catKey": "device",
       "catLabel": "端末",
-      "carrier": null
+      "carrier": "ドコモ"
+    },
+    {
+      "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260831_01/",
+      "title": "人事について",
+      "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260831_01/",
+      "date": "2026-08-30T15:00:00+00:00",
+      "sourceKey": "softbank",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ソフトバンク"
     },
     {
       "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr-1132_4683.html",
@@ -483,6 +493,16 @@
       "carrier": "au/KDDI"
     },
     {
+      "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260828_01/",
+      "title": "（開示事項の経過）連結子会社（LINE MAN CORPORATION PTE. LTD.）の株式取得の完了時期の変更に関するお知らせ",
+      "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260828_01/",
+      "date": "2026-08-27T15:00:00+00:00",
+      "sourceKey": "softbank",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ソフトバンク"
+    },
+    {
       "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc57g/index.html",
       "title": "「Samsung Galaxy Z Fold8 SC-57G」のソフトウェアアップデート情報のお知らせ",
       "link": "https://www.docomo.ne.jp/support/product_update/sc57g/index.html",
@@ -490,7 +510,7 @@
       "sourceKey": "docomo",
       "catKey": "device",
       "catLabel": "端末",
-      "carrier": null
+      "carrier": "ドコモ"
     },
     {
       "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc56g/index.html",
@@ -500,7 +520,7 @@
       "sourceKey": "docomo",
       "catKey": "device",
       "catLabel": "端末",
-      "carrier": null
+      "carrier": "ドコモ"
     },
     {
       "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc55g/index.html",
@@ -510,7 +530,27 @@
       "sourceKey": "docomo",
       "catKey": "device",
       "catLabel": "端末",
-      "carrier": null
+      "carrier": "ドコモ"
+    },
+    {
+      "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260827_01/",
+      "title": "AIを活用し、子どものこころのケアに取り組む教師を支援するサービス「メンタリ」を提供開始",
+      "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260827_01/",
+      "date": "2026-08-26T15:00:00+00:00",
+      "sourceKey": "softbank",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ソフトバンク"
+    },
+    {
+      "id": "ymobile-https://www.ymobile.jp/info/press/2026/26082701.html",
+      "title": "SIMフリースマホなどが購入できる「Y!mobile Free Style」で「REDMI Note 17 Pro Max 5G」を8月28日より販売開始",
+      "link": "https://www.ymobile.jp/info/press/2026/26082701.html",
+      "date": "2026-08-26T15:00:00+00:00",
+      "sourceKey": "ymobile",
+      "catKey": "mvno",
+      "catLabel": "MVNO・格安SIM",
+      "carrier": "Y!mobile"
     },
     {
       "id": "docomo-https://www.docomo.ne.jp/support/product_update/sh51g/index.html",
@@ -520,7 +560,7 @@
       "sourceKey": "docomo",
       "catKey": "device",
       "catLabel": "端末",
-      "carrier": null
+      "carrier": "ドコモ"
     },
     {
       "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc52e/index.html",
@@ -530,7 +570,7 @@
       "sourceKey": "docomo",
       "catKey": "device",
       "catLabel": "端末",
-      "carrier": null
+      "carrier": "ドコモ"
     },
     {
       "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc51e/index.html",
@@ -540,7 +580,7 @@
       "sourceKey": "docomo",
       "catKey": "device",
       "catLabel": "端末",
-      "carrier": null
+      "carrier": "ドコモ"
     },
     {
       "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc55d/index.html",
@@ -550,7 +590,7 @@
       "sourceKey": "docomo",
       "catKey": "device",
       "catLabel": "端末",
-      "carrier": null
+      "carrier": "ドコモ"
     },
     {
       "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc54d/index.html",
@@ -560,7 +600,7 @@
       "sourceKey": "docomo",
       "catKey": "device",
       "catLabel": "端末",
-      "carrier": null
+      "carrier": "ドコモ"
     },
     {
       "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc52d/index.html",
@@ -570,7 +610,7 @@
       "sourceKey": "docomo",
       "catKey": "device",
       "catLabel": "端末",
-      "carrier": null
+      "carrier": "ドコモ"
     },
     {
       "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc51d/index.html",
@@ -580,7 +620,7 @@
       "sourceKey": "docomo",
       "catKey": "device",
       "catLabel": "端末",
-      "carrier": null
+      "carrier": "ドコモ"
     },
     {
       "id": "docomo-https://www.docomo.ne.jp/support/product_update/hp01/index.html",
@@ -590,7 +630,27 @@
       "sourceKey": "docomo",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": null
+      "carrier": "ドコモ"
+    },
+    {
+      "id": "rakuten-https://corp.mobile.rakuten.co.jp/news/media/2026/0825_01/?l-id=corp_news_media_20260825_01",
+      "title": "楽天モバイル、大島商船高等専門学校と練習船「大島丸」の災害支援利用推進に関する連携協定を締結",
+      "link": "https://corp.mobile.rakuten.co.jp/news/media/2026/0825_01/?l-id=corp_news_media_20260825_01",
+      "date": "2026-08-24T15:00:00+00:00",
+      "sourceKey": "rakuten",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "楽天モバイル"
+    },
+    {
+      "id": "ymobile-https://www.ymobile.jp/info/press/2026/26082501.html",
+      "title": "Google Play ギフトコードキャンペーン",
+      "link": "https://www.ymobile.jp/info/press/2026/26082501.html",
+      "date": "2026-08-24T15:00:00+00:00",
+      "sourceKey": "ymobile",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": "Y!mobile"
     },
     {
       "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr-1130_4680.html",
@@ -600,7 +660,17 @@
       "sourceKey": "au",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": null
+      "carrier": "au/KDDI"
+    },
+    {
+      "id": "rakuten-https://corp.mobile.rakuten.co.jp/news/press/2026/0821_01/?l-id=corp_news_press_20260821_01",
+      "title": "AI時代の低遅延・低消費電力なネットワークの設計指針がITU-Tで国際標準化",
+      "link": "https://corp.mobile.rakuten.co.jp/news/press/2026/0821_01/?l-id=corp_news_press_20260821_01",
+      "date": "2026-08-20T15:00:00+00:00",
+      "sourceKey": "rakuten",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "楽天モバイル"
     },
     {
       "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr-1131_4682.html",
@@ -623,6 +693,26 @@
       "carrier": "au/KDDI"
     },
     {
+      "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260820_02/",
+      "title": "ソフトバンクとエリクソン、日本で初めてエリクソンの「AI in RAN」を5G商用ネットワークで実証～無線アクセスネットワークにおけるAIの有効性を検証～",
+      "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260820_02/",
+      "date": "2026-08-19T15:00:00+00:00",
+      "sourceKey": "softbank",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ソフトバンク"
+    },
+    {
+      "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260820_01/",
+      "title": "ソフトバンクとANA Xが協力し、ANAのマイルが貯まる家庭用インターネットサービスを提供開始〜「ANAホームWi-Fi powered by SoftBank」では日常のインターネット利用で、1年継続時に最大1万9,400マイルが貯まる～",
+      "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260820_01/",
+      "date": "2026-08-19T15:00:00+00:00",
+      "sourceKey": "softbank",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ソフトバンク"
+    },
+    {
       "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr_s-75_4679.html",
       "title": "フードデリバリーサービス「menu」の提供終了およびmenu株式会社の解散・清算について",
       "link": "https://newsroom.kddi.com/news/detail/kddi_nr_s-75_4679.html",
@@ -630,7 +720,47 @@
       "sourceKey": "au",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": null
+      "carrier": "au/KDDI"
+    },
+    {
+      "id": "rakuten-https://corp.mobile.rakuten.co.jp/news/press/2026/0818_01/?l-id=corp_news_press_20260818_01",
+      "title": "楽天モバイル、「arrows Alpha2」を8月18日（火）より予約受付開始",
+      "link": "https://corp.mobile.rakuten.co.jp/news/press/2026/0818_01/?l-id=corp_news_press_20260818_01",
+      "date": "2026-08-17T15:00:00+00:00",
+      "sourceKey": "rakuten",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "楽天モバイル"
+    },
+    {
+      "id": "ymobile-https://www.ymobile.jp/info/press/2026/26081801.html",
+      "title": "SIMフリースマホなどが購入できる「Y!mobile Free Style」で「arrows Alpha2」を8月27日より販売開始",
+      "link": "https://www.ymobile.jp/info/press/2026/26081801.html",
+      "date": "2026-08-17T15:00:00+00:00",
+      "sourceKey": "ymobile",
+      "catKey": "mvno",
+      "catLabel": "MVNO・格安SIM",
+      "carrier": "Y!mobile"
+    },
+    {
+      "id": "ymobile-https://www.ymobile.jp/info/press/2026/26081701.html",
+      "title": "ディズニープラスがソフトバンク・ワイモバイルまとめて支払いに対応",
+      "link": "https://www.ymobile.jp/info/press/2026/26081701.html",
+      "date": "2026-08-16T15:00:00+00:00",
+      "sourceKey": "ymobile",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ソフトバンク"
+    },
+    {
+      "id": "ymobile-https://www.ymobile.jp/info/press/2026/26081401.html",
+      "title": "「コミックマーケット108」で電波対策を強化",
+      "link": "https://www.ymobile.jp/info/press/2026/26081401.html",
+      "date": "2026-08-13T15:00:00+00:00",
+      "sourceKey": "ymobile",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "Y!mobile"
     },
     {
       "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr-1125_4671.html",
@@ -643,6 +773,36 @@
       "carrier": "au/KDDI"
     },
     {
+      "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260813_01/",
+      "title": "「 Google Pixel 11 」「 Google Pixel 11 Pro 」「 Google Pixel 11 Pro XL 」「 Google Pixel 11 Pro Fold 」「 Google Pixel Watch 5 」を“ソフトバンク”で8月20日に発売",
+      "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260813_01/",
+      "date": "2026-08-12T15:00:00+00:00",
+      "sourceKey": "softbank",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "ソフトバンク"
+    },
+    {
+      "id": "rakuten-https://corp.mobile.rakuten.co.jp/news/press/2026/0813_01/?l-id=corp_news_press_20260813_01",
+      "title": "楽天モバイル、「Google Pixel 11」および「Google Pixel 11 Pro」を8月13日（木）より予約受付開始",
+      "link": "https://corp.mobile.rakuten.co.jp/news/press/2026/0813_01/?l-id=corp_news_press_20260813_01",
+      "date": "2026-08-12T15:00:00+00:00",
+      "sourceKey": "rakuten",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "楽天モバイル"
+    },
+    {
+      "id": "rakuten-https://corp.mobile.rakuten.co.jp/news/press/2026/0812_01/?l-id=corp_news_press_20260812_01",
+      "title": "ローミングに関して",
+      "link": "https://corp.mobile.rakuten.co.jp/news/press/2026/0812_01/?l-id=corp_news_press_20260812_01",
+      "date": "2026-08-11T15:00:00+00:00",
+      "sourceKey": "rakuten",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "楽天モバイル"
+    },
+    {
       "id": "au-https://newsroom.kddi.com/ir-news/detail/kddi_ir-1210_4659.html",
       "title": "2027年3月期第1四半期決算について",
       "link": "https://newsroom.kddi.com/ir-news/detail/kddi_ir-1210_4659.html",
@@ -650,7 +810,547 @@
       "sourceKey": "au",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": null
+      "carrier": "au/KDDI"
+    },
+    {
+      "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260807_01/",
+      "title": "“LINEMO”、「SoftBank Starlink Direct」と無制限の海外データ通信（毎月最大7日間分）が追加料金なしで利用可能に～「LINEMOベストプラン」と「LINEMOベストプランV」が、国内外でより安心・快適に～",
+      "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260807_01/",
+      "date": "2026-08-06T15:00:00+00:00",
+      "sourceKey": "softbank",
+      "catKey": "price",
+      "catLabel": "料金プラン",
+      "carrier": "ソフトバンク"
+    },
+    {
+      "id": "rakuten-https://corp.mobile.rakuten.co.jp/news/press/2026/0806_01/?l-id=corp_news_press_20260806_01",
+      "title": "楽天モバイル、Anthropic社の「Claude」を活用し 「Rakuten AI for Business」をアップデート",
+      "link": "https://corp.mobile.rakuten.co.jp/news/press/2026/0806_01/?l-id=corp_news_press_20260806_01",
+      "date": "2026-08-05T15:00:00+00:00",
+      "sourceKey": "rakuten",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "au/KDDI"
+    },
+    {
+      "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260805_01/",
+      "title": "「AQUOS wish6」を法人向けに“ソフトバンク”で発売",
+      "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260805_01/",
+      "date": "2026-08-04T15:00:00+00:00",
+      "sourceKey": "softbank",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "ソフトバンク"
+    },
+    {
+      "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260804_01/",
+      "title": "2027年3月期 第1四半期 決算発表",
+      "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260804_01/",
+      "date": "2026-08-03T15:00:00+00:00",
+      "sourceKey": "softbank",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ソフトバンク"
+    },
+    {
+      "id": "ymobile-https://www.ymobile.jp/info/press/2026/26080301.html",
+      "title": "日頃のご愛顧に感謝を込めて「ワイモバ 超！感謝祭」を強化！\r\n大好評の「ワイモバ紹介キャンペーン」の特典を倍増！",
+      "link": "https://www.ymobile.jp/info/press/2026/26080301.html",
+      "date": "2026-08-02T15:00:00+00:00",
+      "sourceKey": "ymobile",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": "Y!mobile"
+    },
+    {
+      "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260731_02/",
+      "title": "セブン-イレブンのリアル店舗とデジタルを融合させ、次世代のお客様体験および次世代生活インフラの共創へ",
+      "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260731_02/",
+      "date": "2026-07-30T15:00:00+00:00",
+      "sourceKey": "softbank",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ソフトバンク"
+    },
+    {
+      "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260731_01/",
+      "title": "人事について",
+      "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260731_01/",
+      "date": "2026-07-30T15:00:00+00:00",
+      "sourceKey": "softbank",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ソフトバンク"
+    },
+    {
+      "id": "ymobile-https://www.softbank.jp/mobile/info/personal/news/internationalfailure/20260731_01/",
+      "title": "台湾での防空演習に伴うデータ通信制限に関するご案内",
+      "link": "https://www.softbank.jp/mobile/info/personal/news/internationalfailure/20260731_01/",
+      "date": "2026-07-30T15:00:00+00:00",
+      "sourceKey": "ymobile",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "Y!mobile"
+    },
+    {
+      "id": "ymobile-https://www.ymobile.jp/info/press/2026/26073001.html",
+      "title": "夏がおトク！キャリア決済で最大10,000円相当のPayPayポイントプレゼント！",
+      "link": "https://www.ymobile.jp/info/press/2026/26073001.html",
+      "date": "2026-07-29T15:00:00+00:00",
+      "sourceKey": "ymobile",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": "Y!mobile"
+    },
+    {
+      "id": "uq-https://www.uqwimax.jp/annai/news_release/202607291.html",
+      "title": "令和８年熊本地震に伴うデータ通信に関する支援について",
+      "link": "https://www.uqwimax.jp/annai/news_release/202607291.html",
+      "date": "2026-07-28T15:00:00+00:00",
+      "sourceKey": "uq",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "UQ mobile"
+    },
+    {
+      "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260727_01/",
+      "title": "「ソフトバンク・東北大学 AI for Disaster Science共創研究所」を設立～災害デジタルツインと防災AIを融合させた「AI for Disaster Science基盤」の研究開発と社会実装を推進～",
+      "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260727_01/",
+      "date": "2026-07-26T15:00:00+00:00",
+      "sourceKey": "softbank",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ソフトバンク"
+    },
+    {
+      "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260724_01/",
+      "title": "「moto g37」を“ソフトバンク”で7月31日に発売",
+      "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260724_01/",
+      "date": "2026-07-23T15:00:00+00:00",
+      "sourceKey": "softbank",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "ソフトバンク"
+    },
+    {
+      "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260723_01/",
+      "title": "「Samsung Galaxy」の最新折りたたみスマホ3機種を“ソフトバンク”で8月7日に発売～進化した「Samsung Galaxy Watch」の新しい2機種も発売～",
+      "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260723_01/",
+      "date": "2026-07-22T15:00:00+00:00",
+      "sourceKey": "softbank",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "ソフトバンク"
+    },
+    {
+      "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260722_01/",
+      "title": "日本のコンテンツ産業と生成AI開発の持続的な発展を支えるデータエコシステム基盤「GaranAI」のベータ版を提供開始～多段階加工でデータを保護し、コンテンツホルダーの新たな収益機会とAI開発事業者の価値創出を支援～",
+      "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260722_01/",
+      "date": "2026-07-21T15:00:00+00:00",
+      "sourceKey": "softbank",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ソフトバンク"
+    },
+    {
+      "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260717_02/",
+      "title": "新株予約権（ストックオプション）の発行内容確定に関するお知らせ",
+      "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260717_02/",
+      "date": "2026-07-16T15:00:00+00:00",
+      "sourceKey": "softbank",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ソフトバンク"
+    },
+    {
+      "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260717_01/",
+      "title": "譲渡制限付株式報酬としての自己株式処分の払込完了に関するお知らせ",
+      "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260717_01/",
+      "date": "2026-07-16T15:00:00+00:00",
+      "sourceKey": "softbank",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ソフトバンク"
+    },
+    {
+      "id": "uq-https://www.uqwimax.jp/annai/news_release/202607171.html",
+      "title": "役員人事について",
+      "link": "https://www.uqwimax.jp/annai/news_release/202607171.html",
+      "date": "2026-07-16T15:00:00+00:00",
+      "sourceKey": "uq",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "UQ mobile"
+    },
+    {
+      "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260716_01/",
+      "title": "国産マルチモーダル基盤モデルの開発に向けて本格始動",
+      "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260716_01/",
+      "date": "2026-07-15T15:00:00+00:00",
+      "sourceKey": "softbank",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ソフトバンク"
+    },
+    {
+      "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260715_01/",
+      "title": "“ワイモバイル”、「シンプル3 M/L」が加入翌月から1年間、毎月1,000円引きになる「超！おトク割」を7月17日に開始",
+      "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260715_01/",
+      "date": "2026-07-14T15:00:00+00:00",
+      "sourceKey": "softbank",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "Y!mobile"
+    },
+    {
+      "id": "ymobile-https://www.ymobile.jp/cp/cho-otokuwari/",
+      "title": "「シンプル3 M/L」が加入翌月から1年間、毎月1,000円引きになる「超！おトク割」を7月17日に開始",
+      "link": "https://www.ymobile.jp/cp/cho-otokuwari/",
+      "date": "2026-07-14T15:00:00+00:00",
+      "sourceKey": "ymobile",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "Y!mobile"
+    },
+    {
+      "id": "ymobile-https://www.ymobile.jp/info/press/2026/26071501.html",
+      "title": "子回線専用プラン（シェアプラン）でeSIMが利用可能に",
+      "link": "https://www.ymobile.jp/info/press/2026/26071501.html",
+      "date": "2026-07-14T15:00:00+00:00",
+      "sourceKey": "ymobile",
+      "catKey": "price",
+      "catLabel": "料金プラン",
+      "carrier": "Y!mobile"
+    },
+    {
+      "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260714_02/",
+      "title": "OpenAIの技術を活用して脆弱性診断からパッチ適用まで対応する「Patching as a Service」の提供対象を3,000社に拡大し、本格的に提供開始〜日本の重要インフラを支えるシステムをサイバー攻撃から防御〜",
+      "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260714_02/",
+      "date": "2026-07-13T15:00:00+00:00",
+      "sourceKey": "softbank",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ソフトバンク"
+    },
+    {
+      "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260714_01/",
+      "title": "ソフトバンクとSierra、AIエージェントでカスタマーサポートの顧客体験を変革するサービスの日本展開に向けた戦略的パートナーシップ契約を締結〜Sierraの対話型AIプラットフォームをソフトバンクが日本市場で独占販売代理店として販売開始〜",
+      "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260714_01/",
+      "date": "2026-07-13T15:00:00+00:00",
+      "sourceKey": "softbank",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ソフトバンク"
+    },
+    {
+      "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260713_01/",
+      "title": "ソフトバンクと安川電機、フィジカルAIの開発基盤として「AIデータセンター GPUクラウド」を活用し、柔軟物体ハンドリングシステムを実証～NVIDIAと協力し、ロボットの動作データ収集からAIの学習・評価、実機への適用までを効率化～",
+      "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260713_01/",
+      "date": "2026-07-12T15:00:00+00:00",
+      "sourceKey": "softbank",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ソフトバンク"
+    },
+    {
+      "id": "ymobile-https://www.ymobile.jp/info/press/2026/26070901.html",
+      "title": "SIMフリースマホなどが購入できる「Y!mobile Free Style」をワイモバイルオンラインストアで提供開始",
+      "link": "https://www.ymobile.jp/info/press/2026/26070901.html",
+      "date": "2026-07-08T15:00:00+00:00",
+      "sourceKey": "ymobile",
+      "catKey": "mvno",
+      "catLabel": "MVNO・格安SIM",
+      "carrier": "Y!mobile"
+    },
+    {
+      "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260708_01/",
+      "title": "060番号の提供開始時期の延期について",
+      "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260708_01/",
+      "date": "2026-07-07T15:00:00+00:00",
+      "sourceKey": "softbank",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ソフトバンク"
+    },
+    {
+      "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260702_01/",
+      "title": "米国でネオクラウド事業を展開する事業会社「SB Neo」を設立～グループの10ギガワット規模のエネルギーおよびAIインフラを基に、米国の企業向けにネオクラウドサービスを提供～",
+      "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260702_01/",
+      "date": "2026-07-01T15:00:00+00:00",
+      "sourceKey": "softbank",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ソフトバンク"
+    },
+    {
+      "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260701_01/",
+      "title": "迷惑電話防止サービス「ナンバーブロック」の月額使用料を無料化",
+      "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260701_01/",
+      "date": "2026-06-30T15:00:00+00:00",
+      "sourceKey": "softbank",
+      "catKey": "price",
+      "catLabel": "料金プラン",
+      "carrier": "ソフトバンク"
+    },
+    {
+      "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260630_02/",
+      "title": "人事について",
+      "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260630_02/",
+      "date": "2026-06-29T15:00:00+00:00",
+      "sourceKey": "softbank",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ソフトバンク"
+    },
+    {
+      "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260630_01/",
+      "title": "「AQUOS R11」を“ソフトバンク”で7月9日に発売",
+      "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260630_01/",
+      "date": "2026-06-29T15:00:00+00:00",
+      "sourceKey": "softbank",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "ソフトバンク"
+    },
+    {
+      "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260629_01/",
+      "title": "支配株主等に関する事項について",
+      "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260629_01/",
+      "date": "2026-06-28T15:00:00+00:00",
+      "sourceKey": "softbank",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ソフトバンク"
+    },
+    {
+      "id": "ymobile-https://www.ymobile.jp/info/press/2026/26062601.html",
+      "title": "Yahoo!ショッピング「超PayPay祭」がスタート！",
+      "link": "https://www.ymobile.jp/info/press/2026/26062601.html",
+      "date": "2026-06-25T15:00:00+00:00",
+      "sourceKey": "ymobile",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "Y!mobile"
+    },
+    {
+      "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260623_03/",
+      "title": "新株予約権（ストックオプション）の発行に関するお知らせ（会社法第236条、第238条および第240条の定めに基づく新株予約権の発行）",
+      "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260623_03/",
+      "date": "2026-06-22T15:00:00+00:00",
+      "sourceKey": "softbank",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ソフトバンク"
+    },
+    {
+      "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260623_02/",
+      "title": "譲渡制限付株式報酬としての自己株式の処分に関するお知らせ",
+      "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260623_02/",
+      "date": "2026-06-22T15:00:00+00:00",
+      "sourceKey": "softbank",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ソフトバンク"
+    },
+    {
+      "id": "ymobile-https://www.ymobile.jp/info/press/2026/26062201.html",
+      "title": "富士山頂で5Gを提供　‐もっともっとつながるワイモバイルへ‐",
+      "link": "https://www.ymobile.jp/info/press/2026/26062201.html",
+      "date": "2026-06-21T15:00:00+00:00",
+      "sourceKey": "ymobile",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "Y!mobile"
+    },
+    {
+      "id": "ymobile-https://www.ymobile.jp/info/press/2026/26061902.html",
+      "title": "「超PayPay祭」が2026年6月19日（金）からスタート！",
+      "link": "https://www.ymobile.jp/info/press/2026/26061902.html",
+      "date": "2026-06-18T15:00:00+00:00",
+      "sourceKey": "ymobile",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "Y!mobile"
+    },
+    {
+      "id": "ymobile-https://www.ymobile.jp/info/press/2026/26061901.html",
+      "title": "「『Pokémon GO』パートナーリサーチ」の参加券がもらえるキャンペーン2026(夏)",
+      "link": "https://www.ymobile.jp/info/press/2026/26061901.html",
+      "date": "2026-06-18T15:00:00+00:00",
+      "sourceKey": "ymobile",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": "Y!mobile"
+    },
+    {
+      "id": "ymobile-https://www.softbank.jp/corp/news/press/sbkk/2026/20260618_01/",
+      "title": "「OPPO Reno15 A」を6月25日に発売",
+      "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260618_01/",
+      "date": "2026-06-17T15:00:00+00:00",
+      "sourceKey": "ymobile",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "Y!mobile"
+    },
+    {
+      "id": "uq-https://www.uqwimax.jp/annai/news_release/202606121.html",
+      "title": "役員人事について",
+      "link": "https://www.uqwimax.jp/annai/news_release/202606121.html",
+      "date": "2026-06-11T15:00:00+00:00",
+      "sourceKey": "uq",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "UQ mobile"
+    },
+    {
+      "id": "rakuten-https://corp.mobile.rakuten.co.jp/news/media/2026/0601_01/?l-id=corp_news_media_20260601_01",
+      "title": "楽天モバイル、広島商船高等専門学校と練習船「広島丸」の災害支援利用推進に関する連携協定を締結",
+      "link": "https://corp.mobile.rakuten.co.jp/news/media/2026/0601_01/?l-id=corp_news_media_20260601_01",
+      "date": "2026-05-31T15:00:00+00:00",
+      "sourceKey": "rakuten",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "楽天モバイル"
+    },
+    {
+      "id": "ymobile-https://www.ymobile.jp/info/press/2026/26060101.html",
+      "title": "「契約解除料」新設について",
+      "link": "https://www.ymobile.jp/info/press/2026/26060101.html",
+      "date": "2026-05-31T15:00:00+00:00",
+      "sourceKey": "ymobile",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "Y!mobile"
+    },
+    {
+      "id": "ymobile-https://www.softbank.jp/corp/news/press/sbkk/2026/20260528_01/",
+      "title": "「かんたんスマホ5」を6月4日に発売",
+      "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260528_01/",
+      "date": "2026-05-27T15:00:00+00:00",
+      "sourceKey": "ymobile",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "Y!mobile"
+    },
+    {
+      "id": "rakuten-https://corp.mobile.rakuten.co.jp/news/media/2026/0526_01/?l-id=corp_news_media_20260526_01",
+      "title": "楽天モバイル、「Rakuten最強U-NEXT」と「Uber One」をおトクに利用できるU-NEXTとUberとのコラボレーションキャンペーンを実施",
+      "link": "https://corp.mobile.rakuten.co.jp/news/media/2026/0526_01/?l-id=corp_news_media_20260526_01",
+      "date": "2026-05-25T15:00:00+00:00",
+      "sourceKey": "rakuten",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": "楽天モバイル"
+    },
+    {
+      "id": "ymobile-https://www.ymobile.jp/info/press/2026/26052501.html",
+      "title": "パスキー認証をMy Y!mobileで提供開始",
+      "link": "https://www.ymobile.jp/info/press/2026/26052501.html",
+      "date": "2026-05-24T15:00:00+00:00",
+      "sourceKey": "ymobile",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "Y!mobile"
+    },
+    {
+      "id": "ymobile-https://www.ymobile.jp/info/press/2026/26051501.html",
+      "title": "ワイモバイルを装った偽サイト・偽LINEアカウントにご注意ください",
+      "link": "https://www.ymobile.jp/info/press/2026/26051501.html",
+      "date": "2026-05-14T15:00:00+00:00",
+      "sourceKey": "ymobile",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "Y!mobile"
+    },
+    {
+      "id": "uq-https://www.uqwimax.jp/annai/news_release/202604231.html",
+      "title": "令和8年岩手県大槌町の林野火災に伴う支援について",
+      "link": "https://www.uqwimax.jp/annai/news_release/202604231.html",
+      "date": "2026-04-22T15:00:00+00:00",
+      "sourceKey": "uq",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "UQ mobile"
+    },
+    {
+      "id": "rakuten-https://corp.mobile.rakuten.co.jp/news/media/2026/0326_01/?l-id=corp_news_media_20260326_01",
+      "title": "楽天モバイル、弓削商船高等専門学校と練習船「弓削丸」の災害支援利用推進に関する連携協定を締結",
+      "link": "https://corp.mobile.rakuten.co.jp/news/media/2026/0326_01/?l-id=corp_news_media_20260326_01",
+      "date": "2026-03-25T15:00:00+00:00",
+      "sourceKey": "rakuten",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "楽天モバイル"
+    },
+    {
+      "id": "uq-https://www.uqwimax.jp/annai/news_release/202603041.html",
+      "title": "人事異動について",
+      "link": "https://www.uqwimax.jp/annai/news_release/202603041.html",
+      "date": "2026-03-03T15:00:00+00:00",
+      "sourceKey": "uq",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "UQ mobile"
+    },
+    {
+      "id": "rakuten-https://corp.mobile.rakuten.co.jp/news/media/2026/0202_01/?l-id=corp_news_media_20260202_01",
+      "title": "楽天モバイル、春の新生活を応援する、ギガ無制限で「U-NEXT」が楽しめる「Rakuten最強U-NEXT」をおトクに利用できるキャンペーンを実施",
+      "link": "https://corp.mobile.rakuten.co.jp/news/media/2026/0202_01/?l-id=corp_news_media_20260202_01",
+      "date": "2026-02-01T15:00:00+00:00",
+      "sourceKey": "rakuten",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": "楽天モバイル"
+    },
+    {
+      "id": "uq-https://www.uqwimax.jp/annai/news_release/202601301.html",
+      "title": "令和8年1月21日からの大雪に伴う支援について",
+      "link": "https://www.uqwimax.jp/annai/news_release/202601301.html",
+      "date": "2026-01-29T15:00:00+00:00",
+      "sourceKey": "uq",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "UQ mobile"
+    },
+    {
+      "id": "uq-https://www.uqwimax.jp/annai/news_release/202512171.html",
+      "title": "「ブロードバンドユニバーサルサービス料」について",
+      "link": "https://www.uqwimax.jp/annai/news_release/202512171.html",
+      "date": "2025-12-16T15:00:00+00:00",
+      "sourceKey": "uq",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "UQ mobile"
+    },
+    {
+      "id": "uq-https://www.uqwimax.jp/annai/news_release/202512091.html",
+      "title": "令和7年青森県東方沖を震源とする地震に伴う支援について",
+      "link": "https://www.uqwimax.jp/annai/news_release/202512091.html",
+      "date": "2025-12-08T15:00:00+00:00",
+      "sourceKey": "uq",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "UQ mobile"
+    },
+    {
+      "id": "uq-https://www.uqwimax.jp/annai/news_release/202511191.html",
+      "title": "令和7年11月18日大分市佐賀関の大規模火災に伴う支援について",
+      "link": "https://www.uqwimax.jp/annai/news_release/202511191.html",
+      "date": "2025-11-18T15:00:00+00:00",
+      "sourceKey": "uq",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "UQ mobile"
+    },
+    {
+      "id": "uq-https://www.uqwimax.jp/annai/news_release/202511141.html",
+      "title": "「ユニバーサルサービス料」の改定について",
+      "link": "https://www.uqwimax.jp/annai/news_release/202511141.html",
+      "date": "2025-11-13T15:00:00+00:00",
+      "sourceKey": "uq",
+      "catKey": "price",
+      "catLabel": "料金プラン",
+      "carrier": "UQ mobile"
     }
   ]
 }
