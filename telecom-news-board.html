@@ -2,8 +2,20 @@
 <html lang="ja">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
 <title>通信業界レーダー</title>
+
+<!-- PWA(ホーム画面に追加してアプリのように使う) -->
+<link rel="manifest" href="./manifest.json">
+<meta name="theme-color" content="#15161c">
+<meta name="description" content="通信キャリア各社/専門メディアの最新情報を一覧できる速報ボード">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="通信レーダー">
+<link rel="apple-touch-icon" href="./icons/apple-touch-icon.png">
+<link rel="icon" type="image/png" href="./icons/icon-192.png">
+
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=M+PLUS+1+Code:wght@400;500;700&family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet">
 <style>
@@ -469,6 +481,15 @@ document.getElementById('copyBtn').addEventListener('click', ()=>{
     setTimeout(()=> msg.textContent = '', 2000);
   });
 });
+
+// Service Worker登録(ホーム画面追加・オフライン表示のため)
+if('serviceWorker' in navigator){
+  window.addEventListener('load', ()=>{
+    navigator.serviceWorker.register('./sw.js').catch(err=>{
+      console.warn('Service Workerの登録に失敗しました:', err);
+    });
+  });
+}
 </script>
 </body>
 </html>

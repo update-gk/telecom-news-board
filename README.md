@@ -20,11 +20,28 @@
 
 ```
 telecom-news-board.html      表示用ページ(GitHub Pagesで公開する)
+index.html                   telecom-news-board.html へのリダイレクト
+manifest.json                PWAマニフェスト(ホーム画面追加用)
+sw.js                        Service Worker(オフライン表示・アプリ化)
+icons/                       PWAアイコン(scripts/make_icons.js で生成)
 data/news.json               GitHub Actionsが自動生成するニュースデータ
 scripts/fetch_news.py        RSS取得・スクレイピング・カテゴリ分類スクリプト
+scripts/make_icons.js        アイコン生成スクリプト(Nodeのみ・依存なし)
 scripts/requirements.txt     Python依存パッケージ(feedparser / requests / beautifulsoup4)
 .github/workflows/fetch-news.yml   3時間おきに自動実行するワークフロー
 ```
+
+## スマホアプリとして使う(PWA)
+
+GitHub Pagesで公開したページはPWA対応済みです。ブラウザでページを開き、
+
+- **iPhone (Safari)**: 共有ボタン → 「ホーム画面に追加」
+- **Android (Chrome)**: 右上メニュー → 「アプリをインストール」／「ホーム画面に追加」
+
+でホーム画面にアイコンが追加され、アドレスバーのない全画面アプリとして起動します。
+一度開けばオフラインでも直近のデータを表示できます。
+
+アイコンを作り直す場合: `node scripts/make_icons.js`
 
 ## セットアップ手順
 

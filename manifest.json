@@ -1,0 +1,18 @@
+{
+  "name": "通信業界レーダー",
+  "short_name": "通信レーダー",
+  "description": "通信キャリア各社/専門メディアの最新情報を一覧できる速報ボード",
+  "lang": "ja",
+  "dir": "ltr",
+  "start_url": "./telecom-news-board.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#15161c",
+  "theme_color": "#15161c",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
