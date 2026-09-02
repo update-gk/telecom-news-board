@@ -139,6 +139,8 @@
     border-bottom:1px solid var(--board-frame);
     animation:flapin .35s ease both;
   }
+  /* PCでは中身を透過させ、time/source/tag を .flap-row のグリッド項目として扱う */
+  .flap-meta{ display:contents; }
   .flap-thumb{
     width:44px; height:44px;
     border-radius:3px;
@@ -273,31 +275,45 @@
   ::-webkit-scrollbar{width:8px;}
   ::-webkit-scrollbar-thumb{background:var(--board-frame);}
 
-  /* スマホ: 記事タイトルを大きく、時間・情報源・カテゴリは小さくして上段にまとめる */
+  /* スマホ: サムネイルを左に固定し、上段=時間/情報源/カテゴリ、下段=大きめタイトル */
   @media (max-width:600px){
     .flap-row{
-      display:flex;
-      flex-wrap:wrap;
-      align-items:center;
-      gap:5px 8px;
+      display:grid;
+      grid-template-columns:44px minmax(0,1fr) auto;
+      grid-template-areas:
+        "thumb meta  check"
+        "thumb title title";
+      column-gap:9px;
+      row-gap:6px;
       padding:12px 14px;
+      align-items:center;
     }
-    .flap-time{ font-size:11px; order:1; }
-    .flap-source{
-      font-size:9px; order:2;
-      max-width:44%;
-    }
-    .flap-tag{ font-size:9px; order:3; padding:1px 5px; }
-    .flap-check{ order:4; margin-left:auto; width:18px; height:18px; }
     .flap-thumb{
-      order:5;
-      width:42px; height:42px;
-      align-self:flex-start;
-      margin-top:2px;
+      grid-area:thumb;
+      align-self:start;
+      width:44px; height:44px;
     }
     .flap-thumb.badge{ font-size:11px; }
-    .flap-title{ order:6; flex:1 1 0; min-width:0; }
-    .flap-title a{ font-size:17px; line-height:1.5; }
+    .flap-meta{
+      grid-area:meta;
+      display:flex;
+      align-items:center;
+      gap:7px;
+      min-width:0;
+    }
+    .flap-time{ font-size:11px; white-space:nowrap; flex-shrink:0; }
+    .flap-source{ font-size:9px; flex:0 1 auto; min-width:0; }
+    .flap-tag{ font-size:9px; padding:1px 5px; flex-shrink:0; }
+    .flap-check{ grid-area:check; justify-self:end; width:18px; height:18px; }
+    .flap-title{
+      grid-area:title;
+      min-width:0;
+    }
+    .flap-title a{
+      font-size:17px;
+      line-height:1.5;
+      overflow-wrap:anywhere;
+    }
     .flap-carrier{ font-size:10px; margin-top:3px; }
   }
 </style>
@@ -504,9 +520,11 @@ function render(){
     const checked = selected.has(a.id) ? 'checked' : '';
     return `<div class="flap-row">
       ${thumbHTML(a)}
-      <div class="flap-time">${time.split(' ')[1]||''}</div>
-      <div class="flap-source">${SOURCE_NAMES[a.sourceKey] || a.sourceKey}</div>
-      <div class="flap-tag ${CATEGORY_STYLE[a.catKey] || 'tag-other'}">${a.catLabel}</div>
+      <div class="flap-meta">
+        <div class="flap-time">${time.split(' ')[1]||''}</div>
+        <div class="flap-source">${SOURCE_NAMES[a.sourceKey] || a.sourceKey}</div>
+        <div class="flap-tag ${CATEGORY_STYLE[a.catKey] || 'tag-other'}">${a.catLabel}</div>
+      </div>
       <div class="flap-title">
         <a href="${a.link}" target="_blank" rel="noopener">${a.title}</a>
         ${a.carrier ? `<div class="flap-carrier">${a.carrier}</div>` : ''}

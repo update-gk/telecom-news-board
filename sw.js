@@ -4,7 +4,7 @@
  * - data/news.json はネットワーク優先(取れなければ最後に取得できた内容を表示)
  * デプロイのたびに CACHE のバージョンを上げると、古いキャッシュを破棄して更新される。
  */
-const CACHE = "telecom-radar-v3";
+const CACHE = "telecom-radar-v4";
 const SHELL = [
   "./",
   "./telecom-news-board.html",
