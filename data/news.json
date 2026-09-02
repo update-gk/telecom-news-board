@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-09-02T11:02:29.515634+00:00",
+  "generated_at": "2026-09-02T16:23:40.614813+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/minna/2137791.html",
+      "title": "Fitbit AirとGoogle Healthで睡眠管理が大幅に変化",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/minna/2137791.html",
+      "date": "2026-09-02T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": null
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2137760.html",
+      "title": "QualcommとHUMAIN、「Snapdragon X2 Elite」搭載AIパソコン発表",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2137760.html",
+      "date": "2026-09-02T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2137/760/00.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2132854.html",
+      "title": "足の置き場に困ったら「2WAYフットレスト」、長時間のデスク作業も楽々",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2132854.html",
+      "date": "2026-09-02T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": null
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2137710.html",
       "title": "Google Store 表参道でピカチュウ撮影会、シルバーウィークに",
@@ -36,6 +69,28 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2137/720/iijmio.jpg"
     },
     {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/02/news098.html",
+      "title": "180度可動モニター付きの小型デジカメ「AN-DC006」発売、スマホ転送も可能　KEIYOから",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/02/news098.html",
+      "date": "2026-09-02T09:50:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/02/l_asa_KEIYO_01.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/02/news096.html",
+      "title": "IIJmioでガラケー型「MIVE ケースマ」発売、MNPで3万2800円　「OPPO Reno16 5G」も",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/02/news096.html",
+      "date": "2026-09-02T09:36:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/02/l_asa_IIJ_01.jpg"
+    },
+    {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/02/news099.html",
       "title": "モトローラ初の横開き「razr fold」はなぜ生まれた？　FeliCa搭載やIIJmio「10万円引き」の狙いを直撃",
       "link": "https://www.itmedia.co.jp/mobile/articles/2609/02/news099.html",
@@ -45,6 +100,17 @@
       "catLabel": "その他",
       "carrier": null,
       "image": "https://image.itmedia.co.jp/mobile/articles/2609/02/cover_news099.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/02/news088.html",
+      "title": "Y!mobile、縦折りタイプの「nubia Flip 3」を2年間約2万円に　新規とMNPが対象【スマホお得情報】",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/02/news088.html",
+      "date": "2026-09-02T08:30:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "Y!mobile",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/02/l_asa_sumaotoku_01.jpg"
     },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/02/news097.html",
@@ -355,17 +421,6 @@
       "image": "https://image.itmedia.co.jp/mobile/articles/2609/02/cover_news071.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/02/news067.html",
-      "title": "ソニー、大型スピーカー「ULT TOWER 7」を発売　米ヒップホップクリエイターと共創",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/02/news067.html",
-      "date": "2026-09-02T01:57:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/02/l_rk1640414_ulttower7-01.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2137412.html",
       "title": "ソニー、簡易PAやカラオケにも使えるワイヤレスポータブルスピーカー「ULT TOWER 7」を発表",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2137412.html",
@@ -518,39 +573,6 @@
       "catLabel": "料金プラン",
       "carrier": "ドコモ",
       "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2137358.html",
-      "title": "KDDI、家族割の証明書類に「ファミリーシップ制度」証明書を追加",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2137358.html",
-      "date": "2026-09-01T08:46:50+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "au/KDDI",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2137/358/auuq.png"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2137348.html",
-      "title": "BIC SIMでデータ専用eSIMが最大3カ月間割引キャンペーン、端末同時購入で1万円割引も",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2137348.html",
-      "date": "2026-09-01T08:35:11+00:00",
-      "sourceKey": "ktai",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2137/348/main-1.png"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2137335.html",
-      "title": "IIJmioでスマホ大特価セール、美品「iPhone 16」が約10万円など",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2137335.html",
-      "date": "2026-09-01T07:58:43+00:00",
-      "sourceKey": "ktai",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2137/335/iijmio.png"
     },
     {
       "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr_s-76_4692.html",
