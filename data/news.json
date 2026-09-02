@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-09-02T20:53:26.505164+00:00",
+  "generated_at": "2026-09-02T23:12:55.456846+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2137764.html",
+      "title": "IIJmio、「25ギガプラン」への変更で5GBプレゼント　10月30日まで",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2137764.html",
+      "date": "2026-09-02T21:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "price",
+      "catLabel": "料金プラン",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2137/764/01.jpg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/minna/2137791.html",
       "title": "Fitbit AirとGoogle Healthで睡眠管理が大幅に変化",
@@ -333,17 +344,6 @@
       "image": "https://image.itmedia.co.jp/mobile/articles/2609/02/l_rk1640414_kddi6g-01.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/02/news077.html",
-      "title": "スマホに格納する「デジタル学生証」の最新事情　学割定期の購入やタッチで出欠確認、“なりすまし“対策も",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/02/news077.html",
-      "date": "2026-09-02T03:24:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/02/cover_news077.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2137551.html",
       "title": "PayPay、すべての信用金庫からチャージ可能に",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2137551.html",
@@ -366,17 +366,6 @@
       "image": null
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/02/news015.html",
-      "title": "薄さ約0.9mmでケースとの間に収まる「スマ冷え Premium ちいかわ」でスマホの発熱を抑えられるか？",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/02/news015.html",
-      "date": "2026-09-02T03:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/02/cover_news015.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2137528.html",
       "title": "KDDIとサムスン、7GHz帯で下り3.6Gbps達成　6G向けの実証実験",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2137528.html",
@@ -397,28 +386,6 @@
       "catLabel": "その他",
       "carrier": "楽天モバイル",
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2137/527/rktn.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/02/news074.html",
-      "title": "ソフトバンクらが「Yahoo!スマホ買取」開始　端末状態をアプリで診断→ヤフオク!などで再販検討",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/02/news074.html",
-      "date": "2026-09-02T02:27:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "ソフトバンク",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/02/l_rk1640414_yahoosmartphonekaitori-01.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/02/news071.html",
-      "title": "ダイソン、AIマクロカメラ搭載の電動歯ブラシ「Dyson CameraJet」を発表　歯間へ自動でジェット噴射",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/02/news071.html",
-      "date": "2026-09-02T02:10:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/02/cover_news071.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2137412.html",
@@ -562,17 +529,6 @@
       "catLabel": "その他",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2137/385/1-1.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2137271.html",
-      "title": "ドコモ「ポイ活プラン」、決済と利用料金還元ポイントの全額“両取り”不可に 12月利用分から",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2137271.html",
-      "date": "2026-09-01T08:48:42+00:00",
-      "sourceKey": "ktai",
-      "catKey": "price",
-      "catLabel": "料金プラン",
-      "carrier": "ドコモ",
-      "image": null
     },
     {
       "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr_s-76_4692.html",
