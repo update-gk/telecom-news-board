@@ -245,6 +245,27 @@
   }
   ::-webkit-scrollbar{width:8px;}
   ::-webkit-scrollbar-thumb{background:var(--board-frame);}
+
+  /* スマホ: 記事タイトルを大きく、時間・情報源・カテゴリは小さくして上段にまとめる */
+  @media (max-width:600px){
+    .flap-row{
+      display:flex;
+      flex-wrap:wrap;
+      align-items:center;
+      gap:5px 8px;
+      padding:12px 14px;
+    }
+    .flap-time{ font-size:11px; order:1; }
+    .flap-source{
+      font-size:9px; order:2;
+      max-width:44%;
+    }
+    .flap-tag{ font-size:9px; order:3; padding:1px 5px; }
+    .flap-check{ order:4; margin-left:auto; width:18px; height:18px; }
+    .flap-title{ order:5; flex-basis:100%; }
+    .flap-title a{ font-size:17px; line-height:1.5; }
+    .flap-carrier{ font-size:10px; margin-top:3px; }
+  }
 </style>
 </head>
 <body>
