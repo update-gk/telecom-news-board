@@ -1,7 +1,84 @@
 {
-  "generated_at": "2026-09-01T23:12:46.617421+00:00",
+  "generated_at": "2026-09-02T01:28:58.340081+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2137412.html",
+      "title": "ソニー、簡易PAやカラオケにも使えるワイヤレスポータブルスピーカー「ULT TOWER 7」を発表",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2137412.html",
+      "date": "2026-09-02T01:01:31+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": null
+    },
+    {
+      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc52f/index.html",
+      "title": "「Galaxy S25 Ultra SC-52F」のソフトウェアアップデート情報のお知らせ",
+      "link": "https://www.docomo.ne.jp/support/product_update/sc52f/index.html",
+      "date": "2026-09-02T01:00:00+00:00",
+      "sourceKey": "docomo",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "ドコモ",
+      "image": null
+    },
+    {
+      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc51f/index.html",
+      "title": "「Galaxy S25 SC-51F」のソフトウェアアップデート情報のお知らせ",
+      "link": "https://www.docomo.ne.jp/support/product_update/sc51f/index.html",
+      "date": "2026-09-02T01:00:00+00:00",
+      "sourceKey": "docomo",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "ドコモ",
+      "image": null
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/02/news054.html",
+      "title": "3.5mmイヤフォンジャックのないスマホで有線イヤフォンを使いたい人に適した「UGREEN USB C to 3.5mm イヤホン変換アダプター」がセールで45％オフの928円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/02/news054.html",
+      "date": "2026-09-02T00:14:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/02/cover_news054.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/02/news053.html",
+      "title": "ピカチュウモデルの「Anker USB急速充電器 65W」がセールで28％オフの6490円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/02/news053.html",
+      "date": "2026-09-02T00:08:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/02/cover_news053.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/02/news052.html",
+      "title": "ポケットに収まる薄型モバイルバッテリー「Anker Nano Power Bank (5000mAh, MagGo, Slim)」がセールで29％オフの5690円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/02/news052.html",
+      "date": "2026-09-02T00:03:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/02/cover_news052.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/02/news051.html",
+      "title": "7500mAh大容量電池持ちが魅力の「Xiaomi REDMI 17」がセールで19％オフの3万6344円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/02/news051.html",
+      "date": "2026-09-01T23:59:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/02/cover_news051.jpg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/interview/2137447.html",
       "title": "「Galaxy Z Fold 8」の薄さを進化させた日本企業の技術――サムスン副社長が語る開発秘話",
@@ -10,7 +87,8 @@
       "sourceKey": "ktai",
       "catKey": "device",
       "catLabel": "端末",
-      "carrier": null
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2137/447/12.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/stapaapple/2137442.html",
@@ -20,7 +98,8 @@
       "sourceKey": "ktai",
       "catKey": "device",
       "catLabel": "端末",
-      "carrier": null
+      "carrier": null,
+      "image": null
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/minna/2137061.html",
@@ -30,7 +109,8 @@
       "sourceKey": "ktai",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": null
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2137/061/P1018368-1.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2137017.html",
@@ -40,7 +120,19 @@
       "sourceKey": "ktai",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": null
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2137/017/mw_vlmc26_01-1.jpg"
+    },
+    {
+      "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260902_01/",
+      "title": "日本初、「空飛ぶ基地局」HAPSの商用化に向けた試験サービスの提供に成功",
+      "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260902_01/",
+      "date": "2026-09-01T15:00:00+00:00",
+      "sourceKey": "softbank",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ソフトバンク",
+      "image": null
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2136657.html",
@@ -50,7 +142,8 @@
       "sourceKey": "ktai",
       "catKey": "device",
       "catLabel": "端末",
-      "carrier": null
+      "carrier": null,
+      "image": null
     },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/01/news094.html",
@@ -60,7 +153,8 @@
       "sourceKey": "itmedia",
       "catKey": "device",
       "catLabel": "端末",
-      "carrier": null
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/01/cover_news094.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2137395.html",
@@ -70,7 +164,8 @@
       "sourceKey": "ktai",
       "catKey": "price",
       "catLabel": "料金プラン",
-      "carrier": "ドコモ"
+      "carrier": "ドコモ",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2137/395/docomo.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2137402.html",
@@ -80,7 +175,8 @@
       "sourceKey": "ktai",
       "catKey": "campaign",
       "catLabel": "キャンペーン",
-      "carrier": null
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2137/402/1-1.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2137385.html",
@@ -90,7 +186,8 @@
       "sourceKey": "ktai",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": null
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2137/385/1-1.jpg"
     },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/01/news089.html",
@@ -100,7 +197,8 @@
       "sourceKey": "itmedia",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": null
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/01/l_asa_Amazonmoto_01.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2137271.html",
@@ -110,7 +208,8 @@
       "sourceKey": "ktai",
       "catKey": "price",
       "catLabel": "料金プラン",
-      "carrier": "ドコモ"
+      "carrier": "ドコモ",
+      "image": null
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2137358.html",
@@ -120,7 +219,8 @@
       "sourceKey": "ktai",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": "au/KDDI"
+      "carrier": "au/KDDI",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2137/358/auuq.png"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2137348.html",
@@ -130,7 +230,8 @@
       "sourceKey": "ktai",
       "catKey": "campaign",
       "catLabel": "キャンペーン",
-      "carrier": null
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2137/348/main-1.png"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2137335.html",
@@ -140,7 +241,8 @@
       "sourceKey": "ktai",
       "catKey": "campaign",
       "catLabel": "キャンペーン",
-      "carrier": null
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2137/335/iijmio.png"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2137336.html",
@@ -150,7 +252,8 @@
       "sourceKey": "ktai",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": "ドコモ"
+      "carrier": "ドコモ",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2137/336/dcardp2.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2137347.html",
@@ -160,7 +263,8 @@
       "sourceKey": "ktai",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": null
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2137/347/cont1.png"
     },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/01/news088.html",
@@ -170,7 +274,8 @@
       "sourceKey": "itmedia",
       "catKey": "campaign",
       "catLabel": "キャンペーン",
-      "carrier": null
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/01/l_asa_IIJ_01.jpg"
     },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/01/news085.html",
@@ -180,7 +285,8 @@
       "sourceKey": "itmedia",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": null
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/01/l_st52693_dsld-01.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2137265.html",
@@ -190,7 +296,8 @@
       "sourceKey": "ktai",
       "catKey": "campaign",
       "catLabel": "キャンペーン",
-      "carrier": "ドコモ"
+      "carrier": "ドコモ",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2137/265/dcardp.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2137282.html",
@@ -200,7 +307,8 @@
       "sourceKey": "ktai",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": null
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2137/282/sub.jpg"
     },
     {
       "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr_s-76_4692.html",
@@ -210,7 +318,8 @@
       "sourceKey": "au",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": "au/KDDI"
+      "carrier": "au/KDDI",
+      "image": null
     },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/01/news081.html",
@@ -220,7 +329,8 @@
       "sourceKey": "itmedia",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": "ドコモ"
+      "carrier": "ドコモ",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/01/l_asa_docomo_01.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2137264.html",
@@ -230,7 +340,8 @@
       "sourceKey": "ktai",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": null
+      "carrier": null,
+      "image": null
     },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/01/news075.html",
@@ -240,7 +351,8 @@
       "sourceKey": "itmedia",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": "au/KDDI"
+      "carrier": "au/KDDI",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/01/cover_news075.jpg"
     },
     {
       "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr-1145_4691.html",
@@ -250,17 +362,8 @@
       "sourceKey": "au",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": "au/KDDI"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/01/news078.html",
-      "title": "ドコモ、「ポイ活プラン」や「dカード PLATINUM」のポイント還元を引き下げ　dカードは27年から0.5％還元に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/01/news078.html",
-      "date": "2026-09-01T04:36:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "price",
-      "catLabel": "料金プラン",
-      "carrier": "ドコモ"
+      "carrier": "au/KDDI",
+      "image": null
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2137201.html",
@@ -270,17 +373,8 @@
       "sourceKey": "ktai",
       "catKey": "campaign",
       "catLabel": "キャンペーン",
-      "carrier": "ドコモ"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/01/news073.html",
-      "title": "「FCNTスマホ保証サービス」開始　SIMフリーarrows Alpha2とarrows We3が対象、3カ月無料キャンペーンも",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/01/news073.html",
-      "date": "2026-09-01T03:42:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null
+      "carrier": "ドコモ",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2137/201/dcard.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2137211.html",
@@ -290,7 +384,8 @@
       "sourceKey": "ktai",
       "catKey": "price",
       "catLabel": "料金プラン",
-      "carrier": "楽天モバイル"
+      "carrier": "楽天モバイル",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2137/211/20260901_RakutenMobile-1.png"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2137222.html",
@@ -300,7 +395,8 @@
       "sourceKey": "ktai",
       "catKey": "campaign",
       "catLabel": "キャンペーン",
-      "carrier": "au/KDDI"
+      "carrier": "au/KDDI",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2137/222/cont0.png"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2137192.html",
@@ -310,17 +406,8 @@
       "sourceKey": "ktai",
       "catKey": "campaign",
       "catLabel": "キャンペーン",
-      "carrier": "ドコモ"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/01/news038.html",
-      "title": "ゼリーみたいなスマホ冷却パッドは本当に冷える？　エレコムの「P-SMPT02BU」を炎天下で検証",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/01/news038.html",
-      "date": "2026-09-01T03:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null
+      "carrier": "ドコモ",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2137/192/01.png"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2137103.html",
@@ -330,7 +417,8 @@
       "sourceKey": "ktai",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": "au/KDDI"
+      "carrier": "au/KDDI",
+      "image": null
     },
     {
       "id": "docomo-https://www.docomo.ne.jp/service/dvaluepass/contents_list/tool.html",
@@ -340,7 +428,8 @@
       "sourceKey": "docomo",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": "ドコモ"
+      "carrier": "ドコモ",
+      "image": null
     },
     {
       "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr-1146_4693.html",
@@ -350,7 +439,8 @@
       "sourceKey": "au",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": "au/KDDI"
+      "carrier": "au/KDDI",
+      "image": null
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/ranking/galapagos_ranking/2136665.html",
@@ -360,7 +450,8 @@
       "sourceKey": "ktai",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": null
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/include/common/p01/images/logo/ktw.l.png"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2137096.html",
@@ -370,7 +461,8 @@
       "sourceKey": "ktai",
       "catKey": "price",
       "catLabel": "料金プラン",
-      "carrier": null
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2137/096/00.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/minna/2136992.html",
@@ -380,7 +472,8 @@
       "sourceKey": "ktai",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": null
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2136/992/photo_1-1.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2132793.html",
@@ -390,7 +483,8 @@
       "sourceKey": "ktai",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": null
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2132/793/P1044635-1.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2137043.html",
@@ -400,7 +494,8 @@
       "sourceKey": "ktai",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": null
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2137/043/meti.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2137032.html",
@@ -410,7 +505,8 @@
       "sourceKey": "ktai",
       "catKey": "campaign",
       "catLabel": "キャンペーン",
-      "carrier": null
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2137/032/01.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2137009.html",
@@ -420,17 +516,8 @@
       "sourceKey": "ktai",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2136963.html",
-      "title": "楽天が「東京ゲームショウ2026」出展、猫麦とろろ・Nachonekoらのオリジナルグッズを販売",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2136963.html",
-      "date": "2026-08-31T08:11:12+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "楽天モバイル"
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2137/009/00.jpg"
     },
     {
       "id": "docomo-https://www.docomo.ne.jp/support/product_update/m51e/index.html",
@@ -440,7 +527,8 @@
       "sourceKey": "docomo",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": "ドコモ"
+      "carrier": "ドコモ",
+      "image": null
     },
     {
       "id": "docomo-https://www.docomo.ne.jp/support/product_update/m51f/index.html",
@@ -450,7 +538,8 @@
       "sourceKey": "docomo",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": "ドコモ"
+      "carrier": "ドコモ",
+      "image": null
     },
     {
       "id": "docomo-https://www.docomo.ne.jp/support/product_update/so51f/index.html",
@@ -460,7 +549,8 @@
       "sourceKey": "docomo",
       "catKey": "device",
       "catLabel": "端末",
-      "carrier": "ドコモ"
+      "carrier": "ドコモ",
+      "image": null
     },
     {
       "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260831_01/",
@@ -470,7 +560,8 @@
       "sourceKey": "softbank",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": "ソフトバンク"
+      "carrier": "ソフトバンク",
+      "image": null
     },
     {
       "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr-1132_4683.html",
@@ -480,7 +571,8 @@
       "sourceKey": "au",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": "au/KDDI"
+      "carrier": "au/KDDI",
+      "image": null
     },
     {
       "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260828_01/",
@@ -490,7 +582,8 @@
       "sourceKey": "softbank",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": "ソフトバンク"
+      "carrier": "ソフトバンク",
+      "image": null
     },
     {
       "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc57g/index.html",
@@ -500,7 +593,8 @@
       "sourceKey": "docomo",
       "catKey": "device",
       "catLabel": "端末",
-      "carrier": "ドコモ"
+      "carrier": "ドコモ",
+      "image": null
     },
     {
       "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc56g/index.html",
@@ -510,7 +604,8 @@
       "sourceKey": "docomo",
       "catKey": "device",
       "catLabel": "端末",
-      "carrier": "ドコモ"
+      "carrier": "ドコモ",
+      "image": null
     },
     {
       "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc55g/index.html",
@@ -520,7 +615,8 @@
       "sourceKey": "docomo",
       "catKey": "device",
       "catLabel": "端末",
-      "carrier": "ドコモ"
+      "carrier": "ドコモ",
+      "image": null
     },
     {
       "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260827_01/",
@@ -530,7 +626,8 @@
       "sourceKey": "softbank",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": "ソフトバンク"
+      "carrier": "ソフトバンク",
+      "image": null
     },
     {
       "id": "ymobile-https://www.ymobile.jp/info/press/2026/26082701.html",
@@ -540,7 +637,8 @@
       "sourceKey": "ymobile",
       "catKey": "mvno",
       "catLabel": "MVNO・格安SIM",
-      "carrier": "Y!mobile"
+      "carrier": "Y!mobile",
+      "image": null
     },
     {
       "id": "docomo-https://www.docomo.ne.jp/support/product_update/sh51g/index.html",
@@ -550,7 +648,8 @@
       "sourceKey": "docomo",
       "catKey": "device",
       "catLabel": "端末",
-      "carrier": "ドコモ"
+      "carrier": "ドコモ",
+      "image": null
     },
     {
       "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc52e/index.html",
@@ -560,7 +659,8 @@
       "sourceKey": "docomo",
       "catKey": "device",
       "catLabel": "端末",
-      "carrier": "ドコモ"
+      "carrier": "ドコモ",
+      "image": null
     },
     {
       "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc51e/index.html",
@@ -570,7 +670,8 @@
       "sourceKey": "docomo",
       "catKey": "device",
       "catLabel": "端末",
-      "carrier": "ドコモ"
+      "carrier": "ドコモ",
+      "image": null
     },
     {
       "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc55d/index.html",
@@ -580,7 +681,8 @@
       "sourceKey": "docomo",
       "catKey": "device",
       "catLabel": "端末",
-      "carrier": "ドコモ"
+      "carrier": "ドコモ",
+      "image": null
     },
     {
       "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc54d/index.html",
@@ -590,7 +692,8 @@
       "sourceKey": "docomo",
       "catKey": "device",
       "catLabel": "端末",
-      "carrier": "ドコモ"
+      "carrier": "ドコモ",
+      "image": null
     },
     {
       "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc52d/index.html",
@@ -600,27 +703,8 @@
       "sourceKey": "docomo",
       "catKey": "device",
       "catLabel": "端末",
-      "carrier": "ドコモ"
-    },
-    {
-      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc51d/index.html",
-      "title": "「Galaxy S23 SC-51D」のソフトウェアアップデート情報のお知らせ",
-      "link": "https://www.docomo.ne.jp/support/product_update/sc51d/index.html",
-      "date": "2026-08-25T01:00:00+00:00",
-      "sourceKey": "docomo",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "ドコモ"
-    },
-    {
-      "id": "docomo-https://www.docomo.ne.jp/support/product_update/hp01/index.html",
-      "title": "「homeでんわ HP01」のソフトウェアアップデート情報のお知らせ",
-      "link": "https://www.docomo.ne.jp/support/product_update/hp01/index.html",
-      "date": "2026-08-25T01:00:00+00:00",
-      "sourceKey": "docomo",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "ドコモ"
+      "carrier": "ドコモ",
+      "image": null
     },
     {
       "id": "rakuten-https://corp.mobile.rakuten.co.jp/news/media/2026/0825_01/?l-id=corp_news_media_20260825_01",
@@ -630,7 +714,8 @@
       "sourceKey": "rakuten",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": "楽天モバイル"
+      "carrier": "楽天モバイル",
+      "image": null
     },
     {
       "id": "ymobile-https://www.ymobile.jp/info/press/2026/26082501.html",
@@ -640,7 +725,8 @@
       "sourceKey": "ymobile",
       "catKey": "campaign",
       "catLabel": "キャンペーン",
-      "carrier": "Y!mobile"
+      "carrier": "Y!mobile",
+      "image": null
     },
     {
       "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr-1130_4680.html",
@@ -650,7 +736,8 @@
       "sourceKey": "au",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": "au/KDDI"
+      "carrier": "au/KDDI",
+      "image": null
     },
     {
       "id": "rakuten-https://corp.mobile.rakuten.co.jp/news/press/2026/0821_01/?l-id=corp_news_press_20260821_01",
@@ -660,7 +747,8 @@
       "sourceKey": "rakuten",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": "楽天モバイル"
+      "carrier": "楽天モバイル",
+      "image": null
     },
     {
       "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr-1131_4682.html",
@@ -670,7 +758,8 @@
       "sourceKey": "au",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": "au/KDDI"
+      "carrier": "au/KDDI",
+      "image": null
     },
     {
       "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr-1127_4673.html",
@@ -680,7 +769,8 @@
       "sourceKey": "au",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": "au/KDDI"
+      "carrier": "au/KDDI",
+      "image": null
     },
     {
       "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260820_02/",
@@ -690,7 +780,8 @@
       "sourceKey": "softbank",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": "ソフトバンク"
+      "carrier": "ソフトバンク",
+      "image": null
     },
     {
       "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260820_01/",
@@ -700,7 +791,8 @@
       "sourceKey": "softbank",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": "ソフトバンク"
+      "carrier": "ソフトバンク",
+      "image": null
     },
     {
       "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr_s-75_4679.html",
@@ -710,7 +802,8 @@
       "sourceKey": "au",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": "au/KDDI"
+      "carrier": "au/KDDI",
+      "image": null
     },
     {
       "id": "rakuten-https://corp.mobile.rakuten.co.jp/news/press/2026/0818_01/?l-id=corp_news_press_20260818_01",
@@ -720,7 +813,8 @@
       "sourceKey": "rakuten",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": "楽天モバイル"
+      "carrier": "楽天モバイル",
+      "image": null
     },
     {
       "id": "ymobile-https://www.ymobile.jp/info/press/2026/26081801.html",
@@ -730,7 +824,8 @@
       "sourceKey": "ymobile",
       "catKey": "mvno",
       "catLabel": "MVNO・格安SIM",
-      "carrier": "Y!mobile"
+      "carrier": "Y!mobile",
+      "image": null
     },
     {
       "id": "ymobile-https://www.ymobile.jp/info/press/2026/26081701.html",
@@ -740,7 +835,8 @@
       "sourceKey": "ymobile",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": "ソフトバンク"
+      "carrier": "ソフトバンク",
+      "image": null
     },
     {
       "id": "ymobile-https://www.ymobile.jp/info/press/2026/26081401.html",
@@ -750,7 +846,8 @@
       "sourceKey": "ymobile",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": "Y!mobile"
+      "carrier": "Y!mobile",
+      "image": null
     },
     {
       "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr-1125_4671.html",
@@ -760,7 +857,8 @@
       "sourceKey": "au",
       "catKey": "device",
       "catLabel": "端末",
-      "carrier": "au/KDDI"
+      "carrier": "au/KDDI",
+      "image": null
     },
     {
       "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260813_01/",
@@ -770,7 +868,8 @@
       "sourceKey": "softbank",
       "catKey": "device",
       "catLabel": "端末",
-      "carrier": "ソフトバンク"
+      "carrier": "ソフトバンク",
+      "image": null
     },
     {
       "id": "rakuten-https://corp.mobile.rakuten.co.jp/news/press/2026/0813_01/?l-id=corp_news_press_20260813_01",
@@ -780,7 +879,8 @@
       "sourceKey": "rakuten",
       "catKey": "device",
       "catLabel": "端末",
-      "carrier": "楽天モバイル"
+      "carrier": "楽天モバイル",
+      "image": null
     },
     {
       "id": "rakuten-https://corp.mobile.rakuten.co.jp/news/press/2026/0812_01/?l-id=corp_news_press_20260812_01",
@@ -790,7 +890,8 @@
       "sourceKey": "rakuten",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": "楽天モバイル"
+      "carrier": "楽天モバイル",
+      "image": null
     },
     {
       "id": "au-https://newsroom.kddi.com/ir-news/detail/kddi_ir-1210_4659.html",
@@ -800,7 +901,8 @@
       "sourceKey": "au",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": "au/KDDI"
+      "carrier": "au/KDDI",
+      "image": null
     },
     {
       "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260807_01/",
@@ -810,7 +912,8 @@
       "sourceKey": "softbank",
       "catKey": "price",
       "catLabel": "料金プラン",
-      "carrier": "ソフトバンク"
+      "carrier": "ソフトバンク",
+      "image": null
     },
     {
       "id": "rakuten-https://corp.mobile.rakuten.co.jp/news/press/2026/0806_01/?l-id=corp_news_press_20260806_01",
@@ -820,7 +923,8 @@
       "sourceKey": "rakuten",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": "au/KDDI"
+      "carrier": "au/KDDI",
+      "image": null
     },
     {
       "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260805_01/",
@@ -830,7 +934,8 @@
       "sourceKey": "softbank",
       "catKey": "device",
       "catLabel": "端末",
-      "carrier": "ソフトバンク"
+      "carrier": "ソフトバンク",
+      "image": null
     },
     {
       "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260804_01/",
@@ -840,7 +945,8 @@
       "sourceKey": "softbank",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": "ソフトバンク"
+      "carrier": "ソフトバンク",
+      "image": null
     },
     {
       "id": "ymobile-https://www.ymobile.jp/info/press/2026/26080301.html",
@@ -850,7 +956,8 @@
       "sourceKey": "ymobile",
       "catKey": "campaign",
       "catLabel": "キャンペーン",
-      "carrier": "Y!mobile"
+      "carrier": "Y!mobile",
+      "image": null
     },
     {
       "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260731_02/",
@@ -860,7 +967,8 @@
       "sourceKey": "softbank",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": "ソフトバンク"
+      "carrier": "ソフトバンク",
+      "image": null
     },
     {
       "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260731_01/",
@@ -870,7 +978,8 @@
       "sourceKey": "softbank",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": "ソフトバンク"
+      "carrier": "ソフトバンク",
+      "image": null
     },
     {
       "id": "ymobile-https://www.softbank.jp/mobile/info/personal/news/internationalfailure/20260731_01/",
@@ -880,7 +989,8 @@
       "sourceKey": "ymobile",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": "Y!mobile"
+      "carrier": "Y!mobile",
+      "image": null
     },
     {
       "id": "ymobile-https://www.ymobile.jp/info/press/2026/26073001.html",
@@ -890,7 +1000,8 @@
       "sourceKey": "ymobile",
       "catKey": "campaign",
       "catLabel": "キャンペーン",
-      "carrier": "Y!mobile"
+      "carrier": "Y!mobile",
+      "image": null
     },
     {
       "id": "uq-https://www.uqwimax.jp/annai/news_release/202607291.html",
@@ -900,7 +1011,8 @@
       "sourceKey": "uq",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": "UQ mobile"
+      "carrier": "UQ mobile",
+      "image": null
     },
     {
       "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260727_01/",
@@ -910,7 +1022,8 @@
       "sourceKey": "softbank",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": "ソフトバンク"
+      "carrier": "ソフトバンク",
+      "image": null
     },
     {
       "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260724_01/",
@@ -920,7 +1033,8 @@
       "sourceKey": "softbank",
       "catKey": "device",
       "catLabel": "端末",
-      "carrier": "ソフトバンク"
+      "carrier": "ソフトバンク",
+      "image": null
     },
     {
       "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260723_01/",
@@ -930,7 +1044,8 @@
       "sourceKey": "softbank",
       "catKey": "device",
       "catLabel": "端末",
-      "carrier": "ソフトバンク"
+      "carrier": "ソフトバンク",
+      "image": null
     },
     {
       "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260722_01/",
@@ -940,7 +1055,8 @@
       "sourceKey": "softbank",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": "ソフトバンク"
+      "carrier": "ソフトバンク",
+      "image": null
     },
     {
       "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260717_02/",
@@ -950,7 +1066,8 @@
       "sourceKey": "softbank",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": "ソフトバンク"
+      "carrier": "ソフトバンク",
+      "image": null
     },
     {
       "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260717_01/",
@@ -960,7 +1077,8 @@
       "sourceKey": "softbank",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": "ソフトバンク"
+      "carrier": "ソフトバンク",
+      "image": null
     },
     {
       "id": "uq-https://www.uqwimax.jp/annai/news_release/202607171.html",
@@ -970,7 +1088,8 @@
       "sourceKey": "uq",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": "UQ mobile"
+      "carrier": "UQ mobile",
+      "image": null
     },
     {
       "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260716_01/",
@@ -980,7 +1099,8 @@
       "sourceKey": "softbank",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": "ソフトバンク"
+      "carrier": "ソフトバンク",
+      "image": null
     },
     {
       "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260715_01/",
@@ -990,7 +1110,8 @@
       "sourceKey": "softbank",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": "Y!mobile"
+      "carrier": "Y!mobile",
+      "image": null
     },
     {
       "id": "ymobile-https://www.ymobile.jp/cp/cho-otokuwari/",
@@ -1000,7 +1121,8 @@
       "sourceKey": "ymobile",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": "Y!mobile"
+      "carrier": "Y!mobile",
+      "image": null
     },
     {
       "id": "ymobile-https://www.ymobile.jp/info/press/2026/26071501.html",
@@ -1010,7 +1132,8 @@
       "sourceKey": "ymobile",
       "catKey": "price",
       "catLabel": "料金プラン",
-      "carrier": "Y!mobile"
+      "carrier": "Y!mobile",
+      "image": null
     },
     {
       "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260714_02/",
@@ -1020,7 +1143,8 @@
       "sourceKey": "softbank",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": "ソフトバンク"
+      "carrier": "ソフトバンク",
+      "image": null
     },
     {
       "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260714_01/",
@@ -1030,7 +1154,8 @@
       "sourceKey": "softbank",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": "ソフトバンク"
+      "carrier": "ソフトバンク",
+      "image": null
     },
     {
       "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260713_01/",
@@ -1040,7 +1165,8 @@
       "sourceKey": "softbank",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": "ソフトバンク"
+      "carrier": "ソフトバンク",
+      "image": null
     },
     {
       "id": "ymobile-https://www.ymobile.jp/info/press/2026/26070901.html",
@@ -1050,7 +1176,8 @@
       "sourceKey": "ymobile",
       "catKey": "mvno",
       "catLabel": "MVNO・格安SIM",
-      "carrier": "Y!mobile"
+      "carrier": "Y!mobile",
+      "image": null
     },
     {
       "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260708_01/",
@@ -1060,7 +1187,8 @@
       "sourceKey": "softbank",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": "ソフトバンク"
+      "carrier": "ソフトバンク",
+      "image": null
     },
     {
       "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260702_01/",
@@ -1070,7 +1198,8 @@
       "sourceKey": "softbank",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": "ソフトバンク"
+      "carrier": "ソフトバンク",
+      "image": null
     },
     {
       "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260701_01/",
@@ -1080,7 +1209,8 @@
       "sourceKey": "softbank",
       "catKey": "price",
       "catLabel": "料金プラン",
-      "carrier": "ソフトバンク"
+      "carrier": "ソフトバンク",
+      "image": null
     },
     {
       "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260630_02/",
@@ -1090,7 +1220,8 @@
       "sourceKey": "softbank",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": "ソフトバンク"
+      "carrier": "ソフトバンク",
+      "image": null
     },
     {
       "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260630_01/",
@@ -1100,7 +1231,8 @@
       "sourceKey": "softbank",
       "catKey": "device",
       "catLabel": "端末",
-      "carrier": "ソフトバンク"
+      "carrier": "ソフトバンク",
+      "image": null
     },
     {
       "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260629_01/",
@@ -1110,7 +1242,8 @@
       "sourceKey": "softbank",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": "ソフトバンク"
+      "carrier": "ソフトバンク",
+      "image": null
     },
     {
       "id": "ymobile-https://www.ymobile.jp/info/press/2026/26062601.html",
@@ -1120,7 +1253,8 @@
       "sourceKey": "ymobile",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": "Y!mobile"
+      "carrier": "Y!mobile",
+      "image": null
     },
     {
       "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260623_03/",
@@ -1130,17 +1264,8 @@
       "sourceKey": "softbank",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": "ソフトバンク"
-    },
-    {
-      "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260623_02/",
-      "title": "譲渡制限付株式報酬としての自己株式の処分に関するお知らせ",
-      "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260623_02/",
-      "date": "2026-06-22T15:00:00+00:00",
-      "sourceKey": "softbank",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "ソフトバンク"
+      "carrier": "ソフトバンク",
+      "image": null
     },
     {
       "id": "ymobile-https://www.ymobile.jp/info/press/2026/26062201.html",
@@ -1150,7 +1275,8 @@
       "sourceKey": "ymobile",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": "Y!mobile"
+      "carrier": "Y!mobile",
+      "image": null
     },
     {
       "id": "ymobile-https://www.ymobile.jp/info/press/2026/26061902.html",
@@ -1160,7 +1286,8 @@
       "sourceKey": "ymobile",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": "Y!mobile"
+      "carrier": "Y!mobile",
+      "image": null
     },
     {
       "id": "ymobile-https://www.ymobile.jp/info/press/2026/26061901.html",
@@ -1170,7 +1297,8 @@
       "sourceKey": "ymobile",
       "catKey": "campaign",
       "catLabel": "キャンペーン",
-      "carrier": "Y!mobile"
+      "carrier": "Y!mobile",
+      "image": null
     },
     {
       "id": "ymobile-https://www.softbank.jp/corp/news/press/sbkk/2026/20260618_01/",
@@ -1180,7 +1308,8 @@
       "sourceKey": "ymobile",
       "catKey": "device",
       "catLabel": "端末",
-      "carrier": "Y!mobile"
+      "carrier": "Y!mobile",
+      "image": null
     },
     {
       "id": "uq-https://www.uqwimax.jp/annai/news_release/202606121.html",
@@ -1190,7 +1319,8 @@
       "sourceKey": "uq",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": "UQ mobile"
+      "carrier": "UQ mobile",
+      "image": null
     },
     {
       "id": "rakuten-https://corp.mobile.rakuten.co.jp/news/media/2026/0601_01/?l-id=corp_news_media_20260601_01",
@@ -1200,7 +1330,8 @@
       "sourceKey": "rakuten",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": "楽天モバイル"
+      "carrier": "楽天モバイル",
+      "image": null
     },
     {
       "id": "ymobile-https://www.ymobile.jp/info/press/2026/26060101.html",
@@ -1210,7 +1341,8 @@
       "sourceKey": "ymobile",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": "Y!mobile"
+      "carrier": "Y!mobile",
+      "image": null
     },
     {
       "id": "ymobile-https://www.softbank.jp/corp/news/press/sbkk/2026/20260528_01/",
@@ -1220,7 +1352,8 @@
       "sourceKey": "ymobile",
       "catKey": "device",
       "catLabel": "端末",
-      "carrier": "Y!mobile"
+      "carrier": "Y!mobile",
+      "image": null
     },
     {
       "id": "rakuten-https://corp.mobile.rakuten.co.jp/news/media/2026/0526_01/?l-id=corp_news_media_20260526_01",
@@ -1230,7 +1363,8 @@
       "sourceKey": "rakuten",
       "catKey": "campaign",
       "catLabel": "キャンペーン",
-      "carrier": "楽天モバイル"
+      "carrier": "楽天モバイル",
+      "image": null
     },
     {
       "id": "ymobile-https://www.ymobile.jp/info/press/2026/26052501.html",
@@ -1240,7 +1374,8 @@
       "sourceKey": "ymobile",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": "Y!mobile"
+      "carrier": "Y!mobile",
+      "image": null
     },
     {
       "id": "ymobile-https://www.ymobile.jp/info/press/2026/26051501.html",
@@ -1250,7 +1385,8 @@
       "sourceKey": "ymobile",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": "Y!mobile"
+      "carrier": "Y!mobile",
+      "image": null
     },
     {
       "id": "uq-https://www.uqwimax.jp/annai/news_release/202604231.html",
@@ -1260,7 +1396,8 @@
       "sourceKey": "uq",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": "UQ mobile"
+      "carrier": "UQ mobile",
+      "image": null
     },
     {
       "id": "rakuten-https://corp.mobile.rakuten.co.jp/news/media/2026/0326_01/?l-id=corp_news_media_20260326_01",
@@ -1270,7 +1407,8 @@
       "sourceKey": "rakuten",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": "楽天モバイル"
+      "carrier": "楽天モバイル",
+      "image": null
     },
     {
       "id": "uq-https://www.uqwimax.jp/annai/news_release/202603041.html",
@@ -1280,7 +1418,8 @@
       "sourceKey": "uq",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": "UQ mobile"
+      "carrier": "UQ mobile",
+      "image": null
     },
     {
       "id": "rakuten-https://corp.mobile.rakuten.co.jp/news/media/2026/0202_01/?l-id=corp_news_media_20260202_01",
@@ -1290,7 +1429,8 @@
       "sourceKey": "rakuten",
       "catKey": "campaign",
       "catLabel": "キャンペーン",
-      "carrier": "楽天モバイル"
+      "carrier": "楽天モバイル",
+      "image": null
     },
     {
       "id": "uq-https://www.uqwimax.jp/annai/news_release/202601301.html",
@@ -1300,7 +1440,8 @@
       "sourceKey": "uq",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": "UQ mobile"
+      "carrier": "UQ mobile",
+      "image": null
     },
     {
       "id": "uq-https://www.uqwimax.jp/annai/news_release/202512171.html",
@@ -1310,7 +1451,8 @@
       "sourceKey": "uq",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": "UQ mobile"
+      "carrier": "UQ mobile",
+      "image": null
     },
     {
       "id": "uq-https://www.uqwimax.jp/annai/news_release/202512091.html",
@@ -1320,7 +1462,8 @@
       "sourceKey": "uq",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": "UQ mobile"
+      "carrier": "UQ mobile",
+      "image": null
     },
     {
       "id": "uq-https://www.uqwimax.jp/annai/news_release/202511191.html",
@@ -1330,7 +1473,8 @@
       "sourceKey": "uq",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": "UQ mobile"
+      "carrier": "UQ mobile",
+      "image": null
     },
     {
       "id": "uq-https://www.uqwimax.jp/annai/news_release/202511141.html",
@@ -1340,7 +1484,8 @@
       "sourceKey": "uq",
       "catKey": "price",
       "catLabel": "料金プラン",
-      "carrier": "UQ mobile"
+      "carrier": "UQ mobile",
+      "image": null
     }
   ]
 }
