@@ -13,6 +13,7 @@ data/news.json に書き出す。GitHub Actionsから定期実行されること
 
 import json
 import re
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
@@ -29,6 +30,12 @@ USER_AGENT = (
 )
 HTTP_TIMEOUT = 20
 MAX_ITEMS_PER_SOURCE = 30
+
+# 見出し画像(OGP)。記事ページごとに1枚だけ持つメディアのみ対象。
+# キャリア公式はどの記事も同じロゴOGPなので取得せず、表示側でブランドバッジを出す。
+IMAGE_SOURCES = {"ktai", "itmedia"}
+MAX_IMAGE_FETCHES = 70          # 1回の実行で新規に取りに行く上限
+MAX_IMAGE_BYTES = 600_000       # これを超える画像はサムネイルに重いので不採用
 
 # RSS で取得できる情報源。ITmedia Mobileはタイトルに"ITmedia Mobile"が付く
 # ITmedia全体RSSから絞り込む方式(モバイル専用RSSが見当たらないため)。
@@ -275,6 +282,108 @@ SCRAPER_SOURCES = {
 }
 
 
+# ------------------------------------------------------------------- 見出し画像
+
+
+def _og_image_url(page_url: str) -> str | None:
+    """記事ページから og:image / twitter:image を1枚拾う。https のみ。"""
+    res = requests.get(page_url, headers={"User-Agent": USER_AGENT}, timeout=HTTP_TIMEOUT)
+    res.raise_for_status()
+    res.encoding = res.apparent_encoding or res.encoding
+    soup = BeautifulSoup(res.text, "html.parser")
+    candidates = [
+        ("meta", {"property": "og:image"}),
+        ("meta", {"name": "twitter:image"}),
+        ("meta", {"name": "twitter:image:src"}),
+    ]
+    for name, attrs in candidates:
+        tag = soup.find(name, attrs=attrs)
+        src = (tag.get("content") if tag else "") or ""
+        src = src.strip()
+        if src.startswith("http://"):
+            src = "https://" + src[len("http://") :]
+        if src.startswith("https://"):
+            return src
+    return None
+
+
+def _image_ok(image_url: str) -> bool:
+    """サムネイルとして許容できるサイズ・種別かを HEAD で確認。"""
+    try:
+        head = requests.head(
+            image_url, headers={"User-Agent": USER_AGENT}, timeout=HTTP_TIMEOUT, allow_redirects=True
+        )
+        if not head.ok:
+            return False
+        ctype = head.headers.get("Content-Type", "")
+        if ctype and not ctype.lower().startswith("image/"):
+            return False
+        length = head.headers.get("Content-Length")
+        if length is None:
+            return False
+        return int(length) <= MAX_IMAGE_BYTES
+    except Exception:  # noqa: BLE001
+        return False
+
+
+def _fetch_one_image(page_url: str) -> str | None:
+    try:
+        url = _og_image_url(page_url)
+    except Exception:  # noqa: BLE001
+        return None
+    if url and _image_ok(url):
+        return url
+    return None
+
+
+def _load_previous_images() -> dict[str, str]:
+    if not OUTPUT_PATH.exists():
+        return {}
+    try:
+        data = json.loads(OUTPUT_PATH.read_text(encoding="utf-8"))
+    except Exception:  # noqa: BLE001
+        return {}
+    return {
+        a["id"]: a["image"]
+        for a in data.get("articles", [])
+        if a.get("id") and a.get("image")
+    }
+
+
+def enrich_images(articles: list[dict]) -> None:
+    """対象メディアの記事に image を付与。前回分は再利用し、新規のみ取りに行く。"""
+    previous = _load_previous_images()
+    to_fetch: list[dict] = []
+    budget = MAX_IMAGE_FETCHES
+
+    for article in articles:
+        article.setdefault("image", None)
+        if article["sourceKey"] not in IMAGE_SOURCES:
+            continue
+        if article["id"] in previous:
+            article["image"] = previous[article["id"]]
+        elif budget > 0:
+            budget -= 1
+            to_fetch.append(article)
+
+    if not to_fetch:
+        return
+
+    got = 0
+    with ThreadPoolExecutor(max_workers=10) as pool:
+        futures = {pool.submit(_fetch_one_image, a["link"]): a for a in to_fetch}
+        for future in as_completed(futures):
+            article = futures[future]
+            try:
+                article["image"] = future.result()
+                if article["image"]:
+                    got += 1
+            except Exception:  # noqa: BLE001
+                article["image"] = None
+
+    print(f"見出し画像: {got}/{len(to_fetch)} 件取得(前回再利用 {len(previous)} 件)")
+
+
 # -------------------------------------------------------------------------- main
 
 
@@ -315,6 +424,7 @@ def main():
             errors.append(f"{config['name']} (scrape): {exc}")
 
     all_articles = _dedupe_and_trim(all_articles)
+    enrich_images(all_articles)
 
     OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
     OUTPUT_PATH.write_text(
