@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T20:51:50.741525+00:00",
+  "generated_at": "2026-09-03T23:10:30.238933+00:00",
   "errors": [],
   "articles": [
     {
@@ -309,50 +309,6 @@
       "catLabel": "キャンペーン",
       "carrier": null,
       "image": "https://image.itmedia.co.jp/mobile/articles/2609/03/cover_news077.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/03/news070.html",
-      "title": "シースルーのカプセル型ケースが印象的な「Nothing Ear (a)」がセールで23％オフの9800円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/03/news070.html",
-      "date": "2026-09-03T00:16:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/03/cover_news070.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/03/news069.html",
-      "title": "発火リスクを低減する半固体電池を採用した「バッファロー モバイルバッテリー BMPBSA10000BKX」がセールで12％オフの5290円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/03/news069.html",
-      "date": "2026-09-03T00:11:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/03/cover_news069.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/03/news067.html",
-      "title": "各種キャリア回線に対応した「SHARP AQUOS sense9」がセールで7％オフの4万9900円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/03/news067.html",
-      "date": "2026-09-03T00:08:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/03/cover_news067.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/03/news066.html",
-      "title": "「UGREEN Air モバイルバッテリー 1万mAh」がセールで30％オフの5586円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/03/news066.html",
-      "date": "2026-09-03T00:04:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/03/cover_news066.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2137764.html",
