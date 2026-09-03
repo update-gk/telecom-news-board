@@ -1,7 +1,194 @@
 {
-  "generated_at": "2026-09-02T23:12:55.456846+00:00",
+  "generated_at": "2026-09-03T04:00:09.508571+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2137914.html",
+      "title": "ファーウェイ、血圧測定対応ウォッチ「HUAWEI WATCH D3」先行公開",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2137914.html",
+      "date": "2026-09-03T03:40:37+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2137/914/01.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/03/news057.html",
+      "title": "スマホで久しぶりにワクワクさせられた「Galaxy Z Fold8」のカタチ　パスポートサイズで完全に恋に落ちた",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/03/news057.html",
+      "date": "2026-09-03T03:15:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/03/cover_news057.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2137884.html",
+      "title": "グーグル、次世代AIモデル「Gemini 3.8 Flash」とサイバーセキュリティ特化の「3.8 Flash Cyber」を発表",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2137884.html",
+      "date": "2026-09-03T03:11:43+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2137/884/gemini-3-8_flash.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2137889.html",
+      "title": "DJI「Osmo 360 II」発売、8K/60fps対応の360度カメラ",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2137889.html",
+      "date": "2026-09-03T03:01:33+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2137/889/15.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/03/news078.html",
+      "title": "楽天ペイと楽天ポイントのキャンペーンまとめ【9月3日最新版】　最大1万～3万ポイント還元や20％還元あり",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/03/news078.html",
+      "date": "2026-09-03T01:19:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": "楽天モバイル",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/03/cover_news078.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/03/news051.html",
+      "title": "【ニトリ】2990円の「マグネット・角度調整スタンド付きスマホ防水ケース」　目線に合わせて高さや角度を調整できる",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/03/news051.html",
+      "date": "2026-09-03T01:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/03/l_asa_100item_01.jpg"
+    },
+    {
+      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc54e/index.html",
+      "title": "「Galaxy Z Flip6 SC-54E」のソフトウェアアップデート情報のお知らせ",
+      "link": "https://www.docomo.ne.jp/support/product_update/sc54e/index.html",
+      "date": "2026-09-03T01:00:00+00:00",
+      "sourceKey": "docomo",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "ドコモ",
+      "image": null
+    },
+    {
+      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc56f/index.html",
+      "title": "「Samsung Galaxy Z Fold7 SC-56F」のソフトウェアアップデート情報のお知らせ",
+      "link": "https://www.docomo.ne.jp/support/product_update/sc56f/index.html",
+      "date": "2026-09-03T01:00:00+00:00",
+      "sourceKey": "docomo",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "ドコモ",
+      "image": null
+    },
+    {
+      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc55f/index.html",
+      "title": "「Samsung Galaxy Z Flip7 SC-55F」のソフトウェアアップデート情報のお知らせ",
+      "link": "https://www.docomo.ne.jp/support/product_update/sc55f/index.html",
+      "date": "2026-09-03T01:00:00+00:00",
+      "sourceKey": "docomo",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "ドコモ",
+      "image": null
+    },
+    {
+      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc55e/index.html",
+      "title": "「Galaxy Z Fold6 SC-55E」のソフトウェアアップデート情報のお知らせ",
+      "link": "https://www.docomo.ne.jp/support/product_update/sc55e/index.html",
+      "date": "2026-09-03T01:00:00+00:00",
+      "sourceKey": "docomo",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "ドコモ",
+      "image": null
+    },
+    {
+      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sh53d/index.html",
+      "title": "「AQUOS wish3 SH-53D」のソフトウェアアップデート情報のお知らせ",
+      "link": "https://www.docomo.ne.jp/support/product_update/sh53d/index.html",
+      "date": "2026-09-03T01:00:00+00:00",
+      "sourceKey": "docomo",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "ドコモ",
+      "image": null
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/03/news077.html",
+      "title": "スマホスタンドにもなる3in1ワイヤレス充電器「CIO NovaWave 3Way+」がセールで10％オフの4480円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/03/news077.html",
+      "date": "2026-09-03T00:54:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/03/cover_news077.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/03/news070.html",
+      "title": "シースルーのカプセル型ケースが印象的な「Nothing Ear (a)」がセールで23％オフの9800円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/03/news070.html",
+      "date": "2026-09-03T00:16:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/03/cover_news070.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/03/news069.html",
+      "title": "発火リスクを低減する半固体電池を採用した「バッファロー モバイルバッテリー BMPBSA10000BKX」がセールで12％オフの5290円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/03/news069.html",
+      "date": "2026-09-03T00:11:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/03/cover_news069.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/03/news067.html",
+      "title": "各種キャリア回線に対応した「SHARP AQUOS sense9」がセールで7％オフの4万9900円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/03/news067.html",
+      "date": "2026-09-03T00:08:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/03/cover_news067.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/03/news066.html",
+      "title": "「UGREEN Air モバイルバッテリー 1万mAh」がセールで30％オフの5586円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/03/news066.html",
+      "date": "2026-09-03T00:04:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/03/cover_news066.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/03/news065.html",
+      "title": "かわいいピカチュウモデルの「Anker トラベルアダプタ (5-in-1, 20W)」がセールで33％オフの3990円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/03/news065.html",
+      "date": "2026-09-02T23:58:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/03/cover_news065.jpg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2137764.html",
       "title": "IIJmio、「25ギガプラン」への変更で5GBプレゼント　10月30日まで",
@@ -113,28 +300,6 @@
       "image": "https://image.itmedia.co.jp/mobile/articles/2609/02/cover_news099.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/02/news088.html",
-      "title": "Y!mobile、縦折りタイプの「nubia Flip 3」を2年間約2万円に　新規とMNPが対象【スマホお得情報】",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/02/news088.html",
-      "date": "2026-09-02T08:30:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "Y!mobile",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/02/l_asa_sumaotoku_01.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/02/news097.html",
-      "title": "Google Fitbit Air限定版の発売記念イベント開催　ポケモンファン必見",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/02/news097.html",
-      "date": "2026-09-02T07:41:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/02/cover_news097.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2137668.html",
       "title": "アマゾンで「M6／M5 Pro」の新型Mac mini予約受付中",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2137668.html",
@@ -166,28 +331,6 @@
       "catLabel": "その他",
       "carrier": "au/KDDI",
       "image": null
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/02/news091.html",
-      "title": "楽天モバイルが「自動解約」を予告　11月末までに楽天ID連携しないと電話番号失効へ",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/02/news091.html",
-      "date": "2026-09-02T06:30:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "楽天モバイル",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/02/cover_news091.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/02/news089.html",
-      "title": "ローソンでお得に買い物するには？　公式アプリやポイント、決済手段まとめ【2026年9月版】",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/02/news089.html",
-      "date": "2026-09-02T06:30:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/02/cover_news089.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2137591.html",
@@ -234,17 +377,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2137/599/cont0.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/02/news079.html",
-      "title": "d払い、残高チャージ＆残高での買い物で最大1万ポイント当たるキャンペーン　9月30日まで",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/02/news079.html",
-      "date": "2026-09-02T04:51:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/02/l_asa_docomo_01.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2137588.html",
       "title": "ソフトバンク、空飛ぶ基地局「HAPS」とスマホの通信に国内で初成功 27年以降商用化",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2137588.html",
@@ -278,50 +410,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2137/603/03.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/02/news087.html",
-      "title": "お風呂やアウトドアで手軽に高音質を楽しみたい人に適した「Anker Soundcore 3」がセールで29％オフの4990円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/02/news087.html",
-      "date": "2026-09-02T04:35:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/02/cover_news087.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/02/news085.html",
-      "title": "持ち運びにも適した超小型の「UGREEN Air 65W PD 急速充電器」がセールで25％オフの3209円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/02/news085.html",
-      "date": "2026-09-02T04:31:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/02/cover_news085.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/02/news083.html",
-      "title": "ライブ翻訳や心拍計測に対応した「Apple AirPods Pro 3」がセールで14％オフの3万6800円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/02/news083.html",
-      "date": "2026-09-02T04:24:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/02/cover_news083.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/02/news073.html",
-      "title": "ソフトバンクとSceyeが「空飛ぶ基地局」HAPSの通信試験に成功　2027年以降の商用化を目指す",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/02/news073.html",
-      "date": "2026-09-02T04:21:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "ソフトバンク",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/02/l_asa_SB_01.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2137555.html",
       "title": "ソフトバンクとLINEヤフーが「Yahoo!スマホ買取」開始、アプリ査定で「後から減額」なし・PayPay即日入金",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2137555.html",
@@ -331,17 +419,6 @@
       "catLabel": "その他",
       "carrier": "ソフトバンク",
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2137/555/001.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/02/news078.html",
-      "title": "KDDIら、AI時代の通信需要に応える「6G」へ一歩前進　7GHz帯でも「Sub6並みに電波が届く」のか",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/02/news078.html",
-      "date": "2026-09-02T03:30:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "au/KDDI",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/02/l_rk1640414_kddi6g-01.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2137551.html",
@@ -496,39 +573,6 @@
       "catLabel": "端末",
       "carrier": null,
       "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2137395.html",
-      "title": "ドコモの「dカード」「ポイ活プラン」改定内容まとめ　還元率低下・特典縮小",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2137395.html",
-      "date": "2026-09-01T10:02:29+00:00",
-      "sourceKey": "ktai",
-      "catKey": "price",
-      "catLabel": "料金プラン",
-      "carrier": "ドコモ",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2137/395/docomo.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2137402.html",
-      "title": "ApplePayのJAL Pay利用で、最大1000ポイント還元",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2137402.html",
-      "date": "2026-09-01T09:46:37+00:00",
-      "sourceKey": "ktai",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2137/402/1-1.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2137385.html",
-      "title": "Garmin、スマートウォッチ「vivoactive 6」に新色追加",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2137385.html",
-      "date": "2026-09-01T09:14:05+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2137/385/1-1.jpg"
     },
     {
       "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr_s-76_4692.html",
@@ -700,61 +744,6 @@
       "title": "「AQUOS R11 SH-51G」のソフトウェアアップデート情報のお知らせ",
       "link": "https://www.docomo.ne.jp/support/product_update/sh51g/index.html",
       "date": "2026-08-26T01:00:00+00:00",
-      "sourceKey": "docomo",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "ドコモ",
-      "image": null
-    },
-    {
-      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc52e/index.html",
-      "title": "「Galaxy S24 Ultra SC-52E」のソフトウェアアップデート情報のお知らせ",
-      "link": "https://www.docomo.ne.jp/support/product_update/sc52e/index.html",
-      "date": "2026-08-26T01:00:00+00:00",
-      "sourceKey": "docomo",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "ドコモ",
-      "image": null
-    },
-    {
-      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc51e/index.html",
-      "title": "「Galaxy S24 SC-51E」のソフトウェアアップデート情報のお知らせ",
-      "link": "https://www.docomo.ne.jp/support/product_update/sc51e/index.html",
-      "date": "2026-08-26T01:00:00+00:00",
-      "sourceKey": "docomo",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "ドコモ",
-      "image": null
-    },
-    {
-      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc55d/index.html",
-      "title": "「Galaxy Z Fold5 SC-55D」のソフトウェアアップデート情報のお知らせ",
-      "link": "https://www.docomo.ne.jp/support/product_update/sc55d/index.html",
-      "date": "2026-08-26T01:00:00+00:00",
-      "sourceKey": "docomo",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "ドコモ",
-      "image": null
-    },
-    {
-      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc54d/index.html",
-      "title": "「Galaxy Z Flip5 SC-54D」のソフトウェアアップデート情報のお知らせ",
-      "link": "https://www.docomo.ne.jp/support/product_update/sc54d/index.html",
-      "date": "2026-08-26T01:00:00+00:00",
-      "sourceKey": "docomo",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "ドコモ",
-      "image": null
-    },
-    {
-      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc52d/index.html",
-      "title": "「Galaxy S23 Ultra SC-52D」のソフトウェアアップデート情報のお知らせ",
-      "link": "https://www.docomo.ne.jp/support/product_update/sc52d/index.html",
-      "date": "2026-08-25T01:00:00+00:00",
       "sourceKey": "docomo",
       "catKey": "device",
       "catLabel": "端末",
