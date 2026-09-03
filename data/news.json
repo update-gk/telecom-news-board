@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-09-03T11:00:34.367014+00:00",
+  "generated_at": "2026-09-03T16:13:58.334400+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2138056.html",
+      "title": "「PayPayクーポン／スタンプカード」3000万ユーザー突破",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2138056.html",
+      "date": "2026-09-03T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2138/056/00.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/teppan/2137993.html",
+      "title": "秋の行楽、渋滞にご注意！　「渋滞情報マップ」アプリで回避しよう",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/teppan/2137993.html",
+      "date": "2026-09-03T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2137/993/thumbnail.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/03/news100.html",
+      "title": "横長の折りたたみ「Xiaomi 18 Fold」を中国発表へ　自社開発チップ搭載、折りたたみiPhone発表前に先手？",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/03/news100.html",
+      "date": "2026-09-03T14:08:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/03/cover_news100.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/03/news099.html",
+      "title": "東京メトロ、空いている号車を床面に投影　シャープらと協力　千代田線北千住駅で",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/03/news099.html",
+      "date": "2026-09-03T12:46:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": null
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/03/news098.html",
+      "title": "3層構造バックパック「デュアルポーズ 2」がace.から　通勤から出張まで使える大容量",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/03/news098.html",
+      "date": "2026-09-03T09:47:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/03/l_asa_ace_01.jpg"
+    },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/03/news097.html",
       "title": "マットなアルミパーツを採用　iPhone 17シリーズ向け「iFace Serelu MagSynqケース」発売",
@@ -518,28 +573,6 @@
       "catLabel": "その他",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2137/551/00.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2137557.html",
-      "title": "Bluetooth SIGが日本法人を設立、加盟企業数世界3位の日本市場を強化",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2137557.html",
-      "date": "2026-09-02T03:23:19+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2137528.html",
-      "title": "KDDIとサムスン、7GHz帯で下り3.6Gbps達成　6G向けの実証実験",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2137528.html",
-      "date": "2026-09-02T02:59:16+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "au/KDDI",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2137/528/03.jpg"
     },
     {
       "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc52f/index.html",
