@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-09-04T11:00:41.881284+00:00",
+  "generated_at": "2026-09-04T16:08:45.670236+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/04/news095.html",
+      "title": "コムテックの「ミラー型ドライブレコーダー ZDR048」がセールで3万2980円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/04/news095.html",
+      "date": "2026-09-04T11:27:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/04/cover_news095.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/04/news092.html",
+      "title": "cheeroから「ダンボー」デザインの「耳をふさがない」イヤフォン発売　12mmドライバー搭載で防水にも対応",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/04/news092.html",
+      "date": "2026-09-04T09:55:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/04/l_asa_cheero_01.jpg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2138432.html",
       "title": "KDDI、固定インターネット「auひかりプラス」　5G対応で災害時も“切れない”ネット環境を提供",
