@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-09-04T20:38:34.012763+00:00",
+  "generated_at": "2026-09-04T22:56:48.822187+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/05/news016.html",
+      "title": "KDDIが光回線＋5Gの「auひかりプラス」を提供する狙い　光コラボを生かして全国展開も視野に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/05/news016.html",
+      "date": "2026-09-04T21:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "au/KDDI",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/05/cover_news016.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/05/news004.html",
+      "title": "「深夜にヨドバシで買い物」体験談が話題　24時間受け取りのメリットに、「知らなかった」との声も",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/05/news004.html",
+      "date": "2026-09-04T21:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/05/cover_news004.jpg"
+    },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/04/news095.html",
       "title": "コムテックの「ミラー型ドライブレコーダー ZDR048」がセールで3万2980円に",
@@ -309,39 +331,6 @@
       "catLabel": "その他",
       "carrier": "楽天モバイル",
       "image": "https://image.itmedia.co.jp/mobile/articles/2609/04/l_asa_amazon_01.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/04/news068.html",
-      "title": "「UGREEN USB-C Lightningケーブル」がセールで20％オフの1119円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/04/news068.html",
-      "date": "2026-09-04T00:38:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/04/cover_news068.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/04/news067.html",
-      "title": "外出先でのPC充電や長時間の作業に最適な半固体電池採用の「エレコム モバイルバッテリー EC-C62MN」がセールで14％オフの9490円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/04/news067.html",
-      "date": "2026-09-04T00:33:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/04/cover_news067.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/04/news066.html",
-      "title": "8050mAhバッテリー搭載「Xiaomi POCO F9 Ultra」がセールで13％オフの12万9800円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/04/news066.html",
-      "date": "2026-09-04T00:29:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/04/cover_news066.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2138056.html",
