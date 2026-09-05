@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-09-04T22:56:48.822187+00:00",
+  "generated_at": "2026-09-05T03:58:54.818578+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/05/news017.html",
+      "title": "Suica、JRE POINTのキャンペーンまとめ【9月5日最新版】　買い物やチャージで最大5.5万ポイント",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/05/news017.html",
+      "date": "2026-09-05T01:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/05/cover_news017.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/05/news015.html",
+      "title": "「Pixel 11／10／10a」購入ガイド【2026年9月版】　キャリアとGoogleでお得に買う方法を解説",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/05/news015.html",
+      "date": "2026-09-05T01:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/05/cover_news015.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/05/news012.html",
+      "title": "【ワークマン】2900円の「防水メッセンジャーバッグ」　面ファスナー＆バックルでしっかり閉じる",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/05/news012.html",
+      "date": "2026-09-05T01:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/05/l_asa_100item_01.jpg"
+    },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/05/news016.html",
       "title": "KDDIが光回線＋5Gの「auひかりプラス」を提供する狙い　光コラボを生かして全国展開も視野に",
@@ -309,28 +342,6 @@
       "catLabel": "その他",
       "carrier": "楽天モバイル",
       "image": "https://image.itmedia.co.jp/mobile/articles/2609/04/cover_news056.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/04/news074.html",
-      "title": "WAON POINTやAEON Payのキャンペーンまとめ【9月4日最新版】　ポイント10～20倍の獲得チャンス多数",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/04/news074.html",
-      "date": "2026-09-04T01:01:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/04/cover_news074.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/04/news050.html",
-      "title": "2.07型の大画面＆最大20日連続使用できるスマートウォッチ「Amazfit Bip Max」、楽天市場で約1.7万円",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/04/news050.html",
-      "date": "2026-09-04T01:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "楽天モバイル",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/04/l_asa_amazon_01.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2138056.html",
