@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-09-05T20:12:06.381740+00:00",
+  "generated_at": "2026-09-05T22:44:35.714493+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2138459.html",
+      "title": "9月のドコモ「d払い/dポイント」キャンペーン情報、ファミマや多慶屋など",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2138459.html",
+      "date": "2026-09-05T21:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": "ドコモ",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2138/459/dbarai.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2138407.html",
+      "title": "シャオミが「IFA 2026」に初出展、「Xiaomi 18 Fold」も展示",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2138407.html",
+      "date": "2026-09-05T21:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2138/407/main.jpeg"
+    },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/05/news018.html",
       "title": "「Suicaカード」から順次ペンギンが消える“先祖返り”が発生　Android向け「モバイルSuica」では既にいない",
@@ -333,28 +355,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2138/212/main.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/04/news076.html",
-      "title": "「nanacoクレジットカード」開始　セブン銀行ATMで現金還元、最大11％のポイント還元も",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/04/news076.html",
-      "date": "2026-09-04T02:43:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/04/l_asa_nanacocard_01.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/04/news056.html",
-      "title": "スマホ通信費を見直し、好きなことに使いませんか？　楽天モバイルがあえて安さだけをPRしない「おトク体験」",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/04/news056.html",
-      "date": "2026-09-04T02:30:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "楽天モバイル",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/04/cover_news056.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2138056.html",
       "title": "「PayPayクーポン／スタンプカード」3000万ユーザー突破",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2138056.html",
@@ -551,28 +551,6 @@
       "catLabel": "料金プラン",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2137/764/01.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/minna/2137791.html",
-      "title": "Fitbit AirとGoogle Healthで睡眠管理が大幅に変化",
-      "link": "https://k-tai.watch.impress.co.jp/docs/column/minna/2137791.html",
-      "date": "2026-09-02T15:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2137760.html",
-      "title": "QualcommとHUMAIN、「Snapdragon X2 Elite」搭載AIパソコン発表",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2137760.html",
-      "date": "2026-09-02T15:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2137/760/00.jpg"
     },
     {
       "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr-1147_4694.html",
