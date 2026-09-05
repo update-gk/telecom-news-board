@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-09-05T03:58:54.818578+00:00",
+  "generated_at": "2026-09-05T10:23:11.011908+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/05/news018.html",
+      "title": "「Suicaカード」から順次ペンギンが消える“先祖返り”が発生　Android向け「モバイルSuica」では既にいない",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/05/news018.html",
+      "date": "2026-09-05T05:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/05/cover_news018.jpg"
+    },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/05/news017.html",
       "title": "Suica、JRE POINTのキャンペーンまとめ【9月5日最新版】　買い物やチャージで最大5.5万ポイント",
