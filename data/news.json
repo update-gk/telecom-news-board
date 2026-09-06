@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-09-06T10:41:59.498197+00:00",
+  "generated_at": "2026-09-06T15:18:10.772969+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/ishikawa/2138411.html",
+      "title": "アップルの「Mac」がなぜ今売れる？　金融・航空業界が「手元で動くAI」を選ぶ深い理由",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/ishikawa/2138411.html",
+      "date": "2026-09-06T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2138/411/mini01-1.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2138403.html",
+      "title": "満充電になると2本足で自ら離脱する「マンタン・デタッチャブル」",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2138403.html",
+      "date": "2026-09-06T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2138/403/2.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/minna/2138397.html",
+      "title": "Google Store 表参道のショッパーの\"底\"がおもしろい",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/minna/2138397.html",
+      "date": "2026-09-06T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2138/397/eyecatch.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/stapa/2138329.html",
+      "title": "万が一の「幸運」は自分で引き寄せるのだッ！　備えあれば憂いナシのアナログ＆デジタルの緊急連絡術！",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/stapa/2138329.html",
+      "date": "2026-09-06T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2138/329/stptncs2026-09-07thumbnail-1.jpg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2138382.html",
       "title": "スマホ充電「CHARGESPOT」、ペイディ決済で20％キャッシュバック",
@@ -485,50 +529,6 @@
       "catLabel": "その他",
       "carrier": "au/KDDI",
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2137/984/IMG_4540.JPG"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2137977.html",
-      "title": "JALモバイルの「超トクまつり」、初期費用無料や1500マイル付与",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2137977.html",
-      "date": "2026-09-03T07:22:29+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2137/977/jal-iij.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2137941.html",
-      "title": "IIJmio「SIM交換手数料」0円キャンペーン、音声SIM→eSIMなど",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2137941.html",
-      "date": "2026-09-03T05:44:34+00:00",
-      "sourceKey": "ktai",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2137/941/iijmio.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2137940.html",
-      "title": "「NBA docomo」にシーズンパス、アンバサダーには河村勇輝選手が就任",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2137940.html",
-      "date": "2026-09-03T05:15:37+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2137/940/45.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2137927.html",
-      "title": "楽天モバイル、楽天市場で「Pixel 10 Pro Fold」などの購入と回線契約で最大1万ポイント還元",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2137927.html",
-      "date": "2026-09-03T05:05:13+00:00",
-      "sourceKey": "ktai",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": "楽天モバイル",
-      "image": null
     },
     {
       "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc54e/index.html",
