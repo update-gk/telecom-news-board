@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T20:16:21.851790+00:00",
+  "generated_at": "2026-09-06T22:50:10.142275+00:00",
   "errors": [],
   "articles": [
     {
@@ -366,17 +366,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2138/348/au_logo_main.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/04/news083.html",
-      "title": "楽天モバイルの「arrows Alpha2」、最大1万6000ポイント還元で約7万円【スマホお得情報】",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/04/news083.html",
-      "date": "2026-09-04T06:05:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": "楽天モバイル",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/04/l_asa_sumaotoku_01.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/review/2137757.html",
       "title": "スマホ通知が視界に溶け込む。33gの超軽量AIメガネ「RayNeo iO」実機ファーストインプレッション",
       "link": "https://k-tai.watch.impress.co.jp/docs/review/2137757.html",
@@ -397,17 +386,6 @@
       "catLabel": "キャンペーン",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2138/280/main-1.png"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/04/news080.html",
-      "title": "約16gのiPhone向けミニマルバンパーケース「The CloudBumper」登場　ケースフィニットから",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/04/news080.html",
-      "date": "2026-09-04T04:45:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/04/l_asa_CASEFINITE_01.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2138246.html",
