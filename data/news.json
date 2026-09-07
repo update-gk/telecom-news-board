@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-09-07T19:04:19.846257+00:00",
+  "generated_at": "2026-09-07T23:23:07.668493+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/ranking/galapagos_ranking/2138829.html",
+      "title": "電子書籍人気ランキング（8月28日～9月3日）",
+      "link": "https://k-tai.watch.impress.co.jp/docs/ranking/galapagos_ranking/2138829.html",
+      "date": "2026-09-07T21:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/include/common/p01/images/logo/ktw.l.png"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/08/news048.html",
+      "title": "Xiaomiが「Leitzphone」を200台限定で再販売、「今回の入荷分が最後」　24万9800円で撮影キット付き",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/08/news048.html",
+      "date": "2026-09-07T21:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/08/cover_news048.jpg"
+    },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/08/news049.html",
       "title": "3つ折りスマホ「HUAWEI Mate XT 2」発表　のぞき見を防止、Kirin 9050 Pro×AIも搭載　約46万円から",
@@ -300,28 +322,6 @@
       "image": null
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/07/news037.html",
-      "title": "パスポート型折りたたみスマホ「Galaxy Z Fold8」と「HUAWEI Pura X Max」の実機比較で見えてきた違い",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/07/news037.html",
-      "date": "2026-09-07T01:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/07/cover_news037.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/07/news038.html",
-      "title": "【ワークマン】1280円の「ハニカムメッシュナップザック」　旅行や出張のサブバッグに",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/07/news038.html",
-      "date": "2026-09-07T01:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/07/l_asa_100item_01.jpg"
-    },
-    {
       "id": "docomo-https://www.docomo.ne.jp/support/product_update/so51g/index.html",
       "title": "「Xperia 1 VIII SO-51G」のソフトウェアアップデート情報のお知らせ",
       "link": "https://www.docomo.ne.jp/support/product_update/so51g/index.html",
@@ -353,50 +353,6 @@
       "catLabel": "その他",
       "carrier": "ドコモ",
       "image": null
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/07/news051.html",
-      "title": "装着スタイルを選べるウェアラブルAIボイスレコーダー「Plaud NotePin S」がセールで20％オフの2万2880円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/07/news051.html",
-      "date": "2026-09-07T00:19:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": "au/KDDI",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/07/cover_news051.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/07/news050.html",
-      "title": "iPhoneの背面にくっつく「UGREEN Magnetic Wireless モバイルバッテリー」がセールで30％オフの3206円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/07/news050.html",
-      "date": "2026-09-07T00:14:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/07/cover_news050.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/07/news048.html",
-      "title": "スマホやカメラの撮影で活躍する「エレコム スマホ三脚 PWSTSR05180BK」がセールで12％オフの3090円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/07/news048.html",
-      "date": "2026-09-07T00:10:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/07/cover_news048.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/07/news047.html",
-      "title": "楽天モバイル、KDDIのローミングは「10月以降も継続」と改めて告知　現在は「詰めの協議中」",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/07/news047.html",
-      "date": "2026-09-06T23:56:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "au/KDDI",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/07/cover_news047.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/ishikawa/2138411.html",
@@ -518,17 +474,6 @@
       "catLabel": "その他",
       "carrier": "au/KDDI",
       "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2138422.html",
-      "title": "「d払い」アプリで「Google Play ギフトコード」購入可能に",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2138422.html",
-      "date": "2026-09-04T09:15:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2138/422/01.jpeg"
     },
     {
       "id": "au-https://newsroom.kddi.com/ir-news/detail/kddi_ir-1221_4698.html",
