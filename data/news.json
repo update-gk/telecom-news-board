@@ -1,7 +1,161 @@
 {
-  "generated_at": "2026-09-06T22:50:10.142275+00:00",
+  "generated_at": "2026-09-07T04:05:01.836307+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2138684.html",
+      "title": "LINEMO、乗り換えなら「初期費用3850円」が無料に。紹介キャンペーン開始",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2138684.html",
+      "date": "2026-09-07T03:31:18+00:00",
+      "sourceKey": "ktai",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": "ソフトバンク",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2138/684/sub.png"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2138701.html",
+      "title": "「povo」と「横浜DeNAベイスターズ」が連携、povoのデータ容量や選手サイン入りグッズがもらえるキャンペーン",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2138701.html",
+      "date": "2026-09-07T03:29:31+00:00",
+      "sourceKey": "ktai",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": "au/KDDI",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2138/701/cont0.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2138671.html",
+      "title": "楽天モバイル、一部エリアで10月以降もKDDIローミングを継続する方針を改めてお知らせ",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2138671.html",
+      "date": "2026-09-07T03:00:56+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "au/KDDI",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2138/671/logo.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/07/news063.html",
+      "title": "dポイントがたまるドコモの家賃保証サービス、対象サービスまとめて契約で最大1万5600ポイント進呈",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/07/news063.html",
+      "date": "2026-09-07T02:09:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": "ドコモ",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/07/l_asa_docomo_01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2138542.html",
+      "title": "シャオミ、「Leica Leitzphone」を200台限定で再販――今回が最終販売",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2138542.html",
+      "date": "2026-09-07T01:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": null
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/07/news037.html",
+      "title": "パスポート型折りたたみスマホ「Galaxy Z Fold8」と「HUAWEI Pura X Max」の実機比較で見えてきた違い",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/07/news037.html",
+      "date": "2026-09-07T01:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/07/cover_news037.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/07/news038.html",
+      "title": "【ワークマン】1280円の「ハニカムメッシュナップザック」　旅行や出張のサブバッグに",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/07/news038.html",
+      "date": "2026-09-07T01:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/07/l_asa_100item_01.jpg"
+    },
+    {
+      "id": "docomo-https://www.docomo.ne.jp/support/product_update/so51g/index.html",
+      "title": "「Xperia 1 VIII SO-51G」のソフトウェアアップデート情報のお知らせ",
+      "link": "https://www.docomo.ne.jp/support/product_update/so51g/index.html",
+      "date": "2026-09-07T01:00:00+00:00",
+      "sourceKey": "docomo",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "ドコモ",
+      "image": null
+    },
+    {
+      "id": "docomo-https://www.docomo.ne.jp/support/product_update/f52g/index.html",
+      "title": "「arrows We3 F-52G」のソフトウェアアップデート情報のお知らせ",
+      "link": "https://www.docomo.ne.jp/support/product_update/f52g/index.html",
+      "date": "2026-09-07T01:00:00+00:00",
+      "sourceKey": "docomo",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ドコモ",
+      "image": null
+    },
+    {
+      "id": "docomo-https://www.docomo.ne.jp/corporate/anatatodocomo/docomoeveryday/article228/index.html?icid=CRP_INFO_to_CRP_CORP_anatatodocomo_docomoeveryday_article228",
+      "title": "あなたとドコモ 新着記事：プログラミングは、誰かを幸せにするための力。",
+      "link": "https://www.docomo.ne.jp/corporate/anatatodocomo/docomoeveryday/article228/index.html?icid=CRP_INFO_to_CRP_CORP_anatatodocomo_docomoeveryday_article228",
+      "date": "2026-09-07T01:00:00+00:00",
+      "sourceKey": "docomo",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ドコモ",
+      "image": null
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/07/news051.html",
+      "title": "装着スタイルを選べるウェアラブルAIボイスレコーダー「Plaud NotePin S」がセールで20％オフの2万2880円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/07/news051.html",
+      "date": "2026-09-07T00:19:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": "au/KDDI",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/07/cover_news051.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/07/news050.html",
+      "title": "iPhoneの背面にくっつく「UGREEN Magnetic Wireless モバイルバッテリー」がセールで30％オフの3206円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/07/news050.html",
+      "date": "2026-09-07T00:14:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/07/cover_news050.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/07/news048.html",
+      "title": "スマホやカメラの撮影で活躍する「エレコム スマホ三脚 PWSTSR05180BK」がセールで12％オフの3090円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/07/news048.html",
+      "date": "2026-09-07T00:10:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/07/cover_news048.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/07/news047.html",
+      "title": "楽天モバイル、KDDIのローミングは「10月以降も継続」と改めて告知　現在は「詰めの協議中」",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/07/news047.html",
+      "date": "2026-09-06T23:56:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "au/KDDI",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/07/cover_news047.jpg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/ishikawa/2138411.html",
       "title": "アップルの「Mac」がなぜ今売れる？　金融・航空業界が「手元で動くAI」を選ぶ深い理由",
@@ -201,50 +355,6 @@
       "image": "https://image.itmedia.co.jp/mobile/articles/2609/05/l_asa_100item_01.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/05/news016.html",
-      "title": "KDDIが光回線＋5Gの「auひかりプラス」を提供する狙い　光コラボを生かして全国展開も視野に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/05/news016.html",
-      "date": "2026-09-04T21:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "au/KDDI",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/05/cover_news016.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/05/news004.html",
-      "title": "「深夜にヨドバシで買い物」体験談が話題　24時間受け取りのメリットに、「知らなかった」との声も",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/05/news004.html",
-      "date": "2026-09-04T21:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/05/cover_news004.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/04/news095.html",
-      "title": "コムテックの「ミラー型ドライブレコーダー ZDR048」がセールで3万2980円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/04/news095.html",
-      "date": "2026-09-04T11:27:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/04/cover_news095.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/04/news092.html",
-      "title": "cheeroから「ダンボー」デザインの「耳をふさがない」イヤフォン発売　12mmドライバー搭載で防水にも対応",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/04/news092.html",
-      "date": "2026-09-04T09:55:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/04/l_asa_cheero_01.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2138432.html",
       "title": "KDDI、固定インターネット「auひかりプラス」　5G対応で災害時も“切れない”ネット環境を提供",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2138432.html",
@@ -278,17 +388,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2138/258/main.jpeg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/04/news090.html",
-      "title": "IIJmio、25GBプランへの変更でデータ容量5GBをプレゼント　30GBが月額2000円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/04/news090.html",
-      "date": "2026-09-04T08:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "price",
-      "catLabel": "料金プラン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/04/l_asa_IIJ_01.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2138387.html",
       "title": "ドコモ、「ドコモメール」の障害復旧",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2138387.html",
@@ -298,17 +397,6 @@
       "catLabel": "障害・不具合",
       "carrier": "ドコモ",
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2138/387/docomo-1.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/04/news086.html",
-      "title": "光回線のバックアップにモバイル回線を――KDDIが新インターネットサービス「auひかりプラス」の提供を開始　ISPは3社から選択可（順次拡大予定）",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/04/news086.html",
-      "date": "2026-09-04T06:45:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "au/KDDI",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/04/cover_news086.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2138361.html",
@@ -463,50 +551,6 @@
       "catLabel": "その他",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2138/056/00.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/teppan/2137993.html",
-      "title": "秋の行楽、渋滞にご注意！　「渋滞情報マップ」アプリで回避しよう",
-      "link": "https://k-tai.watch.impress.co.jp/docs/column/teppan/2137993.html",
-      "date": "2026-09-03T15:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2137/993/thumbnail.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2138050.html",
-      "title": "ドコモ、KONAMI ID連携で総額2000万ポイントが当たるキャンペーン",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2138050.html",
-      "date": "2026-09-03T08:56:08+00:00",
-      "sourceKey": "ktai",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": "ドコモ",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2138/050/00.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2138014.html",
-      "title": "メイン回線のMNOシェアは90.7％、満足度トップはpovo　MMD研究所調べ",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2138014.html",
-      "date": "2026-09-03T08:21:59+00:00",
-      "sourceKey": "ktai",
-      "catKey": "mvno",
-      "catLabel": "MVNO・格安SIM",
-      "carrier": "au/KDDI",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2138/014/01.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2137984.html",
-      "title": "山口県とKDDI、宇宙やAIを活用した包括連携協定を締結",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2137984.html",
-      "date": "2026-09-03T07:22:32+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "au/KDDI",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2137/984/IMG_4540.JPG"
     },
     {
       "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc54e/index.html",
@@ -740,28 +784,6 @@
       "image": null
     },
     {
-      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc56g/index.html",
-      "title": "「Samsung Galaxy Z Fold8 Ultra SC-56G」のソフトウェアアップデート情報のお知らせ",
-      "link": "https://www.docomo.ne.jp/support/product_update/sc56g/index.html",
-      "date": "2026-08-27T01:00:00+00:00",
-      "sourceKey": "docomo",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "ドコモ",
-      "image": null
-    },
-    {
-      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc55g/index.html",
-      "title": "「Samsung Galaxy Z Flip8 SC-55G」のソフトウェアアップデート情報のお知らせ",
-      "link": "https://www.docomo.ne.jp/support/product_update/sc55g/index.html",
-      "date": "2026-08-27T01:00:00+00:00",
-      "sourceKey": "docomo",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "ドコモ",
-      "image": null
-    },
-    {
       "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260827_01/",
       "title": "AIを活用し、子どものこころのケアに取り組む教師を支援するサービス「メンタリ」を提供開始",
       "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260827_01/",
@@ -781,17 +803,6 @@
       "catKey": "mvno",
       "catLabel": "MVNO・格安SIM",
       "carrier": "Y!mobile",
-      "image": null
-    },
-    {
-      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sh51g/index.html",
-      "title": "「AQUOS R11 SH-51G」のソフトウェアアップデート情報のお知らせ",
-      "link": "https://www.docomo.ne.jp/support/product_update/sh51g/index.html",
-      "date": "2026-08-26T01:00:00+00:00",
-      "sourceKey": "docomo",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "ドコモ",
       "image": null
     },
     {
