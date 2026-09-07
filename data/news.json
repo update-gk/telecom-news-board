@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-09-07T12:09:47.174542+00:00",
+  "generated_at": "2026-09-07T19:04:19.846257+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/08/news049.html",
+      "title": "3つ折りスマホ「HUAWEI Mate XT 2」発表　のぞき見を防止、Kirin 9050 Pro×AIも搭載　約46万円から",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/08/news049.html",
+      "date": "2026-09-07T15:16:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/08/l_rk1640414_huawei-01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2138854.html",
+      "title": "Google 翻訳、Androidは画面ロック中もライブ翻訳　iPhoneは受話口から再生",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2138854.html",
+      "date": "2026-09-07T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2138/854/01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/minna/2138823.html",
+      "title": "折りたたみスマホ「razr fold」の弱点？　大画面の使いづらさを自作アプリで解決",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/minna/2138823.html",
+      "date": "2026-09-07T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2138/823/1.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2138379.html",
+      "title": "ナイロンベルトとミニストレッチ機能がかわいい「HUAWEI WATCH FIT 5」",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2138379.html",
+      "date": "2026-09-07T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2138/379/00.jpg"
+    },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/07/news092.html",
       "title": "「Pixel 6a」で製品起因が疑われる発火事故が発生　消費者庁が「消費生活用製品の重大製品事故」として公表",
@@ -485,39 +529,6 @@
       "catLabel": "その他",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2138/422/01.jpeg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2138258.html",
-      "title": "GmailやDocsに音声対話式の新機能「子どもの学校の持ち物はなんだっけ？」の確認など",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2138258.html",
-      "date": "2026-09-04T08:30:55+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2138/258/main.jpeg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2138387.html",
-      "title": "ドコモ、「ドコモメール」の障害復旧",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2138387.html",
-      "date": "2026-09-04T07:20:14+00:00",
-      "sourceKey": "ktai",
-      "catKey": "trouble",
-      "catLabel": "障害・不具合",
-      "carrier": "ドコモ",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2138/387/docomo-1.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2138361.html",
-      "title": "PayPayカード、ポイントで「翌月以降」の支払いも可能に",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2138361.html",
-      "date": "2026-09-04T06:41:56+00:00",
-      "sourceKey": "ktai",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2138/361/paypaysyou.jpg"
     },
     {
       "id": "au-https://newsroom.kddi.com/ir-news/detail/kddi_ir-1221_4698.html",
