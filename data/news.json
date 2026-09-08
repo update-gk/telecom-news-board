@@ -1,7 +1,128 @@
 {
-  "generated_at": "2026-09-08T04:07:00.877952+00:00",
+  "generated_at": "2026-09-08T11:01:11.430334+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/08/news084.html",
+      "title": "「Apple参入は絶好の機会」OPPO、モトローラ、サムスンが明かすフォルダブル戦略：IIJmio meeting37",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/08/news084.html",
+      "date": "2026-09-08T09:59:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/08/cover_news084.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139168.html",
+      "title": "JR東日本、2030年代初めに全駅Suica対応へ　列車に改札設置も",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2139168.html",
+      "date": "2026-09-08T09:02:55+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2139/168/01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139169.html",
+      "title": "スマホゲームをAIで高画質化、Snapdragon向け「Adreno Neural Fusion」",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2139169.html",
+      "date": "2026-09-08T09:02:51+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2139/169/103.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/08/news078.html",
+      "title": "ソフトバンクの「iPhone Air（256GB）」、MNPだと2年24円に【スマホお得情報】",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/08/news078.html",
+      "date": "2026-09-08T08:11:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "ソフトバンク",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/08/l_asa_sumaotoku_01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139149.html",
+      "title": "Suica新キャラクターのWeb投票が開始、“可愛い相棒”や“やさしく伝える案内役”を体現",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2139149.html",
+      "date": "2026-09-08T07:42:46+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": null
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/08/news077.html",
+      "title": "JR東日本が「Suica」を使った鉄道乗車のロードマップを更新　2030年代半ばめどに自社全線で利用可能に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/08/news077.html",
+      "date": "2026-09-08T07:30:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/08/cover_news077.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/08/news066.html",
+      "title": "手持ちのジンバルカメラが67gの羽根で飛ぶ　HOVERAir「VERSA」国内発表、CEOは「ドローンとは呼ばない」",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/08/news066.html",
+      "date": "2026-09-08T07:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/08/cover_news066.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139108.html",
+      "title": "ファーウェイ、3つ折りスマホ「Mate XT 2」中国発表　約46.5万円～",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2139108.html",
+      "date": "2026-09-08T06:00:08+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": null
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/08/news069.html",
+      "title": "サムスン、「Galaxy Z Fold8／Fold8 Ultra」を1万円～1万5000円割引　9月29日までの期間限定",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/08/news069.html",
+      "date": "2026-09-08T04:45:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/08/l_asa_samsung_01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139064.html",
+      "title": "「ローソン専用QUOカードPay」がLINEギフトに登場、誕生日向けデザインも",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2139064.html",
+      "date": "2026-09-08T04:42:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2139/064/01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139056.html",
+      "title": "シャオミ、パスポートサイズの折りたたみスマホ「Xiaomi 18 Fold」を中国向けに正式発表",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2139056.html",
+      "date": "2026-09-08T04:18:24+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2139/056/18fs.jpg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139037.html",
       "title": "au PAY マーケット、最大36％還元の「ポイント超超祭」9日～",
@@ -34,6 +155,17 @@
       "catLabel": "その他",
       "carrier": null,
       "image": "https://image.itmedia.co.jp/mobile/articles/2609/08/cover_news065.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/08/news062.html",
+      "title": "朝ラッシュ時の山手線、4キャリアの5G速度や「5G+」表示比率は？　ICT総研が調査（2026年9月）",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/08/news062.html",
+      "date": "2026-09-08T03:21:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/08/l_asa_ICT_01.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2138999.html",
@@ -234,28 +366,6 @@
       "image": "https://k-tai.watch.impress.co.jp/include/common/p01/images/logo/ktw.l.png"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/08/news048.html",
-      "title": "Xiaomiが「Leitzphone」を200台限定で再販売、「今回の入荷分が最後」　24万9800円で撮影キット付き",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/08/news048.html",
-      "date": "2026-09-07T21:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/08/cover_news048.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/08/news049.html",
-      "title": "3つ折りスマホ「HUAWEI Mate XT 2」発表　のぞき見を防止、Kirin 9050 Pro×AIも搭載　約46万円から",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/08/news049.html",
-      "date": "2026-09-07T15:16:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/08/l_rk1640414_huawei-01.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2138854.html",
       "title": "Google 翻訳、Androidは画面ロック中もライブ翻訳　iPhoneは受話口から再生",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2138854.html",
@@ -289,6 +399,17 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2138/379/00.jpg"
     },
     {
+      "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260908_02/",
+      "title": "AIマネジメントシステムの国際規格「ISO/IEC 42001:2023」の認証を取得～責任あるAIの実現に向け、AIガバナンスの強化を推進〜",
+      "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260908_02/",
+      "date": "2026-09-07T15:00:00+00:00",
+      "sourceKey": "softbank",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ソフトバンク",
+      "image": null
+    },
+    {
       "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260908_01/",
       "title": "国内初、50G-PONを含む3世代のPON方式を一つの光トランシーバーで共存させるフィールドトライアルに成功～既設の加入光ファイバーで100G-PONの重畳実証にも成功～",
       "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260908_01/",
@@ -300,28 +421,6 @@
       "image": null
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/07/news092.html",
-      "title": "「Pixel 6a」で製品起因が疑われる発火事故が発生　消費者庁が「消費生活用製品の重大製品事故」として公表",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/07/news092.html",
-      "date": "2026-09-07T11:30:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/07/cover_news092.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/07/news091.html",
-      "title": "折りたたみiPhoneは30万～40万円超に？　ダミー画像から見えたスペックと品薄の懸念",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/07/news091.html",
-      "date": "2026-09-07T10:33:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/07/cover_news091.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2138873.html",
       "title": "Google Pixel 10aが実質47円、UQ mobileがMNP割引を4万4000円に増額",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2138873.html",
@@ -331,17 +430,6 @@
       "catLabel": "キャンペーン",
       "carrier": "UQ mobile",
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2138/873/10a.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/07/news088.html",
-      "title": "タッチパッドとテンキー入力を切り替えられる「日本語配列ワイヤレスキーボード」発売",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/07/news088.html",
-      "date": "2026-09-07T09:28:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/07/l_asa_LLLL_01.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2138838.html",
@@ -529,72 +617,6 @@
       "catLabel": "その他",
       "carrier": "ドコモ",
       "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/ishikawa/2138411.html",
-      "title": "アップルの「Mac」がなぜ今売れる？　金融・航空業界が「手元で動くAI」を選ぶ深い理由",
-      "link": "https://k-tai.watch.impress.co.jp/docs/column/ishikawa/2138411.html",
-      "date": "2026-09-06T15:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2138/411/mini01-1.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2138403.html",
-      "title": "満充電になると2本足で自ら離脱する「マンタン・デタッチャブル」",
-      "link": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2138403.html",
-      "date": "2026-09-06T15:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2138/403/2.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/minna/2138397.html",
-      "title": "Google Store 表参道のショッパーの\"底\"がおもしろい",
-      "link": "https://k-tai.watch.impress.co.jp/docs/column/minna/2138397.html",
-      "date": "2026-09-06T15:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2138/397/eyecatch.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/stapa/2138329.html",
-      "title": "万が一の「幸運」は自分で引き寄せるのだッ！　備えあれば憂いナシのアナログ＆デジタルの緊急連絡術！",
-      "link": "https://k-tai.watch.impress.co.jp/docs/column/stapa/2138329.html",
-      "date": "2026-09-06T15:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2138/329/stptncs2026-09-07thumbnail-1.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2138382.html",
-      "title": "スマホ充電「CHARGESPOT」、ペイディ決済で20％キャッシュバック",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2138382.html",
-      "date": "2026-09-06T03:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2138/382/s-paidy_chargespot_campaign.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2138318.html",
-      "title": "Audible、世界1100万部超「THE LET THEM THEORY」日本語版を配信",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2138318.html",
-      "date": "2026-09-06T02:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2138/318/main.jpg"
     },
     {
       "id": "au-https://newsroom.kddi.com/ir-news/detail/kddi_ir-1221_4698.html",
@@ -1286,17 +1308,6 @@
       "sourceKey": "softbank",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": "ソフトバンク",
-      "image": null
-    },
-    {
-      "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260630_01/",
-      "title": "「AQUOS R11」を“ソフトバンク”で7月9日に発売",
-      "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260630_01/",
-      "date": "2026-06-29T15:00:00+00:00",
-      "sourceKey": "softbank",
-      "catKey": "device",
-      "catLabel": "端末",
       "carrier": "ソフトバンク",
       "image": null
     },
