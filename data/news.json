@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-09-08T11:01:11.430334+00:00",
+  "generated_at": "2026-09-08T16:26:32.633373+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2139220.html",
+      "title": "USBケーブルとケースが一体で収納も充電もしやすいオウルテックの「Carry Cable」",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2139220.html",
+      "date": "2026-09-08T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2139/220/P1033013.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139209.html",
+      "title": "LINEがリニューアル、「友だち」の場所やホーム画面など変更",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2139209.html",
+      "date": "2026-09-08T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": null
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2138461.html",
+      "title": "スマホでパスポート更新しました！",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2138461.html",
+      "date": "2026-09-08T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": null
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/08/news086.html",
+      "title": "“折りたたみiPhone”だけじゃない　もうすぐ開催のAppleイベントで登場する新製品のうわさを総まとめ",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/08/news086.html",
+      "date": "2026-09-08T13:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": null
+    },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/08/news084.html",
       "title": "「Apple参入は絶好の機会」OPPO、モトローラ、サムスンが明かすフォルダブル戦略：IIJmio meeting37",
@@ -12,6 +56,28 @@
       "catLabel": "その他",
       "carrier": null,
       "image": "https://image.itmedia.co.jp/mobile/articles/2609/08/cover_news084.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/08/news074.html",
+      "title": "サンワから5in1モバイルタップ発売　80cmの電源コードを本体に巻き取れる",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/08/news074.html",
+      "date": "2026-09-08T09:41:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/08/l_asa_sanwa_01.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/08/news082.html",
+      "title": "三井住友銀行アプリとVpassアプリで「PayPay残高」を確認可能に　OliveでPayPay残高決済も追加予定",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/08/news082.html",
+      "date": "2026-09-08T09:31:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/08/l_asa_SMBC_01.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139168.html",
@@ -88,7 +154,7 @@
       "catKey": "other",
       "catLabel": "その他",
       "carrier": null,
-      "image": null
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2139/108/00.jpg"
     },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/08/news069.html",
@@ -551,39 +617,6 @@
       "catLabel": "キャンペーン",
       "carrier": "ソフトバンク",
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2138/684/sub.png"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2138701.html",
-      "title": "「povo」と「横浜DeNAベイスターズ」が連携、povoのデータ容量や選手サイン入りグッズがもらえるキャンペーン",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2138701.html",
-      "date": "2026-09-07T03:29:31+00:00",
-      "sourceKey": "ktai",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": "au/KDDI",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2138/701/cont0.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2138671.html",
-      "title": "楽天モバイル、一部エリアで10月以降もKDDIローミングを継続する方針を改めてお知らせ",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2138671.html",
-      "date": "2026-09-07T03:00:56+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "au/KDDI",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2138/671/logo.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2138542.html",
-      "title": "シャオミ、「Leica Leitzphone」を200台限定で再販――今回が最終販売",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2138542.html",
-      "date": "2026-09-07T01:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": null
     },
     {
       "id": "docomo-https://www.docomo.ne.jp/support/product_update/so51g/index.html",
