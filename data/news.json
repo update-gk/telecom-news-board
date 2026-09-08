@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T21:00:00.497884+00:00",
+  "generated_at": "2026-09-08T23:20:26.539845+00:00",
   "errors": [],
   "articles": [
     {
@@ -364,61 +364,6 @@
       "catLabel": "端末",
       "carrier": "ドコモ",
       "image": null
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/08/news056.html",
-      "title": "車内を大画面エンタメ空間にする「VANBAR ディスプレイオーディオ」がセールで20％オフの2万8777円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/08/news056.html",
-      "date": "2026-09-08T00:38:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/08/cover_news056.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/08/news055.html",
-      "title": "Vlog撮影やインタビューに適したワイヤレスマイク「DJI Mic 3」がセールで29％オフの3万7290円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/08/news055.html",
-      "date": "2026-09-08T00:34:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/08/cover_news055.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/08/news054.html",
-      "title": "からみにくいシリコン素材のUSB Type-Cケーブル「エレコム MPA-CCECSS10BK」がセールで11％オフの980円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/08/news054.html",
-      "date": "2026-09-08T00:22:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/08/cover_news054.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/08/news036.html",
-      "title": "なぜLINEは“ちょっとした気遣い”で重宝された「ミュートメッセージ」を有料化したのか？",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/08/news036.html",
-      "date": "2026-09-07T23:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/08/cover_news036.png"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/08/news039.html",
-      "title": "3COINSで1320円の「コイル充電ケーブルAtoC」を試す　伸縮式よりも“ラフ”に扱えて便利　ただしキーボードにはアンマッチ？",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/08/news039.html",
-      "date": "2026-09-07T23:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/08/cover_news039.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/ranking/galapagos_ranking/2138829.html",
