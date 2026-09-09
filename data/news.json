@@ -1,7 +1,205 @@
 {
-  "generated_at": "2026-09-08T23:20:26.539845+00:00",
+  "generated_at": "2026-09-09T04:13:31.387458+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139416.html",
+      "title": "楽天モバイルから「AQUOS wish6」、4.5万円",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2139416.html",
+      "date": "2026-09-09T03:55:53+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "楽天モバイル",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2139/416/cont0.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139389.html",
+      "title": "ワイモバイルから「AQUOS wish6」17日発売、MNP・新規なら2年間24円",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2139389.html",
+      "date": "2026-09-09T03:40:52+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "Y!mobile",
+      "image": null
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/09/news080.html",
+      "title": "ケーブルの出っ張りを解消する「UGREEN L型 USB Type-C変換アダプタ（2個セット）」が25％オフの974円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/09/news080.html",
+      "date": "2026-09-09T03:31:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/09/cover_news080.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139394.html",
+      "title": "MetaのAIエージェント「Muse」が米国で提供開始",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2139394.html",
+      "date": "2026-09-09T03:22:32+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2139/394/cont1.png"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139383.html",
+      "title": "モスバーガーでdポイント3倍・100ポイント進呈、10月8日まで",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2139383.html",
+      "date": "2026-09-09T03:02:22+00:00",
+      "sourceKey": "ktai",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2139/383/00.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/09/news077.html",
+      "title": "折りたたみiPhone、登場なるか？　9月10日2時からの「Appleスペシャルイベント」の視聴方法をチェック！",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/09/news077.html",
+      "date": "2026-09-09T03:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/09/cover_news077.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/09/news068.html",
+      "title": "cheeroからダンボーの“耳をふさがない”イヤーカフ型イヤフォンが登場　実機をチェックしてみた",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/09/news068.html",
+      "date": "2026-09-09T03:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/09/cover_news068.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139367.html",
+      "title": "iPhoneに「iOS 26.6.2」登場　モバイル通信での更新不具合を修正",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2139367.html",
+      "date": "2026-09-09T02:40:17+00:00",
+      "sourceKey": "ktai",
+      "catKey": "trouble",
+      "catLabel": "障害・不具合",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2139/367/00.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/09/news073.html",
+      "title": "15カ月ぶりに首位交代、iPhone 14以降の人気が高まる　にこスマの中古スマホランキング（2026年8月）",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/09/news073.html",
+      "date": "2026-09-09T02:30:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/09/l_asa_Belong_01.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/09/news070.html",
+      "title": "“折りたたみiPhone”に期待したいこと　長年「Galaxy Z Fold」を愛用する人として",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/09/news070.html",
+      "date": "2026-09-09T02:17:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/09/cover_news070.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/09/news069.html",
+      "title": "FCNTに聞く「arrows Alpha2」　10万円未満を死守できた理由、メモリ8GBでも体験価値を守るチューニングの裏側",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/09/news069.html",
+      "date": "2026-09-09T02:14:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/09/cover_news069.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139158.html",
+      "title": "シャープ、「AQUOS wish6」SIMフリー版発売へ",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2139158.html",
+      "date": "2026-09-09T01:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "mvno",
+      "catLabel": "MVNO・格安SIM",
+      "carrier": null,
+      "image": null
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/09/news053.html",
+      "title": "【ワークマン】4900円の「リフレクトソフトPUリュック」　反射生地で視認性をサポート",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/09/news053.html",
+      "date": "2026-09-09T01:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/09/l_asa_100item_01.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/09/news057.html",
+      "title": "シャープ「AQUOS wish6」発表、5万円前後のSIMフリー版　防犯アラートやAI活用の電話機能を搭載",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/09/news057.html",
+      "date": "2026-09-09T01:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "mvno",
+      "catLabel": "MVNO・格安SIM",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/09/l_rk1640414_AQUOSwish6-01.jpg"
+    },
+    {
+      "id": "docomo-https://www.docomo.ne.jp/corporate/anatatodocomo/docomoeveryday/article229/index.html?icid=CRP_INFO_to_CRP_CORP_anatatodocomo_docomoeveryday_article229",
+      "title": "あなたとドコモ 新着記事：2026年8月21日（金曜）よりドコモショップで「ドコモの銀行（ドコモSMTBネット銀行）」のご案内や口座開設などのサポートをスタート！",
+      "link": "https://www.docomo.ne.jp/corporate/anatatodocomo/docomoeveryday/article229/index.html?icid=CRP_INFO_to_CRP_CORP_anatatodocomo_docomoeveryday_article229",
+      "date": "2026-09-09T01:00:00+00:00",
+      "sourceKey": "docomo",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ドコモ",
+      "image": null
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/09/news063.html",
+      "title": "USB Type-C端子に直挿しできる「UGREEN タイプc イヤホン」がセールで20％オフの1264円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/09/news063.html",
+      "date": "2026-09-09T00:32:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/09/cover_news063.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/09/news062.html",
+      "title": "「ちいかわ」のうさぎが浮かび上がる「グルマンディーズ iPhone ガラススクリーンプロテクター CK-60C」がセールで16％オフの2289円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/09/news062.html",
+      "date": "2026-09-09T00:26:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/09/cover_news062.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/09/news061.html",
+      "title": "3台同時に充電できる「Anker Prime Wireless Charging Station」がセールで20％オフの1万5990円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/09/news061.html",
+      "date": "2026-09-09T00:21:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/09/cover_news061.jpg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2139220.html",
       "title": "USBケーブルとケースが一体で収納も充電もしやすいオウルテックの「Carry Cable」",
@@ -36,48 +234,48 @@
       "image": null
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/08/news086.html",
-      "title": "“折りたたみiPhone”だけじゃない　もうすぐ開催のAppleイベントで登場する新製品のうわさを総まとめ",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/08/news086.html",
-      "date": "2026-09-08T13:00:00+00:00",
-      "sourceKey": "itmedia",
+      "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260909_02/",
+      "title": "「AQUOS wish6」を“ワイモバイル”で9月17日に発売",
+      "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260909_02/",
+      "date": "2026-09-08T15:00:00+00:00",
+      "sourceKey": "softbank",
       "catKey": "device",
       "catLabel": "端末",
-      "carrier": null,
+      "carrier": "Y!mobile",
       "image": null
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/08/news084.html",
-      "title": "「Apple参入は絶好の機会」OPPO、モトローラ、サムスンが明かすフォルダブル戦略：IIJmio meeting37",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/08/news084.html",
-      "date": "2026-09-08T09:59:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/08/cover_news084.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/08/news074.html",
-      "title": "サンワから5in1モバイルタップ発売　80cmの電源コードを本体に巻き取れる",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/08/news074.html",
-      "date": "2026-09-08T09:41:00+00:00",
-      "sourceKey": "itmedia",
+      "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260909_01/",
+      "title": "「AQUOS wish6」を法人向けに“ソフトバンク”で9月17日に発売",
+      "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260909_01/",
+      "date": "2026-09-08T15:00:00+00:00",
+      "sourceKey": "softbank",
       "catKey": "device",
       "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/08/l_asa_sanwa_01.jpg"
+      "carrier": "ソフトバンク",
+      "image": null
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/08/news082.html",
-      "title": "三井住友銀行アプリとVpassアプリで「PayPay残高」を確認可能に　OliveでPayPay残高決済も追加予定",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/08/news082.html",
-      "date": "2026-09-08T09:31:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/08/l_asa_SMBC_01.jpg"
+      "id": "rakuten-https://corp.mobile.rakuten.co.jp/news/press/2026/0909_01/?l-id=corp_news_press_20260909_01",
+      "title": "楽天モバイル、「AQUOS wish6」を9月17日（木）より発売開始",
+      "link": "https://corp.mobile.rakuten.co.jp/news/press/2026/0909_01/?l-id=corp_news_press_20260909_01",
+      "date": "2026-09-08T15:00:00+00:00",
+      "sourceKey": "rakuten",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "楽天モバイル",
+      "image": null
+    },
+    {
+      "id": "ymobile-https://www.softbank.jp/corp/news/press/sbkk/2026/20260909_02/",
+      "title": "「AQUOS wish6」を9月17日に発売",
+      "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260909_02/",
+      "date": "2026-09-08T15:00:00+00:00",
+      "sourceKey": "ymobile",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "Y!mobile",
+      "image": null
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139168.html",
@@ -102,17 +300,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2139/169/103.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/08/news078.html",
-      "title": "ソフトバンクの「iPhone Air（256GB）」、MNPだと2年24円に【スマホお得情報】",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/08/news078.html",
-      "date": "2026-09-08T08:11:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "ソフトバンク",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/08/l_asa_sumaotoku_01.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139149.html",
       "title": "Suica新キャラクターのWeb投票が開始、“可愛い相棒”や“やさしく伝える案内役”を体現",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2139149.html",
@@ -124,28 +311,6 @@
       "image": null
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/08/news077.html",
-      "title": "JR東日本が「Suica」を使った鉄道乗車のロードマップを更新　2030年代半ばめどに自社全線で利用可能に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/08/news077.html",
-      "date": "2026-09-08T07:30:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/08/cover_news077.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/08/news066.html",
-      "title": "手持ちのジンバルカメラが67gの羽根で飛ぶ　HOVERAir「VERSA」国内発表、CEOは「ドローンとは呼ばない」",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/08/news066.html",
-      "date": "2026-09-08T07:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/08/cover_news066.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139108.html",
       "title": "ファーウェイ、3つ折りスマホ「Mate XT 2」中国発表　約46.5万円～",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2139108.html",
@@ -155,17 +320,6 @@
       "catLabel": "その他",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2139/108/00.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/08/news069.html",
-      "title": "サムスン、「Galaxy Z Fold8／Fold8 Ultra」を1万円～1万5000円割引　9月29日までの期間限定",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/08/news069.html",
-      "date": "2026-09-08T04:45:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/08/l_asa_samsung_01.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139064.html",
@@ -212,28 +366,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2139/009/01.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/08/news065.html",
-      "title": "「Xiaomi 18 Fold」中国発表　閉じても開いても同じアスペクト比、ライカ3眼カメラ搭載で約25.6万円から",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/08/news065.html",
-      "date": "2026-09-08T03:28:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/08/cover_news065.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/08/news062.html",
-      "title": "朝ラッシュ時の山手線、4キャリアの5G速度や「5G+」表示比率は？　ICT総研が調査（2026年9月）",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/08/news062.html",
-      "date": "2026-09-08T03:21:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/08/l_asa_ICT_01.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2138999.html",
       "title": "TVer、コネクテッドTVで8月の再生数が過去最高の2.3億再生を記録",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2138999.html",
@@ -256,28 +388,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2138/995/zfold8.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/08/news061.html",
-      "title": "ウエルシアのお得情報まとめ【9月8日最新版】　最大5万ポイントや1万円分のデジタルギフトが当たる",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/08/news061.html",
-      "date": "2026-09-08T01:14:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/08/cover_news061.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/08/news050.html",
-      "title": "ソニー、ヘッドフォン2種発表　最大75時間のスタミナ実現、耳を守る「音量制限」を搭載",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/08/news050.html",
-      "date": "2026-09-08T01:05:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/08/cover_news050.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2138825.html",
       "title": "ソニー、新型ワイヤレスヘッドホン「WH-CH730N」「WH-CH530」を発表",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2138825.html",
@@ -287,17 +397,6 @@
       "catLabel": "その他",
       "carrier": null,
       "image": null
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/08/news043.html",
-      "title": "ドコモの純正スマートウォッチがAmazonで14％オフの約6000円に　心拍や睡眠の測定も可能",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/08/news043.html",
-      "date": "2026-09-08T01:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "ドコモ",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/08/l_asa_amazon_01.jpg"
     },
     {
       "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc53g/index.html",
@@ -498,72 +597,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2138/782/00.jpg"
     },
     {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2138774.html",
-      "title": "U-NEXT、初めての電子書籍購入で最大95％オフになる特典",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2138774.html",
-      "date": "2026-09-07T05:48:05+00:00",
-      "sourceKey": "ktai",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2138724.html",
-      "title": "LINEMOで「セキュリティパックプレミアム（L）」が最大3カ月無料、プラン契約や変更が対象",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2138724.html",
-      "date": "2026-09-07T04:32:19+00:00",
-      "sourceKey": "ktai",
-      "catKey": "price",
-      "catLabel": "料金プラン",
-      "carrier": "ソフトバンク",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2138/724/sub.png"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2138733.html",
-      "title": "povoの“1年間トッピング”購入で「Google Store」で使える10％割引クーポンがもらえるキャンペーンがスタート",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2138733.html",
-      "date": "2026-09-07T04:08:37+00:00",
-      "sourceKey": "ktai",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": "au/KDDI",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2138/733/cont0.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2138730.html",
-      "title": "Apple TV、9月の新着作品は「メーデー」「ブラザーズ」「ミッシング・ガール」など",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2138730.html",
-      "date": "2026-09-07T04:08:11+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2138/730/kv.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2138729.html",
-      "title": "Waymo、独自設計5nm ASIC搭載の自動運転向け車載コンピューティングシステムを公開",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2138729.html",
-      "date": "2026-09-07T04:03:44+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2138/729/w1.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2138684.html",
-      "title": "LINEMO、乗り換えなら「初期費用3850円」が無料に。紹介キャンペーン開始",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2138684.html",
-      "date": "2026-09-07T03:31:18+00:00",
-      "sourceKey": "ktai",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": "ソフトバンク",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2138/684/sub.png"
-    },
-    {
       "id": "docomo-https://www.docomo.ne.jp/support/product_update/so51g/index.html",
       "title": "「Xperia 1 VIII SO-51G」のソフトウェアアップデート情報のお知らせ",
       "link": "https://www.docomo.ne.jp/support/product_update/so51g/index.html",
@@ -682,17 +715,6 @@
       "catKey": "other",
       "catLabel": "その他",
       "carrier": "au/KDDI",
-      "image": null
-    },
-    {
-      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc52f/index.html",
-      "title": "「Galaxy S25 Ultra SC-52F」のソフトウェアアップデート情報のお知らせ",
-      "link": "https://www.docomo.ne.jp/support/product_update/sc52f/index.html",
-      "date": "2026-09-02T01:00:00+00:00",
-      "sourceKey": "docomo",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "ドコモ",
       "image": null
     },
     {
@@ -982,17 +1004,6 @@
       "image": null
     },
     {
-      "id": "rakuten-https://corp.mobile.rakuten.co.jp/news/press/2026/0806_01/?l-id=corp_news_press_20260806_01",
-      "title": "楽天モバイル、Anthropic社の「Claude」を活用し 「Rakuten AI for Business」をアップデート",
-      "link": "https://corp.mobile.rakuten.co.jp/news/press/2026/0806_01/?l-id=corp_news_press_20260806_01",
-      "date": "2026-08-05T15:00:00+00:00",
-      "sourceKey": "rakuten",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "au/KDDI",
-      "image": null
-    },
-    {
       "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260805_01/",
       "title": "「AQUOS wish6」を法人向けに“ソフトバンク”で発売",
       "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260805_01/",
@@ -1268,28 +1279,6 @@
       "image": null
     },
     {
-      "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260701_01/",
-      "title": "迷惑電話防止サービス「ナンバーブロック」の月額使用料を無料化",
-      "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260701_01/",
-      "date": "2026-06-30T15:00:00+00:00",
-      "sourceKey": "softbank",
-      "catKey": "price",
-      "catLabel": "料金プラン",
-      "carrier": "ソフトバンク",
-      "image": null
-    },
-    {
-      "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260630_02/",
-      "title": "人事について",
-      "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260630_02/",
-      "date": "2026-06-29T15:00:00+00:00",
-      "sourceKey": "softbank",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "ソフトバンク",
-      "image": null
-    },
-    {
       "id": "ymobile-https://www.ymobile.jp/info/press/2026/26062601.html",
       "title": "Yahoo!ショッピング「超PayPay祭」がスタート！",
       "link": "https://www.ymobile.jp/info/press/2026/26062601.html",
@@ -1404,17 +1393,6 @@
       "title": "パスキー認証をMy Y!mobileで提供開始",
       "link": "https://www.ymobile.jp/info/press/2026/26052501.html",
       "date": "2026-05-24T15:00:00+00:00",
-      "sourceKey": "ymobile",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "Y!mobile",
-      "image": null
-    },
-    {
-      "id": "ymobile-https://www.ymobile.jp/info/press/2026/26051501.html",
-      "title": "ワイモバイルを装った偽サイト・偽LINEアカウントにご注意ください",
-      "link": "https://www.ymobile.jp/info/press/2026/26051501.html",
-      "date": "2026-05-14T15:00:00+00:00",
       "sourceKey": "ymobile",
       "catKey": "other",
       "catLabel": "その他",
