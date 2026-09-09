@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-09-09T11:06:08.864335+00:00",
+  "generated_at": "2026-09-09T16:22:59.778483+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139594.html",
+      "title": "画像生成モデル「ChatGPT Images 2.5」登場　一貫性を維持しやすく",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2139594.html",
+      "date": "2026-09-09T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2139/594/00.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/value/2139538.html",
+      "title": "5Gも光も使えて通信障害に強い、すぐにネットが使える新サービス「auひかりプラス」の隠れた魅力と裏側",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/value/2139538.html",
+      "date": "2026-09-09T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "trouble",
+      "catLabel": "障害・不具合",
+      "carrier": "au/KDDI",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2139/538/2.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139533.html",
+      "title": "ドコモ、フィリピンでグリーン基地局実証　太陽光利用率38％→61％",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2139533.html",
+      "date": "2026-09-09T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ドコモ",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2139/533/docomo_logo.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139241.html",
+      "title": "アップル折りたたみ参入は勝機。メーカー3社がIIJイベントで語るスマホの未来",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2139241.html",
+      "date": "2026-09-09T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2139/241/124907.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2138440.html",
+      "title": "ティッシュより経済的かも、無印良品「トイレットペーパーケース」を試してみた",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2138440.html",
+      "date": "2026-09-09T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2138/440/toilet00.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139618.html",
+      "title": "Appleオンラインストアがメンテ中に",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2139618.html",
+      "date": "2026-09-09T11:14:20+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": null
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139597.html",
       "title": "「Galaxy S26 256GB」が約4万円引き　ドコモの「5G WELCOME割」",
@@ -143,7 +209,7 @@
       "catKey": "campaign",
       "catLabel": "キャンペーン",
       "carrier": "au/KDDI",
-      "image": null
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2139/417/00.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139455.html",
@@ -322,17 +388,6 @@
       "image": null
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/09/news053.html",
-      "title": "【ワークマン】4900円の「リフレクトソフトPUリュック」　反射生地で視認性をサポート",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/09/news053.html",
-      "date": "2026-09-09T01:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/09/l_asa_100item_01.jpg"
-    },
-    {
       "id": "docomo-https://www.docomo.ne.jp/corporate/anatatodocomo/docomoeveryday/article229/index.html?icid=CRP_INFO_to_CRP_CORP_anatatodocomo_docomoeveryday_article229",
       "title": "あなたとドコモ 新着記事：2026年8月21日（金曜）よりドコモショップで「ドコモの銀行（ドコモSMTBネット銀行）」のご案内や口座開設などのサポートをスタート！",
       "link": "https://www.docomo.ne.jp/corporate/anatatodocomo/docomoeveryday/article229/index.html?icid=CRP_INFO_to_CRP_CORP_anatatodocomo_docomoeveryday_article229",
@@ -509,39 +564,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2139/009/01.jpg"
     },
     {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2138999.html",
-      "title": "TVer、コネクテッドTVで8月の再生数が過去最高の2.3億再生を記録",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2138999.html",
-      "date": "2026-09-08T02:49:44+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2138995.html",
-      "title": "サムスン「Galaxy Z Fold8／Fold8 Ultra」が最大1.5万円引き、29日まで",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2138995.html",
-      "date": "2026-09-08T02:44:50+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2138/995/zfold8.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2138825.html",
-      "title": "ソニー、新型ワイヤレスヘッドホン「WH-CH730N」「WH-CH530」を発表",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2138825.html",
-      "date": "2026-09-08T01:01:21+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": null
-    },
-    {
       "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc53g/index.html",
       "title": "「Samsung Galaxy S26 Ultra SC-53G」のソフトウェアアップデート情報のお知らせ",
       "link": "https://www.docomo.ne.jp/support/product_update/sc53g/index.html",
@@ -606,39 +628,6 @@
       "catLabel": "端末",
       "carrier": "ドコモ",
       "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/ranking/galapagos_ranking/2138829.html",
-      "title": "電子書籍人気ランキング（8月28日～9月3日）",
-      "link": "https://k-tai.watch.impress.co.jp/docs/ranking/galapagos_ranking/2138829.html",
-      "date": "2026-09-07T21:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/include/common/p01/images/logo/ktw.l.png"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2138854.html",
-      "title": "Google 翻訳、Androidは画面ロック中もライブ翻訳　iPhoneは受話口から再生",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2138854.html",
-      "date": "2026-09-07T15:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2138/854/01.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/minna/2138823.html",
-      "title": "折りたたみスマホ「razr fold」の弱点？　大画面の使いづらさを自作アプリで解決",
-      "link": "https://k-tai.watch.impress.co.jp/docs/column/minna/2138823.html",
-      "date": "2026-09-07T15:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2138/823/1.jpg"
     },
     {
       "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260908_02/",
