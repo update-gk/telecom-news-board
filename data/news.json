@@ -1,7 +1,172 @@
 {
-  "generated_at": "2026-09-10T04:10:44.115548+00:00",
+  "generated_at": "2026-09-10T11:01:44.821067+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2140001.html",
+      "title": "1つの電話番号を2台のiPhoneで使える「iPhone Handoff」発表",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2140001.html",
+      "date": "2026-09-10T10:55:49+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2140/001/00.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/10/news092.html",
+      "title": "iPhone 17シリーズ発売初年度の売上高が1700億ドル突破、シリーズ歴代最高を記録　カウンターポイント調べ",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/10/news092.html",
+      "date": "2026-09-10T09:19:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/10/l_asa_Counterpoint_01.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/10/news091.html",
+      "title": "「折り目があります」――Apple初の「iPhone Duo」実機画像がSNSで物議、高価ゆえにガッカリか",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/10/news091.html",
+      "date": "2026-09-10T09:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/10/cover_news091.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139959.html",
+      "title": "auも「iPhone Duo」や「iPhone 18 Pro」シリーズなど発売へ",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2139959.html",
+      "date": "2026-09-10T08:42:54+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "au/KDDI",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2139/959/00.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139951.html",
+      "title": "楽天モバイル、「iPhone 18 Pro」「iPhone Duo」など発売へ　予約は12日～",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2139951.html",
+      "date": "2026-09-10T08:42:50+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "楽天モバイル",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2139/951/00.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/10/news087.html",
+      "title": "「ZERO HALLIBURTON」のiPhone 18 Pro向けケース　立体MagSafeリングで対応アクセサリーも利用可能",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/10/news087.html",
+      "date": "2026-09-10T08:40:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/10/l_asa_UNiCASE_01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/review/iphonetips/2139941.html",
+      "title": "「iPhone Duo」も気になるけど実は「Apple Watch」がスゴイ！　9月10日のアップル発表会の注目ポイント解説",
+      "link": "https://k-tai.watch.impress.co.jp/docs/review/iphonetips/2139941.html",
+      "date": "2026-09-10T07:58:12+00:00",
+      "sourceKey": "ktai",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2139/941/01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139928.html",
+      "title": "ドコモ、「iPhone 18 Pro」や「iPhone Duo」など発売へ",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2139928.html",
+      "date": "2026-09-10T07:48:52+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "ドコモ",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2139/928/00.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/10/news090.html",
+      "title": "Y!mobileのSIMフリー「arrows Alpha2」が回線セットで約3万円割引　9月15日まで【スマホお得情報】",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/10/news090.html",
+      "date": "2026-09-10T07:22:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": "Y!mobile",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/10/l_asa_sumaotoku_01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139911.html",
+      "title": "音声でメール検索やスプレッドシートのミニアプリ化など、グーグルが「Google AI」新機能を紹介",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2139911.html",
+      "date": "2026-09-10T07:02:06+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2139/911/00.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139882.html",
+      "title": "ソフトバンク、「iPhone 18 Pro」シリーズ・「iPhone Duo」など18日以降順次発売",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2139882.html",
+      "date": "2026-09-10T06:11:19+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "ソフトバンク",
+      "image": null
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139831.html",
+      "title": "CIO、国産充電器「NovaPort DUO III 65W2C」をMakuakeで公開",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2139831.html",
+      "date": "2026-09-10T04:35:21+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": null
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/10/news081.html",
+      "title": "メルカリ、新型iPhone発表直後は前モデルの出品が約5倍に　整備済スマホのランキングも発表",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/10/news081.html",
+      "date": "2026-09-10T04:35:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/10/l_asa_mercari_01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139844.html",
+      "title": "Google WorkspaceのGeminiが“サービス横断で処理”できるように",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2139844.html",
+      "date": "2026-09-10T04:32:23+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2139/844/01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139842.html",
+      "title": "アップル新製品価格まとめ　iPhone 18 ProやiPhone Duo、AirPods 5など",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2139842.html",
+      "date": "2026-09-10T04:31:20+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2139/842/00.jpg"
+    },
     {
       "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr-1160_4713.html",
       "title": "au、iPhone Duo、iPhone 18 Pro、iPhone 18 Pro Max、Apple Watch Series 12、Apple Watch Ultra 4、AirPods 5を取り扱い",
@@ -23,6 +188,17 @@
       "catLabel": "端末",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2139/777/01.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/10/news075.html",
+      "title": "トリニティ、iPhone 18 Pro／Pro Max対応アクセサリー発売　17 Pro向けは一部使用不可",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/10/news075.html",
+      "date": "2026-09-10T03:15:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/10/l_asa_trinity_01.jpg"
     },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/10/news045.html",
@@ -146,17 +322,6 @@
       "image": null
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/10/news068.html",
-      "title": "Apple初の折りたたみ「iPhone Duo」で、iOSのソフトウェアはどう変化する？　今分かっていること",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/10/news068.html",
-      "date": "2026-09-09T20:15:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/10/cover_news068.png"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139676.html",
       "title": "アップル、セルラーモデム「Apple C2」発表　iPhone 18 Pro／iPhone Duoに搭載",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2139676.html",
@@ -166,50 +331,6 @@
       "catLabel": "端末",
       "carrier": null,
       "image": null
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/10/news066.html",
-      "title": "Apple、「iPhone 18（無印）」を発表せず　2027年春投入の予測と背景",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/10/news066.html",
-      "date": "2026-09-09T19:54:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/10/cover_news066.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/10/news065.html",
-      "title": "「Siri AI」は何ができる？　対応アプリは30万以上で一覧にはLINEも　日本語は10月から",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/10/news065.html",
-      "date": "2026-09-09T19:49:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/10/cover_news065.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/10/news064.html",
-      "title": "新iPhone発表で「iPhone 17／17e／Air」など旧モデルを値上げ　17は15万9800円スタートに",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/10/news064.html",
-      "date": "2026-09-09T19:42:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "price",
-      "catLabel": "料金プラン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/10/cover_news064.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/10/news063.html",
-      "title": "AppleのAIエージェント「Siri AI」、日本語β版は10月から提供予定",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/10/news063.html",
-      "date": "2026-09-09T19:40:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/10/cover_news063.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139677.html",
@@ -245,28 +366,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2139/679/iPhone17-1.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/10/news062.html",
-      "title": "iPhone DuoとiPhone 18 Pro、今年もミリ波対応は米国向けモデルのみ　3機種ともApple製モデムに",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/10/news062.html",
-      "date": "2026-09-09T19:14:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/10/cover_news062.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/10/news061.html",
-      "title": "Apple初折りたたみ「iPhone Duo」ついに登場――耐久性から価格まで、気になる疑問FAQで解説",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/10/news061.html",
-      "date": "2026-09-09T19:10:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/10/cover_news061.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139671.html",
       "title": "アップル、「iPhone 18」標準モデルは発表されず――9月10日の発表会",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2139671.html",
@@ -300,39 +399,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2139/670/18pro.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/10/news060.html",
-      "title": "「iPhone Duo」は36万4800円からで2TBは57万円強、「iPhone 18 Pro」は21万9800円から",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/10/news060.html",
-      "date": "2026-09-09T18:43:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/10/cover_news060.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/10/news059.html",
-      "title": "「AirPods 5」登場　アクティブノイズキャンセリングを標準化して2万3800円から",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/10/news059.html",
-      "date": "2026-09-09T18:40:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/10/cover_news059.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/10/news058.html",
-      "title": "「iOS 27」「iPadOS 27」「watchOS 27」9月15日配信　進化した「Siri AI」は10月に日本語対応",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/10/news058.html",
-      "date": "2026-09-09T18:22:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/10/cover_news058.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139665.html",
       "title": "アップル、初の折りたたみスマホ「iPhone Duo」10月23日発売　7.6インチ大画面で36.5万円から",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2139665.html",
@@ -342,50 +408,6 @@
       "catLabel": "端末",
       "carrier": null,
       "image": null
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/10/news026.html",
-      "title": "「iPhone Duo」発表　Apple初の折りたたみ、Apple Pencil対応、インカメラは埋め込み型でTouch ID採用　10月23日発売、36万4800円から",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/10/news026.html",
-      "date": "2026-09-09T17:55:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": null
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/10/news055.html",
-      "title": "「Apple Watch Series 12／Ultra 4」登場　AIサウンド認識、ヘルスケア機能を強化　セラミックも復活",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/10/news055.html",
-      "date": "2026-09-09T17:50:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": null
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/10/news056.html",
-      "title": "「iPhone 18 Pro／18 Pro Max」発表、可変絞りカメラと2nmの「A20 Proチップ」を搭載",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/10/news056.html",
-      "date": "2026-09-09T17:39:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/10/cover_news056.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/10/news052.html",
-      "title": "折りたためる「iPhone Duo」と「iPhone 18 Pro」シリーズ発表　「iPhone 18」は登場せず",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/10/news052.html",
-      "date": "2026-09-09T17:15:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/10/cover_news052.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139594.html",
@@ -432,70 +454,48 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2139/241/124907.jpg"
     },
     {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2138440.html",
-      "title": "ティッシュより経済的かも、無印良品「トイレットペーパーケース」を試してみた",
-      "link": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2138440.html",
+      "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260910_02/",
+      "title": "「iPhone Duo」「iPhone 18 Pro」「iPhone 18 Pro Max」「Apple Watch Series 12」「Apple Watch Ultra 4」「AirPods 5」を“ソフトバンク”で発売～「iPhone 18 Pro」「iPhone 18 Pro Max」および最新のApple Watchは9月12日に、「iPhone Duo」は10月16日に、それぞれ予約受け付けを開始～",
+      "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260910_02/",
       "date": "2026-09-09T15:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2138/440/toilet00.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139618.html",
-      "title": "Appleオンラインストアがメンテ中に",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2139618.html",
-      "date": "2026-09-09T11:14:20+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
+      "sourceKey": "softbank",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "ソフトバンク",
       "image": null
     },
     {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139597.html",
-      "title": "「Galaxy S26 256GB」が約4万円引き　ドコモの「5G WELCOME割」",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2139597.html",
-      "date": "2026-09-09T10:57:26+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "ドコモ",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2139/597/s26.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139522.html",
-      "title": "mineoで「AQUOS wish6」「OPPO Reno16 5G」、9月17日発売",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2139522.html",
-      "date": "2026-09-09T07:58:08+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2139/522/01_1920x1280_3x2.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139468.html",
-      "title": "アップル発表会は今夜26時～",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2139468.html",
-      "date": "2026-09-09T07:19:31+00:00",
-      "sourceKey": "ktai",
+      "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260910_01/",
+      "title": "「SoftBank Starlink Direct」、9月28日から海外で利用可能に～4カ国で提供を開始し、対象の国・地域を順次拡大～",
+      "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260910_01/",
+      "date": "2026-09-09T15:00:00+00:00",
+      "sourceKey": "softbank",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2139/468/01.jpg"
+      "carrier": "ソフトバンク",
+      "image": null
     },
     {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139510.html",
-      "title": "Apple Arcade、「プシーンのおうち」など新着5タイトルを10月に追加",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2139510.html",
-      "date": "2026-09-09T07:15:56+00:00",
-      "sourceKey": "ktai",
+      "id": "rakuten-https://corp.mobile.rakuten.co.jp/news/press/2026/0910_01/?l-id=corp_news_press_20260910_01",
+      "title": "楽天モバイル、「iPhone Duo」、「iPhone 18 Pro」、「iPhone 18 Pro Max」、「Apple Watch Series 12」、「Apple Watch Ultra 4」および「AirPods 5」を発売",
+      "link": "https://corp.mobile.rakuten.co.jp/news/press/2026/0910_01/?l-id=corp_news_press_20260910_01",
+      "date": "2026-09-09T15:00:00+00:00",
+      "sourceKey": "rakuten",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "楽天モバイル",
+      "image": null
+    },
+    {
+      "id": "ymobile-https://www.softbank.jp/corp/news/press/sbkk/2026/20260910_01/",
+      "title": "「SoftBank Starlink Direct」、9月28日から海外で利用可能に～4カ国で提供を開始し、対象の国・地域を順次拡大～",
+      "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260910_01/",
+      "date": "2026-09-09T15:00:00+00:00",
+      "sourceKey": "ymobile",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2139/510/00.jpg"
+      "carrier": "ソフトバンク",
+      "image": null
     },
     {
       "id": "au-https://newsroom.kddi.com/ir-news/detail/kddi_ir-1221_4698.html",
@@ -518,50 +518,6 @@
       "catLabel": "その他",
       "carrier": "au/KDDI",
       "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139417.html",
-      "title": "ベネフィット・ステーションでpovoのトッピング発売、最大20％還元",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2139417.html",
-      "date": "2026-09-09T05:12:50+00:00",
-      "sourceKey": "ktai",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": "au/KDDI",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2139/417/00.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139455.html",
-      "title": "Google DeepMind、日本のAI研究開発を紹介　Gemini音声機能や介護支援AIを展開",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2139455.html",
-      "date": "2026-09-09T05:06:58+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2139/455/010256456.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139432.html",
-      "title": "ソフトバンク、「AQUOS wish6」を法人向けに17日発売",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2139432.html",
-      "date": "2026-09-09T04:56:36+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "ソフトバンク",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2139/432/01.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139416.html",
-      "title": "楽天モバイルから「AQUOS wish6」、4.5万円",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2139416.html",
-      "date": "2026-09-09T03:55:53+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "楽天モバイル",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2139/416/cont0.jpg"
     },
     {
       "id": "docomo-https://www.docomo.ne.jp/corporate/anatatodocomo/docomoeveryday/article229/index.html?icid=CRP_INFO_to_CRP_CORP_anatatodocomo_docomoeveryday_article229",
@@ -1037,17 +993,6 @@
       "image": null
     },
     {
-      "id": "rakuten-https://corp.mobile.rakuten.co.jp/news/press/2026/0812_01/?l-id=corp_news_press_20260812_01",
-      "title": "ローミングに関して",
-      "link": "https://corp.mobile.rakuten.co.jp/news/press/2026/0812_01/?l-id=corp_news_press_20260812_01",
-      "date": "2026-08-11T15:00:00+00:00",
-      "sourceKey": "rakuten",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "楽天モバイル",
-      "image": null
-    },
-    {
       "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260807_01/",
       "title": "“LINEMO”、「SoftBank Starlink Direct」と無制限の海外データ通信（毎月最大7日間分）が追加料金なしで利用可能に～「LINEMOベストプラン」と「LINEMOベストプランV」が、国内外でより安心・快適に～",
       "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260807_01/",
@@ -1312,28 +1257,6 @@
       "image": null
     },
     {
-      "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260708_01/",
-      "title": "060番号の提供開始時期の延期について",
-      "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260708_01/",
-      "date": "2026-07-07T15:00:00+00:00",
-      "sourceKey": "softbank",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "ソフトバンク",
-      "image": null
-    },
-    {
-      "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260702_01/",
-      "title": "米国でネオクラウド事業を展開する事業会社「SB Neo」を設立～グループの10ギガワット規模のエネルギーおよびAIインフラを基に、米国の企業向けにネオクラウドサービスを提供～",
-      "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260702_01/",
-      "date": "2026-07-01T15:00:00+00:00",
-      "sourceKey": "softbank",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "ソフトバンク",
-      "image": null
-    },
-    {
       "id": "ymobile-https://www.ymobile.jp/info/press/2026/26062601.html",
       "title": "Yahoo!ショッピング「超PayPay祭」がスタート！",
       "link": "https://www.ymobile.jp/info/press/2026/26062601.html",
@@ -1441,17 +1364,6 @@
       "catKey": "campaign",
       "catLabel": "キャンペーン",
       "carrier": "楽天モバイル",
-      "image": null
-    },
-    {
-      "id": "ymobile-https://www.ymobile.jp/info/press/2026/26052501.html",
-      "title": "パスキー認証をMy Y!mobileで提供開始",
-      "link": "https://www.ymobile.jp/info/press/2026/26052501.html",
-      "date": "2026-05-24T15:00:00+00:00",
-      "sourceKey": "ymobile",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "Y!mobile",
       "image": null
     },
     {
