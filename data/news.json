@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-09-09T23:07:18.120863+00:00",
+  "generated_at": "2026-09-10T04:10:44.115548+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr-1160_4713.html",
+      "title": "au、iPhone Duo、iPhone 18 Pro、iPhone 18 Pro Max、Apple Watch Series 12、Apple Watch Ultra 4、AirPods 5を取り扱い",
+      "link": "https://newsroom.kddi.com/news/detail/kddi_nr-1160_4713.html",
+      "date": "2026-09-10T04:00:00+00:00",
+      "sourceKey": "au",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "au/KDDI",
+      "image": null
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139777.html",
+      "title": "トリニティ、「iPhone 18 Pro」シリーズ向けケースや保護ガラスなど170種以上を発売",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2139777.html",
+      "date": "2026-09-10T03:15:29+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2139/777/01.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/10/news045.html",
+      "title": "最大21日間駆動、1.47型ディスプレイのスマートバンド「Xiaomi Smart Band 11 Active」がAmazonで3980円",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/10/news045.html",
+      "date": "2026-09-10T01:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/10/l_asa_amazon_01.jpg"
+    },
+    {
+      "id": "docomo-https://www.docomo.ne.jp/support/product_update/d51f/index.html",
+      "title": "「dtab d-51F」のソフトウェアアップデート情報のお知らせ",
+      "link": "https://www.docomo.ne.jp/support/product_update/d51f/index.html",
+      "date": "2026-09-10T01:00:00+00:00",
+      "sourceKey": "docomo",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ドコモ",
+      "image": null
+    },
+    {
+      "id": "docomo-https://www.docomo.ne.jp/support/product_update/f51g/index.html",
+      "title": "「arrows Alpha2 F-51G」のソフトウェアアップデート情報のお知らせ",
+      "link": "https://www.docomo.ne.jp/support/product_update/f51g/index.html",
+      "date": "2026-09-10T01:00:00+00:00",
+      "sourceKey": "docomo",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ドコモ",
+      "image": null
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/10/news072.html",
+      "title": "「iPhone 18 Pro」は何が進化した？　「iPhone 17／17 Pro」とスペックを比較　全て20万円超えの価格が悩ましい",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/10/news072.html",
+      "date": "2026-09-10T00:27:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/10/cover_news072.jpg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139694.html",
       "title": "アップルが2nmプロセスの新チップ「A20 Pro」、iPhone 18 Pro/18 Pro MaxとiPhone Duoに搭載",
@@ -399,39 +465,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2139/597/s26.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/09/news102.html",
-      "title": "ドコモが「Pixel 11」「Galaxy S26」（256GB）の残価変更、MNPで2年33円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/09/news102.html",
-      "date": "2026-09-09T09:29:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "ドコモ",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/09/l_st52693_docomogp-01.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/09/news101.html",
-      "title": "中身が見える、Nintendo Switch 2本体／コントローラー収納ケースを発売　サイバーガジェットから",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/09/news101.html",
-      "date": "2026-09-09T09:27:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/09/l_asa_CYBER_01.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/09/news099.html",
-      "title": "「iOS 26.6.2」配信開始　モバイルデータ通信の不具合を解消",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/09/news099.html",
-      "date": "2026-09-09T09:03:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "trouble",
-      "catLabel": "障害・不具合",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/09/l_st52693_ios26-01.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139522.html",
       "title": "mineoで「AQUOS wish6」「OPPO Reno16 5G」、9月17日発売",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2139522.html",
@@ -441,17 +474,6 @@
       "catLabel": "端末",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2139/522/01_1920x1280_3x2.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/09/news097.html",
-      "title": "Y!mobileの「AQUOS wish6」はMNPで2年24円、楽天モバイルは1.6万ポイント還元あり",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/09/news097.html",
-      "date": "2026-09-09T07:40:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": "楽天モバイル",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/09/l_asa_SBrakuten_01.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139468.html",
@@ -498,28 +520,6 @@
       "image": null
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/09/news093.html",
-      "title": "auの「Galaxy S26（256GB）」、MNPで2年47円に【スマホお得情報】",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/09/news093.html",
-      "date": "2026-09-09T05:48:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "au/KDDI",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/09/l_asa_sumaotoku_01.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/09/news090.html",
-      "title": "「Suica」の新キャラクターを決める投票が始まる　3案の特徴（あふれる個性）をチェック！",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/09/news090.html",
-      "date": "2026-09-09T05:30:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/09/cover_news090.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139417.html",
       "title": "ベネフィット・ステーションでpovoのトッピング発売、最大20％還元",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2139417.html",
@@ -562,17 +562,6 @@
       "catLabel": "端末",
       "carrier": "楽天モバイル",
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2139/416/cont0.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139389.html",
-      "title": "ワイモバイルから「AQUOS wish6」17日発売、MNP・新規なら2年間24円",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2139389.html",
-      "date": "2026-09-09T03:40:52+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "Y!mobile",
-      "image": null
     },
     {
       "id": "docomo-https://www.docomo.ne.jp/corporate/anatatodocomo/docomoeveryday/article229/index.html?icid=CRP_INFO_to_CRP_CORP_anatatodocomo_docomoeveryday_article229",
@@ -795,28 +784,6 @@
       "image": null
     },
     {
-      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc55e/index.html",
-      "title": "「Galaxy Z Fold6 SC-55E」のソフトウェアアップデート情報のお知らせ",
-      "link": "https://www.docomo.ne.jp/support/product_update/sc55e/index.html",
-      "date": "2026-09-03T01:00:00+00:00",
-      "sourceKey": "docomo",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "ドコモ",
-      "image": null
-    },
-    {
-      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sh53d/index.html",
-      "title": "「AQUOS wish3 SH-53D」のソフトウェアアップデート情報のお知らせ",
-      "link": "https://www.docomo.ne.jp/support/product_update/sh53d/index.html",
-      "date": "2026-09-03T01:00:00+00:00",
-      "sourceKey": "docomo",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "ドコモ",
-      "image": null
-    },
-    {
       "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr-1147_4694.html",
       "title": "山口県とKDDI、地域課題の解決に向けた包括連携協定を締結",
       "link": "https://newsroom.kddi.com/news/detail/kddi_nr-1147_4694.html",
@@ -979,17 +946,6 @@
       "catKey": "other",
       "catLabel": "その他",
       "carrier": "楽天モバイル",
-      "image": null
-    },
-    {
-      "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr-1131_4682.html",
-      "title": "位置情報を活用しAIが商業施設開発支援、「KDDI Market Compass」提供開始",
-      "link": "https://newsroom.kddi.com/news/detail/kddi_nr-1131_4682.html",
-      "date": "2026-08-20T04:00:00+00:00",
-      "sourceKey": "au",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "au/KDDI",
       "image": null
     },
     {
