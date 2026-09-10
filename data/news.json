@@ -1,7 +1,84 @@
 {
-  "generated_at": "2026-09-10T11:01:44.821067+00:00",
+  "generated_at": "2026-09-10T16:12:29.617137+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139981.html",
+      "title": "ソフトバンクの衛星通信が海外でも、米国など3カ国で9月28日開始",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2139981.html",
+      "date": "2026-09-10T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ソフトバンク",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2139/981/01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139952.html",
+      "title": "アップルが「iPhone Duo」を発表、最新横開きフォルダブルスマホとどう違う？",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2139952.html",
+      "date": "2026-09-10T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2139/952/1.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/teppan/2139217.html",
+      "title": "待ち合わせには、たった数文字で正確な場所を教えられる「プラスコード」を使ってみよう",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/teppan/2139217.html",
+      "date": "2026-09-10T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2139/217/thumbnail.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/congress/2138490.html",
+      "title": "Pixel、Xperia、arrows。部材高騰に苦しむ市場に現れるメーカーごとの特色[法林岳之・石川温・石野純也・佐藤文彦のスマホ会議（仮）]",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/congress/2138490.html",
+      "date": "2026-09-10T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": null
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/10/news095.html",
+      "title": "「iPhone Duo」を守る純正アクセサリー2種発表　1万円超えと高価だが、Amazonで買える粗悪品よりマシか",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/10/news095.html",
+      "date": "2026-09-10T11:03:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": null
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139964.html",
+      "title": "iPhoneの買取価格を増額、ビックカメラ「スマホ メガ買取」17日～",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2139964.html",
+      "date": "2026-09-10T11:01:01+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2139/964/02 .jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/10/news094.html",
+      "title": "ドコモ、au、ソフトバンク、楽天モバイルが「iPhone 18 Pro」「iPhone Duo」発売",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/10/news094.html",
+      "date": "2026-09-10T10:57:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "ドコモ",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/10/l_st52693_4ciphone-01.jpg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2140001.html",
       "title": "1つの電話番号を2台のiPhoneで使える「iPhone Handoff」発表",
@@ -12,6 +89,17 @@
       "catLabel": "端末",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2140/001/00.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/10/news093.html",
+      "title": "NHK受信料未収で宿泊事業者に1140万円請求　「どうしてもご理解いただけなかったため」民事訴訟提起",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/10/news093.html",
+      "date": "2026-09-10T10:25:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/10/cover_news093.jpg"
     },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/10/news092.html",
@@ -397,61 +485,6 @@
       "catLabel": "端末",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2139/670/18pro.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139665.html",
-      "title": "アップル、初の折りたたみスマホ「iPhone Duo」10月23日発売　7.6インチ大画面で36.5万円から",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2139665.html",
-      "date": "2026-09-09T18:09:56+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139594.html",
-      "title": "画像生成モデル「ChatGPT Images 2.5」登場　一貫性を維持しやすく",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2139594.html",
-      "date": "2026-09-09T15:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2139/594/00.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/value/2139538.html",
-      "title": "5Gも光も使えて通信障害に強い、すぐにネットが使える新サービス「auひかりプラス」の隠れた魅力と裏側",
-      "link": "https://k-tai.watch.impress.co.jp/docs/column/value/2139538.html",
-      "date": "2026-09-09T15:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "trouble",
-      "catLabel": "障害・不具合",
-      "carrier": "au/KDDI",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2139/538/2.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139533.html",
-      "title": "ドコモ、フィリピンでグリーン基地局実証　太陽光利用率38％→61％",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2139533.html",
-      "date": "2026-09-09T15:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "ドコモ",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2139/533/docomo_logo.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139241.html",
-      "title": "アップル折りたたみ参入は勝機。メーカー3社がIIJイベントで語るスマホの未来",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2139241.html",
-      "date": "2026-09-09T15:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2139/241/124907.jpg"
     },
     {
       "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260910_02/",
