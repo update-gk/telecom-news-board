@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-09-11T11:00:20.301507+00:00",
+  "generated_at": "2026-09-11T16:16:16.864812+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/11/news092.html",
+      "title": "ドコモが「iPhone 18 Pro／18 Pro Max」の価格を発表　MNPで2年9万9990円から、2TBは一括50万円超え",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/11/news092.html",
+      "date": "2026-09-11T13:28:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "ドコモ",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/11/cover_news092.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2140379.html",
+      "title": "ドコモが「iPhone 18 Pro/Pro Max」の価格発表、実質9万9990円～",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2140379.html",
+      "date": "2026-09-11T12:51:28+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "ドコモ",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2140/379/18pro.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/11/news090.html",
+      "title": "「iPhone Duo」と「Galaxy Z Fold8」のスペックを比較　薄さと機能性、約9万5000円の価格差をどう評価する？",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/11/news090.html",
+      "date": "2026-09-11T12:34:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/11/cover_news090.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/11/news089.html",
+      "title": "2026年度末の「Suicaエリア統合」　気になることをJR東日本に聞いてみた",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/11/news089.html",
+      "date": "2026-09-11T12:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/11/cover_news089.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2140364.html",
+      "title": "ドコモがアジア大会で計38エリアの通信対策を実施、「高所作業車」を使った現場を見てきた",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2140364.html",
+      "date": "2026-09-11T11:37:45+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ドコモ",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2140/364/cont100.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/11/news088.html",
+      "title": "「“ティム・クック”がGalaxyに乗り換えた」──Samsungニュージーランド法人の投稿が話題に　実は……",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/11/news088.html",
+      "date": "2026-09-11T11:16:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/11/cover_news088.png"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/11/news086.html",
+      "title": "リファービッシュiPhone 15 Pro／16 Proを数量限定で最大7500円割引　Back Marketが9月16日まで",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/11/news086.html",
+      "date": "2026-09-11T09:50:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/11/l_asa_BackMarket_01.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/11/news085.html",
+      "title": "MOFT、iPhone 18 Pro向けアクセサリー発売　ヴィーガンレザーやコーヒーかすのケースなど",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/11/news085.html",
+      "date": "2026-09-11T09:07:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/11/l_asa_MOFT_01.jpg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2140275.html",
       "title": "UGREENが山﨑賢人をアンバサダーに起用、AI NASや急速充電器など主力製品をアピール",
@@ -462,28 +550,6 @@
       "catKey": "other",
       "catLabel": "その他",
       "carrier": "ドコモ",
-      "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139694.html",
-      "title": "アップルが2nmプロセスの新チップ「A20 Pro」、iPhone 18 Pro/18 Pro MaxとiPhone Duoに搭載",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2139694.html",
-      "date": "2026-09-09T22:03:03+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2139/694/100.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139693.html",
-      "title": "アップルが「iPhone 18 Pro/18 Pro Max」「iPhone Duo」発表、本誌記事と価格まとめ",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2139693.html",
-      "date": "2026-09-09T21:53:52+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
       "image": null
     },
     {
