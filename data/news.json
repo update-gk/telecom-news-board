@@ -1,7 +1,150 @@
 {
-  "generated_at": "2026-09-10T23:02:29.133789+00:00",
+  "generated_at": "2026-09-11T04:09:53.945687+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2140186.html",
+      "title": "Back Market、整備済「iPhone 15 Pro／16 Pro」の割引セール開催",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2140186.html",
+      "date": "2026-09-11T04:00:46+00:00",
+      "sourceKey": "ktai",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2140/186/main1.png"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2140161.html",
+      "title": "サムスン、「Galaxy Z Fold8」の軽量化技術をアピール　折りたたみで201g",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2140161.html",
+      "date": "2026-09-11T03:33:12+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2140/161/00.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/11/news069.html",
+      "title": "KDDIとWi2、5Gミリ波をバックホールに活用　“ロッキン2026”で導入する大容量フリーWi-Fiの仕組み",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/11/news069.html",
+      "date": "2026-09-11T03:28:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "au/KDDI",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/11/l_rk1640414_feswifi-01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2140162.html",
+      "title": "KDDI、ロッキンで5Gミリ波バックホールのフリーWi-Fiを提供",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2140162.html",
+      "date": "2026-09-11T03:21:11+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "au/KDDI",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2140/162/kddi_nr-1158_4711_img_04.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/11/news064.html",
+      "title": "iPhone 17 Proの背面ガラスがバキバキに　約2.8万円の修理代、「クレカの付帯保険」に助けられた話",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/11/news064.html",
+      "date": "2026-09-11T03:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/11/cover_news064.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2140122.html",
+      "title": "auで「iPhone Air」が実質47円、MNPで割引",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2140122.html",
+      "date": "2026-09-11T02:49:17+00:00",
+      "sourceKey": "ktai",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": "au/KDDI",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2140/122/01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2140118.html",
+      "title": "povoの対応端末に「iPhone 18 Pro」シリーズや「iPhone Duo」追加",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2140118.html",
+      "date": "2026-09-11T02:43:35+00:00",
+      "sourceKey": "ktai",
+      "catKey": "mvno",
+      "catLabel": "MVNO・格安SIM",
+      "carrier": "au/KDDI",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2140/118/povo.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/ishikawa/2140124.html",
+      "title": "アップルの“後出しジャンケン”、初の折りたたみ「iPhone Duo」にGalaxyはどう挑むか",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/ishikawa/2140124.html",
+      "date": "2026-09-11T02:32:08+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2140/124/photo_5.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/11/news063.html",
+      "title": "折りたたみ「iPhone Duo」を触って実感した“Appleらしさ” 現地からファーストインプレッション",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/11/news063.html",
+      "date": "2026-09-11T01:26:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/11/cover_news063.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/11/news048.html",
+      "title": "【ワークマン】1900円の「汚れが落ちやすいカジュアルデイバッグ」　大きく開いてたっぷり収納",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/11/news048.html",
+      "date": "2026-09-11T01:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/11/l_asa_100item_01.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/11/news057.html",
+      "title": "スマホやPCで高音質なゲーム音響を楽しめる「Logicool G G333」がセールで33％オフの4980円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/11/news057.html",
+      "date": "2026-09-11T00:39:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/11/cover_news057.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/11/news056.html",
+      "title": "充電しながら有線オーディオを楽しみたい人に適した「UGREEN Type-C to Type-C 2in1イヤホン変換アダプタ」がセールで25％オフの2024円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/11/news056.html",
+      "date": "2026-09-11T00:35:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/11/cover_news056.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/11/news055.html",
+      "title": "バッテリー残量が1％単位でLEDに表示される「エレコム EC-C65LWF」がセールで15％オフの2280円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/11/news055.html",
+      "date": "2026-09-11T00:28:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/11/cover_news055.jpg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139981.html",
       "title": "ソフトバンクの衛星通信が海外でも、米国など3カ国で9月28日開始",
@@ -223,17 +366,6 @@
       "image": null
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/10/news081.html",
-      "title": "メルカリ、新型iPhone発表直後は前モデルの出品が約5倍に　整備済スマホのランキングも発表",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/10/news081.html",
-      "date": "2026-09-10T04:35:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/10/l_asa_mercari_01.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139844.html",
       "title": "Google WorkspaceのGeminiが“サービス横断で処理”できるように",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2139844.html",
@@ -278,28 +410,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2139/777/01.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/10/news075.html",
-      "title": "トリニティ、iPhone 18 Pro／Pro Max対応アクセサリー発売　17 Pro向けは一部使用不可",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/10/news075.html",
-      "date": "2026-09-10T03:15:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/10/l_asa_trinity_01.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/10/news045.html",
-      "title": "最大21日間駆動、1.47型ディスプレイのスマートバンド「Xiaomi Smart Band 11 Active」がAmazonで3980円",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/10/news045.html",
-      "date": "2026-09-10T01:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/10/l_asa_amazon_01.jpg"
-    },
-    {
       "id": "docomo-https://www.docomo.ne.jp/support/product_update/d51f/index.html",
       "title": "「dtab d-51F」のソフトウェアアップデート情報のお知らせ",
       "link": "https://www.docomo.ne.jp/support/product_update/d51f/index.html",
@@ -320,17 +430,6 @@
       "catLabel": "その他",
       "carrier": "ドコモ",
       "image": null
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/10/news072.html",
-      "title": "「iPhone 18 Pro」は何が進化した？　「iPhone 17／17 Pro」とスペックを比較　全て20万円超えの価格が悩ましい",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/10/news072.html",
-      "date": "2026-09-10T00:27:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/10/cover_news072.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139694.html",
@@ -419,72 +518,6 @@
       "catLabel": "端末",
       "carrier": null,
       "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139677.html",
-      "title": "iPhoneの「Pro」シリーズが大幅値上げ、昨年比較で最低4万円・最大12万円",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2139677.html",
-      "date": "2026-09-09T19:39:24+00:00",
-      "sourceKey": "ktai",
-      "catKey": "price",
-      "catLabel": "料金プラン",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2139/677/IMG_234.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139682.html",
-      "title": "アップルが「AirPods 5」発表、業界最高クラスのANCを搭載",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2139682.html",
-      "date": "2026-09-09T19:35:11+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2139/682/11.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139679.html",
-      "title": "アップル、「iPhone 17」など値上げ",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2139679.html",
-      "date": "2026-09-09T19:22:33+00:00",
-      "sourceKey": "ktai",
-      "catKey": "price",
-      "catLabel": "料金プラン",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2139/679/iPhone17-1.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139671.html",
-      "title": "アップル、「iPhone 18」標準モデルは発表されず――9月10日の発表会",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2139671.html",
-      "date": "2026-09-09T18:52:06+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139672.html",
-      "title": "「Apple Watch Series 12」「Apple Watch Ultra 4」発表、心拍測定やAI進化",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2139672.html",
-      "date": "2026-09-09T18:51:57+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2139/672/aw107.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139670.html",
-      "title": "アップルが「iPhone 18 Pro」と「iPhone 18 Pro Max」発表、9月18日発売",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2139670.html",
-      "date": "2026-09-09T18:51:51+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2139/670/18pro.jpg"
     },
     {
       "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260910_02/",
