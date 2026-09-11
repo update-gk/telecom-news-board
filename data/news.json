@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-09-11T20:49:00.163063+00:00",
+  "generated_at": "2026-09-11T23:08:34.788510+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2140288.html",
+      "title": "LUUPがさいたま市で開始、電動シートボードと自転車を展開",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2140288.html",
+      "date": "2026-09-11T23:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2140/288/09.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2140358.html",
+      "title": "j5createからUSB-C 4ポートハブとAI搭載4K会議カメラ",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2140358.html",
+      "date": "2026-09-11T22:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2140/358/01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2140385.html",
+      "title": "ドコモ、「Apple Watch Series 12」「Apple Watch Ultra 4」のオンライン販売価格を発表",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2140385.html",
+      "date": "2026-09-11T21:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ドコモ",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2140/385/aw08.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2140348.html",
+      "title": "ドコモ、ノキア製最新基地局装置で世界初のマルチベンダー商用運用スタート",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2140348.html",
+      "date": "2026-09-11T21:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ドコモ",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2140/348/00.jpg"
+    },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/11/news092.html",
       "title": "ドコモが「iPhone 18 Pro／18 Pro Max」の価格を発表　MNPで2年9万9990円から、2TBは一括50万円超え",
@@ -476,39 +520,6 @@
       "image": null
     },
     {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139831.html",
-      "title": "CIO、国産充電器「NovaPort DUO III 65W2C」をMakuakeで公開",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2139831.html",
-      "date": "2026-09-10T04:35:21+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139844.html",
-      "title": "Google WorkspaceのGeminiが“サービス横断で処理”できるように",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2139844.html",
-      "date": "2026-09-10T04:32:23+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2139/844/01.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139842.html",
-      "title": "アップル新製品価格まとめ　iPhone 18 ProやiPhone Duo、AirPods 5など",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2139842.html",
-      "date": "2026-09-10T04:31:20+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2139/842/00.jpg"
-    },
-    {
       "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr-1160_4713.html",
       "title": "au、iPhone Duo、iPhone 18 Pro、iPhone 18 Pro Max、Apple Watch Series 12、Apple Watch Ultra 4、AirPods 5を取り扱い",
       "link": "https://newsroom.kddi.com/news/detail/kddi_nr-1160_4713.html",
@@ -518,17 +529,6 @@
       "catLabel": "端末",
       "carrier": "au/KDDI",
       "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139777.html",
-      "title": "トリニティ、「iPhone 18 Pro」シリーズ向けケースや保護ガラスなど170種以上を発売",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2139777.html",
-      "date": "2026-09-10T03:15:29+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2139/777/01.jpg"
     },
     {
       "id": "docomo-https://www.docomo.ne.jp/support/product_update/d51f/index.html",
