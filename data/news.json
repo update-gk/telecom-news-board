@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-09-12T04:09:32.111581+00:00",
+  "generated_at": "2026-09-12T10:29:08.519000+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2140419.html",
+      "title": "auの「iPhone 18 Pro/Pro Max」価格発表、実質6.7万円/一括26.9万円～",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2140419.html",
+      "date": "2026-09-12T09:23:17+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "au/KDDI",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2140/419/aus.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/12/news014.html",
+      "title": "楽天モバイルが「iPhone 18 Pro」の価格発表　機種変更でも2万ポイント還元、“契約不要”の紹介キャンペーンも",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/12/news014.html",
+      "date": "2026-09-12T09:08:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": "楽天モバイル",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/12/cover_news014.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2140407.html",
+      "title": "楽天モバイルの「iPhone 18 Pro/Pro Max」価格発表、実質12.8万円/一括25.6万円～",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2140407.html",
+      "date": "2026-09-12T07:18:13+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "楽天モバイル",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2140/407/10.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/12/news012.html",
+      "title": "「Suicaのペンギン」の“卒業”は2027年3月　最後の“花道”はどうなるか？",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/12/news012.html",
+      "date": "2026-09-12T04:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/12/cover_news012.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/12/news001.html",
+      "title": "Galaxy Z Fold8の「折り目ゼロ」という誤解で物議　実機で検証しつつ、サムスンに公式見解を聞いた",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/12/news001.html",
+      "date": "2026-09-12T04:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/12/l_rk1640414_GalaxyZFold8-01.jpg"
+    },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/12/news013.html",
       "title": "「iPhone Duo」登場の裏で「iPhone 18」が発表されなかった理由　変わりゆくラインアップ戦略を読み解く",
@@ -485,28 +540,6 @@
       "catLabel": "キャンペーン",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2139/941/01.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139928.html",
-      "title": "ドコモ、「iPhone 18 Pro」や「iPhone Duo」など発売へ",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2139928.html",
-      "date": "2026-09-10T07:48:52+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "ドコモ",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2139/928/00.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139911.html",
-      "title": "音声でメール検索やスプレッドシートのミニアプリ化など、グーグルが「Google AI」新機能を紹介",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2139911.html",
-      "date": "2026-09-10T07:02:06+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2139/911/00.jpg"
     },
     {
       "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr-1160_4713.html",
