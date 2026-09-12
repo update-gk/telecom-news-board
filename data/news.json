@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-09-12T10:29:08.519000+00:00",
+  "generated_at": "2026-09-12T15:22:51.770016+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/12/news018.html",
+      "title": "ソフトバンクの「iPhone 18 Pro」はMNPだと256GBが2年2万円台、512GBが2年4万円台に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/12/news018.html",
+      "date": "2026-09-12T12:45:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "ソフトバンク",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/12/cover_news018.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/12/news017.html",
+      "title": "auの「iPhone 18 Pro／18 Pro Max」価格発表　18 Pro（256GB）はMNPで2年6万円台に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/12/news017.html",
+      "date": "2026-09-12T12:08:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "au/KDDI",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/12/cover_news017.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2140426.html",
+      "title": "「iPhone 18 Pro／Pro Max」価格が出揃う、アップル直販とキャリア4社まとめ",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2140426.html",
+      "date": "2026-09-12T11:35:56+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2140/426/18p.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2140424.html",
+      "title": "ソフトバンク「iPhone 18 Pro」価格発表、実質2.4万円/一括26.8万円～",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2140424.html",
+      "date": "2026-09-12T10:41:19+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "ソフトバンク",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2140/424/sb2.jpg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2140419.html",
       "title": "auの「iPhone 18 Pro/Pro Max」価格発表、実質6.7万円/一括26.9万円～",
@@ -432,17 +476,6 @@
       "image": "https://image.itmedia.co.jp/mobile/articles/2609/11/cover_news063.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/11/news048.html",
-      "title": "【ワークマン】1900円の「汚れが落ちやすいカジュアルデイバッグ」　大きく開いてたっぷり収納",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/11/news048.html",
-      "date": "2026-09-11T01:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/11/l_asa_100item_01.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139981.html",
       "title": "ソフトバンクの衛星通信が海外でも、米国など3カ国で9月28日開始",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2139981.html",
@@ -518,28 +551,6 @@
       "catLabel": "端末",
       "carrier": "au/KDDI",
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2139/959/00.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139951.html",
-      "title": "楽天モバイル、「iPhone 18 Pro」「iPhone Duo」など発売へ　予約は12日～",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2139951.html",
-      "date": "2026-09-10T08:42:50+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "楽天モバイル",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2139/951/00.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/review/iphonetips/2139941.html",
-      "title": "「iPhone Duo」も気になるけど実は「Apple Watch」がスゴイ！　9月10日のアップル発表会の注目ポイント解説",
-      "link": "https://k-tai.watch.impress.co.jp/docs/review/iphonetips/2139941.html",
-      "date": "2026-09-10T07:58:12+00:00",
-      "sourceKey": "ktai",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2139/941/01.jpg"
     },
     {
       "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr-1160_4713.html",
