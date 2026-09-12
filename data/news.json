@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T20:25:42.100901+00:00",
+  "generated_at": "2026-09-12T22:55:43.429916+00:00",
   "errors": [],
   "articles": [
     {
@@ -463,17 +463,6 @@
       "catLabel": "端末",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2140/124/photo_5.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/11/news063.html",
-      "title": "折りたたみ「iPhone Duo」を触って実感した“Appleらしさ” 現地からファーストインプレッション",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/11/news063.html",
-      "date": "2026-09-11T01:26:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/11/cover_news063.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139981.html",
