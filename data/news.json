@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-09-11T23:08:34.788510+00:00",
+  "generated_at": "2026-09-12T04:09:32.111581+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/12/news013.html",
+      "title": "「iPhone Duo」登場の裏で「iPhone 18」が発表されなかった理由　変わりゆくラインアップ戦略を読み解く",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/12/news013.html",
+      "date": "2026-09-12T02:15:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/12/cover_news013.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2140337.html",
+      "title": "Genspark「Gen-1 Slides」発表、Claude Opus 5の約1/17のコスト",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2140337.html",
+      "date": "2026-09-12T01:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "au/KDDI",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2140/337/main.png"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/12/news011.html",
+      "title": "「Xiaomi Watch S4」がAmazonで約3万円　0.1度単位の皮膚温度モニタリングで睡眠をサポート",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/12/news011.html",
+      "date": "2026-09-12T01:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/12/l_asa_amazon_01.jpg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2140288.html",
       "title": "LUUPがさいたま市で開始、電動シートボードと自転車を展開",
@@ -355,39 +388,6 @@
       "image": "https://image.itmedia.co.jp/mobile/articles/2609/11/l_asa_100item_01.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/11/news057.html",
-      "title": "スマホやPCで高音質なゲーム音響を楽しめる「Logicool G G333」がセールで33％オフの4980円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/11/news057.html",
-      "date": "2026-09-11T00:39:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/11/cover_news057.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/11/news056.html",
-      "title": "充電しながら有線オーディオを楽しみたい人に適した「UGREEN Type-C to Type-C 2in1イヤホン変換アダプタ」がセールで25％オフの2024円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/11/news056.html",
-      "date": "2026-09-11T00:35:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/11/cover_news056.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/11/news055.html",
-      "title": "バッテリー残量が1％単位でLEDに表示される「エレコム EC-C65LWF」がセールで15％オフの2280円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/11/news055.html",
-      "date": "2026-09-11T00:28:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/11/cover_news055.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139981.html",
       "title": "ソフトバンクの衛星通信が海外でも、米国など3カ国で9月28日開始",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2139981.html",
@@ -507,17 +507,6 @@
       "catLabel": "その他",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2139/911/00.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139882.html",
-      "title": "ソフトバンク、「iPhone 18 Pro」シリーズ・「iPhone Duo」など18日以降順次発売",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2139882.html",
-      "date": "2026-09-10T06:11:19+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "ソフトバンク",
-      "image": null
     },
     {
       "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr-1160_4713.html",
