@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-09-12T22:55:43.429916+00:00",
+  "generated_at": "2026-09-13T04:21:15.505294+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/13/news011.html",
+      "title": "ノキアがNTTドコモに納めた「MantaRay SON」を紹介――これで長年、苦しんできたネットワーク品質の改善に期待",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/13/news011.html",
+      "date": "2026-09-13T02:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ドコモ",
+      "image": "https://image.itmedia.co.jp/images/logo/1200x630_500x500_mobile.gif"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/13/news004.html",
+      "title": "「iPhone Duo」でAppleの“折りたたみスマホシェア”は全世界5割超に？　激変するフォルダブルスマホ市場",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/13/news004.html",
+      "date": "2026-09-13T01:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/13/cover_news004.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/13/news008.html",
+      "title": "【ワークマン】780円の「アウトドアギアポーチ」　ベルトループ幅を3段階で調節できる",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/13/news008.html",
+      "date": "2026-09-13T01:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/13/l_asa_100item_01.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/13/news010.html",
+      "title": "出そろった「iPhone 18 Pro」の価格を4キャリアで比較　ソフトバンクが衝撃の安さ、楽天モバイルが異例の施策",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/13/news010.html",
+      "date": "2026-09-12T23:44:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "ソフトバンク",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/13/cover_news010.jpg"
+    },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/12/news018.html",
       "title": "ソフトバンクの「iPhone 18 Pro」はMNPだと256GBが2年2万円台、512GBが2年4万円台に",
@@ -399,17 +443,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2140/161/00.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/11/news069.html",
-      "title": "KDDIとWi2、5Gミリ波をバックホールに活用　“ロッキン2026”で導入する大容量フリーWi-Fiの仕組み",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/11/news069.html",
-      "date": "2026-09-11T03:28:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "au/KDDI",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/11/l_rk1640414_feswifi-01.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2140162.html",
       "title": "KDDI、ロッキンで5Gミリ波バックホールのフリーWi-Fiを提供",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2140162.html",
@@ -419,17 +452,6 @@
       "catLabel": "その他",
       "carrier": "au/KDDI",
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2140/162/kddi_nr-1158_4711_img_04.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/11/news064.html",
-      "title": "iPhone 17 Proの背面ガラスがバキバキに　約2.8万円の修理代、「クレカの付帯保険」に助けられた話",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/11/news064.html",
-      "date": "2026-09-11T03:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/11/cover_news064.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2140122.html",
