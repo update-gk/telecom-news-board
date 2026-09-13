@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-09-13T11:32:04.475129+00:00",
+  "generated_at": "2026-09-13T16:00:19.067542+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2140321.html",
+      "title": "令和の手甲ポーチを灼熱のバルセロナで使ってみた",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2140321.html",
+      "date": "2026-09-13T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2140/321/1.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/minna/2140302.html",
+      "title": "Pixel Tabletのスクリーンセーバーで自宅の電力状況をチェックしてみよう",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/minna/2140302.html",
+      "date": "2026-09-13T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2140/302/001.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/stapa/2139559.html",
+      "title": "スマホホルダーの「17mmボールジョイント」が超便利！　車載も自転車もパーツ交換で自由自在ッ!!",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/stapa/2139559.html",
+      "date": "2026-09-13T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2139/559/stptncs2026-09-14 thumbnail.jpg"
+    },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/13/news011.html",
       "title": "ノキアがNTTドコモに納めた「MantaRay SON」を紹介――これで長年、苦しんできたネットワーク品質の改善に期待",
@@ -529,39 +562,6 @@
       "catLabel": "端末",
       "carrier": null,
       "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139964.html",
-      "title": "iPhoneの買取価格を増額、ビックカメラ「スマホ メガ買取」17日～",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2139964.html",
-      "date": "2026-09-10T11:01:01+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2139/964/02 .jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2140001.html",
-      "title": "1つの電話番号を2台のiPhoneで使える「iPhone Handoff」発表",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2140001.html",
-      "date": "2026-09-10T10:55:49+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2140/001/00.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139959.html",
-      "title": "auも「iPhone Duo」や「iPhone 18 Pro」シリーズなど発売へ",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2139959.html",
-      "date": "2026-09-10T08:42:54+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "au/KDDI",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2139/959/00.jpg"
     },
     {
       "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr-1160_4713.html",
