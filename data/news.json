@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-09-14T19:47:41.056683+00:00",
+  "generated_at": "2026-09-14T23:48:05.732025+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/15/news032.html",
+      "title": "「一瞬の退屈も我慢できない」SNS中毒“ドパガキ”ってなんだ？　その心理と、日本以外の状況",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/15/news032.html",
+      "date": "2026-09-14T23:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/15/cover_news032.jpg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2140862.html",
       "title": "アップル、「iOS 27」「iPadOS 27」など提供開始",
@@ -474,39 +485,6 @@
       "catLabel": "キャンペーン",
       "carrier": null,
       "image": "https://image.itmedia.co.jp/mobile/articles/2609/14/cover_news060.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/14/news054.html",
-      "title": "イヤフォンやケースの細かい汚れを綺麗に掃除できる「UGREEN 3in1 イヤホンクリーニングキット」がセールで20％オフの879円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/14/news054.html",
-      "date": "2026-09-14T00:31:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/14/cover_news054.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/14/news053.html",
-      "title": "外出先での複数機器の急速充電に適した「Anker Prime Charger (100W, 3 Ports, GaN)」がセールで30％オフの6290円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/14/news053.html",
-      "date": "2026-09-14T00:28:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/14/cover_news053.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/14/news052.html",
-      "title": "iPhone 18 Proの落下リスクを抑える「TORRAS iPhone 18 Pro 用 ケース Ostand Q3 Air」がセールで19％オフの1万399円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/14/news052.html",
-      "date": "2026-09-14T00:22:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/14/cover_news052.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2140321.html",
