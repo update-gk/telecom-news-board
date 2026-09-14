@@ -1,7 +1,194 @@
 {
-  "generated_at": "2026-09-13T23:03:18.360489+00:00",
+  "generated_at": "2026-09-14T04:28:08.919197+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2140599.html",
+      "title": "LINE MUSIC、有料プランを刷新　料金そのまま「LYPプレミアム エンジョイ」を追加",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2140599.html",
+      "date": "2026-09-14T03:43:36+00:00",
+      "sourceKey": "ktai",
+      "catKey": "price",
+      "catLabel": "料金プラン",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2140/599/lyp.png"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2140600.html",
+      "title": "au/UQのiPhone向け補償サービスで「次回機種の割引特典」を追加、月額料金を値上げへ",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2140600.html",
+      "date": "2026-09-14T03:36:55+00:00",
+      "sourceKey": "ktai",
+      "catKey": "price",
+      "catLabel": "料金プラン",
+      "carrier": "au/KDDI",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2140/600/01.png"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2140592.html",
+      "title": "au、最大1万ポイント当たるアクセサリー購入キャンペーン　オンラインショップで",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2140592.html",
+      "date": "2026-09-14T03:36:32+00:00",
+      "sourceKey": "ktai",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": "au/KDDI",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2140/592/00.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2140560.html",
+      "title": "LINEMOで最大2万円相当のPayPayポイント、18日まで",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2140560.html",
+      "date": "2026-09-14T03:02:51+00:00",
+      "sourceKey": "ktai",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": "ソフトバンク",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2140/560/02.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2140566.html",
+      "title": "ahamo、10月11日にeSIM新規発行のメンテナンス　5時と22時に",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2140566.html",
+      "date": "2026-09-14T02:59:02+00:00",
+      "sourceKey": "ktai",
+      "catKey": "trouble",
+      "catLabel": "障害・不具合",
+      "carrier": "ドコモ",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2140/566/ahamo001.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/14/news069.html",
+      "title": "15日配信「iOS 27」の新機能まとめ　Siri AIの恩恵を受けられる機種は？　画像編集やSafariにも注目",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/14/news069.html",
+      "date": "2026-09-14T02:52:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/14/cover_news069.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2140553.html",
+      "title": "ソフトバンク、「Pixel 11」シリーズで最大3万円相当進呈は30日まで",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2140553.html",
+      "date": "2026-09-14T02:38:51+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "ソフトバンク",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2140/553/pixel11.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/14/news044.html",
+      "title": "AI文字盤作成も対応　コンパクトスマートウォッチ「MONOMAM Primo」が5980円",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/14/news044.html",
+      "date": "2026-09-14T01:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/14/l_asa_amazon_01.jpg"
+    },
+    {
+      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sh02l/index.html",
+      "title": "「AQUOS ケータイ SH-02L」のソフトウェアアップデート情報のお知らせ",
+      "link": "https://www.docomo.ne.jp/support/product_update/sh02l/index.html",
+      "date": "2026-09-14T01:00:00+00:00",
+      "sourceKey": "docomo",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "ドコモ",
+      "image": null
+    },
+    {
+      "id": "docomo-https://www.docomo.ne.jp/support/product_update/f41f/index.html",
+      "title": "「らくらくホン F-41F」のソフトウェアアップデート情報のお知らせ",
+      "link": "https://www.docomo.ne.jp/support/product_update/f41f/index.html",
+      "date": "2026-09-14T01:00:00+00:00",
+      "sourceKey": "docomo",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ドコモ",
+      "image": null
+    },
+    {
+      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc54g/index.html",
+      "title": "「Samsung Galaxy A57 5G SC-54G」のソフトウェアアップデート情報のお知らせ",
+      "link": "https://www.docomo.ne.jp/support/product_update/sc54g/index.html",
+      "date": "2026-09-14T01:00:00+00:00",
+      "sourceKey": "docomo",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "ドコモ",
+      "image": null
+    },
+    {
+      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc52e/index.html",
+      "title": "「Galaxy S24 Ultra SC-52E」のソフトウェアアップデート情報のお知らせ",
+      "link": "https://www.docomo.ne.jp/support/product_update/sc52e/index.html",
+      "date": "2026-09-14T01:00:00+00:00",
+      "sourceKey": "docomo",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "ドコモ",
+      "image": null
+    },
+    {
+      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc51e/index.html",
+      "title": "「Galaxy S24 SC-51E」のソフトウェアアップデート情報のお知らせ",
+      "link": "https://www.docomo.ne.jp/support/product_update/sc51e/index.html",
+      "date": "2026-09-14T01:00:00+00:00",
+      "sourceKey": "docomo",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "ドコモ",
+      "image": null
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/14/news060.html",
+      "title": "断線に強い高耐久ナイロン仕様の「Anker USB-C & USB-C ケーブル (1.8m, 240W)」がセールで37％オフの1690円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/14/news060.html",
+      "date": "2026-09-14T00:53:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/14/cover_news060.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/14/news054.html",
+      "title": "イヤフォンやケースの細かい汚れを綺麗に掃除できる「UGREEN 3in1 イヤホンクリーニングキット」がセールで20％オフの879円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/14/news054.html",
+      "date": "2026-09-14T00:31:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/14/cover_news054.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/14/news053.html",
+      "title": "外出先での複数機器の急速充電に適した「Anker Prime Charger (100W, 3 Ports, GaN)」がセールで30％オフの6290円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/14/news053.html",
+      "date": "2026-09-14T00:28:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/14/cover_news053.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/14/news052.html",
+      "title": "iPhone 18 Proの落下リスクを抑える「TORRAS iPhone 18 Pro 用 ケース Ostand Q3 Air」がセールで19％オフの1万399円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/14/news052.html",
+      "date": "2026-09-14T00:22:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/14/cover_news052.jpg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2140321.html",
       "title": "令和の手甲ポーチを灼熱のバルセロナで使ってみた",
@@ -256,17 +443,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2140/348/00.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/11/news092.html",
-      "title": "ドコモが「iPhone 18 Pro／18 Pro Max」の価格を発表　MNPで2年9万9990円から、2TBは一括50万円超え",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/11/news092.html",
-      "date": "2026-09-11T13:28:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "ドコモ",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/11/cover_news092.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2140379.html",
       "title": "ドコモが「iPhone 18 Pro/Pro Max」の価格発表、実質9万9990円～",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2140379.html",
@@ -278,28 +454,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2140/379/18pro.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/11/news090.html",
-      "title": "「iPhone Duo」と「Galaxy Z Fold8」のスペックを比較　薄さと機能性、約9万5000円の価格差をどう評価する？",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/11/news090.html",
-      "date": "2026-09-11T12:34:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/11/cover_news090.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/11/news089.html",
-      "title": "2026年度末の「Suicaエリア統合」　気になることをJR東日本に聞いてみた",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/11/news089.html",
-      "date": "2026-09-11T12:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/11/cover_news089.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2140364.html",
       "title": "ドコモがアジア大会で計38エリアの通信対策を実施、「高所作業車」を使った現場を見てきた",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2140364.html",
@@ -309,39 +463,6 @@
       "catLabel": "その他",
       "carrier": "ドコモ",
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2140/364/cont100.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/11/news088.html",
-      "title": "「“ティム・クック”がGalaxyに乗り換えた」──Samsungニュージーランド法人の投稿が話題に　実は……",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/11/news088.html",
-      "date": "2026-09-11T11:16:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/11/cover_news088.png"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/11/news086.html",
-      "title": "リファービッシュiPhone 15 Pro／16 Proを数量限定で最大7500円割引　Back Marketが9月16日まで",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/11/news086.html",
-      "date": "2026-09-11T09:50:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/11/l_asa_BackMarket_01.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/11/news085.html",
-      "title": "MOFT、iPhone 18 Pro向けアクセサリー発売　ヴィーガンレザーやコーヒーかすのケースなど",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/11/news085.html",
-      "date": "2026-09-11T09:07:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/11/l_asa_MOFT_01.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2140275.html",
@@ -366,28 +487,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2140/303/01.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/11/news078.html",
-      "title": "Paidy、Apple専用プランでiPhone 18 Proが月々6105円から　ドコモ／ソフトバンクで最大2万円割引",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/11/news078.html",
-      "date": "2026-09-11T08:17:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "price",
-      "catLabel": "料金プラン",
-      "carrier": "ドコモ",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/11/l_asa_Paidy_01.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/11/news082.html",
-      "title": "「au Starlink Direct」の海外ローミング対応機種、Apple Watch 5機種へ拡大　9月15日から順次",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/11/news082.html",
-      "date": "2026-09-11T07:55:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "au/KDDI",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/11/cover_news082.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2140277.html",
       "title": "KDDI、「au海外放題」30％還元の第2弾実施へ　シルバーウィーク向け",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2140277.html",
@@ -397,28 +496,6 @@
       "catLabel": "キャンペーン",
       "carrier": "au/KDDI",
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2140/277/01.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/11/news080.html",
-      "title": "土屋鞄、iPhone 18 Pro／Pro Max向けレザーケース＆スマホショルダー発売　新色も追加",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/11/news080.html",
-      "date": "2026-09-11T07:28:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/11/l_asa_objctsio_01.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/11/news074.html",
-      "title": "Y!mobileのSIMフリー「REDMI Note 17 Pro Max 5G」、約8万円→5.9万円に　MNP＋回線セットで【スマホお得情報】",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/11/news074.html",
-      "date": "2026-09-11T07:13:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "mvno",
-      "catLabel": "MVNO・格安SIM",
-      "carrier": "Y!mobile",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/11/l_asa_sumaotoku_01.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2140247.html",
@@ -496,72 +573,6 @@
       "catLabel": "キャンペーン",
       "carrier": "au/KDDI",
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2140/122/01.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2140118.html",
-      "title": "povoの対応端末に「iPhone 18 Pro」シリーズや「iPhone Duo」追加",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2140118.html",
-      "date": "2026-09-11T02:43:35+00:00",
-      "sourceKey": "ktai",
-      "catKey": "mvno",
-      "catLabel": "MVNO・格安SIM",
-      "carrier": "au/KDDI",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2140/118/povo.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/ishikawa/2140124.html",
-      "title": "アップルの“後出しジャンケン”、初の折りたたみ「iPhone Duo」にGalaxyはどう挑むか",
-      "link": "https://k-tai.watch.impress.co.jp/docs/column/ishikawa/2140124.html",
-      "date": "2026-09-11T02:32:08+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2140/124/photo_5.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139981.html",
-      "title": "ソフトバンクの衛星通信が海外でも、米国など3カ国で9月28日開始",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2139981.html",
-      "date": "2026-09-10T15:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "ソフトバンク",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2139/981/01.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139952.html",
-      "title": "アップルが「iPhone Duo」を発表、最新横開きフォルダブルスマホとどう違う？",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2139952.html",
-      "date": "2026-09-10T15:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2139/952/1.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/teppan/2139217.html",
-      "title": "待ち合わせには、たった数文字で正確な場所を教えられる「プラスコード」を使ってみよう",
-      "link": "https://k-tai.watch.impress.co.jp/docs/column/teppan/2139217.html",
-      "date": "2026-09-10T15:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2139/217/thumbnail.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/congress/2138490.html",
-      "title": "Pixel、Xperia、arrows。部材高騰に苦しむ市場に現れるメーカーごとの特色[法林岳之・石川温・石野純也・佐藤文彦のスマホ会議（仮）]",
-      "link": "https://k-tai.watch.impress.co.jp/docs/column/congress/2138490.html",
-      "date": "2026-09-10T15:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": null
     },
     {
       "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr-1160_4713.html",
@@ -817,28 +828,6 @@
       "image": null
     },
     {
-      "id": "docomo-https://www.docomo.ne.jp/support/product_update/f52g/index.html",
-      "title": "「arrows We3 F-52G」のソフトウェアアップデート情報のお知らせ",
-      "link": "https://www.docomo.ne.jp/support/product_update/f52g/index.html",
-      "date": "2026-09-07T01:00:00+00:00",
-      "sourceKey": "docomo",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "ドコモ",
-      "image": null
-    },
-    {
-      "id": "docomo-https://www.docomo.ne.jp/corporate/anatatodocomo/docomoeveryday/article228/index.html?icid=CRP_INFO_to_CRP_CORP_anatatodocomo_docomoeveryday_article228",
-      "title": "あなたとドコモ 新着記事：プログラミングは、誰かを幸せにするための力。",
-      "link": "https://www.docomo.ne.jp/corporate/anatatodocomo/docomoeveryday/article228/index.html?icid=CRP_INFO_to_CRP_CORP_anatatodocomo_docomoeveryday_article228",
-      "date": "2026-09-07T01:00:00+00:00",
-      "sourceKey": "docomo",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "ドコモ",
-      "image": null
-    },
-    {
       "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr-1149_4696.html",
       "title": "光回線とau 5G回線を融合したインターネットサービス「auひかりプラス」を提供開始",
       "link": "https://newsroom.kddi.com/news/detail/kddi_nr-1149_4696.html",
@@ -847,39 +836,6 @@
       "catKey": "other",
       "catLabel": "その他",
       "carrier": "au/KDDI",
-      "image": null
-    },
-    {
-      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc54e/index.html",
-      "title": "「Galaxy Z Flip6 SC-54E」のソフトウェアアップデート情報のお知らせ",
-      "link": "https://www.docomo.ne.jp/support/product_update/sc54e/index.html",
-      "date": "2026-09-03T01:00:00+00:00",
-      "sourceKey": "docomo",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "ドコモ",
-      "image": null
-    },
-    {
-      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc56f/index.html",
-      "title": "「Samsung Galaxy Z Fold7 SC-56F」のソフトウェアアップデート情報のお知らせ",
-      "link": "https://www.docomo.ne.jp/support/product_update/sc56f/index.html",
-      "date": "2026-09-03T01:00:00+00:00",
-      "sourceKey": "docomo",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "ドコモ",
-      "image": null
-    },
-    {
-      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc55f/index.html",
-      "title": "「Samsung Galaxy Z Flip7 SC-55F」のソフトウェアアップデート情報のお知らせ",
-      "link": "https://www.docomo.ne.jp/support/product_update/sc55f/index.html",
-      "date": "2026-09-03T01:00:00+00:00",
-      "sourceKey": "docomo",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "ドコモ",
       "image": null
     },
     {
