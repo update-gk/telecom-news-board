@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-09-15T11:30:44.026438+00:00",
+  "generated_at": "2026-09-15T16:43:52.125078+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/minna/2141146.html",
+      "title": "au契約者が船旅するなら絶対使うべき「au Starlink フェリーWi-Fi」",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/minna/2141146.html",
+      "date": "2026-09-15T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "au/KDDI",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2141/146/99.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2141131.html",
+      "title": "Googleストアで創立記念キャンペーン、25日～　最大10万円引きのゲームも",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2141131.html",
+      "date": "2026-09-15T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2141/131/00.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/stapaapple/2140659.html",
+      "title": "令和の時代にフロッピーディスク!?　デザイン最高な「SSDエンクロージャー」に俺はハートを奪われたッ!!!",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/stapaapple/2140659.html",
+      "date": "2026-09-15T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2140/659/01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2139187.html",
+      "title": "iPhoneも実測29W台で充電可能、AmazonベーシックのQi2 25Wワイヤレス充電スタンド",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2139187.html",
+      "date": "2026-09-15T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2139/187/01.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/15/news093.html",
+      "title": "メルカリ、ポケカ「30th」関連商品を一時出品禁止に　9月16日0時から　背景と目的は",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/15/news093.html",
+      "date": "2026-09-15T11:58:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/15/cover_news093.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/15/news090.html",
+      "title": "スマホの通信料と端末代は増加傾向、大手キャリアの平均は月額8802円　MMDが調査",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/15/news090.html",
+      "date": "2026-09-15T10:30:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "price",
+      "catLabel": "料金プラン",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/15/l_asa_MMD_01.jpg"
+    },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/15/news091.html",
       "title": "折りたたみスマホの弱点を克服？　Samsung「Galaxy Z Fold8」に見る携帯性、8世代にわたる構造改革",
@@ -12,6 +78,17 @@
       "catLabel": "端末",
       "carrier": null,
       "image": "https://image.itmedia.co.jp/mobile/articles/2609/15/cover_news091.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/15/news089.html",
+      "title": "iPhone 18 ProとiPhone Duoの価格、日本は海外より安い？　MM総研が40の国・地域で販売価格を調査",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/15/news089.html",
+      "date": "2026-09-15T09:37:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/15/l_asa_MMsouken_01.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2141128.html",
@@ -507,50 +584,6 @@
       "catLabel": "MVNO・格安SIM",
       "carrier": "ソフトバンク",
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2140/747/02.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2140767.html",
-      "title": "日本でマイクロソフト「OneDrive」などにアクセスできない障害、14日夕",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2140767.html",
-      "date": "2026-09-14T09:12:22+00:00",
-      "sourceKey": "ktai",
-      "catKey": "trouble",
-      "catLabel": "障害・不具合",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2140/767/ms.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2140725.html",
-      "title": "みなとみらいで自動運転車10台、KDDIが遠隔監視の通信品質を検証",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2140725.html",
-      "date": "2026-09-14T08:19:03+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "au/KDDI",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2140/725/07.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2140701.html",
-      "title": "iPhone 18 Pro向けケースをBelkinが発売、最大5.5m落下耐性やキックスタンド",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2140701.html",
-      "date": "2026-09-14T08:05:42+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2140/701/main.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2140698.html",
-      "title": "OURAがロサンゼルス・ドジャースと提携、スマートリングで選手の支援",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2140698.html",
-      "date": "2026-09-14T08:05:37+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2140/698/00.jpg"
     },
     {
       "id": "docomo-https://www.docomo.ne.jp/support/product_update/sh02l/index.html",
