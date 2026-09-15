@@ -1,7 +1,216 @@
 {
-  "generated_at": "2026-09-15T04:28:28.281470+00:00",
+  "generated_at": "2026-09-15T11:30:44.026438+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/15/news091.html",
+      "title": "折りたたみスマホの弱点を克服？　Samsung「Galaxy Z Fold8」に見る携帯性、8世代にわたる構造改革",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/15/news091.html",
+      "date": "2026-09-15T09:53:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/15/cover_news091.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2141128.html",
+      "title": "MediaTek、2nmプロセスのフラッグシップSoC「Dimensity 9600 Pro」を発表",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2141128.html",
+      "date": "2026-09-15T09:22:16+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2141/128/D9600P.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2141104.html",
+      "title": "チェキの“手のひらカメラ”「instax Pal 2」、10月9日発売　モニターや30種エフェクト",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2141104.html",
+      "date": "2026-09-15T09:00:38+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2141/104/13.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2141089.html",
+      "title": "iPhone 18 ProシリーズやiPhone Duoの国内価格は安い　ＭＭ総研調べ",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2141089.html",
+      "date": "2026-09-15T09:00:29+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2141/089/001.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2141045.html",
+      "title": "サムスン、スマートウォッチの生体信号をAI解析　「ヘルス基盤モデル」研究",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2141045.html",
+      "date": "2026-09-15T09:00:14+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2141/045/04.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2141095.html",
+      "title": "ESR新製品発表会、「iPhone 18 Pro/18 Pro Max/Duo」向けのスタンドケースを発売へ",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2141095.html",
+      "date": "2026-09-15T08:22:24+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2141/095/cont100.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/15/news088.html",
+      "title": "「NHKプラス」を「NHK ONE」へ改称　教養コンテンツも拡充へ",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/15/news088.html",
+      "date": "2026-09-15T07:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/15/cover_news088.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/15/news087.html",
+      "title": "UQ mobileの「Pixel 10a（128GB）」、MNPで2年間47円【スマホお得情報】",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/15/news087.html",
+      "date": "2026-09-15T06:39:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "UQ mobile",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/15/l_asa_sumaotoku_01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2141012.html",
+      "title": "「Jiffcy」の写真機能「Dots」がWeb対応、アプリなしでも参加可能に",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2141012.html",
+      "date": "2026-09-15T06:23:04+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": null
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2141002.html",
+      "title": "PayPay証券、米SBエナジーのIPO株式を販売　条件達成で1万円分の購入権",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2141002.html",
+      "date": "2026-09-15T06:22:59+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2141/002/00.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2141048.html",
+      "title": "Amazon、2026年の「プライム感謝祭」を10月に開催",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2141048.html",
+      "date": "2026-09-15T06:22:56+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2141/048/amz.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/15/news084.html",
+      "title": "ドコモが「iPhone 18 Pro」256GBモデルの販売条件を一部変更　新規／MNP時の2年間実質負担額が3万3000円引き",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/15/news084.html",
+      "date": "2026-09-15T06:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "ドコモ",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/15/cover_news084.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/15/news080.html",
+      "title": "Apple Pencilが使える「iPhone Duo」は、iPad miniの代わりになるか？　必ず知っておきたい注意点",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/15/news080.html",
+      "date": "2026-09-15T06:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/15/cover_news080.png"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/15/news050.html",
+      "title": "【3COINS】3000円台の「デジタルトイカメラ」　フィルター＆ステッカー内蔵で動画撮影にも対応",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/15/news050.html",
+      "date": "2026-09-15T06:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/15/l_asa_100item_01.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/15/news073.html",
+      "title": "薄さと耐久性を両立させたiPhone 18 Pro用ハイブリッドケース「DUPLE M ARMOR」発売",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/15/news073.html",
+      "date": "2026-09-15T05:10:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/15/l_asa_DUPLEMARMOR_01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2141017.html",
+      "title": "ドコモ「iPhone 18 Pro」256GB、2年で10万円→6.7万円に値下げ",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2141017.html",
+      "date": "2026-09-15T04:55:14+00:00",
+      "sourceKey": "ktai",
+      "catKey": "price",
+      "catLabel": "料金プラン",
+      "carrier": "ドコモ",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2141/017/18p.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2140989.html",
+      "title": "JCB、クレカ乗車で最大5000円キャッシュバック　抽選で1000人",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2140989.html",
+      "date": "2026-09-15T04:44:03+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2140/989/03.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/15/news078.html",
+      "title": "撮影に特化した手のひらサイズのチェキ「instax Pal 2」発売、約2.5万円　アナログ操作感を楽しめる",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/15/news078.html",
+      "date": "2026-09-15T04:26:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/15/l_asa_instaxPal2_01.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/15/news077.html",
+      "title": "折りたたみ「iPhone Duo」に、iPhone Proシリーズから乗り換えたら“失う”5つのこと",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/15/news077.html",
+      "date": "2026-09-15T04:15:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/15/cover_news077.jpg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2140992.html",
       "title": "ワイモバイル、「オンラインストア誕生感謝祭」週替わりセール　「OPPO A5 5G」が1円など",
@@ -245,15 +454,15 @@
       "image": null
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/15/news055.html",
-      "title": "ドコモ、2027年度中に「5Gエリア＝SA対応エリア」目指す　品質1位にこだわらず“体感品質”の向上を重視",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/15/news055.html",
+      "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260915_01/",
+      "title": "ソフトバンクとWiseVine、自治体職員の担い手不足の課題解決に向けた戦略的提携に合意〜最大100自治体を対象に、自治体向けの経営管理システム「Build & Scrap」のサービス利用料を5年間無償で提供し、将来的に行政特化型AIの構築を目指す〜",
+      "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260915_01/",
       "date": "2026-09-14T15:00:00+00:00",
-      "sourceKey": "itmedia",
+      "sourceKey": "softbank",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": "ドコモ",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/15/cover_news055.jpg"
+      "carrier": "ソフトバンク",
+      "image": null
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2140785.html",
@@ -265,17 +474,6 @@
       "catLabel": "その他",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2140/785/my_l.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/14/news089.html",
-      "title": "土屋鞄、iPhone 18 Pro向け「mastermind JAPAN」コラボケースやアクセサリーを数量限定で発売",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/14/news089.html",
-      "date": "2026-09-14T09:39:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/14/l_asa_objctsio_01.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2140749.html",
@@ -353,138 +551,6 @@
       "catLabel": "その他",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2140/698/00.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/sale/2140677.html",
-      "title": "アマゾンでUGREEN製品がセール、ディスプレイ付きモバイルバッテリーや100W充電器など",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/sale/2140677.html",
-      "date": "2026-09-14T08:05:32+00:00",
-      "sourceKey": "ktai",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2140/677/001.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/14/news087.html",
-      "title": "楽天モバイルが回線／サービス契約の「楽天ID」ひも付け必須化を撤回　ただしひも付けなし回線では一時的に追加制約が出る可能性",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/14/news087.html",
-      "date": "2026-09-14T08:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "楽天モバイル",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/14/cover_news087.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/14/news084.html",
-      "title": "auの「iPhone Air（256GB）」、端末返却やMNPで2年47円に【スマホお得情報】",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/14/news084.html",
-      "date": "2026-09-14T07:20:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "au/KDDI",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/14/l_asa_sumaotoku_01.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2140667.html",
-      "title": "楽天モバイル、“楽天ID未連携で自動解約”を撤回　12月以降も継続利用できる",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2140667.html",
-      "date": "2026-09-14T06:08:07+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "楽天モバイル",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2140/667/rktn.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2140641.html",
-      "title": "ESR、冷却ファン搭載のQi2充電器など新製品3種を発売",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2140641.html",
-      "date": "2026-09-14T05:43:47+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2140/641/01.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2140612.html",
-      "title": "YouTubeで子ども向けプレイリスト特別配信、シルバーウィークに",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2140612.html",
-      "date": "2026-09-14T05:31:30+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2140/612/00.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2140607.html",
-      "title": "ローソンがLimeの拠点に、沖縄7店舗で貸出・返却・バッテリー交換",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2140607.html",
-      "date": "2026-09-14T05:22:10+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2140/607/05.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2140644.html",
-      "title": "「フレッツ 光クロス」が岡崎市でエリア拡大、10月9日から",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2140644.html",
-      "date": "2026-09-14T05:22:04+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2140/644/10.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2140631.html",
-      "title": "台湾入国カードを日本語で無料申請、「トリファ」がTWAC対応",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2140631.html",
-      "date": "2026-09-14T05:21:58+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2140/631/07.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2140588.html",
-      "title": "iPhone 18 Pro向け89商品、auからFURLAケースやQi2.2充電器",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2140588.html",
-      "date": "2026-09-14T04:57:17+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "au/KDDI",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2140/588/01.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2140599.html",
-      "title": "LINE MUSIC、有料プランを刷新　料金そのまま「LYPプレミアム エンジョイ」を追加",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2140599.html",
-      "date": "2026-09-14T03:43:36+00:00",
-      "sourceKey": "ktai",
-      "catKey": "price",
-      "catLabel": "料金プラン",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2140/599/lyp.png"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2140600.html",
-      "title": "au/UQのiPhone向け補償サービスで「次回機種の割引特典」を追加、月額料金を値上げへ",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2140600.html",
-      "date": "2026-09-14T03:36:55+00:00",
-      "sourceKey": "ktai",
-      "catKey": "price",
-      "catLabel": "料金プラン",
-      "carrier": "au/KDDI",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2140/600/01.png"
     },
     {
       "id": "docomo-https://www.docomo.ne.jp/support/product_update/sh02l/index.html",
@@ -1250,17 +1316,6 @@
       "title": "ソフトバンクとSierra、AIエージェントでカスタマーサポートの顧客体験を変革するサービスの日本展開に向けた戦略的パートナーシップ契約を締結〜Sierraの対話型AIプラットフォームをソフトバンクが日本市場で独占販売代理店として販売開始〜",
       "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260714_01/",
       "date": "2026-07-13T15:00:00+00:00",
-      "sourceKey": "softbank",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "ソフトバンク",
-      "image": null
-    },
-    {
-      "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260713_01/",
-      "title": "ソフトバンクと安川電機、フィジカルAIの開発基盤として「AIデータセンター GPUクラウド」を活用し、柔軟物体ハンドリングシステムを実証～NVIDIAと協力し、ロボットの動作データ収集からAIの学習・評価、実機への適用までを効率化～",
-      "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260713_01/",
-      "date": "2026-07-12T15:00:00+00:00",
       "sourceKey": "softbank",
       "catKey": "other",
       "catLabel": "その他",
