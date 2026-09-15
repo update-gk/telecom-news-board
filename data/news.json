@@ -1,7 +1,183 @@
 {
-  "generated_at": "2026-09-14T23:48:05.732025+00:00",
+  "generated_at": "2026-09-15T04:28:28.281470+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2140992.html",
+      "title": "ワイモバイル、「オンラインストア誕生感謝祭」週替わりセール　「OPPO A5 5G」が1円など",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2140992.html",
+      "date": "2026-09-15T04:05:19+00:00",
+      "sourceKey": "ktai",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": "Y!mobile",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2140/992/a5.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2140973.html",
+      "title": "ファミマのコーヒーSが無料、「CHARGESPOT」アプリを開くだけ　先着10万名",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2140973.html",
+      "date": "2026-09-15T03:44:14+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2140/973/02.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2140978.html",
+      "title": "iPhoneの「iOS 27」に子どもの安全を強化する新機能追加",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2140978.html",
+      "date": "2026-09-15T03:44:11+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2140/978/00.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/topic/special/2140852.html",
+      "title": "「どこを撮るか」を“撮った後”に決める——360°カメラの最新形「DJI Osmo 360 II」を動画レビュー[Sponsored]",
+      "link": "https://k-tai.watch.impress.co.jp/docs/topic/special/2140852.html",
+      "date": "2026-09-15T03:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": null
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2140947.html",
+      "title": "KDDIとSpaceX、次世代衛星「Starlink Mobile V2」契約　27年に音声通話も",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2140947.html",
+      "date": "2026-09-15T02:57:46+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "au/KDDI",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2140/947/01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2140951.html",
+      "title": "アプリ起動が最大30％高速化、iPhone「iOS 27」新機能と変更点一覧",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2140951.html",
+      "date": "2026-09-15T02:57:42+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2140/951/27.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2140941.html",
+      "title": "Waymoの無人タクシー、東京で2027年商用化へ",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2140941.html",
+      "date": "2026-09-15T02:53:09+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2140/941/01.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/15/news069.html",
+      "title": "レベル4の“完全無人タクシー”、東京で2027年に商用化へ　GOとWaymo、日本交通が戦略的パートナーシップ",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/15/news069.html",
+      "date": "2026-09-15T02:07:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/15/cover_news069.png"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/15/news068.html",
+      "title": "圏外でも高速データ通信や音声通話が可能に　KDDIが「Starlink Mobile V2」契約を締結　アジア初",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/15/news068.html",
+      "date": "2026-09-15T02:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "au/KDDI",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/15/cover_news068.jpg"
+    },
+    {
+      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc55d/index.html",
+      "title": "「Galaxy Z Fold5 SC-55D」のソフトウェアアップデート情報のお知らせ",
+      "link": "https://www.docomo.ne.jp/support/product_update/sc55d/index.html",
+      "date": "2026-09-15T01:00:00+00:00",
+      "sourceKey": "docomo",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "ドコモ",
+      "image": null
+    },
+    {
+      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc54d/index.html",
+      "title": "「Galaxy Z Flip5 SC-54D」のソフトウェアアップデート情報のお知らせ",
+      "link": "https://www.docomo.ne.jp/support/product_update/sc54d/index.html",
+      "date": "2026-09-15T01:00:00+00:00",
+      "sourceKey": "docomo",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "ドコモ",
+      "image": null
+    },
+    {
+      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc52d/index.html",
+      "title": "「Galaxy S23 Ultra SC-52D」のソフトウェアアップデート情報のお知らせ",
+      "link": "https://www.docomo.ne.jp/support/product_update/sc52d/index.html",
+      "date": "2026-09-15T01:00:00+00:00",
+      "sourceKey": "docomo",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "ドコモ",
+      "image": null
+    },
+    {
+      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc51d/index.html",
+      "title": "「Galaxy S23 SC-51D」のソフトウェアアップデート情報のお知らせ",
+      "link": "https://www.docomo.ne.jp/support/product_update/sc51d/index.html",
+      "date": "2026-09-15T01:00:00+00:00",
+      "sourceKey": "docomo",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "ドコモ",
+      "image": null
+    },
+    {
+      "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr-1129_4677.html",
+      "title": "アジア初、次世代衛星「Starlink Mobile V2」契約を締結",
+      "link": "https://newsroom.kddi.com/news/detail/kddi_nr-1129_4677.html",
+      "date": "2026-09-15T01:00:00+00:00",
+      "sourceKey": "au",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "au/KDDI",
+      "image": null
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/15/news060.html",
+      "title": "「iOS 27」配信開始　Siriを刷新、写真アプリやSafariにも新機能　アップデート内容をチェック",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/15/news060.html",
+      "date": "2026-09-14T23:59:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/15/cover_news060.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/15/news059.html",
+      "title": "Apple、「iOS 27」と「iOS 26.7」を同時公開　セキュリティ修正はiOS 27が126件、26.7が82件",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/15/news059.html",
+      "date": "2026-09-14T23:45:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/15/cover_news059.jpg"
+    },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/15/news032.html",
       "title": "「一瞬の退屈も我慢できない」SNS中毒“ドパガキ”ってなんだ？　その心理と、日本以外の状況",
@@ -223,17 +399,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2140/667/rktn.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/14/news080.html",
-      "title": "アリゲーター・クロコダイルレザーのiPhone 18 Proケース登場、iPhone Duo向けも　GOLDEN CONCEPTから",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/14/news080.html",
-      "date": "2026-09-14T05:58:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/14/l_asa_PRINCIPEprive_01.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2140641.html",
       "title": "ESR、冷却ファン搭載のQi2充電器など新製品3種を発売",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2140641.html",
@@ -300,39 +465,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2140/588/01.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/14/news068.html",
-      "title": "KDDI、iPhone／iPad向け「故障紛失サポート」を拡充　機種変更時に最大2万2000円割引やポイント還元",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/14/news068.html",
-      "date": "2026-09-14T04:30:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": "au/KDDI",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/14/l_asa_KDDI_01.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/14/news072.html",
-      "title": "iPhone Duoに競合メーカーが続々反応　「折りたたみの世界へようこそ」「Google Homeスピーカー21個買えます」",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/14/news072.html",
-      "date": "2026-09-14T04:18:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/14/cover_news072.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/14/news071.html",
-      "title": "ベルキン、iPhone 18 Pro 向けアクセサリー発売　キックスタンド内蔵ケースやのぞき見防止フィルムなど",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/14/news071.html",
-      "date": "2026-09-14T04:17:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/14/l_asa_Belkin_01.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2140599.html",
       "title": "LINE MUSIC、有料プランを刷新　料金そのまま「LYPプレミアム エンジョイ」を追加",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2140599.html",
@@ -353,72 +485,6 @@
       "catLabel": "料金プラン",
       "carrier": "au/KDDI",
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2140/600/01.png"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2140592.html",
-      "title": "au、最大1万ポイント当たるアクセサリー購入キャンペーン　オンラインショップで",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2140592.html",
-      "date": "2026-09-14T03:36:32+00:00",
-      "sourceKey": "ktai",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": "au/KDDI",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2140/592/00.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2140560.html",
-      "title": "LINEMOで最大2万円相当のPayPayポイント、18日まで",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2140560.html",
-      "date": "2026-09-14T03:02:51+00:00",
-      "sourceKey": "ktai",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": "ソフトバンク",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2140/560/02.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2140566.html",
-      "title": "ahamo、10月11日にeSIM新規発行のメンテナンス　5時と22時に",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2140566.html",
-      "date": "2026-09-14T02:59:02+00:00",
-      "sourceKey": "ktai",
-      "catKey": "trouble",
-      "catLabel": "障害・不具合",
-      "carrier": "ドコモ",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2140/566/ahamo001.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/14/news069.html",
-      "title": "15日配信「iOS 27」の新機能まとめ　Siri AIの恩恵を受けられる機種は？　画像編集やSafariにも注目",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/14/news069.html",
-      "date": "2026-09-14T02:52:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/14/cover_news069.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2140553.html",
-      "title": "ソフトバンク、「Pixel 11」シリーズで最大3万円相当進呈は30日まで",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2140553.html",
-      "date": "2026-09-14T02:38:51+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "ソフトバンク",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2140/553/pixel11.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/14/news044.html",
-      "title": "AI文字盤作成も対応　コンパクトスマートウォッチ「MONOMAM Primo」が5980円",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/14/news044.html",
-      "date": "2026-09-14T01:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/14/l_asa_amazon_01.jpg"
     },
     {
       "id": "docomo-https://www.docomo.ne.jp/support/product_update/sh02l/index.html",
@@ -474,50 +540,6 @@
       "catLabel": "端末",
       "carrier": "ドコモ",
       "image": null
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/14/news060.html",
-      "title": "断線に強い高耐久ナイロン仕様の「Anker USB-C & USB-C ケーブル (1.8m, 240W)」がセールで37％オフの1690円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/14/news060.html",
-      "date": "2026-09-14T00:53:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/14/cover_news060.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2140321.html",
-      "title": "令和の手甲ポーチを灼熱のバルセロナで使ってみた",
-      "link": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2140321.html",
-      "date": "2026-09-13T15:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2140/321/1.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/minna/2140302.html",
-      "title": "Pixel Tabletのスクリーンセーバーで自宅の電力状況をチェックしてみよう",
-      "link": "https://k-tai.watch.impress.co.jp/docs/column/minna/2140302.html",
-      "date": "2026-09-13T15:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2140/302/001.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/stapa/2139559.html",
-      "title": "スマホホルダーの「17mmボールジョイント」が超便利！　車載も自転車もパーツ交換で自由自在ッ!!",
-      "link": "https://k-tai.watch.impress.co.jp/docs/column/stapa/2139559.html",
-      "date": "2026-09-13T15:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2139/559/stptncs2026-09-14 thumbnail.jpg"
     },
     {
       "id": "ymobile-https://www.ymobile.jp/info/press/2026/26091401.html",
@@ -718,39 +740,6 @@
       "image": null
     },
     {
-      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc53e/index.html",
-      "title": "「Galaxy A55 5G SC-53E」のソフトウェアアップデート情報のお知らせ",
-      "link": "https://www.docomo.ne.jp/support/product_update/sc53e/index.html",
-      "date": "2026-09-08T01:00:00+00:00",
-      "sourceKey": "docomo",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "ドコモ",
-      "image": null
-    },
-    {
-      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc54f/index.html",
-      "title": "「Samsung Galaxy A36 5G SC-54F」のソフトウェアアップデート情報のお知らせ",
-      "link": "https://www.docomo.ne.jp/support/product_update/sc54f/index.html",
-      "date": "2026-09-08T01:00:00+00:00",
-      "sourceKey": "docomo",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "ドコモ",
-      "image": null
-    },
-    {
-      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc53d/index.html",
-      "title": "「Galaxy A54 5G SC-53D」のソフトウェアアップデート情報のお知らせ",
-      "link": "https://www.docomo.ne.jp/support/product_update/sc53d/index.html",
-      "date": "2026-09-08T01:00:00+00:00",
-      "sourceKey": "docomo",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "ドコモ",
-      "image": null
-    },
-    {
       "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260908_02/",
       "title": "AIマネジメントシステムの国際規格「ISO/IEC 42001:2023」の認証を取得～責任あるAIの実現に向け、AIガバナンスの強化を推進〜",
       "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260908_02/",
@@ -770,17 +759,6 @@
       "catKey": "other",
       "catLabel": "その他",
       "carrier": "ソフトバンク",
-      "image": null
-    },
-    {
-      "id": "docomo-https://www.docomo.ne.jp/support/product_update/so51g/index.html",
-      "title": "「Xperia 1 VIII SO-51G」のソフトウェアアップデート情報のお知らせ",
-      "link": "https://www.docomo.ne.jp/support/product_update/so51g/index.html",
-      "date": "2026-09-07T01:00:00+00:00",
-      "sourceKey": "docomo",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "ドコモ",
       "image": null
     },
     {
@@ -935,17 +913,6 @@
       "catKey": "campaign",
       "catLabel": "キャンペーン",
       "carrier": "Y!mobile",
-      "image": null
-    },
-    {
-      "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr-1130_4680.html",
-      "title": "AI時代の低遅延・低消費電力なネットワークの設計指針がITU-Tで国際標準化",
-      "link": "https://newsroom.kddi.com/news/detail/kddi_nr-1130_4680.html",
-      "date": "2026-08-21T01:00:00+00:00",
-      "sourceKey": "au",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "au/KDDI",
       "image": null
     },
     {
