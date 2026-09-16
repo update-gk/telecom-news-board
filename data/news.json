@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-09-16T11:16:44.005629+00:00",
+  "generated_at": "2026-09-16T16:36:51.784315+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2141598.html",
+      "title": "auの「iPhone 18 Pro（256GB）」がMNPで2年6.7万円→2.3万円に",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2141598.html",
+      "date": "2026-09-16T15:07:31+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "au/KDDI",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2141/598/i18.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2141524.html",
+      "title": "「PayPay」で最大20％還元、11月は野田村・大泉町・枚方市など",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2141524.html",
+      "date": "2026-09-16T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2141/524/pay.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/value/2141446.html",
+      "title": "「iPhone Duo」は割高か？　精密ヒンジから為替まで、36万円超えの理由を読み解く",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/value/2141446.html",
+      "date": "2026-09-16T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2141/446/1.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/minna/2141142.html",
+      "title": "ベゼルをゼロにしたTECNOのコンセプトスマホを見てきた",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/minna/2141142.html",
+      "date": "2026-09-16T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2141/142/01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2138882.html",
+      "title": "録音の失敗を完璧に防ぐ！ 腕時計型AIボイスレコーダー「iFLYTEK AIWATCH」",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2138882.html",
+      "date": "2026-09-16T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2138/882/MW_iaiwatch_01.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/16/news093.html",
+      "title": "auの「iPhone 18 Pro（256GB）」、4.4万円の割引追加でMNPだと2年2万2900円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/16/news093.html",
+      "date": "2026-09-16T13:40:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": "au/KDDI",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/16/cover_news093.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/ishikawa/2141518.html",
+      "title": "触って評価が一変、ついに可変絞りを搭載した「iPhone 18 Pro」のカメラに感動",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/ishikawa/2141518.html",
+      "date": "2026-09-16T12:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2141/518/3486.jpeg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/16/news089.html",
+      "title": "“羽のような軽さ”うたう約7.2gのイヤーフック形イヤフォン「Shokz OpenFit Air 2」発売",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/16/news089.html",
+      "date": "2026-09-16T09:46:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/16/l_asa_OpenFitAir2_01.jpg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2141508.html",
       "title": "「Apple TV」「Apple Arcade」、ソフトバンク・ワイモバイル・LINEMOで12月16日終了",
@@ -322,17 +410,6 @@
       "image": "https://image.itmedia.co.jp/mobile/articles/2609/16/cover_news055.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/16/news050.html",
-      "title": "TBSドラマ「VIVANT」のワンシーンが物議　“microSD変換アダプターの手渡し”シーン問題視か",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/16/news050.html",
-      "date": "2026-09-15T22:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/16/cover_news050.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2141119.html",
       "title": "「東京ゲームショウ2026」で自分を3D化、KDDIが出展",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2141119.html",
@@ -485,72 +562,6 @@
       "catLabel": "端末",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2141/095/cont100.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2141012.html",
-      "title": "「Jiffcy」の写真機能「Dots」がWeb対応、アプリなしでも参加可能に",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2141012.html",
-      "date": "2026-09-15T06:23:04+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2141002.html",
-      "title": "PayPay証券、米SBエナジーのIPO株式を販売　条件達成で1万円分の購入権",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2141002.html",
-      "date": "2026-09-15T06:22:59+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2141/002/00.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2141048.html",
-      "title": "Amazon、2026年の「プライム感謝祭」を10月に開催",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2141048.html",
-      "date": "2026-09-15T06:22:56+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2141/048/amz.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2141017.html",
-      "title": "ドコモ「iPhone 18 Pro」256GB、2年で10万円→6.7万円に値下げ",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2141017.html",
-      "date": "2026-09-15T04:55:14+00:00",
-      "sourceKey": "ktai",
-      "catKey": "price",
-      "catLabel": "料金プラン",
-      "carrier": "ドコモ",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2141/017/18p.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2140989.html",
-      "title": "JCB、クレカ乗車で最大5000円キャッシュバック　抽選で1000人",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2140989.html",
-      "date": "2026-09-15T04:44:03+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2140/989/03.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2140992.html",
-      "title": "ワイモバイル、「オンラインストア誕生感謝祭」週替わりセール　「OPPO A5 5G」が1円など",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2140992.html",
-      "date": "2026-09-15T04:05:19+00:00",
-      "sourceKey": "ktai",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": "Y!mobile",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2140/992/a5.jpg"
     },
     {
       "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc55d/index.html",
