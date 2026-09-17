@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-09-17T11:25:04.991314+00:00",
+  "generated_at": "2026-09-17T16:43:16.366817+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/minna/2141878.html",
+      "title": "新しいiPhoneの購入に備えて、ソフトバンクからLINEMOへ乗り換え",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/minna/2141878.html",
+      "date": "2026-09-17T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "mvno",
+      "catLabel": "MVNO・格安SIM",
+      "carrier": "ソフトバンク",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2141/878/01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/mobile_catchup/2141810.html",
+      "title": "ローミング終了の「楽天モバイル」とはどう付き合う？",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/mobile_catchup/2141810.html",
+      "date": "2026-09-17T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "楽天モバイル",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2141/810/rktn02.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/congress/2138895.html",
+      "title": "KDDIローミング終了に揺れる楽天モバイルと銀行業に期待がかかるドコモ[法林岳之・石川温・石野純也・佐藤文彦のスマホ会議（仮）]",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/congress/2138895.html",
+      "date": "2026-09-17T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ドコモ",
+      "image": null
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/17/news106.html",
+      "title": "指紋が付きにくい半透明の「NIMASO iPhone 18 Pro／17 Pro用ケース」が6％オフの2980円で販売中",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/17/news106.html",
+      "date": "2026-09-17T12:03:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/17/cover_news106.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/17/news104.html",
+      "title": "動画視聴に便利なスタンド搭載の「ESR iPhone 18 Pro／17 Pro兼用ケース」がセールで3699円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/17/news104.html",
+      "date": "2026-09-17T11:55:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/17/cover_news104.jpg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2141967.html",
       "title": "大災害でもスマホが繋がる世界へ、ソフトバンク「空飛ぶ基地局」実験成功",
@@ -12,6 +67,17 @@
       "catLabel": "その他",
       "carrier": "ソフトバンク",
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2141/967/38.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/17/news098.html",
+      "title": "「世界初」ソフトバンクらが成層圏HAPSのリアルタイム追尾とレーザー測距に成功　光無線通信へ大きな一歩",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/17/news098.html",
+      "date": "2026-09-17T11:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ソフトバンク",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/17/cover_news098.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2141946.html",
@@ -333,61 +399,6 @@
       "image": "https://image.itmedia.co.jp/mobile/articles/2609/17/l_asa_100item_01.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/17/news062.html",
-      "title": "ピカチュウのデザインがかわいい「Anker USB急速充電器 70W」がセールで38％オフの4990円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/17/news062.html",
-      "date": "2026-09-17T00:46:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/17/cover_news062.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/17/news061.html",
-      "title": "断線リスクを軽減するL字型の「UGREEN USB-Cケーブル 240W」がセールで29％オフの1343円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/17/news061.html",
-      "date": "2026-09-17T00:42:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/17/cover_news061.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/17/news060.html",
-      "title": "Apple、“本物の写真”を証明する「Apple Reference Image」　iPhone 18 Pro／Pro Maxのメインカメラに搭載",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/17/news060.html",
-      "date": "2026-09-17T00:40:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/17/cover_news060.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/17/news059.html",
-      "title": "半固体電池セルを採用したマグネット式の超薄型モバイルバッテリー「フィリップス DLP2555Q」がセールで20％オフの7990円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/17/news059.html",
-      "date": "2026-09-17T00:37:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/17/cover_news059.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/17/news058.html",
-      "title": "面白いLED画面で充電状況が分かる「UGREEN Uno 100W USB Type-Cケーブル」がセールで21％オフの1724円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/17/news058.html",
-      "date": "2026-09-17T00:30:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/17/cover_news058.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2141598.html",
       "title": "auの「iPhone 18 Pro（256GB）」がMNPで2年6.7万円→2.3万円に",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2141598.html",
@@ -441,6 +452,17 @@
       "catLabel": "その他",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2138/882/MW_iaiwatch_01.jpg"
+    },
+    {
+      "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260917_02/",
+      "title": "2026パーソル パ・リーグ優勝を記念して「ソフトバンクホークス 優勝キャンペーン」を本日から順次実施",
+      "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260917_02/",
+      "date": "2026-09-16T15:00:00+00:00",
+      "sourceKey": "softbank",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": "ソフトバンク",
+      "image": null
     },
     {
       "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260917_01/",
@@ -518,39 +540,6 @@
       "catLabel": "その他",
       "carrier": "au/KDDI",
       "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2141387.html",
-      "title": "楽天カードがAndroidのタッチ決済刷新、楽天ペイでは終了",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2141387.html",
-      "date": "2026-09-16T04:53:44+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "楽天モバイル",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2141/387/cont0.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2141367.html",
-      "title": "「iPhone 18 Pro」向けケースなど31商品、ドコモから　MagSafe対応やTORRAS限定モデル",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2141367.html",
-      "date": "2026-09-16T04:52:45+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "ドコモ",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2141/367/03.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2141374.html",
-      "title": "サンワサプライ、消火シート内蔵の火災予防タップ発売　内部で自動消火",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2141374.html",
-      "date": "2026-09-16T04:52:40+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2141/374/22.jpg"
     },
     {
       "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr-1161_4714.html",
@@ -1342,17 +1331,6 @@
       "catKey": "other",
       "catLabel": "その他",
       "carrier": "ソフトバンク",
-      "image": null
-    },
-    {
-      "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260715_01/",
-      "title": "“ワイモバイル”、「シンプル3 M/L」が加入翌月から1年間、毎月1,000円引きになる「超！おトク割」を7月17日に開始",
-      "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260715_01/",
-      "date": "2026-07-14T15:00:00+00:00",
-      "sourceKey": "softbank",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "Y!mobile",
       "image": null
     },
     {
