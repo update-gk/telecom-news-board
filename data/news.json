@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T16:43:16.366817+00:00",
+  "generated_at": "2026-09-17T21:11:53.413454+00:00",
   "errors": [],
   "articles": [
     {
@@ -386,17 +386,6 @@
       "catLabel": "キャンペーン",
       "carrier": null,
       "image": "https://image.itmedia.co.jp/mobile/articles/2609/17/cover_news066.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/17/news049.html",
-      "title": "【3COINS】1320円の「コイル充電ケーブルAtoC」　約65～180cmに伸縮",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/17/news049.html",
-      "date": "2026-09-17T01:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/17/l_asa_100item_01.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2141598.html",
