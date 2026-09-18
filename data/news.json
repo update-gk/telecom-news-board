@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-09-18T20:44:19.047828+00:00",
+  "generated_at": "2026-09-18T23:09:19.032059+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2142356.html",
+      "title": "「東京ゲームショウ2026」見どころまとめ、クリエイターツールやGoogle Playステータスラウンジなどにも注目",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2142356.html",
+      "date": "2026-09-18T22:01:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2142/356/cont800.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2142297.html",
+      "title": "「iPhone 18 Pro」で撮影した写真を集めた写真展、ニューヨークで開催",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2142297.html",
+      "date": "2026-09-18T22:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": null
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2142323.html",
+      "title": "楽天G、カブスとマイナー契約の常松選手をマネジメント支援",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2142323.html",
+      "date": "2026-09-18T21:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "楽天モバイル",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2142/323/00.jpg"
+    },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/18/news084.html",
       "title": "ドコモが「iPhone 17」を値上げ、19万9793円スタートに　MNPは残価増で“2年実質33円”を維持",
@@ -452,39 +485,6 @@
       "catLabel": "その他",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2141/859/03.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2141794.html",
-      "title": "ドコモの「iPhone 18 Pro」256GBを再値下げ、6.7万円→4.5万円に",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2141794.html",
-      "date": "2026-09-17T05:47:47+00:00",
-      "sourceKey": "ktai",
-      "catKey": "price",
-      "catLabel": "料金プラン",
-      "carrier": "ドコモ",
-      "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2141773.html",
-      "title": "東京ゲームショウ「サードウェーブ」ブース、オンデバイスAIで自身のコラボモデルを作成",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2141773.html",
-      "date": "2026-09-17T04:59:04+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2141/773/cont100.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2141767.html",
-      "title": "IIJmioで「REDMI Note 17 Pro Max 5G」「AQUOS wish6」発売",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2141767.html",
-      "date": "2026-09-17T04:58:59+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2141/767/iijmio.jpg"
     },
     {
       "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260917_02/",
