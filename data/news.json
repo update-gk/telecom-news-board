@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-09-18T23:09:19.032059+00:00",
+  "generated_at": "2026-09-19T04:11:04.380363+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/19/news020.html",
+      "title": "フォルダブル歴5年の筆者も驚いた「iPhone Duo」の完成度　ソフトウェアの力で再定義できるか",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/19/news020.html",
+      "date": "2026-09-19T02:29:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/19/cover_news020.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/19/news017.html",
+      "title": "【3COINS】6600円の「CDプレーヤー」　スマホやUSBメモリの音楽データも再生できる",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/19/news017.html",
+      "date": "2026-09-19T01:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/19/l_asa_100item_01.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/19/news002.html",
+      "title": "Androidでおサイフケータイを使いたくない理由　初期化で消えないデータと売却時の落とし穴",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/19/news002.html",
+      "date": "2026-09-19T01:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/19/cover_news002.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/19/news019.html",
+      "title": "2026年の「iPhone祭り」はマイルドに？　iPhone以外のネタが3つランクイン",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/19/news019.html",
+      "date": "2026-09-19T00:30:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/19/cover_news019.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2142300.html",
+      "title": "「NURO」が横浜アリーナの通信環境をサポート、アイドル×ファッションイベントで",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2142300.html",
+      "date": "2026-09-19T00:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2142/300/13.jpg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2142356.html",
       "title": "「東京ゲームショウ2026」見どころまとめ、クリエイターツールやGoogle Playステータスラウンジなどにも注目",
@@ -322,28 +377,6 @@
       "image": "https://image.itmedia.co.jp/mobile/articles/2609/18/l_asa_amazon_01.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/17/news092.html",
-      "title": "auの「iPhone 18 Pro（256GB）」、MNP＋端末返却で2年間2万円台に【スマホお得情報】",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/17/news092.html",
-      "date": "2026-09-18T01:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "au/KDDI",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/17/l_asa_sumaotoku_01.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/18/news058.html",
-      "title": "iPhone 18 Pro / Pro Maxの修理代、AppleCare+未加入だと最大16万800円　加入方法や注意点を整理",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/18/news058.html",
-      "date": "2026-09-18T00:29:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/18/cover_news058.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/teppan/2141534.html",
       "title": "覚えて活用したい「Google フォト」のテクニック3選",
       "link": "https://k-tai.watch.impress.co.jp/docs/column/teppan/2141534.html",
@@ -474,17 +507,6 @@
       "catLabel": "端末",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2141/870/04.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2141859.html",
-      "title": "スマートウォッチ「wena X」に新バンド2種、運動と睡眠向け",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2141859.html",
-      "date": "2026-09-17T08:39:02+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2141/859/03.jpg"
     },
     {
       "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260917_02/",
