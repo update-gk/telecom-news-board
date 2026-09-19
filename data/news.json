@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-09-19T20:24:35.984048+00:00",
+  "generated_at": "2026-09-19T22:49:57.507683+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/20/news002.html",
+      "title": "望遠レンズを手軽に使える、vivoのカメラフォン入門機「X300 FE」",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/20/news002.html",
+      "date": "2026-09-19T21:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/20/cover_news002.jpg"
+    },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/20/news023.html",
       "title": "「AirPods Pro 3」が18％オフの3万5152円に　不要な雑音を前モデルの最大2倍低減するノイキャンイヤフォン",
@@ -243,17 +254,6 @@
       "catLabel": "端末",
       "carrier": null,
       "image": null
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/18/news077.html",
-      "title": "Spigen、iPhone 18 Pro／Duo専用ケースを発売　9月23日までAmazon公式サイトは最大15％オフ",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/18/news077.html",
-      "date": "2026-09-18T06:57:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/18/l_asa_SpigenKorea_01.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2142226.html",
