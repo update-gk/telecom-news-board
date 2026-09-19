@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-09-19T15:44:30.106031+00:00",
+  "generated_at": "2026-09-19T20:24:35.984048+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/20/news023.html",
+      "title": "「AirPods Pro 3」が18％オフの3万5152円に　不要な雑音を前モデルの最大2倍低減するノイキャンイヤフォン",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/20/news023.html",
+      "date": "2026-09-19T17:33:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/20/cover_news023.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/20/news017.html",
+      "title": "iPhone 18 Proのカメラユニット全体を守るTORRASの保護ガラスが34％オフの3470円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/20/news017.html",
+      "date": "2026-09-19T16:08:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/20/cover_news017.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/20/news014.html",
+      "title": "ケーブル一体型で小型の1万mAh「UGREEN Nexode Pro モバイルバッテリー」が31％オフの4480円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/20/news014.html",
+      "date": "2026-09-19T16:01:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/20/cover_news014.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/20/news012.html",
+      "title": "大画面と携帯性を両立したい人に　折りたたみAndroidスマホ「OPPO Find N6」がタイムセールで18％オフの25万9800円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/20/news012.html",
+      "date": "2026-09-19T15:51:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/20/cover_news012.jpg"
+    },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/19/news026.html",
       "title": "iPhone 18 Proに保護フィルムを貼るとFace ID認証できない不具合　原因は“赤外線カメラの位置”",
@@ -267,17 +311,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2142/161/08.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/18/news071.html",
-      "title": "ソフトバンク、5G RedCap対応ウェアラブル端末で「VoNR」の音声通話サービスを提供開始",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/18/news071.html",
-      "date": "2026-09-18T04:23:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "ソフトバンク",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/18/l_asa_SB_01.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2142134.html",
       "title": "iPhone 18 Pro／Pro Maxが「au Starlink Direct 海外ローミング」に対応",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2142134.html",
@@ -344,17 +377,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2142/095/main.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/18/news068.html",
-      "title": "IIJに聞く“eSIMサポート”の裏側　「つながらない」「消した」なぜ起こる？　現場が打つ次の一手",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/18/news068.html",
-      "date": "2026-09-18T03:02:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "trouble",
-      "catLabel": "障害・不具合",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/18/cover_news068.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2141167.html",
       "title": "テーブルの下に設置できるケーブル収納システム「CIO ケルベロス」発売、巻き取り式USBケーブルが3つセットに　7480円",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2141167.html",
@@ -364,17 +386,6 @@
       "catLabel": "端末",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2141/167/00.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/18/news067.html",
-      "title": "Bose、耳をふさがないイヤフォン2種　スポーツ向けと第2世代フラグシップ",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/18/news067.html",
-      "date": "2026-09-18T02:54:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/18/l_rk1640414_bose-01.jpg"
     },
     {
       "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr-1169_4723.html",
