@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-09-19T04:11:04.380363+00:00",
+  "generated_at": "2026-09-19T10:42:03.703182+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/19/news026.html",
+      "title": "iPhone 18 Proに保護フィルムを貼るとFace ID認証できない不具合　原因は“赤外線カメラの位置”",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/19/news026.html",
+      "date": "2026-09-19T09:03:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "trouble",
+      "catLabel": "障害・不具合",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/19/cover_news026.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/19/news024.html",
+      "title": "山手線が“踊る大捜査線”の現場に？　スマホなどで防犯意識を高める企画始動",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/19/news024.html",
+      "date": "2026-09-19T06:30:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/19/l_rk1640414_odoru-01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2142340.html",
+      "title": "LINEMO、乗り換えで最大2万円相当還元＆事務手数料無料",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2142340.html",
+      "date": "2026-09-19T05:43:31+00:00",
+      "sourceKey": "ktai",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": "ソフトバンク",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2142/340/16.jpg"
+    },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/19/news020.html",
       "title": "フォルダブル歴5年の筆者も驚いた「iPhone Duo」の完成度　ソフトウェアの力で再定義できるか",
@@ -344,17 +377,6 @@
       "image": "https://image.itmedia.co.jp/mobile/articles/2609/18/l_rk1640414_bose-01.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/18/news065.html",
-      "title": "「ソフトバンクホークス 優勝キャンペーン」　最大20万円相当のPayPayポイントやクーポンなど当たる",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/18/news065.html",
-      "date": "2026-09-18T02:33:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": "ソフトバンク",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/18/l_asa_SBhawks_01.jpg"
-    },
-    {
       "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr-1169_4723.html",
       "title": "リテールロボットを活用した分散型データセンター実証を開始",
       "link": "https://newsroom.kddi.com/news/detail/kddi_nr-1169_4723.html",
@@ -364,17 +386,6 @@
       "catLabel": "その他",
       "carrier": "au/KDDI",
       "image": null
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/18/news050.html",
-      "title": "黄ばみを防ぎながら端末をフルカバー　NIMASOのiPhone 18 Pro用クリアケースが25％オフ",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/18/news050.html",
-      "date": "2026-09-18T01:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/18/l_asa_amazon_01.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/teppan/2141534.html",
@@ -496,17 +507,6 @@
       "catLabel": "その他",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2141/820/04.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2141870.html",
-      "title": "iPhoneの国内シェア、半年で49％→45.6％に",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2141870.html",
-      "date": "2026-09-17T08:39:33+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2141/870/04.jpg"
     },
     {
       "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260917_02/",
