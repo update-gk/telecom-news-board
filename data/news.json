@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-09-20T11:05:03.464741+00:00",
+  "generated_at": "2026-09-20T15:51:23.737462+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/mca/2141525.html",
+      "title": "楽天モバイルに足りないもの――基地局数と周波数から探る現在地",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/mca/2141525.html",
+      "date": "2026-09-20T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "楽天モバイル",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2141/525/01.jpg"
+    },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/20/news025.html",
       "title": "iPhone Duo、256GBで36万4800円は妥当な価格設定なのか――アップル離れを招きかねない「既存モデルの価格改定」",
@@ -518,17 +529,6 @@
       "catLabel": "その他",
       "carrier": null,
       "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2141820.html",
-      "title": "米グーグル、「Googlebook」21日予約スタート　新OSのノートパソコン",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2141820.html",
-      "date": "2026-09-17T08:39:37+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2141/820/04.jpg"
     },
     {
       "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260917_02/",
