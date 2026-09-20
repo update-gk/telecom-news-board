@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-09-19T22:49:57.507683+00:00",
+  "generated_at": "2026-09-20T04:29:55.105629+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/20/news025.html",
+      "title": "iPhone Duo、256GBで36万4800円は妥当な価格設定なのか――アップル離れを招きかねない「既存モデルの価格改定」",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/20/news025.html",
+      "date": "2026-09-20T02:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "price",
+      "catLabel": "料金プラン",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/images/logo/1200x630_500x500_mobile.gif"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/20/news010.html",
+      "title": "PITAKAのiPhone 18 Pro向けアラミド繊維ケース　カメラを操作しやすい独自開発の「PitaTap」搭載",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/20/news010.html",
+      "date": "2026-09-20T01:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/20/l_asa_amazon_01.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/20/news024.html",
+      "title": "「マイナポータルアプリ」が「マイナアプリ」へ刷新されて何が変わった？　メリットや利用方法を解説",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/20/news024.html",
+      "date": "2026-09-19T22:49:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/20/cover_news024.jpg"
+    },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/20/news002.html",
       "title": "望遠レンズを手軽に使える、vivoのカメラフォン入門機「X300 FE」",
@@ -190,17 +223,6 @@
       "image": "https://image.itmedia.co.jp/mobile/articles/2609/18/l_st52693_doip17-01.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/18/news083.html",
-      "title": "天然石やメタルの質感を得られるiPhone 18 Proケース「STONE SERIES」登場　UNiCASEから",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/18/news083.html",
-      "date": "2026-09-18T09:09:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/18/l_asa_UNiCASE_01.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2142290.html",
       "title": "ゲームショウで目立つ「アプリ外決済」のブース、エコシステム確立に向けて各社攻勢をかける",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2142290.html",
@@ -221,17 +243,6 @@
       "catLabel": "その他",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2142/274/11.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/18/news080.html",
-      "title": "ソフトバンクの「iPhone 18 Pro（256GB）」、MNPなら2年間2万3760円【スマホお得情報】",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/18/news080.html",
-      "date": "2026-09-18T07:40:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "ソフトバンク",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/18/l_asa_sumaotoku_01.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2142242.html",
