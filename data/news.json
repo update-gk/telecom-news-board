@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-09-20T20:37:32.503684+00:00",
+  "generated_at": "2026-09-20T23:07:02.203748+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2141477.html",
+      "title": "「自動運転バス」がつくばで本格運行、10月2日から",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2141477.html",
+      "date": "2026-09-20T22:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2141/477/02.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2142212.html",
+      "title": "グーグル、家族向けAIエージェント「CC」を米国向けに提供",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2142212.html",
+      "date": "2026-09-20T21:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2142/212/01.jpeg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/21/news029.html",
+      "title": "「かつて警察が出動した」──iPhone発売時に「行列徹夜組」が激減したワケ　あの“盛り上がり”がもたらした意味",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/21/news029.html",
+      "date": "2026-09-20T21:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/21/cover_news029.jpg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/mca/2141525.html",
       "title": "楽天モバイルに足りないもの――基地局数と周波数から探る現在地",
@@ -221,17 +254,6 @@
       "catLabel": "その他",
       "carrier": "楽天モバイル",
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2142/323/00.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/18/news084.html",
-      "title": "ドコモが「iPhone 17」を値上げ、19万9793円スタートに　MNPは残価増で“2年実質33円”を維持",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/18/news084.html",
-      "date": "2026-09-18T11:05:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "price",
-      "catLabel": "料金プラン",
-      "carrier": "ドコモ",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/18/l_st52693_doip17-01.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2142290.html",
@@ -507,28 +529,6 @@
       "catLabel": "その他",
       "carrier": "au/KDDI",
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2141/912/cont200.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2141922.html",
-      "title": "ゲームショウに「Black Shark」が出展、強力な冷却ファンなどゲーミングスマホアクセサリーを展示",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2141922.html",
-      "date": "2026-09-17T09:47:30+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2141/922/cont300.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2141931.html",
-      "title": "Twitch CEOがTGSで語る、AI時代に求められる「本物の繋がり」とライブコミュニティの価値",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2141931.html",
-      "date": "2026-09-17T09:41:38+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": null
     },
     {
       "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260917_02/",
