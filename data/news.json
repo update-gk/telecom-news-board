@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-09-21T04:28:09.147963+00:00",
+  "generated_at": "2026-09-21T12:32:24.247170+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/21/news035.html",
+      "title": "キャリアショップや家電量販店よりも厳しい現実――街中の「併売店」の“今”を探る",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/21/news035.html",
+      "date": "2026-09-21T08:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/21/cover_news035.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/21/news034.html",
+      "title": "「iPhone 18 Pro」で“Face ID認証できない”問題、Appleが対処法を案内　やはり「画面フィルム」に言及",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/21/news034.html",
+      "date": "2026-09-21T07:35:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/21/cover_news034.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/21/news032.html",
+      "title": "ドコモでiPhoneのeSIMクイック転送が利用できない不具合　Appleオンラインストアで購入＋機種変更手続きが対象",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/21/news032.html",
+      "date": "2026-09-21T04:56:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "trouble",
+      "catLabel": "障害・不具合",
+      "carrier": "ドコモ",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/21/cover_news032.jpg"
+    },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/21/news009.html",
       "title": "Amazonで低評価だった「Google Pixelsnap リングスタンド」が大満足だった理由",
@@ -144,39 +177,6 @@
       "catLabel": "端末",
       "carrier": null,
       "image": "https://image.itmedia.co.jp/mobile/articles/2609/20/cover_news017.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/20/news014.html",
-      "title": "ケーブル一体型で小型の1万mAh「UGREEN Nexode Pro モバイルバッテリー」が31％オフの4480円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/20/news014.html",
-      "date": "2026-09-19T16:01:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/20/cover_news014.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/20/news012.html",
-      "title": "大画面と携帯性を両立したい人に　折りたたみAndroidスマホ「OPPO Find N6」がタイムセールで18％オフの25万9800円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/20/news012.html",
-      "date": "2026-09-19T15:51:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/20/cover_news012.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/19/news026.html",
-      "title": "iPhone 18 Proに保護フィルムを貼るとFace ID認証できない不具合　原因は“赤外線カメラの位置”",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/19/news026.html",
-      "date": "2026-09-19T09:03:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "trouble",
-      "catLabel": "障害・不具合",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/19/cover_news026.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2142340.html",
