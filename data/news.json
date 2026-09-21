@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-09-21T19:55:31.455879+00:00",
+  "generated_at": "2026-09-21T23:59:00.597235+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2141917.html",
+      "title": "韓国でVポイント最大20％還元、三井住友カードが新プラン",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2141917.html",
+      "date": "2026-09-21T23:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "price",
+      "catLabel": "料金プラン",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2141/917/04.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/ranking/galapagos_ranking/2142373.html",
+      "title": "電子書籍人気ランキング（9月11日～9月17日）",
+      "link": "https://k-tai.watch.impress.co.jp/docs/ranking/galapagos_ranking/2142373.html",
+      "date": "2026-09-21T21:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/include/common/p01/images/logo/ktw.l.png"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/22/news026.html",
+      "title": "騒がしい環境でも音楽に没入できる「Bose QuietComfort Ultra Earbuds LE (第2世代)」がセールで3万600円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/22/news026.html",
+      "date": "2026-09-21T21:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/22/cover_news026.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/22/news005.html",
+      "title": "「ウエルシア」でお得に買い物する方法 アプリ設定だけで「Vポイント」「WAON POINT」の二重取り【2026年9月版】",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/22/news005.html",
+      "date": "2026-09-21T21:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/22/cover_news005.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/22/news025.html",
+      "title": "「全プラン2000円未満」で攻めるHISモバイル　30GB最安級値下げと「年4GB海外無料eSIM」の狙い",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/22/news025.html",
+      "date": "2026-09-21T21:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "price",
+      "catLabel": "料金プラン",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/22/cover_news025.jpg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2141951.html",
       "title": "「povo」でLUUPクーポン＋データ使い放題、420円～　10月31日まで",
@@ -166,61 +221,6 @@
       "catLabel": "料金プラン",
       "carrier": null,
       "image": "https://image.itmedia.co.jp/images/logo/1200x630_500x500_mobile.gif"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/20/news010.html",
-      "title": "PITAKAのiPhone 18 Pro向けアラミド繊維ケース　カメラを操作しやすい独自開発の「PitaTap」搭載",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/20/news010.html",
-      "date": "2026-09-20T01:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/20/l_asa_amazon_01.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/20/news024.html",
-      "title": "「マイナポータルアプリ」が「マイナアプリ」へ刷新されて何が変わった？　メリットや利用方法を解説",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/20/news024.html",
-      "date": "2026-09-19T22:49:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/20/cover_news024.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/20/news002.html",
-      "title": "望遠レンズを手軽に使える、vivoのカメラフォン入門機「X300 FE」",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/20/news002.html",
-      "date": "2026-09-19T21:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/20/cover_news002.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/20/news023.html",
-      "title": "「AirPods Pro 3」が18％オフの3万5152円に　不要な雑音を前モデルの最大2倍低減するノイキャンイヤフォン",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/20/news023.html",
-      "date": "2026-09-19T17:33:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/20/cover_news023.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/20/news017.html",
-      "title": "iPhone 18 Proのカメラユニット全体を守るTORRASの保護ガラスが34％オフの3470円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/20/news017.html",
-      "date": "2026-09-19T16:08:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/20/cover_news017.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2142340.html",
@@ -474,28 +474,6 @@
       "catLabel": "その他",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2141/534/thumbnail.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/minna/2141878.html",
-      "title": "新しいiPhoneの購入に備えて、ソフトバンクからLINEMOへ乗り換え",
-      "link": "https://k-tai.watch.impress.co.jp/docs/column/minna/2141878.html",
-      "date": "2026-09-17T15:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "mvno",
-      "catLabel": "MVNO・格安SIM",
-      "carrier": "ソフトバンク",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2141/878/01.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/mobile_catchup/2141810.html",
-      "title": "ローミング終了の「楽天モバイル」とはどう付き合う？",
-      "link": "https://k-tai.watch.impress.co.jp/docs/column/mobile_catchup/2141810.html",
-      "date": "2026-09-17T15:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "楽天モバイル",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2141/810/rktn02.jpg"
     },
     {
       "id": "ymobile-https://www.softbank.jp/mobile/special/hawks-championship2026/?utm_source=owned&utm_medium=social&utm_campaign=_mobile_hsp_hawkschampion2026_20260814_034",
