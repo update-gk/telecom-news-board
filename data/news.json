@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-09-20T23:07:02.203748+00:00",
+  "generated_at": "2026-09-21T04:28:09.147963+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/21/news009.html",
+      "title": "Amazonで低評価だった「Google Pixelsnap リングスタンド」が大満足だった理由",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/21/news009.html",
+      "date": "2026-09-21T02:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/21/cover_news009.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/21/news030.html",
+      "title": "月40GBになった「ahamo」はどれだけお得？　他社中容量プランと比較、「大盛り」に意外な落とし穴も",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/21/news030.html",
+      "date": "2026-09-21T01:23:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "price",
+      "catLabel": "料金プラン",
+      "carrier": "ドコモ",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/21/cover_news030.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/21/news027.html",
+      "title": "【3COINS】880円の「ケース付き有線イヤホン」　持ち運びに便利なカラビナ付き",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/21/news027.html",
+      "date": "2026-09-21T01:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/21/l_asa_100item_01.jpg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2141477.html",
       "title": "「自動運転バス」がつくばで本格運行、10月2日から",
@@ -146,17 +179,6 @@
       "image": "https://image.itmedia.co.jp/mobile/articles/2609/19/cover_news026.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/19/news024.html",
-      "title": "山手線が“踊る大捜査線”の現場に？　スマホなどで防犯意識を高める企画始動",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/19/news024.html",
-      "date": "2026-09-19T06:30:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/19/l_rk1640414_odoru-01.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2142340.html",
       "title": "LINEMO、乗り換えで最大2万円相当還元＆事務手数料無料",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2142340.html",
@@ -166,50 +188,6 @@
       "catLabel": "キャンペーン",
       "carrier": "ソフトバンク",
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2142/340/16.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/19/news020.html",
-      "title": "フォルダブル歴5年の筆者も驚いた「iPhone Duo」の完成度　ソフトウェアの力で再定義できるか",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/19/news020.html",
-      "date": "2026-09-19T02:29:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/19/cover_news020.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/19/news017.html",
-      "title": "【3COINS】6600円の「CDプレーヤー」　スマホやUSBメモリの音楽データも再生できる",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/19/news017.html",
-      "date": "2026-09-19T01:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/19/l_asa_100item_01.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/19/news002.html",
-      "title": "Androidでおサイフケータイを使いたくない理由　初期化で消えないデータと売却時の落とし穴",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/19/news002.html",
-      "date": "2026-09-19T01:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/19/cover_news002.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/19/news019.html",
-      "title": "2026年の「iPhone祭り」はマイルドに？　iPhone以外のネタが3つランクイン",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/19/news019.html",
-      "date": "2026-09-19T00:30:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/19/cover_news019.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2142300.html",
