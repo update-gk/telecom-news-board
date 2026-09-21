@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-09-21T12:32:24.247170+00:00",
+  "generated_at": "2026-09-21T19:55:31.455879+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2141951.html",
+      "title": "「povo」でLUUPクーポン＋データ使い放題、420円～　10月31日まで",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2141951.html",
+      "date": "2026-09-21T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "mvno",
+      "catLabel": "MVNO・格安SIM",
+      "carrier": "au/KDDI",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2141/951/05.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2140742.html",
+      "title": "「楽天ペイ」9月のキャンペーンまとめ――すき家やガスト、コーナンなど",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2140742.html",
+      "date": "2026-09-21T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": "楽天モバイル",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2140/742/rakuten-pay.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2142476.html",
+      "title": "グーグル新PC「Googlebook」2製品にSnapdragon X Elite搭載",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2142476.html",
+      "date": "2026-09-21T14:18:53+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2142/476/gb.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2142578.html",
+      "title": "Google、GeminiとAndroid連携を深めた新PC「Googlebook」正式発表",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2142578.html",
+      "date": "2026-09-21T14:13:35+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2142/578/01.jpg"
+    },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/21/news035.html",
       "title": "キャリアショップや家電量販店よりも厳しい現実――街中の「併売店」の“今”を探る",
@@ -454,17 +498,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2141/810/rktn02.jpg"
     },
     {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/congress/2138895.html",
-      "title": "KDDIローミング終了に揺れる楽天モバイルと銀行業に期待がかかるドコモ[法林岳之・石川温・石野純也・佐藤文彦のスマホ会議（仮）]",
-      "link": "https://k-tai.watch.impress.co.jp/docs/column/congress/2138895.html",
-      "date": "2026-09-17T15:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "ドコモ",
-      "image": null
-    },
-    {
       "id": "ymobile-https://www.softbank.jp/mobile/special/hawks-championship2026/?utm_source=owned&utm_medium=social&utm_campaign=_mobile_hsp_hawkschampion2026_20260814_034",
       "title": "ソフトバンクホークス 優勝キャンペーン",
       "link": "https://www.softbank.jp/mobile/special/hawks-championship2026/?utm_source=owned&utm_medium=social&utm_campaign=_mobile_hsp_hawkschampion2026_20260814_034",
@@ -474,39 +507,6 @@
       "catLabel": "キャンペーン",
       "carrier": "ソフトバンク",
       "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2141967.html",
-      "title": "大災害でもスマホが繋がる世界へ、ソフトバンク「空飛ぶ基地局」実験成功",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2141967.html",
-      "date": "2026-09-17T11:05:44+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "ソフトバンク",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2141/967/38.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2141946.html",
-      "title": "TGS2026「キヤノン」ブース、“スマホ”だけでできる高性能なスイッチャーアプリを出展",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2141946.html",
-      "date": "2026-09-17T09:50:07+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2141/946/cont600.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2141912.html",
-      "title": "KDDIとKDDIテクノロジー、ゲームショウで“自身の3Dデータ”を生成できる体験展示",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2141912.html",
-      "date": "2026-09-17T09:49:42+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "au/KDDI",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2141/912/cont200.jpg"
     },
     {
       "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260917_02/",
