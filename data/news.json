@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-09-22T11:20:42.127186+00:00",
+  "generated_at": "2026-09-22T16:42:51.647299+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/22/news039.html",
+      "title": "新ヘッドフォン「Beats 360」5万9800円で発売　NC強化、交換式クッション採用",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/22/news039.html",
+      "date": "2026-09-22T14:40:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/22/l_rk1640414_Apple-01.jpg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2142363.html",
       "title": "TVer、サッカーW杯後初の国際親善試合を無料配信　OB・OG戦も",
