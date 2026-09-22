@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-09-22T04:43:10.836823+00:00",
+  "generated_at": "2026-09-22T11:20:42.127186+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2142363.html",
+      "title": "TVer、サッカーW杯後初の国際親善試合を無料配信　OB・OG戦も",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2142363.html",
+      "date": "2026-09-22T05:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2142/363/00.jpg"
+    },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/22/news033.html",
       "title": "デスクのワイヤレス充電ステーション「Anker Prime Wireless Charging Station」が30％オフの1万7600円に",
@@ -485,17 +496,6 @@
       "catLabel": "その他",
       "carrier": "au/KDDI",
       "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/teppan/2141534.html",
-      "title": "覚えて活用したい「Google フォト」のテクニック3選",
-      "link": "https://k-tai.watch.impress.co.jp/docs/column/teppan/2141534.html",
-      "date": "2026-09-17T21:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2141/534/thumbnail.jpg"
     },
     {
       "id": "ymobile-https://www.softbank.jp/mobile/special/hawks-championship2026/?utm_source=owned&utm_medium=social&utm_campaign=_mobile_hsp_hawkschampion2026_20260814_034",
