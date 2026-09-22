@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-09-21T23:59:00.597235+00:00",
+  "generated_at": "2026-09-22T04:43:10.836823+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/22/news033.html",
+      "title": "デスクのワイヤレス充電ステーション「Anker Prime Wireless Charging Station」が30％オフの1万7600円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/22/news033.html",
+      "date": "2026-09-22T03:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/22/cover_news033.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/22/news004.html",
+      "title": "BeRealの次は韓国発のVlogアプリ「setlog」がブームに？　Z世代の7割超が使う理由と「タイムリミットに追われない」クローズドな魅力",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/22/news004.html",
+      "date": "2026-09-22T03:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/22/cover_news004.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/22/news022.html",
+      "title": "富裕層向けカードの潮流が変化　アメックス、三井住友、ダイナース、ラグジュアリーカードが狙う“特別な体験価値”とは？",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/22/news022.html",
+      "date": "2026-09-22T01:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/22/cover_news022.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/22/news020.html",
+      "title": "SpigenのiPhone 18 Pro向けクリアケースが15％オフ　高い耐黄変性＆着脱しやすいTPU素材を採用",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/22/news020.html",
+      "date": "2026-09-22T01:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/22/l_asa_amazon_01.jpg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2141917.html",
       "title": "韓国でVポイント最大20％還元、三井住友カードが新プラン",
@@ -190,17 +234,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2142/212/01.jpeg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/21/news029.html",
-      "title": "「かつて警察が出動した」──iPhone発売時に「行列徹夜組」が激減したワケ　あの“盛り上がり”がもたらした意味",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/21/news029.html",
-      "date": "2026-09-20T21:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/21/cover_news029.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/mca/2141525.html",
       "title": "楽天モバイルに足りないもの――基地局数と周波数から探る現在地",
       "link": "https://k-tai.watch.impress.co.jp/docs/column/mca/2141525.html",
@@ -210,17 +243,6 @@
       "catLabel": "その他",
       "carrier": "楽天モバイル",
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2141/525/01.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/20/news025.html",
-      "title": "iPhone Duo、256GBで36万4800円は妥当な価格設定なのか――アップル離れを招きかねない「既存モデルの価格改定」",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/20/news025.html",
-      "date": "2026-09-20T02:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "price",
-      "catLabel": "料金プラン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/images/logo/1200x630_500x500_mobile.gif"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2142340.html",
