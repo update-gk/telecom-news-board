@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-09-23T04:20:53.965185+00:00",
+  "generated_at": "2026-09-23T11:15:29.155991+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/23/news030.html",
+      "title": "似て非なる？「iPhone 18 Pro」と「iPhone 17 Pro」の外観上の違いを比較する",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/23/news030.html",
+      "date": "2026-09-23T04:37:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/23/cover_news030.jpg"
+    },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/23/news021.html",
       "title": "【3COINS】3080円の「プレイポッドワイヤレスイヤホン」　microSDを差し込めば音楽プレーヤーに",
