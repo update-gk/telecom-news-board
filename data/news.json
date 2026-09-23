@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-09-23T11:15:29.155991+00:00",
+  "generated_at": "2026-09-23T16:37:23.548139+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2140771.html",
+      "title": "車のヘッドレストに掛けて使う、MagSafe対応の磁力吸着式スマホホルダー",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2140771.html",
+      "date": "2026-09-23T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2140/771/001.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/minna/2138423.html",
+      "title": "機器はスマートでもスマートにならない充電環境",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/minna/2138423.html",
+      "date": "2026-09-23T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2138/423/100.jpg"
+    },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/23/news030.html",
       "title": "似て非なる？「iPhone 18 Pro」と「iPhone 17 Pro」の外観上の違いを比較する",
@@ -419,28 +441,6 @@
       "catLabel": "その他",
       "carrier": "楽天モバイル",
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2142/161/08.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2142134.html",
-      "title": "iPhone 18 Pro／Pro Maxが「au Starlink Direct 海外ローミング」に対応",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2142134.html",
-      "date": "2026-09-18T04:01:17+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "au/KDDI",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2142/134/00.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2142135.html",
-      "title": "QTモバイル、シャープ製「AQUOS wish6」発売",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2142135.html",
-      "date": "2026-09-18T03:59:59+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2142/135/01.png"
     },
     {
       "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr-1169_4723.html",
