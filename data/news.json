@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-09-23T16:37:23.548139+00:00",
+  "generated_at": "2026-09-23T21:22:19.236277+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2142478.html",
+      "title": "マイクロソフト、Snapdragon X2 Plus搭載の新型「Surface Pro」「Surface Laptop」発表",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2142478.html",
+      "date": "2026-09-23T20:30:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2142/478/01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2142477.html",
+      "title": "クアルコム、イヤホンが直接クラウドAIに接続できる「Snapdragon Sound Elite Gen 2」発表",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2142477.html",
+      "date": "2026-09-23T19:30:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2142/477/01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2142696.html",
+      "title": "クアルコム「Snapdragon 8 Elite Extreme Gen 6」が実現するオンデバイスAIとスマホの未来像",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2142696.html",
+      "date": "2026-09-23T19:08:49+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2142/696/07.jpg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2140771.html",
       "title": "車のヘッドレストに掛けて使う、MagSafe対応の磁力吸着式スマホホルダー",
@@ -399,28 +432,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2142/226/09.jpg"
     },
     {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2142208.html",
-      "title": "ホークス優勝、ソフトバンクG各社で記念キャンペーン開始",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2142208.html",
-      "date": "2026-09-18T06:39:15+00:00",
-      "sourceKey": "ktai",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": "ソフトバンク",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2142/208/softbank.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2142207.html",
-      "title": "「Rakuten TV」、選手成績をAI深掘りして解説する新機能",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2142207.html",
-      "date": "2026-09-18T06:39:12+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": null
-    },
-    {
       "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr_s-77_4722.html",
       "title": "組織変更および人事異動について",
       "link": "https://newsroom.kddi.com/news/detail/kddi_nr_s-77_4722.html",
@@ -430,17 +441,6 @@
       "catLabel": "その他",
       "carrier": "au/KDDI",
       "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2142161.html",
-      "title": "楽天、F1「フェラーリ」のチームパートナーに",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2142161.html",
-      "date": "2026-09-18T04:31:52+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "楽天モバイル",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2142/161/08.jpg"
     },
     {
       "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr-1169_4723.html",
