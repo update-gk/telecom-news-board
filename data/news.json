@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-09-24T11:30:12.828690+00:00",
+  "generated_at": "2026-09-24T16:56:35.928659+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/teppan/2142991.html",
+      "title": "メモ帳としても便利に使える「GitHub」アプリ、エンジニアだけのツールじゃない",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/teppan/2142991.html",
+      "date": "2026-09-24T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2142/991/01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/minna/2142891.html",
+      "title": "気になるPixel 11の挙動をいろんなゲームアプリで試してみました",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/minna/2142891.html",
+      "date": "2026-09-24T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2142/891/00.jpg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2142977.html",
       "title": "LINE「ショッピング」で最大70％オフ、72時間限定「激アツ チャンスタイム」",
@@ -70,7 +92,7 @@
     },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/24/news092.html",
-      "title": "OPPOが中国で「Find X10」シリーズ発表　Find X10 Max Proはトリプル2億画素カメラで8000mAhバッテリー搭載",
+      "title": "OPPOが中国で「Find X10」シリーズ発表　Find X10 Pro Maxはトリプル2億画素カメラで8000mAhバッテリー搭載",
       "link": "https://www.itmedia.co.jp/mobile/articles/2609/24/news092.html",
       "date": "2026-09-24T10:21:00+00:00",
       "sourceKey": "itmedia",
@@ -169,14 +191,14 @@
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2142964.html",
-      "title": "新「Lemino」10月にスタート、WOWOWのコンテンツでサービス拡充",
+      "title": "新「Lemino」10月スタート、WOWOWのコンテンツでサービス拡充",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2142964.html",
       "date": "2026-09-24T08:19:37+00:00",
       "sourceKey": "ktai",
       "catKey": "other",
       "catLabel": "その他",
       "carrier": null,
-      "image": null
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2142/964/80.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/review/2142877.html",
@@ -465,17 +487,6 @@
       "image": null
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/24/news042.html",
-      "title": "薄型設計とMagSafe対応を両立　約1500円のiPhone 18 Pro向けマグネットスリムケース",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/24/news042.html",
-      "date": "2026-09-24T01:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/24/l_asa_amazon_01.jpg"
-    },
-    {
       "id": "docomo-https://www.docomo.ne.jp/support/product_update/ky42c/index.html",
       "title": "「DIGNO(R) ケータイ KY-42C」のソフトウェアアップデート情報のお知らせ",
       "link": "https://www.docomo.ne.jp/support/product_update/ky42c/index.html",
@@ -540,28 +551,6 @@
       "catLabel": "その他",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2142/696/07.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2140771.html",
-      "title": "車のヘッドレストに掛けて使う、MagSafe対応の磁力吸着式スマホホルダー",
-      "link": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2140771.html",
-      "date": "2026-09-23T15:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2140/771/001.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/minna/2138423.html",
-      "title": "機器はスマートでもスマートにならない充電環境",
-      "link": "https://k-tai.watch.impress.co.jp/docs/column/minna/2138423.html",
-      "date": "2026-09-23T15:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2138/423/100.jpg"
     },
     {
       "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr_s-77_4722.html",
