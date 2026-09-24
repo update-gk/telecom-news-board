@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-09-24T16:56:35.928659+00:00",
+  "generated_at": "2026-09-24T21:23:31.402801+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2142904.html",
+      "title": "クアルコム、アップルとのグローバル特許ライセンス契約の更新を発表",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2142904.html",
+      "date": "2026-09-24T19:28:57+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": null
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/teppan/2142991.html",
       "title": "メモ帳としても便利に使える「GitHub」アプリ、エンジニアだけのツールじゃない",
@@ -465,17 +476,6 @@
       "image": "https://image.itmedia.co.jp/mobile/articles/2609/24/l_asa_MMD_01.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/24/news053.html",
-      "title": "CPUコアが最大5GHz駆動！　ExtremeはGPUコアにAIエンジンも！　Qualcommのスマホ向け新型SoC「Snapdragon 8 Elite Gen 6」シリーズが登場",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/24/news053.html",
-      "date": "2026-09-24T02:45:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/24/cover_news053.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2142668.html",
       "title": "シャオミ、「Xiaomi 18 Pro/Pro Max」発表　背面ディスプレイと2億画素デュアルライカカメラ搭載",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2142668.html",
@@ -540,17 +540,6 @@
       "catLabel": "その他",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2142/477/01.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2142696.html",
-      "title": "クアルコム「Snapdragon 8 Elite Extreme Gen 6」が実現するオンデバイスAIとスマホの未来像",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2142696.html",
-      "date": "2026-09-23T19:08:49+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2142/696/07.jpg"
     },
     {
       "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr_s-77_4722.html",
