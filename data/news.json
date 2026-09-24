@@ -1,7 +1,161 @@
 {
-  "generated_at": "2026-09-23T21:22:19.236277+00:00",
+  "generated_at": "2026-09-24T04:17:17.979494+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/24/news071.html",
+      "title": "車内でPCやスマホを同時充電できる「UGREEN カーチャージャー EC604」が26％オフの3679円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/24/news071.html",
+      "date": "2026-09-24T03:47:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/24/cover_news071.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/24/news070.html",
+      "title": "ケーブルを持ち歩きたくない人に適した「UGREEN 160W 巻き取り式充電器」が25％オフで販売中",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/24/news070.html",
+      "date": "2026-09-24T03:46:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/24/cover_news070.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/24/news069.html",
+      "title": "約2.6mmで劇薄な人気スマホグリップ「PopSockets Low Pro Grip」が12％オフの5956円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/24/news069.html",
+      "date": "2026-09-24T03:40:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/24/cover_news069.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/24/news067.html",
+      "title": "サイバーな見た目のスマートデジタルフォトフレーム「Divoom Times Frame」が15％オフの2万2593円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/24/news067.html",
+      "date": "2026-09-24T03:38:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/24/cover_news067.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/24/news066.html",
+      "title": "ブルーの特別デザインを採用した「UGREEN×崩壊：スターレイル モバイルバッテリー PB727」が25％オフの4860円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/24/news066.html",
+      "date": "2026-09-24T03:33:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/24/cover_news066.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/24/news065.html",
+      "title": "部屋をオシャレに彩れる「XiGLOW 45L 冷蔵庫」がセールで16％オフの2万2799円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/24/news065.html",
+      "date": "2026-09-24T03:32:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/24/cover_news065.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/24/news064.html",
+      "title": "電池切れ対策が手厚い「SwitchBot スマートロック Ultra」が15％オフの1万9533円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/24/news064.html",
+      "date": "2026-09-24T03:27:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/24/cover_news064.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/24/news053.html",
+      "title": "CPUコアが最大5GHz駆動！　ExtremeはGPUコアにAIエンジンも！　Qualcommのスマホ向け新型SoC「Snapdragon 8 Elite Gen 6」シリーズが登場",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/24/news053.html",
+      "date": "2026-09-24T02:45:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/24/cover_news053.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2142668.html",
+      "title": "シャオミ、「Xiaomi 18 Pro/Pro Max」発表　背面ディスプレイと2億画素デュアルライカカメラ搭載",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2142668.html",
+      "date": "2026-09-24T01:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": null
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/24/news042.html",
+      "title": "薄型設計とMagSafe対応を両立　約1500円のiPhone 18 Pro向けマグネットスリムケース",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/24/news042.html",
+      "date": "2026-09-24T01:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/24/l_asa_amazon_01.jpg"
+    },
+    {
+      "id": "docomo-https://www.docomo.ne.jp/support/product_update/ky42c/index.html",
+      "title": "「DIGNO(R) ケータイ KY-42C」のソフトウェアアップデート情報のお知らせ",
+      "link": "https://www.docomo.ne.jp/support/product_update/ky42c/index.html",
+      "date": "2026-09-24T01:00:00+00:00",
+      "sourceKey": "docomo",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ドコモ",
+      "image": null
+    },
+    {
+      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sh54d/index.html",
+      "title": "「AQUOS sense8 SH-54D」のソフトウェアアップデート情報のお知らせ",
+      "link": "https://www.docomo.ne.jp/support/product_update/sh54d/index.html",
+      "date": "2026-09-24T01:00:00+00:00",
+      "sourceKey": "docomo",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "ドコモ",
+      "image": null
+    },
+    {
+      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sh52f/index.html",
+      "title": "「AQUOS wish5 SH-52F」のソフトウェアアップデート情報のお知らせ",
+      "link": "https://www.docomo.ne.jp/support/product_update/sh52f/index.html",
+      "date": "2026-09-24T01:00:00+00:00",
+      "sourceKey": "docomo",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "ドコモ",
+      "image": null
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/24/news013.html",
+      "title": "イオンでアプリ使ってる？　お得に買い物をする方法を調べてみた【2026年9月版】",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/24/news013.html",
+      "date": "2026-09-23T21:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/24/cover_news013.jpg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2142478.html",
       "title": "マイクロソフト、Snapdragon X2 Plus搭載の新型「Surface Pro」「Surface Laptop」発表",
@@ -91,17 +245,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2142/313/14.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/23/news026.html",
-      "title": "6.7型ディスプレイを搭載したAndroidスマホ「motorola edge 60」がセールで34％オフの3万9420円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/23/news026.html",
-      "date": "2026-09-22T23:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/23/cover_news026.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2142630.html",
       "title": "スマホは「アプリ中心」から「エージェント中心」へ。スマホの頭脳支えるクアルコムがGoogleやMastercardと見据えるAIの進化",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2142630.html",
@@ -111,17 +254,6 @@
       "catLabel": "その他",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2142/630/02.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/23/news025.html",
-      "title": "Ankerのシックなガジェットポーチ「Anker Style Pouch」がセールで16％オフの4190円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/23/news025.html",
-      "date": "2026-09-22T21:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/23/cover_news025.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2142628.html",
@@ -157,17 +289,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2141/695/10.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/22/news039.html",
-      "title": "新ヘッドフォン「Beats 360」5万9800円で発売　NC強化、交換式クッション採用",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/22/news039.html",
-      "date": "2026-09-22T14:40:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/22/l_rk1640414_Apple-01.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2142363.html",
       "title": "TVer、サッカーW杯後初の国際親善試合を無料配信　OB・OG戦も",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2142363.html",
@@ -177,50 +298,6 @@
       "catLabel": "その他",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2142/363/00.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/22/news033.html",
-      "title": "デスクのワイヤレス充電ステーション「Anker Prime Wireless Charging Station」が30％オフの1万7600円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/22/news033.html",
-      "date": "2026-09-22T03:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/22/cover_news033.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/22/news004.html",
-      "title": "BeRealの次は韓国発のVlogアプリ「setlog」がブームに？　Z世代の7割超が使う理由と「タイムリミットに追われない」クローズドな魅力",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/22/news004.html",
-      "date": "2026-09-22T03:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/22/cover_news004.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/22/news022.html",
-      "title": "富裕層向けカードの潮流が変化　アメックス、三井住友、ダイナース、ラグジュアリーカードが狙う“特別な体験価値”とは？",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/22/news022.html",
-      "date": "2026-09-22T01:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/22/cover_news022.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/22/news020.html",
-      "title": "SpigenのiPhone 18 Pro向けクリアケースが15％オフ　高い耐黄変性＆着脱しやすいTPU素材を採用",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/22/news020.html",
-      "date": "2026-09-22T01:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/22/l_asa_amazon_01.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2141917.html",
@@ -419,17 +496,6 @@
       "catLabel": "端末",
       "carrier": null,
       "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2142226.html",
-      "title": "「ドコモの銀行」で外貨預金がお得に、米ドルなど買付時の為替コストが0銭へ　12月21日まで",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2142226.html",
-      "date": "2026-09-18T06:39:22+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "ドコモ",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2142/226/09.jpg"
     },
     {
       "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr_s-77_4722.html",
@@ -784,17 +850,6 @@
       "image": null
     },
     {
-      "id": "docomo-https://www.docomo.ne.jp/corporate/anatatodocomo/docomoeveryday/article229/index.html?icid=CRP_INFO_to_CRP_CORP_anatatodocomo_docomoeveryday_article229",
-      "title": "あなたとドコモ 新着記事：2026年8月21日（金曜）よりドコモショップで「ドコモの銀行（ドコモSMTBネット銀行）」のご案内や口座開設などのサポートをスタート！",
-      "link": "https://www.docomo.ne.jp/corporate/anatatodocomo/docomoeveryday/article229/index.html?icid=CRP_INFO_to_CRP_CORP_anatatodocomo_docomoeveryday_article229",
-      "date": "2026-09-09T01:00:00+00:00",
-      "sourceKey": "docomo",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "ドコモ",
-      "image": null
-    },
-    {
       "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260909_02/",
       "title": "「AQUOS wish6」を“ワイモバイル”で9月17日に発売",
       "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260909_02/",
@@ -836,28 +891,6 @@
       "catKey": "device",
       "catLabel": "端末",
       "carrier": "Y!mobile",
-      "image": null
-    },
-    {
-      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc53g/index.html",
-      "title": "「Samsung Galaxy S26 Ultra SC-53G」のソフトウェアアップデート情報のお知らせ",
-      "link": "https://www.docomo.ne.jp/support/product_update/sc53g/index.html",
-      "date": "2026-09-08T01:00:00+00:00",
-      "sourceKey": "docomo",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "ドコモ",
-      "image": null
-    },
-    {
-      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc52g/index.html",
-      "title": "「Samsung Galaxy S26+ SC-52G」のソフトウェアアップデート情報のお知らせ",
-      "link": "https://www.docomo.ne.jp/support/product_update/sc52g/index.html",
-      "date": "2026-09-08T01:00:00+00:00",
-      "sourceKey": "docomo",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "ドコモ",
       "image": null
     },
     {
