@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-09-25T16:58:52.838562+00:00",
+  "generated_at": "2026-09-25T21:23:54.806712+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2143471.html",
+      "title": "ahamoを含むドコモの料金プランが12月に改定、改定理由や想いを齋藤副社長が説明",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2143471.html",
+      "date": "2026-09-25T21:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "price",
+      "catLabel": "料金プラン",
+      "carrier": "ドコモ",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2143/471/cont200.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2143392.html",
+      "title": "AIグラス「Ray-Ban Meta（Gen 3）」、ソフトバンクで販売開始",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2143392.html",
+      "date": "2026-09-25T21:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ソフトバンク",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2143/392/01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2143368.html",
+      "title": "海外で「PayPay」を使うと「PayPayポイント」が必ずあたるキャンペーン、LINEMOユーザーも対象に",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2143368.html",
+      "date": "2026-09-25T21:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": "ソフトバンク",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2143/368/01.jpeg"
+    },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/25/news114.html",
       "title": "「Suicaのペンギン　ありがとう」キャンペーン開催　Suicaの買い物で最大3万9000ポイントなど当たる",
@@ -529,39 +562,6 @@
       "catLabel": "その他",
       "carrier": "楽天モバイル",
       "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2142977.html",
-      "title": "LINE「ショッピング」で最大70％オフ、72時間限定「激アツ チャンスタイム」",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2142977.html",
-      "date": "2026-09-24T10:40:23+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2142/977/03.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2143003.html",
-      "title": "ドコモ「ケータイデータ復旧サービス」、ショップ受取を12月22日で終了",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2143003.html",
-      "date": "2026-09-24T10:35:34+00:00",
-      "sourceKey": "ktai",
-      "catKey": "trouble",
-      "catLabel": "障害・不具合",
-      "carrier": "ドコモ",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2143/003/docomo_logo.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2143039.html",
-      "title": "本体約100gのVR端末「Meta VR Glasses」発表　27年春発売",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2143039.html",
-      "date": "2026-09-24T10:35:01+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2143/039/07.jpg"
     },
     {
       "id": "docomo-https://www.docomo.ne.jp/support/product_update/ky42c/index.html",
