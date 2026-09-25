@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-09-25T11:36:20.152642+00:00",
+  "generated_at": "2026-09-25T16:58:52.838562+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/25/news114.html",
+      "title": "「Suicaのペンギン　ありがとう」キャンペーン開催　Suicaの買い物で最大3万9000ポイントなど当たる",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/25/news114.html",
+      "date": "2026-09-25T11:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/25/l_asa_JRE_01.jpg"
+    },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/25/news120.html",
       "title": "ahamoやドコモ MAX、海外のデータ通信が最大30GB→40GBに　15日経過後も「日数追加」可能に",
@@ -441,28 +452,6 @@
       "catLabel": "端末",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2139/912/28.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/25/news076.html",
-      "title": "12GBメモリ×大容量バッテリーの「motorola edge 70 fusion」が10月23日発売　公式通販では7万9800円",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/25/news076.html",
-      "date": "2026-09-25T01:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/25/cover_news076.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/25/news062.html",
-      "title": "【3COINS】550円の「CARどこでも挟めるスマホホルダー」　アームパーツで自由に角度調整できる",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/25/news062.html",
-      "date": "2026-09-25T01:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/25/l_asa_100item_01.jpg"
     },
     {
       "id": "docomo-https://www.docomo.ne.jp/corporate/anatatodocomo/docomoeveryday/article231/index.html?icid=CRP_INFO_to_CRP_CORP_anatatodocomo_docomoeveryday_article231",
