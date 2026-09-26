@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-09-25T21:23:54.806712+00:00",
+  "generated_at": "2026-09-26T04:33:38.712681+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/26/news015.html",
+      "title": "なぜドコモはahamoの大幅値上げを避けたのか？　段階制で安くなるケースと「アップセル戦略」の狙い",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/26/news015.html",
+      "date": "2026-09-26T01:21:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "price",
+      "catLabel": "料金プラン",
+      "carrier": "ドコモ",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/26/cover_news015.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/26/news001.html",
+      "title": "20万円超のXperiaを「買い」に変えた3週間　ソニーが「モニタープログラム」を実施した理由",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/26/news001.html",
+      "date": "2026-09-26T01:10:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/26/cover_news001.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2143363.html",
+      "title": "京王・TX・ゆりかもめ・江ノ電のクレカ乗車でVポイントももらえる、10月7日開始",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2143363.html",
+      "date": "2026-09-26T01:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2143/363/KV-1.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/26/news014.html",
+      "title": "3層カメラボタンカバーと多重保護構造を搭載　ESRのiPhone 18 Pro向けケース",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/26/news014.html",
+      "date": "2026-09-26T01:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/26/l_asa_amazon_01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2143496.html",
+      "title": "指輪型AIデバイス「VOCCI」が日本上陸、ユーザーとAIの橋渡しへ",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2143496.html",
+      "date": "2026-09-25T23:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2143/496/cont100.jpg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2143471.html",
       "title": "ahamoを含むドコモの料金プランが12月に改定、改定理由や想いを齋藤副社長が説明",
@@ -421,61 +476,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2143/175/00.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/25/news086.html",
-      "title": "「au Starlink Direct」の海外エリア拡大　海外5カ国目にオーストラリアを追加",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/25/news086.html",
-      "date": "2026-09-25T03:02:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "au/KDDI",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/25/l_rk1640414_starlink-01.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/25/news085.html",
-      "title": "“iPhone 18難民”の買い替え先は？　最新「iPhone 18 Pro」と型落ち「17／17e／16」から最適解を考える",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/25/news085.html",
-      "date": "2026-09-25T03:01:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/25/cover_news085.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/25/news083.html",
-      "title": "ポケポケ、期間限定の拡張パック「ハイクラスパック MEGA」追加　ポケモンexが必ず封入",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/25/news083.html",
-      "date": "2026-09-25T02:35:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/25/l_asa_pokepoke_01.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/25/news082.html",
-      "title": "楽天モバイルが1100万回線突破　「最強家族割」やエコシステム連携で成長加速",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/25/news082.html",
-      "date": "2026-09-25T02:25:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "楽天モバイル",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/25/cover_news082.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/25/news078.html",
-      "title": "「Xiaomi 18 Pro／Pro Max」中国で発表　のぞき見を防ぐプライバシー画面、2億画素の望遠カメラを搭載　年内にグローバル展開へ",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/25/news078.html",
-      "date": "2026-09-25T01:20:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/25/l_yu_xiaomi1.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139912.html",
       "title": "モトローラ、「motorola edge 70 fusion」を10月発売　7000mAhバッテリーで2日充電いらず",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2139912.html",
@@ -507,28 +507,6 @@
       "catLabel": "その他",
       "carrier": null,
       "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/teppan/2142991.html",
-      "title": "メモ帳としても便利に使える「GitHub」アプリ、エンジニアだけのツールじゃない",
-      "link": "https://k-tai.watch.impress.co.jp/docs/column/teppan/2142991.html",
-      "date": "2026-09-24T15:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2142/991/01.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/minna/2142891.html",
-      "title": "気になるPixel 11の挙動をいろんなゲームアプリで試してみました",
-      "link": "https://k-tai.watch.impress.co.jp/docs/column/minna/2142891.html",
-      "date": "2026-09-24T15:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2142/891/00.jpg"
     },
     {
       "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260925_01/",
