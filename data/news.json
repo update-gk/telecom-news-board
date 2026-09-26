@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-09-26T20:55:28.037367+00:00",
+  "generated_at": "2026-09-26T23:28:12.125741+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/27/news001.html",
+      "title": "Xiaomiの新しいEV「SkyNomad」を見てきた",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/27/news001.html",
+      "date": "2026-09-26T21:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/27/cover_news001.jpg"
+    },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/26/news016.html",
       "title": "街中の「併売店」が減っている　その理由は？",
@@ -364,17 +375,6 @@
       "catLabel": "その他",
       "carrier": "au/KDDI",
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2143/261/01.png"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/25/news093.html",
-      "title": "ワイヤレスでも有線でも充電できるスタンド内蔵モバイルバッテリー「CIO SMARTCOBY Ex05」がセールで11％オフの7980円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/25/news093.html",
-      "date": "2026-09-25T04:35:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/25/cover_news093.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2143238.html",
