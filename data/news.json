@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-09-26T23:28:12.125741+00:00",
+  "generated_at": "2026-09-27T04:52:03.619239+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/27/news011.html",
+      "title": "iPhone Duoではなぜか「指紋認証」が復活――カメラのアンダーディスプレイ化でダイナミックアイランドはどうなる？",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/27/news011.html",
+      "date": "2026-09-27T04:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/images/logo/1200x630_500x500_mobile.gif"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/27/news010.html",
+      "title": "高額な「iPhone Duo」を横目にどう選ぶ？　Androidフォルダブルスマホをお得に買う方法【2026年9月版】",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/27/news010.html",
+      "date": "2026-09-27T02:08:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/27/cover_news010.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/27/news008.html",
+      "title": "【3COINS】1320円の「真空吸着マグネットスタンド」　吸盤＆マグネットでしっかり固定",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/27/news008.html",
+      "date": "2026-09-27T01:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/27/l_asa_100item_01.jpg"
+    },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/27/news001.html",
       "title": "Xiaomiの新しいEV「SkyNomad」を見てきた",
@@ -331,28 +364,6 @@
       "catLabel": "料金プラン",
       "carrier": "ドコモ",
       "image": null
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/25/news101.html",
-      "title": "ドコモが低容量プラン「ドコモ mini2」発表　6GB／12GBの2段階で月額3278円／4598円",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/25/news101.html",
-      "date": "2026-09-25T05:43:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "price",
-      "catLabel": "料金プラン",
-      "carrier": "ドコモ",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/25/l_st52693_dmini-01.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/25/news100.html",
-      "title": "ドコモがahamoの料金刷新、40GB・60GB・120GBの3段階制に　月額3135円～に値上げ",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/25/news100.html",
-      "date": "2026-09-25T05:21:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "price",
-      "catLabel": "料金プラン",
-      "carrier": "ドコモ",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/25/l_st52693_ahamonp-01.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2143285.html",
