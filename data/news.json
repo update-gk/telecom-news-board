@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-09-27T11:48:54.090174+00:00",
+  "generated_at": "2026-09-27T16:47:11.750694+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2143282.html",
+      "title": "256個のLEDで“水”を再現する「LED流体キーホルダー」",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2143282.html",
+      "date": "2026-09-27T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2143/282/001.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/minna/2143253.html",
+      "title": "ChatGPTと人に助けられた、中国で紛失したスマホが無事に返ってくるまでの数時間の記録",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/minna/2143253.html",
+      "date": "2026-09-27T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2143/253/001.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/stapa/2142984.html",
+      "title": "Audio Intelligence AIをApple Watch Ultra 4でっ！",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/stapa/2142984.html",
+      "date": "2026-09-27T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2142/984/stptncs2026-09-28thumbnail.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/topic/special/2140787.html",
+      "title": "「Notta Memo」がProになってさらに進化！　自動クラウド同期とシーン切り替えで通話から会議まで“ワンタッチ”でできるAIレコーダーをチェック!!![Sponsored]",
+      "link": "https://k-tai.watch.impress.co.jp/docs/topic/special/2140787.html",
+      "date": "2026-09-27T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2140/787/notta_003.jpg"
+    },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/27/news012.html",
       "title": "「SuicaがJR東海エリアで使えない」問題、ついに解消か　JR東海社長「勉強している」",
@@ -476,39 +520,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2143/188/001.jpg"
     },
     {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2143172.html",
-      "title": "Amazon「プライム感謝祭」でdポイント最大20％還元、d払いで100％還元抽選も",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2143172.html",
-      "date": "2026-09-25T03:08:02+00:00",
-      "sourceKey": "ktai",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2143/172/docomo_logo.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2143175.html",
-      "title": "グーグル、AIアバターが応答する「Gemini 3.8 Live with Live Avatar」発表",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2143175.html",
-      "date": "2026-09-25T03:07:08+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2143/175/00.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2139912.html",
-      "title": "モトローラ、「motorola edge 70 fusion」を10月発売　7000mAhバッテリーで2日充電いらず",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2139912.html",
-      "date": "2026-09-25T01:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2139/912/28.jpg"
-    },
-    {
       "id": "docomo-https://www.docomo.ne.jp/corporate/anatatodocomo/docomoeveryday/article231/index.html?icid=CRP_INFO_to_CRP_CORP_anatatodocomo_docomoeveryday_article231",
       "title": "あなたとドコモ 新着記事：見て、触れて気づく未来のかたち。インクルーシブデーで考える誰もが暮らしやすい社会",
       "link": "https://www.docomo.ne.jp/corporate/anatatodocomo/docomoeveryday/article231/index.html?icid=CRP_INFO_to_CRP_CORP_anatatodocomo_docomoeveryday_article231",
@@ -517,17 +528,6 @@
       "catKey": "other",
       "catLabel": "その他",
       "carrier": "ドコモ",
-      "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2142904.html",
-      "title": "クアルコム、アップルとのグローバル特許ライセンス契約の更新を発表",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2142904.html",
-      "date": "2026-09-24T19:28:57+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
       "image": null
     },
     {
