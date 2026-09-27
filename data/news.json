@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T16:47:11.750694+00:00",
+  "generated_at": "2026-09-27T21:12:09.443108+00:00",
   "errors": [],
   "articles": [
     {
@@ -364,17 +364,6 @@
       "catLabel": "MVNO・格安SIM",
       "carrier": "ドコモ",
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2143/344/05.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/25/news103.html",
-      "title": "ドコモが既存料金プランを値上げ　eximoや5Gギガホは＋550円、irumoは＋110円～330円　2026年12月から",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/25/news103.html",
-      "date": "2026-09-25T06:39:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "price",
-      "catLabel": "料金プラン",
-      "carrier": "ドコモ",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/25/l_st52693_neage-01.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2143339.html",
