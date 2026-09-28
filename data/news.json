@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-09-28T13:31:59.475336+00:00",
+  "generated_at": "2026-09-28T21:10:09.315808+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/minna/2143868.html",
+      "title": "PayPayカードが不正使用された！",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/minna/2143868.html",
+      "date": "2026-09-28T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2143/868/ip17pm-3a.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2143801.html",
+      "title": "「東京駅でつながりにくい」、それでも楽天モバイルを辞めない理由――ユーザー座談会で見えた“納得の割り切り”",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2143801.html",
+      "date": "2026-09-28T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "楽天モバイル",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2143/801/rktn.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2143796.html",
+      "title": "スマホにも便利な3cmケーブル？　付きデュアルスロットSDカードリーダー",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2143796.html",
+      "date": "2026-09-28T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2143/796/001.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/ishikawa/2143720.html",
+      "title": "揺れる「フラグシップスマホ」の定義――多様化するニーズと最上位モデルの現在地",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/ishikawa/2143720.html",
+      "date": "2026-09-28T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2143/720/kv.jpg"
+    },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/28/news109.html",
       "title": "d払い＆dカード利用でUSJの25周年一部エリア貸し切りイベントに招待キャンペーン開催　12月まで毎月抽選",
@@ -77,7 +121,7 @@
       "catKey": "mvno",
       "catLabel": "MVNO・格安SIM",
       "carrier": "楽天モバイル",
-      "image": null
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2143/762/01.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2143786.html",
@@ -210,28 +254,6 @@
       "catLabel": "端末",
       "carrier": null,
       "image": "https://image.itmedia.co.jp/mobile/articles/2609/28/l_asa_ichiran_01.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/28/news048.html",
-      "title": "Spigenが耐衝撃iPhone Duo用ケースを発売　厚みを抑えながらヒンジ全体をカバー",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/28/news048.html",
-      "date": "2026-09-28T01:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/28/l_asa_amazon_01.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/28/news025.html",
-      "title": "ソフトバンクとLINEヤフーが「Yahoo!スマホ買取」を始めた理由　スマホ高騰時代に目指す「中古の循環」",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/28/news025.html",
-      "date": "2026-09-28T01:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "ソフトバンク",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/28/cover_news025.jpg"
     },
     {
       "id": "docomo-https://www.docomo.ne.jp/support/product_update/sh51f/index.html",
@@ -496,50 +518,6 @@
       "catLabel": "キャンペーン",
       "carrier": "ドコモ",
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2143/365/04.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2143362.html",
-      "title": "ドコモ、12月に「海外データ通信日数追加オプション」",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2143362.html",
-      "date": "2026-09-25T07:02:13+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "ドコモ",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2143/362/docomo.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2143344.html",
-      "title": "ahamo「大盛りオプション」、11月30日で終了",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2143344.html",
-      "date": "2026-09-25T06:39:15+00:00",
-      "sourceKey": "ktai",
-      "catKey": "mvno",
-      "catLabel": "MVNO・格安SIM",
-      "carrier": "ドコモ",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2143/344/05.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2143339.html",
-      "title": "ドコモ、旧料金プランを中心に月額料金を最大550円値上げ　12月から",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2143339.html",
-      "date": "2026-09-25T06:24:59+00:00",
-      "sourceKey": "ktai",
-      "catKey": "price",
-      "catLabel": "料金プラン",
-      "carrier": "ドコモ",
-      "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2143331.html",
-      "title": "6GB・12GBの新料金「ドコモ mini2」発表、割引適用で858円～",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2143331.html",
-      "date": "2026-09-25T06:20:27+00:00",
-      "sourceKey": "ktai",
-      "catKey": "price",
-      "catLabel": "料金プラン",
-      "carrier": "ドコモ",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2143/331/01.jpg"
     },
     {
       "id": "docomo-https://www.docomo.ne.jp/corporate/anatatodocomo/docomoeveryday/article231/index.html?icid=CRP_INFO_to_CRP_CORP_anatatodocomo_docomoeveryday_article231",
