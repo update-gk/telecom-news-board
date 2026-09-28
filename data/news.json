@@ -1,7 +1,139 @@
 {
-  "generated_at": "2026-09-28T04:54:13.201310+00:00",
+  "generated_at": "2026-09-28T13:31:59.475336+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/28/news109.html",
+      "title": "d払い＆dカード利用でUSJの25周年一部エリア貸し切りイベントに招待キャンペーン開催　12月まで毎月抽選",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/28/news109.html",
+      "date": "2026-09-28T10:45:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/28/l_asa_docomo_01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2143373.html",
+      "title": "NTTドコモビジネスのAI成長戦略、データセンターや「NaaS」で変化への追随を支援",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2143373.html",
+      "date": "2026-09-28T10:40:06+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ドコモ",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2143/373/152.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/28/news103.html",
+      "title": "ドコモの「iPhone Air（256GB）」が2年間で実質約3万円　MNP＋端末返却で【スマホお得情報】",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/28/news103.html",
+      "date": "2026-09-28T10:30:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "ドコモ",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/28/l_asa_sumaotoku_01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2143870.html",
+      "title": "AI時代のネットワークは「上り」と「共創」が鍵、「エリクソン・フォーラム 2026」で示された未来の通信基盤",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2143870.html",
+      "date": "2026-09-28T10:06:47+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2143/870/cont100.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/28/news110.html",
+      "title": "MAXWIN、ボタン1つで電動開閉する車載ドリンクホルダーを発売",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/28/news110.html",
+      "date": "2026-09-28T09:48:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/28/cover_news110.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2143809.html",
+      "title": "グーグル、日本オフィス25周年で特設サイトを公開　アワードも開催",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2143809.html",
+      "date": "2026-09-28T08:56:21+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2143/809/01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2143762.html",
+      "title": "楽天のシェアは3.8％、MVNOの通信モジュールが25％増――総務省の携帯契約最新データ",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2143762.html",
+      "date": "2026-09-28T08:56:14+00:00",
+      "sourceKey": "ktai",
+      "catKey": "mvno",
+      "catLabel": "MVNO・格安SIM",
+      "carrier": "楽天モバイル",
+      "image": null
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2143786.html",
+      "title": "Garmin、自転車用の接近車両レーダー「Varia RearVue 820」発売へ　スマホ対応",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2143786.html",
+      "date": "2026-09-28T08:38:23+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2143/786/01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2143808.html",
+      "title": "JR東とグーグル、改札タッチで情報配信する「タッチトリガー」の裏側を公開",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2143808.html",
+      "date": "2026-09-28T08:35:50+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2143/808/00.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2143779.html",
+      "title": "Googleカレンダー、3つのタイムゾーンを同時表示可能に　Web版で順次提供",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2143779.html",
+      "date": "2026-09-28T08:35:47+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2143/779/17.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2143685.html",
+      "title": "郵便局からAIドローン、防災や見守りに活用　日本郵便とKDDIが珠洲市で実証",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2143685.html",
+      "date": "2026-09-28T06:23:37+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "au/KDDI",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2143/685/06.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/28/news095.html",
+      "title": "家族や知人にGong chaをおすそ分け　「My Gong cha」がドリンクチケットのプレゼントに対応",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/28/news095.html",
+      "date": "2026-09-28T05:25:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/28/l_asa_Gongcha_01.jpg"
+    },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/28/news088.html",
       "title": "パナの電動アシスト自転車、スマホ連携が可能に　バッテリーの盗難防止や残量通知など　12月発売",
@@ -102,17 +234,6 @@
       "image": "https://image.itmedia.co.jp/mobile/articles/2609/28/cover_news025.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/28/news055.html",
-      "title": "ドコモ販売ランキング：「Galaxy Z Fold8」シリーズはトップ10入りならず、「Galaxy S26」が2位に浮上【2026年8月】",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/28/news055.html",
-      "date": "2026-09-28T01:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "ドコモ",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/28/cover_news055.jpg"
-    },
-    {
       "id": "docomo-https://www.docomo.ne.jp/support/product_update/sh51f/index.html",
       "title": "「AQUOS R10 SH-51F」のソフトウェアアップデート情報のお知らせ",
       "link": "https://www.docomo.ne.jp/support/product_update/sh51f/index.html",
@@ -201,28 +322,6 @@
       "image": null
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/28/news071.html",
-      "title": "iPhone 18 Pro用のApple純正MagSafe対応シリコーンケースがセールで8290円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/28/news071.html",
-      "date": "2026-09-28T00:54:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/28/cover_news071.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/28/news070.html",
-      "title": "車内の充電ケーブル散らかりを解決する「Anker Nano Car Charger (75W, 巻取り式 USB-Cケーブル)」がセールで20％オフの3190円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/28/news070.html",
-      "date": "2026-09-28T00:50:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/28/cover_news070.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2143293.html",
       "title": "au Starlink Direct、オーストラリアで利用可能に　海外対応は5カ国へ",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2143293.html",
@@ -276,28 +375,6 @@
       "catLabel": "その他",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2140/787/notta_003.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/27/news012.html",
-      "title": "「SuicaがJR東海エリアで使えない」問題、ついに解消か　JR東海社長「勉強している」",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/27/news012.html",
-      "date": "2026-09-27T07:35:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/27/cover_news012.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/27/news011.html",
-      "title": "iPhone Duoではなぜか「指紋認証」が復活――カメラのアンダーディスプレイ化でダイナミックアイランドはどうなる？",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/27/news011.html",
-      "date": "2026-09-27T04:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/images/logo/1200x630_500x500_mobile.gif"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2143363.html",
@@ -463,94 +540,6 @@
       "catLabel": "料金プラン",
       "carrier": "ドコモ",
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2143/331/01.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2143315.html",
-      "title": "「ドコモ MAX 60歳以上割」が10月登場、60歳以上なら「ドコモ MAX」が3カ月858円～",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2143315.html",
-      "date": "2026-09-25T06:07:47+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "ドコモ",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2143/315/01.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2143311.html",
-      "title": "ドコモ「ahamo」、40GB・60GB・120GBの3段階制プラン3135円～5115円に　爆アゲは還元率アップ",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2143311.html",
-      "date": "2026-09-25T06:01:28+00:00",
-      "sourceKey": "ktai",
-      "catKey": "price",
-      "catLabel": "料金プラン",
-      "carrier": "ドコモ",
-      "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2143285.html",
-      "title": "ドコモ、10月以降に値上げ・ahamo段階制導入など、eximoなどは既存プランで最大550円",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2143285.html",
-      "date": "2026-09-25T05:02:12+00:00",
-      "sourceKey": "ktai",
-      "catKey": "price",
-      "catLabel": "料金プラン",
-      "carrier": "ドコモ",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2143/285/dcm0924.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2143261.html",
-      "title": "KDDIが「SMS共通番号」の利用を開始、10月6日から",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2143261.html",
-      "date": "2026-09-25T04:47:47+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "au/KDDI",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2143/261/01.png"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2143238.html",
-      "title": "ロンドンに「Apple Music Hall」新設、ライブや空間オーディオ録音も",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2143238.html",
-      "date": "2026-09-25T04:19:43+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2143/238/01.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2143232.html",
-      "title": "povo、新規契約で「500GB（3日間）」プレゼント　Pixel 10が20％オフになる割引コードも",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2143232.html",
-      "date": "2026-09-25T04:05:24+00:00",
-      "sourceKey": "ktai",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": "au/KDDI",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2143/232/001.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2143220.html",
-      "title": "dポイント、10月はららぽーと・髙島屋などでキャンペーン　最大3万ポイント",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2143220.html",
-      "date": "2026-09-25T04:05:08+00:00",
-      "sourceKey": "ktai",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2143/220/01.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2143206.html",
-      "title": "グーグル、Pixel Watch新機能「Health Guardian」提供開始　血管ストレスや代謝ストレス傾向を追跡",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2143206.html",
-      "date": "2026-09-25T03:36:28+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": null
     },
     {
       "id": "docomo-https://www.docomo.ne.jp/corporate/anatatodocomo/docomoeveryday/article231/index.html?icid=CRP_INFO_to_CRP_CORP_anatatodocomo_docomoeveryday_article231",
