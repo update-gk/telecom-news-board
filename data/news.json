@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-09-29T12:33:23.678246+00:00",
+  "generated_at": "2026-09-29T19:54:29.707769+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/fujioka/2144245.html",
+      "title": "スマホの位置はどうして正確に分かるの？――基地局、衛星、Wi-Fi/BLE、センサーの共演",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/fujioka/2144245.html",
+      "date": "2026-09-29T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/245/03.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/china/2144200.html",
+      "title": "ジンバルカメラが飛び出す「Robot Phone」や、電子ペーパースマホが登場",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/china/2144200.html",
+      "date": "2026-09-29T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/200/wt260910.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/mitsui/2144194.html",
+      "title": "「iPhone 18 Pro」のカメラをチェック　念願の「可変絞り」とAIがもたらす新たな表現力とは",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/mitsui/2144194.html",
+      "date": "2026-09-29T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/194/DSC_0346.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/minna/2144111.html",
+      "title": "手のひらサイズの極小PC？ Galaxy Z Flip8とARグラスで組む「超軽量・最小構成」モビリティ執筆環境",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/minna/2144111.html",
+      "date": "2026-09-29T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/111/MW_gfp8_02_01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2143443.html",
+      "title": "トイレスマホもはかどる？ TOTOのトイレ「ネオレスト RS1」",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2143443.html",
+      "date": "2026-09-29T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2143/443/001-1.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/29/news099.html",
+      "title": "「iOS 27.0.1」配信開始、iPhone 18 ProのFace IDやカメラの不具合を解消　「iOS 26.7.1」も",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/29/news099.html",
+      "date": "2026-09-29T12:06:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "trouble",
+      "catLabel": "障害・不具合",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/29/l_st52693_ios2701-01.jpg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144218.html",
       "title": "スマホアクセサリーの「TORRAS」が上陸10周年、日本発の製品開発も視野に",
@@ -103,7 +169,7 @@
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144135.html",
-      "title": "KDDIがAI前提の自律型ネットワーク「AcceWaves」構想を発表、2028年の本格始動に向けてまずはクラウドセキュリティを統合",
+      "title": "KDDIがAI前提の自律型ネットワーク「AccelWaves」構想を発表、2028年の本格始動に向けてまずはクラウドセキュリティを統合",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2144135.html",
       "date": "2026-09-29T06:56:04+00:00",
       "sourceKey": "ktai",
@@ -254,17 +320,6 @@
       "catLabel": "料金プラン",
       "carrier": null,
       "image": "https://image.itmedia.co.jp/mobile/articles/2609/29/cover_news026.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/29/news025.html",
-      "title": "au販売ランキング：「Galaxy Z Fold8」が初登場5位、「Galaxy Z Fold8 Ultra」も8位に【2026年8月】",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/29/news025.html",
-      "date": "2026-09-29T01:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "au/KDDI",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/29/cover_news025.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2143867.html",
@@ -454,17 +509,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2143/688/05.jpg"
     },
     {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2143663.html",
-      "title": "セブン‐イレブンの商品をVポイントで約半額相当に、10月7日から4週連続",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2143663.html",
-      "date": "2026-09-28T03:40:35+00:00",
-      "sourceKey": "ktai",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2143/663/05.jpg"
-    },
-    {
       "id": "docomo-https://www.docomo.ne.jp/support/product_update/sh51f/index.html",
       "title": "「AQUOS R10 SH-51F」のソフトウェアアップデート情報のお知らせ",
       "link": "https://www.docomo.ne.jp/support/product_update/sh51f/index.html",
@@ -551,50 +595,6 @@
       "catLabel": "その他",
       "carrier": "au/KDDI",
       "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2143293.html",
-      "title": "au Starlink Direct、オーストラリアで利用可能に　海外対応は5カ国へ",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2143293.html",
-      "date": "2026-09-27T21:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "au/KDDI",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2143/293/01.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2143282.html",
-      "title": "256個のLEDで“水”を再現する「LED流体キーホルダー」",
-      "link": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2143282.html",
-      "date": "2026-09-27T15:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2143/282/001.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/minna/2143253.html",
-      "title": "ChatGPTと人に助けられた、中国で紛失したスマホが無事に返ってくるまでの数時間の記録",
-      "link": "https://k-tai.watch.impress.co.jp/docs/column/minna/2143253.html",
-      "date": "2026-09-27T15:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2143/253/001.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/stapa/2142984.html",
-      "title": "Audio Intelligence AIをApple Watch Ultra 4でっ！",
-      "link": "https://k-tai.watch.impress.co.jp/docs/column/stapa/2142984.html",
-      "date": "2026-09-27T15:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2142/984/stptncs2026-09-28thumbnail.jpg"
     },
     {
       "id": "docomo-https://www.docomo.ne.jp/corporate/anatatodocomo/docomoeveryday/article231/index.html?icid=CRP_INFO_to_CRP_CORP_anatatodocomo_docomoeveryday_article231",
