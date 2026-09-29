@@ -1,7 +1,128 @@
 {
-  "generated_at": "2026-09-29T05:19:22.429453+00:00",
+  "generated_at": "2026-09-29T12:33:23.678246+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144218.html",
+      "title": "スマホアクセサリーの「TORRAS」が上陸10周年、日本発の製品開発も視野に",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2144218.html",
+      "date": "2026-09-29T10:48:06+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": null
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/29/news095.html",
+      "title": "「ドコモミリ波イニシアチブ」始動、ミリ波の活用促進やユースケース創出を目指す",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/29/news095.html",
+      "date": "2026-09-29T09:38:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ドコモ",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/29/l_asa_docomo_01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2143726.html",
+      "title": "menu、約7年で総配達距離7318万km　サービス終了前に数字で振り返る",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2143726.html",
+      "date": "2026-09-29T08:36:17+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2143/726/11.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/29/news093.html",
+      "title": "Y!mobile、折りたたみスマホ「nubia Fold」が2年間2万円台　機種変更も対象【スマホお得情報】",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/29/news093.html",
+      "date": "2026-09-29T08:05:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "Y!mobile",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/29/l_asa_sumaotoku_01.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/29/news087.html",
+      "title": "HDMI対応の7型オンダッシュモニターがMAXWINから　Fire TV Stickで動画視聴を楽しめる",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/29/news087.html",
+      "date": "2026-09-29T07:52:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/29/l_asa_MAXWIN_01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144050.html",
+      "title": "ローソンで「Pontaパス」ギフトカードが発売、1年分なら2カ月分お得に",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2144050.html",
+      "date": "2026-09-29T07:42:12+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/050/01.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/29/news091.html",
+      "title": "東電EP、電化住宅向け料金プランを刷新　太陽光やエコキュートなしのEVオーナーも加入可能に　30.63円／1kWh",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/29/news091.html",
+      "date": "2026-09-29T07:40:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "price",
+      "catLabel": "料金プラン",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/29/cover_news091.png"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144169.html",
+      "title": "「iOS 27.0.1」提供開始――Face IDやカメラ、通知センターの不具合を修正",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2144169.html",
+      "date": "2026-09-29T07:37:14+00:00",
+      "sourceKey": "ktai",
+      "catKey": "trouble",
+      "catLabel": "障害・不具合",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/169/cont100.png"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/29/news085.html",
+      "title": "免許証画像が漏れると何が“ヤバい”のか　タイムズカーで最大約660万件の個人情報漏えいで考えられる「3つのリスク」",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/29/news085.html",
+      "date": "2026-09-29T07:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/29/cover_news085.png"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144135.html",
+      "title": "KDDIがAI前提の自律型ネットワーク「AcceWaves」構想を発表、2028年の本格始動に向けてまずはクラウドセキュリティを統合",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2144135.html",
+      "date": "2026-09-29T06:56:04+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "au/KDDI",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/135/cont100.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/29/news081.html",
+      "title": "PayPay、松屋公式アプリのモバイルオーダーで最大10万ポイントを還元",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/29/news081.html",
+      "date": "2026-09-29T04:10:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/29/l_asa_PayPay_01.jpg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144031.html",
       "title": "YouTube、Mrs. GREEN APPLE動画のシークバーを特別仕様に",
@@ -474,61 +595,6 @@
       "catLabel": "その他",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2142/984/stptncs2026-09-28thumbnail.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/topic/special/2140787.html",
-      "title": "「Notta Memo」がProになってさらに進化！　自動クラウド同期とシーン切り替えで通話から会議まで“ワンタッチ”でできるAIレコーダーをチェック!!![Sponsored]",
-      "link": "https://k-tai.watch.impress.co.jp/docs/topic/special/2140787.html",
-      "date": "2026-09-27T15:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2140/787/notta_003.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2143363.html",
-      "title": "京王・TX・ゆりかもめ・江ノ電のクレカ乗車でVポイントももらえる、10月7日開始",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2143363.html",
-      "date": "2026-09-26T01:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2143/363/KV-1.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2143496.html",
-      "title": "指輪型AIデバイス「VOCCI」が日本上陸、ユーザーとAIの橋渡しへ",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2143496.html",
-      "date": "2026-09-25T23:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2143/496/cont100.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2143471.html",
-      "title": "ahamoを含むドコモの料金プランが12月に改定、改定理由や想いを齋藤副社長が説明",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2143471.html",
-      "date": "2026-09-25T21:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "price",
-      "catLabel": "料金プラン",
-      "carrier": "ドコモ",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2143/471/cont200.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2143392.html",
-      "title": "AIグラス「Ray-Ban Meta（Gen 3）」、ソフトバンクで販売開始",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2143392.html",
-      "date": "2026-09-25T21:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "ソフトバンク",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2143/392/01.jpg"
     },
     {
       "id": "docomo-https://www.docomo.ne.jp/corporate/anatatodocomo/docomoeveryday/article231/index.html?icid=CRP_INFO_to_CRP_CORP_anatatodocomo_docomoeveryday_article231",
