@@ -1,7 +1,139 @@
 {
-  "generated_at": "2026-09-30T09:31:49.819063+00:00",
+  "generated_at": "2026-09-30T17:53:38.212555+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144675.html",
+      "title": "ソフトバンクGが米デジタルブリッジ買収完了、基地局シェアリングのJTOWER親会社",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2144675.html",
+      "date": "2026-09-30T15:21:40+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ソフトバンク",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/675/01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/minna/2144672.html",
+      "title": "「毎週1500円」のクリーナーアプリが平然と存在するアプリストアの問題点",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/minna/2144672.html",
+      "date": "2026-09-30T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/672/kw20260923_1.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/value/2144605.html",
+      "title": "値上げしたドコモ「ahamo」は本当に損？　UQ・ワイモバ・楽天との料金比較で見えた「意外な安さ」",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/value/2144605.html",
+      "date": "2026-09-30T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "price",
+      "catLabel": "料金プラン",
+      "carrier": "ドコモ",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/605/01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2141539.html",
+      "title": "普段使いにも災害用の備えにもなる折りたたみベッド",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2141539.html",
+      "date": "2026-09-30T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2141/539/cot00.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2141408.html",
+      "title": "サムスン、ハイエンドタブレット「Galaxy Tab S12 Ultra／S12+」を発表　10月7日発売",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2141408.html",
+      "date": "2026-09-30T12:38:39+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": null
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/30/news011.html",
+      "title": "「Galaxy Tab S12 Ultra」「S12+」発表　2027年3月末までGalaxy限定でAndroidタブ初のPhotoshop対応",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/30/news011.html",
+      "date": "2026-09-30T12:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/30/cover_news011.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144651.html",
+      "title": "Apple、子どものデジタル習慣を支援する新ガイド　米国小児科学会と共同で公開",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2144651.html",
+      "date": "2026-09-30T10:43:29+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/651/01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144647.html",
+      "title": "「V NEOBANK」、来年3月28日にサービス終了　新サービスへ移行",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2144647.html",
+      "date": "2026-09-30T10:41:53+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/647/01-1.png"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144648.html",
+      "title": "「PayPayカード」、三菱UFJ銀行で”引き落とし後の利用可能額”反映を短縮",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2144648.html",
+      "date": "2026-09-30T10:30:07+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/648/paypay.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144610.html",
+      "title": "Final Cut ProやPixelmator Proに新機能、Apple Creator Studioがアップデート",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2144610.html",
+      "date": "2026-09-30T10:10:49+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/610/01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144618.html",
+      "title": "dポイント、過去の相手へ「履歴から送る」追加　保有ポイントの全自動送付も",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2144618.html",
+      "date": "2026-09-30T10:10:42+00:00",
+      "sourceKey": "ktai",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/618/docomo_logo.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/30/news109.html",
+      "title": "中学生のスマホ利用「1日3時間以上」が約4割に、3年間で26分増加　ドコモの調査より",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/30/news109.html",
+      "date": "2026-09-30T09:39:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ドコモ",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/30/l_asa_docomosuma_01.jpg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/ishikawa/2144589.html",
       "title": "楽天へのauローミングがいよいよ終了、都市部は約4割減か。マップで探る通信品質への影響",
@@ -12,6 +144,17 @@
       "catLabel": "その他",
       "carrier": "au/KDDI",
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/589/rktn02-1.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/30/news108.html",
+      "title": "ANC対応イヤフォン「Aerosound6 Pro」発売　充電ケースのタッチパネルで音楽操作ができる",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/30/news108.html",
+      "date": "2026-09-30T08:42:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/30/l_asa_Aerosound6Pro_01.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144559.html",
@@ -278,17 +421,6 @@
       "image": "https://image.itmedia.co.jp/mobile/articles/2609/30/cover_news082.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/30/news078.html",
-      "title": "4台同時充電、脱着式モバイルバッテリー搭載のワイヤレス充電ステーション「RORRY AuraDock」発売",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/30/news078.html",
-      "date": "2026-09-30T02:35:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/30/l_asa_RORRY_01.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/stapaapple/2144352.html",
       "title": "120gでTTL対応！　超小型ストロボ「Godox iT30Pro」がすっげく便利。AIに教わった影対策も試してみたッ",
       "link": "https://k-tai.watch.impress.co.jp/docs/column/stapaapple/2144352.html",
@@ -309,39 +441,6 @@
       "catLabel": "その他",
       "carrier": "au/KDDI",
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/337/08.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/30/news075.html",
-      "title": "KDDI、楽天モバイルへのローミング状況を公開　9月末から大幅減　10月から新たな枠組み",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/30/news075.html",
-      "date": "2026-09-30T01:35:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "au/KDDI",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/30/cover_news075.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/30/news061.html",
-      "title": "ゴルフ用品のHONMAとコラボしたスマートウォッチ「HUAWEI WATCH GT 6 Pro 」がAmazonで9％オフ",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/30/news061.html",
-      "date": "2026-09-30T01:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/30/l_asa_amazon_01.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/30/news018.html",
-      "title": "楽天モバイル販売ランキング：「Galaxy Z Fold8」など折りたたみ3機種はトップ10入りならず、上位3機種は不動【2026年8月】",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/30/news018.html",
-      "date": "2026-09-30T01:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "楽天モバイル",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/30/cover_news018.jpg"
     },
     {
       "id": "docomo-https://www.docomo.ne.jp/support/product_update/so53d/index.html",
@@ -443,28 +542,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/194/DSC_0346.jpg"
     },
     {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/minna/2144111.html",
-      "title": "手のひらサイズの極小PC？ Galaxy Z Flip8とARグラスで組む「超軽量・最小構成」モビリティ執筆環境",
-      "link": "https://k-tai.watch.impress.co.jp/docs/column/minna/2144111.html",
-      "date": "2026-09-29T15:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/111/MW_gfp8_02_01.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2143443.html",
-      "title": "トイレスマホもはかどる？ TOTOのトイレ「ネオレスト RS1」",
-      "link": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2143443.html",
-      "date": "2026-09-29T15:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2143/443/001-1.jpg"
-    },
-    {
       "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260930_01/",
       "title": "人事について",
       "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260930_01/",
@@ -474,94 +551,6 @@
       "catLabel": "その他",
       "carrier": "ソフトバンク",
       "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144218.html",
-      "title": "スマホアクセサリーの「TORRAS」が上陸10周年、日本発の製品開発も視野に",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2144218.html",
-      "date": "2026-09-29T10:48:06+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2143726.html",
-      "title": "menu、約7年で総配達距離7318万km　サービス終了前に数字で振り返る",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2143726.html",
-      "date": "2026-09-29T08:36:17+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2143/726/11.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144050.html",
-      "title": "ローソンで「Pontaパス」ギフトカードが発売、1年分なら2カ月分お得に",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2144050.html",
-      "date": "2026-09-29T07:42:12+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/050/01.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144169.html",
-      "title": "「iOS 27.0.1」提供開始――Face IDやカメラ、通知センターの不具合を修正",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2144169.html",
-      "date": "2026-09-29T07:37:14+00:00",
-      "sourceKey": "ktai",
-      "catKey": "trouble",
-      "catLabel": "障害・不具合",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/169/cont100.png"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144135.html",
-      "title": "KDDIがAI前提の自律型ネットワーク「AccelWaves」構想を発表、2028年の本格始動に向けてまずはクラウドセキュリティを統合",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2144135.html",
-      "date": "2026-09-29T06:56:04+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "au/KDDI",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/135/cont100.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144031.html",
-      "title": "YouTube、Mrs. GREEN APPLE動画のシークバーを特別仕様に",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2144031.html",
-      "date": "2026-09-29T04:04:42+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/031/03.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144018.html",
-      "title": "IIJmio、「audiobook.jp 聴き放題プラン」10月開始、月1331円でセット割引も",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2144018.html",
-      "date": "2026-09-29T03:21:20+00:00",
-      "sourceKey": "ktai",
-      "catKey": "price",
-      "catLabel": "料金プラン",
-      "carrier": "au/KDDI",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/018/01.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144012.html",
-      "title": "ソフトバンク、iPhoneに「SoftBank 5G SA」表示　接続を見える化",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2144012.html",
-      "date": "2026-09-29T02:56:11+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "ソフトバンク",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/012/02.jpg"
     },
     {
       "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr-1178_4735.html",
