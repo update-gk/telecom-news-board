@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-09-30T17:53:38.212555+00:00",
+  "generated_at": "2026-09-30T22:06:38.293476+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144645.html",
+      "title": "楽天証券、「楽天ブラックカード」クレカ積立の還元率を最大3.2％に　来年1月分から適用",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2144645.html",
+      "date": "2026-09-30T21:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": "楽天モバイル",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/645/001.jpg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144675.html",
       "title": "ソフトバンクGが米デジタルブリッジ買収完了、基地局シェアリングのJTOWER親会社",
@@ -529,17 +540,6 @@
       "catLabel": "その他",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/200/wt260910.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/mitsui/2144194.html",
-      "title": "「iPhone 18 Pro」のカメラをチェック　念願の「可変絞り」とAIがもたらす新たな表現力とは",
-      "link": "https://k-tai.watch.impress.co.jp/docs/column/mitsui/2144194.html",
-      "date": "2026-09-29T15:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/194/DSC_0346.jpg"
     },
     {
       "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260930_01/",
