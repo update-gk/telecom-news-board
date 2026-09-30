@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-09-29T19:54:29.707769+00:00",
+  "generated_at": "2026-09-30T00:15:45.060455+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144256.html",
+      "title": "Notta「Memo Pro」10月13日発売、録音モード自動判別やWi-Fi自動同期に対応",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2144256.html",
+      "date": "2026-09-29T23:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/256/02.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144240.html",
+      "title": "10月1日受付開始「こどもNISA」に向けPayPay証券が親子ワークショップ開催　ポイ活から投資の基本を学ぶ",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2144240.html",
+      "date": "2026-09-29T21:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/240/00_IMG_2311.jpg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/fujioka/2144245.html",
       "title": "スマホの位置はどうして正確に分かるの？――基地局、衛星、Wi-Fi/BLE、センサーの共演",
@@ -179,17 +201,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/135/cont100.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/29/news081.html",
-      "title": "PayPay、松屋公式アプリのモバイルオーダーで最大10万ポイントを還元",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/29/news081.html",
-      "date": "2026-09-29T04:10:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/29/l_asa_PayPay_01.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144031.html",
       "title": "YouTube、Mrs. GREEN APPLE動画のシークバーを特別仕様に",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2144031.html",
@@ -199,28 +210,6 @@
       "catLabel": "その他",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/031/03.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/29/news074.html",
-      "title": "ソフトバンク、5G SA接続時に専用ロゴを表示　国内キャリア初、まずはiPhone／iPadから",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/29/news074.html",
-      "date": "2026-09-29T03:49:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "ソフトバンク",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/29/l_asa_SB_01.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/29/news078.html",
-      "title": "「iPhoneのアプリが起動しない」報告相次ぐ　端末再起動やアプリ削除で解決しない理由",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/29/news078.html",
-      "date": "2026-09-29T03:46:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/29/cover_news078.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144018.html",
@@ -234,17 +223,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/018/01.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/17/news094.html",
-      "title": "高校生の半数が感じる「SNSストレス」の要因とは？　高校生が実践する“3つの自衛術”と脱スマホのコツ",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/17/news094.html",
-      "date": "2026-09-29T03:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/17/cover_news094.png"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144012.html",
       "title": "ソフトバンク、iPhoneに「SoftBank 5G SA」表示　接続を見える化",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2144012.html",
@@ -254,17 +232,6 @@
       "catLabel": "端末",
       "carrier": "ソフトバンク",
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/012/02.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/28/news107.html",
-      "title": "「上りトラフィックは5年で約3倍に」　エリクソンが示すAI時代のネットワーク像と新世代基地局",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/28/news107.html",
-      "date": "2026-09-29T02:30:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": null
     },
     {
       "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr-1178_4735.html",
@@ -287,39 +254,6 @@
       "catLabel": "端末",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2143/887/148.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/29/news013.html",
-      "title": "Nothingが新フラグシップ「Headphone (1) Pro」を発売、トリプルドライバー搭載で6万4800円",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/29/news013.html",
-      "date": "2026-09-29T01:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/29/l_rk1640414_Nothing-01.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/29/news059.html",
-      "title": "【キャンドゥ】440円の「人感センサーライト3WAY」　両面テープやフックで設置OK",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/29/news059.html",
-      "date": "2026-09-29T01:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/29/l_asa_100item_01.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/29/news026.html",
-      "title": "Nothingは経営危機なのか　黒住氏は日本撤退を否定、値上げは「モデルチェンジのタイミング」で",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/29/news026.html",
-      "date": "2026-09-29T01:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "price",
-      "catLabel": "料金プラン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/29/cover_news026.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2143867.html",
@@ -485,28 +419,6 @@
       "catLabel": "その他",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2143/779/17.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2143685.html",
-      "title": "郵便局からAIドローン、防災や見守りに活用　日本郵便とKDDIが珠洲市で実証",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2143685.html",
-      "date": "2026-09-28T06:23:37+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "au/KDDI",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2143/685/06.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2143688.html",
-      "title": "Amazon「プライム感謝祭」セール情報発表　DysonやBoseなど今年最安値",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2143688.html",
-      "date": "2026-09-28T03:40:42+00:00",
-      "sourceKey": "ktai",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2143/688/05.jpg"
     },
     {
       "id": "docomo-https://www.docomo.ne.jp/support/product_update/sh51f/index.html",
