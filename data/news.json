@@ -1,7 +1,392 @@
 {
-  "generated_at": "2026-09-30T00:15:45.060455+00:00",
+  "generated_at": "2026-09-30T09:31:49.819063+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/ishikawa/2144589.html",
+      "title": "楽天へのauローミングがいよいよ終了、都市部は約4割減か。マップで探る通信品質への影響",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/ishikawa/2144589.html",
+      "date": "2026-09-30T09:19:48+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "au/KDDI",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/589/rktn02-1.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144559.html",
+      "title": "ドコモの「d払い」10月は全国8地域で還元、dポイント最大100％還元",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2144559.html",
+      "date": "2026-09-30T08:37:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": "ドコモ",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/559/01-1.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144508.html",
+      "title": "au PAY、富山県氷見市・沖縄県宮古島市で最大25％還元　10月から",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2144508.html",
+      "date": "2026-09-30T08:26:03+00:00",
+      "sourceKey": "ktai",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": "au/KDDI",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/508/01-1.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144522.html",
+      "title": "Prime Video、10月は「8番出口」「SAKAMOTO DAYS」「薬屋のひとりごと」第3期など",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2144522.html",
+      "date": "2026-09-30T08:25:40+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/522/02.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144564.html",
+      "title": "ドコモ「地震お見舞金保険」、10月30日で新規・更新受付を終了",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2144564.html",
+      "date": "2026-09-30T08:23:35+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ドコモ",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/564/docomo_logo.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144502.html",
+      "title": "PayPay、12～25歳の本人確認で最大1000ポイント　10月1日から",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2144502.html",
+      "date": "2026-09-30T08:14:14+00:00",
+      "sourceKey": "ktai",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/502/paypay.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/30/news106.html",
+      "title": "セコム、iPhoneやApple Watchを活用したカスハラ対策支援サービス「Safe Assist」を開始",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/30/news106.html",
+      "date": "2026-09-30T07:35:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/30/cover_news106.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/30/news104.html",
+      "title": "Google日本、25年の歩み公開　暮らしや社会を前進させるアイデアを表彰",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/30/news104.html",
+      "date": "2026-09-30T07:15:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/30/l_rk1640414_Google-01.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/30/news101.html",
+      "title": "楽天モバイルの「AQUOS wish6」、MNP＋ポイント還元で実質約2.9万円に【スマホお得情報】",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/30/news101.html",
+      "date": "2026-09-30T06:33:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": "楽天モバイル",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/30/l_asa_sumaotoku_01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144497.html",
+      "title": "PayPay、11月以降の自治体連携キャンペーンを発表――足立区など3自治体で商品券",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2144497.html",
+      "date": "2026-09-30T05:52:44+00:00",
+      "sourceKey": "ktai",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/497/paypay01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144499.html",
+      "title": "「楽天ビジネスカードプラチナ」10月1日提供開始、楽天グループとみずほFGが挑む中小企業決済の変革",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2144499.html",
+      "date": "2026-09-30T05:52:09+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "楽天モバイル",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/499/cont100.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144394.html",
+      "title": "ドコモ「ミリ波イニシアチブ」始動、京セラやAGCなど8社と社会実装へ",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2144394.html",
+      "date": "2026-09-30T04:38:07+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ドコモ",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/394/docomo_logo.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144448.html",
+      "title": "PayPayが「Binance Pay」対応、加盟店でインバウンドの暗号資産決済へ",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2144448.html",
+      "date": "2026-09-30T04:38:02+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/448/01.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/30/news095.html",
+      "title": "“スマホの持ちにくい”を改善するiPhoneケース「観ラクるケース Rib」発売　立体リブで荷重を分散",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/30/news095.html",
+      "date": "2026-09-30T04:23:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/30/l_asa_OWRib_01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144431.html",
+      "title": "「楽天モバイル最強感謝祭」、明日1日スタート　Nintendo Switch 2当たる抽選や楽天市場で最大50％オフなど",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2144431.html",
+      "date": "2026-09-30T04:10:55+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "楽天モバイル",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/431/01.jpg"
+    },
+    {
+      "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr-1182_4741.html",
+      "title": "au PAY アプリ上から使える暗号資産ウォレットを提供開始",
+      "link": "https://newsroom.kddi.com/news/detail/kddi_nr-1182_4741.html",
+      "date": "2026-09-30T04:00:00+00:00",
+      "sourceKey": "au",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "au/KDDI",
+      "image": null
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/30/news093.html",
+      "title": "ドコモが「iPhone 17e」「iPhone 16」を値上げ　17e（256GB）と16（128GB）は残価も増額",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/30/news093.html",
+      "date": "2026-09-30T03:23:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "price",
+      "catLabel": "料金プラン",
+      "carrier": "ドコモ",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/30/l_st52693_docomo-01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144367.html",
+      "title": "カメラアプリ「Final Cut Camera」、iPhone 18 Proの可変絞りに対応",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2144367.html",
+      "date": "2026-09-30T03:11:55+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": null
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144381.html",
+      "title": "povo2.0、0.5GBを「5円」で　5周年記念トッピングを10月1日から",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2144381.html",
+      "date": "2026-09-30T03:11:23+00:00",
+      "sourceKey": "ktai",
+      "catKey": "mvno",
+      "catLabel": "MVNO・格安SIM",
+      "carrier": "au/KDDI",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/381/02.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/30/news091.html",
+      "title": "iPhoneの充電状況をかわいく可視化できる充電器「TORRAS FlashEye Dot 45W」が21％オフで販売中",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/30/news091.html",
+      "date": "2026-09-30T03:09:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/30/cover_news091.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/30/news088.html",
+      "title": "髪と頭皮を熱ダメージから守れる「ダイソン Supersonic Nural Shineヘアドライヤー」が26％オフの3万9900円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/30/news088.html",
+      "date": "2026-09-30T03:06:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/30/cover_news088.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/30/news087.html",
+      "title": "コンサートや遠くの景色を鮮明に撮影したい人に適した「スマホ望遠レンズ 単眼鏡」が68％オフの3579円で販売中",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/30/news087.html",
+      "date": "2026-09-30T03:04:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/30/cover_news087.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/30/news086.html",
+      "title": "ワークアウト時も耳を塞がず快適なイヤーカフ型イヤフォン「Shokz OpenDots Air」が15％オフの1万6891円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/30/news086.html",
+      "date": "2026-09-30T03:02:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/30/cover_news086.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/30/news084.html",
+      "title": "毎日の歯みがきで白い歯へ「フィリップス ソニッケアー ダイヤモンドクリーン9000 HX9911/14」が30％オフの2万3800円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/30/news084.html",
+      "date": "2026-09-30T02:57:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/30/cover_news084.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/30/news082.html",
+      "title": "ディスプレイを搭載する「UGREEN Magflow 2-in-1 25W ワイヤレス充電ステーション」が30％オフの8393円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/30/news082.html",
+      "date": "2026-09-30T02:51:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/30/cover_news082.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/30/news078.html",
+      "title": "4台同時充電、脱着式モバイルバッテリー搭載のワイヤレス充電ステーション「RORRY AuraDock」発売",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/30/news078.html",
+      "date": "2026-09-30T02:35:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/30/l_asa_RORRY_01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/stapaapple/2144352.html",
+      "title": "120gでTTL対応！　超小型ストロボ「Godox iT30Pro」がすっげく便利。AIに教わった影対策も試してみたッ",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/stapaapple/2144352.html",
+      "date": "2026-09-30T02:25:24+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/352/stpapl2026-09-30thumbnail.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144337.html",
+      "title": "楽天モバイルへのauローミング、10月からのエリアマップ公開",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2144337.html",
+      "date": "2026-09-30T01:53:14+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "au/KDDI",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/337/08.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/30/news075.html",
+      "title": "KDDI、楽天モバイルへのローミング状況を公開　9月末から大幅減　10月から新たな枠組み",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/30/news075.html",
+      "date": "2026-09-30T01:35:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "au/KDDI",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/30/cover_news075.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/30/news061.html",
+      "title": "ゴルフ用品のHONMAとコラボしたスマートウォッチ「HUAWEI WATCH GT 6 Pro 」がAmazonで9％オフ",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/30/news061.html",
+      "date": "2026-09-30T01:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/30/l_asa_amazon_01.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/30/news018.html",
+      "title": "楽天モバイル販売ランキング：「Galaxy Z Fold8」など折りたたみ3機種はトップ10入りならず、上位3機種は不動【2026年8月】",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/30/news018.html",
+      "date": "2026-09-30T01:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "楽天モバイル",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2609/30/cover_news018.jpg"
+    },
+    {
+      "id": "docomo-https://www.docomo.ne.jp/support/product_update/so53d/index.html",
+      "title": "「Xperia 5 V SO-53D」のソフトウェアアップデート情報のお知らせ",
+      "link": "https://www.docomo.ne.jp/support/product_update/so53d/index.html",
+      "date": "2026-09-30T01:00:00+00:00",
+      "sourceKey": "docomo",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "ドコモ",
+      "image": null
+    },
+    {
+      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc57g/index.html",
+      "title": "「Samsung Galaxy Z Fold8 SC-57G」のソフトウェアアップデート情報のお知らせ",
+      "link": "https://www.docomo.ne.jp/support/product_update/sc57g/index.html",
+      "date": "2026-09-30T01:00:00+00:00",
+      "sourceKey": "docomo",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "ドコモ",
+      "image": null
+    },
+    {
+      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc56g/index.html",
+      "title": "「Samsung Galaxy Z Fold8 Ultra SC-56G」のソフトウェアアップデート情報のお知らせ",
+      "link": "https://www.docomo.ne.jp/support/product_update/sc56g/index.html",
+      "date": "2026-09-30T01:00:00+00:00",
+      "sourceKey": "docomo",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "ドコモ",
+      "image": null
+    },
+    {
+      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc55g/index.html",
+      "title": "「Samsung Galaxy Z Flip8 SC-55G」のソフトウェアアップデート情報のお知らせ",
+      "link": "https://www.docomo.ne.jp/support/product_update/sc55g/index.html",
+      "date": "2026-09-30T01:00:00+00:00",
+      "sourceKey": "docomo",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "ドコモ",
+      "image": null
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144256.html",
       "title": "Notta「Memo Pro」10月13日発売、録音モード自動判別やWi-Fi自動同期に対応",
@@ -80,15 +465,15 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2143/443/001-1.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/29/news099.html",
-      "title": "「iOS 27.0.1」配信開始、iPhone 18 ProのFace IDやカメラの不具合を解消　「iOS 26.7.1」も",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/29/news099.html",
-      "date": "2026-09-29T12:06:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "trouble",
-      "catLabel": "障害・不具合",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/29/l_st52693_ios2701-01.jpg"
+      "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260930_01/",
+      "title": "人事について",
+      "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260930_01/",
+      "date": "2026-09-29T15:00:00+00:00",
+      "sourceKey": "softbank",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ソフトバンク",
+      "image": null
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144218.html",
@@ -102,17 +487,6 @@
       "image": null
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/29/news095.html",
-      "title": "「ドコモミリ波イニシアチブ」始動、ミリ波の活用促進やユースケース創出を目指す",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/29/news095.html",
-      "date": "2026-09-29T09:38:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "ドコモ",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/29/l_asa_docomo_01.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2143726.html",
       "title": "menu、約7年で総配達距離7318万km　サービス終了前に数字で振り返る",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2143726.html",
@@ -122,28 +496,6 @@
       "catLabel": "その他",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2143/726/11.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/29/news093.html",
-      "title": "Y!mobile、折りたたみスマホ「nubia Fold」が2年間2万円台　機種変更も対象【スマホお得情報】",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/29/news093.html",
-      "date": "2026-09-29T08:05:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "Y!mobile",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/29/l_asa_sumaotoku_01.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/29/news087.html",
-      "title": "HDMI対応の7型オンダッシュモニターがMAXWINから　Fire TV Stickで動画視聴を楽しめる",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/29/news087.html",
-      "date": "2026-09-29T07:52:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/29/l_asa_MAXWIN_01.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144050.html",
@@ -157,17 +509,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/050/01.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/29/news091.html",
-      "title": "東電EP、電化住宅向け料金プランを刷新　太陽光やエコキュートなしのEVオーナーも加入可能に　30.63円／1kWh",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/29/news091.html",
-      "date": "2026-09-29T07:40:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "price",
-      "catLabel": "料金プラン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/29/cover_news091.png"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144169.html",
       "title": "「iOS 27.0.1」提供開始――Face IDやカメラ、通知センターの不具合を修正",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2144169.html",
@@ -177,17 +518,6 @@
       "catLabel": "障害・不具合",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/169/cont100.png"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/29/news085.html",
-      "title": "免許証画像が漏れると何が“ヤバい”のか　タイムズカーで最大約660万件の個人情報漏えいで考えられる「3つのリスク」",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/29/news085.html",
-      "date": "2026-09-29T07:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/29/cover_news085.png"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144135.html",
@@ -245,94 +575,6 @@
       "image": null
     },
     {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2143887.html",
-      "title": "Nothing、新ヘッドホン「Headphone (1) Pro」発売　原音忠実再生やチタンで軽量化",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2143887.html",
-      "date": "2026-09-29T01:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2143/887/148.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2143867.html",
-      "title": "SPOTV NOW、MLBポストシーズン全試合を日本語実況で配信　30日から",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2143867.html",
-      "date": "2026-09-28T23:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2143/867/02.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2143830.html",
-      "title": "楽天モバイル、映像と香りを同期するVR旅行　ウェアラブル嗅覚ディスプレイを活用",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2143830.html",
-      "date": "2026-09-28T21:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "楽天モバイル",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2143/830/02.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/ranking/galapagos_ranking/2143428.html",
-      "title": "電子書籍人気ランキング（9月18日～9月24日）",
-      "link": "https://k-tai.watch.impress.co.jp/docs/ranking/galapagos_ranking/2143428.html",
-      "date": "2026-09-28T21:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/include/common/p01/images/logo/ktw.l.png"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/minna/2143868.html",
-      "title": "PayPayカードが不正使用された！",
-      "link": "https://k-tai.watch.impress.co.jp/docs/column/minna/2143868.html",
-      "date": "2026-09-28T15:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2143/868/ip17pm-3a.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2143801.html",
-      "title": "「東京駅でつながりにくい」、それでも楽天モバイルを辞めない理由――ユーザー座談会で見えた“納得の割り切り”",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2143801.html",
-      "date": "2026-09-28T15:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "楽天モバイル",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2143/801/rktn.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2143796.html",
-      "title": "スマホにも便利な3cmケーブル？　付きデュアルスロットSDカードリーダー",
-      "link": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2143796.html",
-      "date": "2026-09-28T15:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2143/796/001.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/ishikawa/2143720.html",
-      "title": "揺れる「フラグシップスマホ」の定義――多様化するニーズと最上位モデルの現在地",
-      "link": "https://k-tai.watch.impress.co.jp/docs/column/ishikawa/2143720.html",
-      "date": "2026-09-28T15:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2143/720/kv.jpg"
-    },
-    {
       "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260929_01/",
       "title": "国内初、5G SA接続時に専用ネットワークロゴの表示を開始～5G SAの接続状況を端末上で“見える化”し、ネットワークの進化をより身近に～",
       "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260929_01/",
@@ -342,83 +584,6 @@
       "catLabel": "その他",
       "carrier": "ソフトバンク",
       "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2143373.html",
-      "title": "NTTドコモビジネスのAI成長戦略、データセンターや「NaaS」で変化への追随を支援",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2143373.html",
-      "date": "2026-09-28T10:40:06+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "ドコモ",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2143/373/152.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2143870.html",
-      "title": "AI時代のネットワークは「上り」と「共創」が鍵、「エリクソン・フォーラム 2026」で示された未来の通信基盤",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2143870.html",
-      "date": "2026-09-28T10:06:47+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2143/870/cont100.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2143809.html",
-      "title": "グーグル、日本オフィス25周年で特設サイトを公開　アワードも開催",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2143809.html",
-      "date": "2026-09-28T08:56:21+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2143/809/01.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2143762.html",
-      "title": "楽天のシェアは3.8％、MVNOの通信モジュールが25％増――総務省の携帯契約最新データ",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2143762.html",
-      "date": "2026-09-28T08:56:14+00:00",
-      "sourceKey": "ktai",
-      "catKey": "mvno",
-      "catLabel": "MVNO・格安SIM",
-      "carrier": "楽天モバイル",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2143/762/01.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2143786.html",
-      "title": "Garmin、自転車用の接近車両レーダー「Varia RearVue 820」発売へ　スマホ対応",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2143786.html",
-      "date": "2026-09-28T08:38:23+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2143/786/01.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2143808.html",
-      "title": "JR東とグーグル、改札タッチで情報配信する「タッチトリガー」の裏側を公開",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2143808.html",
-      "date": "2026-09-28T08:35:50+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2143/808/00.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2143779.html",
-      "title": "Googleカレンダー、3つのタイムゾーンを同時表示可能に　Web版で順次提供",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2143779.html",
-      "date": "2026-09-28T08:35:47+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2143/779/17.jpg"
     },
     {
       "id": "docomo-https://www.docomo.ne.jp/support/product_update/sh51f/index.html",
@@ -663,17 +828,6 @@
       "image": null
     },
     {
-      "id": "docomo-https://www.docomo.ne.jp/corporate/anatatodocomo/docomoeveryday/article230/index.html?icid=CRP_INFO_to_CRP_CORP_anatatodocomo_docomoeveryday_article230",
-      "title": "あなたとドコモ 新着記事：奈緒さんもデジタル絵画をお披露目！「ドコモ未来プロジェクトSUMMER FES」開催",
-      "link": "https://www.docomo.ne.jp/corporate/anatatodocomo/docomoeveryday/article230/index.html?icid=CRP_INFO_to_CRP_CORP_anatatodocomo_docomoeveryday_article230",
-      "date": "2026-09-16T01:00:00+00:00",
-      "sourceKey": "docomo",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "ドコモ",
-      "image": null
-    },
-    {
       "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260916_01/",
       "title": "通信事業者間での5Gミリ波の利用エリア拡大に向けた共同検討を開始",
       "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260916_01/",
@@ -704,39 +858,6 @@
       "catKey": "mvno",
       "catLabel": "MVNO・格安SIM",
       "carrier": "ソフトバンク",
-      "image": null
-    },
-    {
-      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc55d/index.html",
-      "title": "「Galaxy Z Fold5 SC-55D」のソフトウェアアップデート情報のお知らせ",
-      "link": "https://www.docomo.ne.jp/support/product_update/sc55d/index.html",
-      "date": "2026-09-15T01:00:00+00:00",
-      "sourceKey": "docomo",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "ドコモ",
-      "image": null
-    },
-    {
-      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc54d/index.html",
-      "title": "「Galaxy Z Flip5 SC-54D」のソフトウェアアップデート情報のお知らせ",
-      "link": "https://www.docomo.ne.jp/support/product_update/sc54d/index.html",
-      "date": "2026-09-15T01:00:00+00:00",
-      "sourceKey": "docomo",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "ドコモ",
-      "image": null
-    },
-    {
-      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc52d/index.html",
-      "title": "「Galaxy S23 Ultra SC-52D」のソフトウェアアップデート情報のお知らせ",
-      "link": "https://www.docomo.ne.jp/support/product_update/sc52d/index.html",
-      "date": "2026-09-15T01:00:00+00:00",
-      "sourceKey": "docomo",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "ドコモ",
       "image": null
     },
     {
@@ -832,17 +953,6 @@
       "title": "自己株式の取得状況に関するお知らせ",
       "link": "https://newsroom.kddi.com/ir-news/detail/kddi_ir-1221_4698.html",
       "date": "2026-09-09T06:30:00+00:00",
-      "sourceKey": "au",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "au/KDDI",
-      "image": null
-    },
-    {
-      "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr-1155_4708.html",
-      "title": "小売・物流向けロボット基盤モデル研究開発でGENIACに採択",
-      "link": "https://newsroom.kddi.com/news/detail/kddi_nr-1155_4708.html",
-      "date": "2026-09-09T06:00:00+00:00",
       "sourceKey": "au",
       "catKey": "other",
       "catLabel": "その他",
@@ -1206,17 +1316,6 @@
       "title": "日本のコンテンツ産業と生成AI開発の持続的な発展を支えるデータエコシステム基盤「GaranAI」のベータ版を提供開始～多段階加工でデータを保護し、コンテンツホルダーの新たな収益機会とAI開発事業者の価値創出を支援～",
       "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260722_01/",
       "date": "2026-07-21T15:00:00+00:00",
-      "sourceKey": "softbank",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "ソフトバンク",
-      "image": null
-    },
-    {
-      "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260717_02/",
-      "title": "新株予約権（ストックオプション）の発行内容確定に関するお知らせ",
-      "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260717_02/",
-      "date": "2026-07-16T15:00:00+00:00",
       "sourceKey": "softbank",
       "catKey": "other",
       "catLabel": "その他",
