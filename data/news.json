@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-10-01T12:54:17.920081+00:00",
+  "generated_at": "2026-10-01T20:16:16.020749+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144997.html",
+      "title": "ソフトバンク通信20年の歩みとAI-RAN――周波数制約からのインフラ構築と次世代戦略",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2144997.html",
+      "date": "2026-10-01T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ソフトバンク",
+      "image": null
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144985.html",
+      "title": "ドコモ、ローソンの買物でdポイント最大777倍還元",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2144985.html",
+      "date": "2026-10-01T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": "ドコモ",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/985/01-1.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/teppan/2144517.html",
+      "title": "混沌としたスマホのファイルを自動整理する「FilePipe」",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/teppan/2144517.html",
+      "date": "2026-10-01T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/517/icon.jpg"
+    },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/01/news087.html",
       "title": "SIMフリー版「Galaxy S26」シリーズが最大3.6万円値上げ　事前の告知なし",
@@ -529,39 +562,6 @@
       "catLabel": "キャンペーン",
       "carrier": "ドコモ",
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/559/01-1.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144508.html",
-      "title": "au PAY、富山県氷見市・沖縄県宮古島市で最大25％還元　10月から",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2144508.html",
-      "date": "2026-09-30T08:26:03+00:00",
-      "sourceKey": "ktai",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": "au/KDDI",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/508/01-1.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144522.html",
-      "title": "Prime Video、10月は「8番出口」「SAKAMOTO DAYS」「薬屋のひとりごと」第3期など",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2144522.html",
-      "date": "2026-09-30T08:25:40+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/522/02.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144564.html",
-      "title": "ドコモ「地震お見舞金保険」、10月30日で新規・更新受付を終了",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2144564.html",
-      "date": "2026-09-30T08:23:35+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "ドコモ",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/564/docomo_logo.jpg"
     },
     {
       "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr-1182_4741.html",
