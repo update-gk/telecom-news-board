@@ -1,7 +1,150 @@
 {
-  "generated_at": "2026-10-01T05:21:58.708396+00:00",
+  "generated_at": "2026-10-01T12:54:17.920081+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/01/news087.html",
+      "title": "SIMフリー版「Galaxy S26」シリーズが最大3.6万円値上げ　事前の告知なし",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/01/news087.html",
+      "date": "2026-10-01T10:30:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "price",
+      "catLabel": "料金プラン",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/01/cover_news087.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/01/news086.html",
+      "title": "「Xperia 10 VIII」は10万円前後に“値上げ”も、MNPならauは2年47円、ソフトバンクは2年24円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/01/news086.html",
+      "date": "2026-10-01T10:06:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "price",
+      "catLabel": "料金プラン",
+      "carrier": "au/KDDI",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/01/cover_news086.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/01/news083.html",
+      "title": "「BB.exciteモバイル」で30GBを1980円に値下げ　5G通信も提供開始",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/01/news083.html",
+      "date": "2026-10-01T09:58:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "price",
+      "catLabel": "料金プラン",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/01/l_asa_excite_01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144970.html",
+      "title": "グーグル、「Pixel 10a」値上げ　最低9万円台からに",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2144970.html",
+      "date": "2026-10-01T09:54:03+00:00",
+      "sourceKey": "ktai",
+      "catKey": "price",
+      "catLabel": "料金プラン",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/970/01-1.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144926.html",
+      "title": "「Amazon Now」、「プライム感謝祭」期間中は配送料・小口注文手数料が無料に　初回500円引きも",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2144926.html",
+      "date": "2026-10-01T09:33:18+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/926/main-1.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144959.html",
+      "title": "楽天モバイル、iPhone・Apple Watch向けの保証を値上げ　最大550円アップ",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2144959.html",
+      "date": "2026-10-01T09:32:59+00:00",
+      "sourceKey": "ktai",
+      "catKey": "price",
+      "catLabel": "料金プラン",
+      "carrier": "楽天モバイル",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/959/01.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/01/news084.html",
+      "title": "Huawei、新OS「HarmonyOS 7」搭載フラグシップ「Mate 90」シリーズ発表",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/01/news084.html",
+      "date": "2026-10-01T09:11:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": null
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144915.html",
+      "title": "IIJmioでスマホ大特価セール、「OPPO Reno11 A」が約1万円など",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2144915.html",
+      "date": "2026-10-01T08:50:19+00:00",
+      "sourceKey": "ktai",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/915/01.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/01/news081.html",
+      "title": "Google Storeで「Pixel 10a」が1万2900円値上げ　9万2800円から",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/01/news081.html",
+      "date": "2026-10-01T08:15:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "price",
+      "catLabel": "料金プラン",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/01/cover_news081.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144873.html",
+      "title": "「ドコモの銀行」、紹介で最大1.5万円プレゼント",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2144873.html",
+      "date": "2026-10-01T07:10:57+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ドコモ",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/873/001.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/01/news076.html",
+      "title": "楽天モバイル、エントリークラスの「moto g37j」がMNP＆キャンペーン適用で1円【スマホお得情報】",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/01/news076.html",
+      "date": "2026-10-01T07:05:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": "楽天モバイル",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/01/l_asa_sumaotoku_01.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/01/news073.html",
+      "title": "2027年3月に「V NEOBANK」終了、ドコモSMTBネット銀行が発表　新サービス移行の注意点",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/01/news073.html",
+      "date": "2026-10-01T06:21:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ドコモ",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/01/cover_news073.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/01/news069.html",
+      "title": "楽天モバイル契約者限定　ファミマで月間3000円以上利用するとポイント20倍キャンペーン",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/01/news069.html",
+      "date": "2026-10-01T05:30:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": "楽天モバイル",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/01/l_asa_rakuten_01.jpg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144827.html",
       "title": "10万円の「Xperia 10 VIII」実機を体験、目指したのは「日常で好きが深まる」",
@@ -179,28 +322,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/677/09.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/01/news045.html",
-      "title": "流れてくるキーを押して文字入力！　Googleが「ベルトコンベアー」式キーボードを開発",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/01/news045.html",
-      "date": "2026-10-01T01:01:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/01/l_si7101-Google-01.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/01/news036.html",
-      "title": "【ワークマン】2900円の「エックスシェルター断熱αバックパック」　特殊断熱シートで冷気を防ぐ",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/01/news036.html",
-      "date": "2026-10-01T01:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/01/l_asa_100item_01.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144686.html",
       "title": "グーグル、新AI「Gemini 4 Argon」発表、出力100万トークンへ拡大",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2144686.html",
@@ -210,17 +331,6 @@
       "catLabel": "その他",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/686/g4.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/01/news014.html",
-      "title": "ソニー「Xperia 10 VIII」を10月8日発売、9万9000円　決済／ポイントアプリを即時起動",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/01/news014.html",
-      "date": "2026-10-01T00:10:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/01/cover_news014.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144449.html",
@@ -254,17 +364,6 @@
       "catLabel": "端末",
       "carrier": "au/KDDI",
       "image": null
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/01/news043.html",
-      "title": "「BALMUDA Phone」のサポートがついに終了　バルミューダ初、異色スマホの終幕",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/01/news043.html",
-      "date": "2026-09-30T22:20:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/01/cover_news043.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144645.html",
@@ -353,17 +452,6 @@
       "catLabel": "端末",
       "carrier": null,
       "image": null
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2609/30/news011.html",
-      "title": "「Galaxy Tab S12 Ultra」「S12+」発表　2027年3月末までGalaxy限定でAndroidタブ初のPhotoshop対応",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/30/news011.html",
-      "date": "2026-09-30T12:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2609/30/cover_news011.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144651.html",
@@ -474,61 +562,6 @@
       "catLabel": "その他",
       "carrier": "ドコモ",
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/564/docomo_logo.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144502.html",
-      "title": "PayPay、12～25歳の本人確認で最大1000ポイント　10月1日から",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2144502.html",
-      "date": "2026-09-30T08:14:14+00:00",
-      "sourceKey": "ktai",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/502/paypay.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144497.html",
-      "title": "PayPay、11月以降の自治体連携キャンペーンを発表――足立区など3自治体で商品券",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2144497.html",
-      "date": "2026-09-30T05:52:44+00:00",
-      "sourceKey": "ktai",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/497/paypay01.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144499.html",
-      "title": "「楽天ビジネスカードプラチナ」10月1日提供開始、楽天グループとみずほFGが挑む中小企業決済の変革",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2144499.html",
-      "date": "2026-09-30T05:52:09+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "楽天モバイル",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/499/cont100.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144394.html",
-      "title": "ドコモ「ミリ波イニシアチブ」始動、京セラやAGCなど8社と社会実装へ",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2144394.html",
-      "date": "2026-09-30T04:38:07+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "ドコモ",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/394/docomo_logo.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144448.html",
-      "title": "PayPayが「Binance Pay」対応、加盟店でインバウンドの暗号資産決済へ",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2144448.html",
-      "date": "2026-09-30T04:38:02+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/448/01.jpg"
     },
     {
       "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr-1182_4741.html",
