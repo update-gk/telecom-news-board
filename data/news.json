@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-10-01T20:16:16.020749+00:00",
+  "generated_at": "2026-10-02T00:37:52.507808+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/02/news040.html",
+      "title": "充電状況が見えるディスプレイ付き「UGREEN 45W USB Type-C 急速充電器」がセールで15％オフの3380円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/02/news040.html",
+      "date": "2026-10-02T00:17:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/02/cover_news040.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/02/news039.html",
+      "title": "高耐久で持ち運びにも便利な「Anker Zolo USB-C & USB-A ケーブル 1.0m」がセールで20％オフの790円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/02/news039.html",
+      "date": "2026-10-02T00:11:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/02/cover_news039.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/02/news038.html",
+      "title": "手軽にハイレゾを楽しめる「JVCケンウッド Victor HA-FR29UC」がセールで10％オフの3239円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/02/news038.html",
+      "date": "2026-10-02T00:03:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/02/cover_news038.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/02/news037.html",
+      "title": "“いちごチョコ”みたいな小型ワイヤレススピーカー「Bose SoundLink Micro Portable Speaker LE（第2世代）」がセールで23％オフの1万1900円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/02/news037.html",
+      "date": "2026-10-01T23:59:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/02/cover_news037.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144895.html",
+      "title": "エキサイト、「Flatプラン30GB」料金引き下げ　音声SIMが月額1980円に",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2144895.html",
+      "date": "2026-10-01T21:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "price",
+      "catLabel": "料金プラン",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/895/01.jpg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144997.html",
       "title": "ソフトバンク通信20年の歩みとAI-RAN――周波数制約からのインフラ構築と次世代戦略",
@@ -212,50 +267,6 @@
       "image": "https://image.itmedia.co.jp/mobile/articles/2610/01/cover_news062.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/01/news060.html",
-      "title": "ケーブル忘れの悩みを解消する「フィリップス モバイルバッテリー DLP5719C」がセールで10％オフの3580円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/01/news060.html",
-      "date": "2026-10-01T04:27:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/01/cover_news060.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/01/news059.html",
-      "title": "外出先でのノートPC充電に適した「UGREEN Air 65W Type-C充電器」がセールで25％オフの3209円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/01/news059.html",
-      "date": "2026-10-01T04:21:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/01/cover_news059.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/01/news057.html",
-      "title": "ahamo“店頭サポート料金”は値上げせず　3300円のまま据え置く理由は？",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/01/news057.html",
-      "date": "2026-10-01T03:54:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "price",
-      "catLabel": "料金プラン",
-      "carrier": "ドコモ",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/01/l_rk1640414_ahamo-01.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/01/news055.html",
-      "title": "パナソニック、「エネループ」用のUSB Type-C対応急速充電器を発売　2980円",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/01/news055.html",
-      "date": "2026-10-01T03:45:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/01/l_asa_panasonic_01.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144783.html",
       "title": "ドコモFGとマネックス証券、新制度「こどもNISA」の事前申込受付を開始",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2144783.html",
@@ -267,17 +278,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/783/02.png"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/01/news047.html",
-      "title": "ドコモ、Netflix独占アニメ「ジョジョの奇妙な冒険」とコラボ　ノベルティ進呈、限定コラボグッズの販売も",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/01/news047.html",
-      "date": "2026-10-01T03:06:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "ドコモ",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/01/l_asa_docomo_01.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144781.html",
       "title": "1日朝に「WAON」「AEON Pay」などで障害、現在は復旧",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2144781.html",
@@ -287,17 +287,6 @@
       "catLabel": "障害・不具合",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/781/waonpoint.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/01/news052.html",
-      "title": "d払い、dポイントのキャンペーンまとめ【10月1日最新版】　1万～10万ポイント還元の施策あり",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/01/news052.html",
-      "date": "2026-10-01T03:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/01/cover_news052.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144769.html",
@@ -551,17 +540,6 @@
       "catLabel": "その他",
       "carrier": "au/KDDI",
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/589/rktn02-1.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144559.html",
-      "title": "ドコモの「d払い」10月は全国8地域で還元、dポイント最大100％還元",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2144559.html",
-      "date": "2026-09-30T08:37:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": "ドコモ",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/559/01-1.jpg"
     },
     {
       "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr-1182_4741.html",
