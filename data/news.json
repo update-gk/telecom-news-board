@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-10-02T09:34:34.309222+00:00",
+  "generated_at": "2026-10-02T17:44:36.135871+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/02/news071.html",
+      "title": "「Androidのマイナンバーカード」は10月20日スタート予定　今の「スマホ用電子証明書」と何が違う？",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/02/news071.html",
+      "date": "2026-10-02T11:45:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/02/cover_news071.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/02/news069.html",
+      "title": "iPhone 18 Pro／Duo向け製品も充実　TORRAS「Ostand」の選び方と“戻れない”スマホケースの在り方",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/02/news069.html",
+      "date": "2026-10-02T10:09:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/02/cover_news069.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/02/news033.html",
+      "title": "「Xperia 10 VIII」は部材高騰でも「10万円以下」を死守、新サービス「Fan Sync」でエンタメ体験を拡張",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/02/news033.html",
+      "date": "2026-10-02T10:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": null
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/02/news067.html",
+      "title": "楽天モバイルの「Galaxy S26（256GB）」、MNP＋キャンペーン適用で9万9900円【スマホお得情報】",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/02/news067.html",
+      "date": "2026-10-02T08:30:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": "楽天モバイル",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/02/l_asa_sumaotoku_01.jpg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2145284.html",
       "title": "10月の「Ponta」キャンペーン、ローソンの買い物を全額ポイント還元など",
