@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-10-02T17:44:36.135871+00:00",
+  "generated_at": "2026-10-02T22:02:51.036629+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2145294.html",
+      "title": "SMBC日興証券、dポイントの付与や利用を終了",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2145294.html",
+      "date": "2026-10-02T21:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2145/294/main.png"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/02/news068.html",
+      "title": "12万回以上の折り曲げ試験をクリア　3種類のコネクターに対応した「超タフケーブル」発売",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/02/news068.html",
+      "date": "2026-10-02T21:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/02/l_asa_OWLCBA6ABM_01.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/03/news010.html",
+      "title": "KDDIのローミング終了で楽天モバイルはどう変わる？　心もとない700MHz帯、独り立ちのカギは5Gにあり",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/03/news010.html",
+      "date": "2026-10-02T21:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "au/KDDI",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/03/cover_news010.jpg"
+    },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/02/news071.html",
       "title": "「Androidのマイナンバーカード」は10月20日スタート予定　今の「スマホ用電子証明書」と何が違う？",
@@ -322,17 +355,6 @@
       "image": "https://image.itmedia.co.jp/mobile/articles/2610/02/cover_news038.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/02/news037.html",
-      "title": "“いちごチョコ”みたいな小型ワイヤレススピーカー「Bose SoundLink Micro Portable Speaker LE（第2世代）」がセールで23％オフの1万1900円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/02/news037.html",
-      "date": "2026-10-01T23:59:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/02/cover_news037.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144895.html",
       "title": "エキサイト、「Flatプラン30GB」料金引き下げ　音声SIMが月額1980円に",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2144895.html",
@@ -529,17 +551,6 @@
       "catLabel": "端末",
       "carrier": "ドコモ",
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/710/01.png"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144677.html",
-      "title": "「キーボードの方が動けばよいです」、グーグルがベルトコンベアー式「Gboard くるくるバージョン」公開",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2144677.html",
-      "date": "2026-10-01T01:01:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/677/09.jpg"
     },
     {
       "id": "docomo-https://www.docomo.ne.jp/product/so52g/index.html",
