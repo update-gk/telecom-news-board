@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-10-02T22:02:51.036629+00:00",
+  "generated_at": "2026-10-03T04:52:16.938424+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/03/news013.html",
+      "title": "ドコモがほぼ全ての料金プランを値上げ　それよりも端末の値上げが気になるこの頃",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/03/news013.html",
+      "date": "2026-10-03T04:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "price",
+      "catLabel": "料金プラン",
+      "carrier": "ドコモ",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/03/cover_news013.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/03/news009.html",
+      "title": "【ワークマン】580円の「エクトジェル防水リフレクトバーチカルケース」　雨の日も夜間も活用できる",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/03/news009.html",
+      "date": "2026-10-03T01:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/03/l_asa_100item_01.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/03/news012.html",
+      "title": "楽天ペイと楽天ポイントのキャンペーンまとめ【10月3日最新版】　最大1万～3万ポイント還元や20％還元あり",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/03/news012.html",
+      "date": "2026-10-03T01:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": "楽天モバイル",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/03/cover_news012.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/03/news005.html",
+      "title": "あなたの街の「スマホ決済」キャンペーンまとめ【2026年10月版】～PayPay、d払い、au PAY、楽天ペイ",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/03/news005.html",
+      "date": "2026-10-03T01:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": "au/KDDI",
+      "image": null
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2145341.html",
+      "title": "Samsung Payで5000円使うと最大1000 Vポイント、三井住友カードが10月キャンペーン",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2145341.html",
+      "date": "2026-10-03T00:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2145/341/01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2145155.html",
+      "title": "PayPayポイントコード、フリマなどでの売買を禁止　不正利用対策で",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2145155.html",
+      "date": "2026-10-02T23:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2145/155/paypay.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2143761.html",
+      "title": "Yahoo!ショッピング、YouTube動画から商品購入へ　アフィリエイト連携を開始",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2143761.html",
+      "date": "2026-10-02T23:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2143/761/12.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/03/news011.html",
+      "title": "ソフトバンク、上空3000mからのエリア化に“成功”　「途切れない通信」の社会実装へ",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/03/news011.html",
+      "date": "2026-10-02T23:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ソフトバンク",
+      "image": null
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2145294.html",
       "title": "SMBC日興証券、dポイントの付与や利用を終了",
@@ -300,61 +388,6 @@
       "image": "https://image.itmedia.co.jp/mobile/articles/2610/02/l_asa_amazon_01.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/02/news049.html",
-      "title": "au PAYとPontaのキャンペーンまとめ【10月2日最新版】　抽選で7万7777ポイント還元や最大25～39％還元あり",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/02/news049.html",
-      "date": "2026-10-02T01:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": "au/KDDI",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/02/cover_news049.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/02/news041.html",
-      "title": "iPhone 18 Pro用のApple純正MagSafe対応 テックウーブンケースがセールで19％オフの8780円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/02/news041.html",
-      "date": "2026-10-02T00:24:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/02/cover_news041.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/02/news040.html",
-      "title": "充電状況が見えるディスプレイ付き「UGREEN 45W USB Type-C 急速充電器」がセールで15％オフの3380円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/02/news040.html",
-      "date": "2026-10-02T00:17:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/02/cover_news040.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/02/news039.html",
-      "title": "高耐久で持ち運びにも便利な「Anker Zolo USB-C & USB-A ケーブル 1.0m」がセールで20％オフの790円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/02/news039.html",
-      "date": "2026-10-02T00:11:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/02/cover_news039.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/02/news038.html",
-      "title": "手軽にハイレゾを楽しめる「JVCケンウッド Victor HA-FR29UC」がセールで10％オフの3239円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/02/news038.html",
-      "date": "2026-10-02T00:03:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/02/cover_news038.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144895.html",
       "title": "エキサイト、「Flatプラン30GB」料金引き下げ　音声SIMが月額1980円に",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2144895.html",
@@ -509,28 +542,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/781/waonpoint.jpg"
     },
     {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144769.html",
-      "title": "楽天モバイル、ファミマでポイント20倍になる契約者限定キャンペーン",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2144769.html",
-      "date": "2026-10-01T02:51:16+00:00",
-      "sourceKey": "ktai",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": "楽天モバイル",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/769/01.png"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144762.html",
-      "title": "ソフトバンク、「Xperia 10 VIII」を10月8日に発売",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2144762.html",
-      "date": "2026-10-01T02:38:22+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "ソフトバンク",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/762/01.jpg"
-    },
-    {
       "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr-1180_4736.html",
       "title": "富山グラウジーズとKDDI、YKK AP ARENAを起点とした街づくりプロジェクトを開始",
       "link": "https://newsroom.kddi.com/news/detail/kddi_nr-1180_4736.html",
@@ -540,17 +551,6 @@
       "catLabel": "その他",
       "carrier": "au/KDDI",
       "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144710.html",
-      "title": "ドコモ、「Xperia 10 VIII SO-52G」を10月8日発売",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2144710.html",
-      "date": "2026-10-01T01:20:36+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "ドコモ",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/710/01.png"
     },
     {
       "id": "docomo-https://www.docomo.ne.jp/product/so52g/index.html",
