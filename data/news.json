@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-10-03T20:55:07.059278+00:00",
+  "generated_at": "2026-10-03T23:42:21.268922+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/04/news001.html",
+      "title": "OPPOからも“1万mAh”のデカバッテリースマホが登場",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/04/news001.html",
+      "date": "2026-10-03T21:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/04/cover_news001.jpg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2145451.html",
       "title": "阪神優勝祝勝会「虎テレ」で配信　サンテレビ・ABCテレビ・読売テレビのYouTubeは特番配信も",
@@ -386,28 +397,6 @@
       "catLabel": "その他",
       "carrier": null,
       "image": null
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/02/news050.html",
-      "title": "京セラ、長期利用をサポートする法人スマホ「DIGNO BX4」をソフトバンクで販売",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/02/news050.html",
-      "date": "2026-10-02T02:31:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "ソフトバンク",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/02/l_asa_DIGNOBX4_01.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/02/news028.html",
-      "title": "ソフトバンクのモバイル事業20年を振り返る　ボーダフォン買収からiPhone導入、次世代のネットワークまで",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/02/news028.html",
-      "date": "2026-10-02T02:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "ソフトバンク",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/02/cover_news028.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144895.html",
