@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-10-03T11:27:19.147873+00:00",
+  "generated_at": "2026-10-03T16:03:39.214145+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2145451.html",
+      "title": "阪神優勝祝勝会「虎テレ」で配信　サンテレビ・ABCテレビ・読売テレビのYouTubeは特番配信も",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2145451.html",
+      "date": "2026-10-03T13:27:54+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2145/451/tt.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2145449.html",
+      "title": "阪神タイガースがセ・リーグ優勝、球団史上初のリーグ連覇！　ジョーシンがセール",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2145449.html",
+      "date": "2026-10-03T13:06:16+00:00",
+      "sourceKey": "ktai",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2145/449/jos.jpg"
+    },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/03/news015.html",
       "title": "高市首相がAppleに要請――「自殺防止機能の搭載を」　生成AIへの相談増加を受け",
@@ -518,28 +540,6 @@
       "catLabel": "端末",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/827/cont100.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144783.html",
-      "title": "ドコモFGとマネックス証券、新制度「こどもNISA」の事前申込受付を開始",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2144783.html",
-      "date": "2026-10-01T03:13:08+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "ドコモ",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/783/02.png"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144781.html",
-      "title": "1日朝に「WAON」「AEON Pay」などで障害、現在は復旧",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2144781.html",
-      "date": "2026-10-01T03:01:15+00:00",
-      "sourceKey": "ktai",
-      "catKey": "trouble",
-      "catLabel": "障害・不具合",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/781/waonpoint.jpg"
     },
     {
       "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr-1180_4736.html",
