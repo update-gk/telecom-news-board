@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T18:36:08.065852+00:00",
+  "generated_at": "2026-10-04T23:54:09.049172+00:00",
   "errors": [],
   "articles": [
     {
@@ -452,17 +452,6 @@
       "catLabel": "端末",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2145/170/01.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/02/news056.html",
-      "title": "マツモトキヨシとココカラファイン、抽選でdポイント最大1000倍（上限5万）に　12月まで毎月開催",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/02/news056.html",
-      "date": "2026-10-02T04:31:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/02/l_asa_docomo_01.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2145144.html",
