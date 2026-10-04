@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-10-04T12:08:35.653544+00:00",
+  "generated_at": "2026-10-04T18:36:08.065852+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2145371.html",
+      "title": "「暗ければ回せばいい」電池いらずで光を作る、重さ22gの“指先発電”ミニライトが新鮮で楽しい",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2145371.html",
+      "date": "2026-10-04T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2145/371/2.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/stapa/2145256.html",
+      "title": "カフェや空港のスマホ充電は危険？「ジュースジャッキング防止ケーブル」でセキュリティ対策っ！",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/stapa/2145256.html",
+      "date": "2026-10-04T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2145/256/stptncs2026-10-05_thumbnail.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/minna/2143859.html",
+      "title": "Pixel 11のAI音声入力が便利すぎる。指示まで聞いてくれて、もう手放せない",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/minna/2143859.html",
+      "date": "2026-10-04T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2143/859/000.jpg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2145344.html",
       "title": "COSMO、給油でdポイント最大1万ポイント　12月31日まで",
@@ -509,17 +542,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/985/01-1.jpg"
     },
     {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/teppan/2144517.html",
-      "title": "混沌としたスマホのファイルを自動整理する「FilePipe」",
-      "link": "https://k-tai.watch.impress.co.jp/docs/column/teppan/2144517.html",
-      "date": "2026-10-01T15:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/517/icon.jpg"
-    },
-    {
       "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20261002_02/",
       "title": "日本初、大型無操縦者航空機に災害対応用の通信装置を搭載し、上空からの通信提供に成功",
       "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20261002_02/",
@@ -540,28 +562,6 @@
       "catLabel": "端末",
       "carrier": "ソフトバンク",
       "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144970.html",
-      "title": "グーグル、「Pixel 10a」値上げ　最低9万円台からに",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2144970.html",
-      "date": "2026-10-01T09:54:03+00:00",
-      "sourceKey": "ktai",
-      "catKey": "price",
-      "catLabel": "料金プラン",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/970/01-1.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144926.html",
-      "title": "「Amazon Now」、「プライム感謝祭」期間中は配送料・小口注文手数料が無料に　初回500円引きも",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2144926.html",
-      "date": "2026-10-01T09:33:18+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/926/main-1.jpg"
     },
     {
       "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr-1180_4736.html",
