@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-10-03T23:42:21.268922+00:00",
+  "generated_at": "2026-10-04T05:24:51.376077+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2145344.html",
+      "title": "COSMO、給油でdポイント最大1万ポイント　12月31日まで",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2145344.html",
+      "date": "2026-10-04T03:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2145/344/01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2145358.html",
+      "title": "ディズニーストア.jpで「d払い」最大100％還元、10月31日まで",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2145358.html",
+      "date": "2026-10-04T02:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2145/358/01.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/04/news006.html",
+      "title": "ahamoがついに料金プランを改定。段階制へ――「40GB」が業界の新たなスタンダードになるのか",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/04/news006.html",
+      "date": "2026-10-04T02:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "price",
+      "catLabel": "料金プラン",
+      "carrier": "ドコモ",
+      "image": "https://image.itmedia.co.jp/images/logo/1200x630_500x500_mobile.gif"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2145457.html",
+      "title": "ドコモ、MNP契約時の「RCS」説明漏れ　約1.6万件に影響",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2145457.html",
+      "date": "2026-10-04T01:59:36+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ドコモ",
+      "image": null
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/04/news007.html",
+      "title": "ドコモがRCSで同意未取得の不備　約1万6000件に影響、対象ユーザーは利用停止に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/04/news007.html",
+      "date": "2026-10-04T01:37:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ドコモ",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/04/cover_news007.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2145304.html",
+      "title": "マツキヨ・ココカラで花王商品がdポイント20％還元、10月31日まで",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2145304.html",
+      "date": "2026-10-04T01:34:45+00:00",
+      "sourceKey": "ktai",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2145/304/01.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/04/news005.html",
+      "title": "WAON POINTやAEON Payのキャンペーンまとめ【10月4日最新版】　ポイント10～20倍の獲得チャンス多数",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/04/news005.html",
+      "date": "2026-10-04T01:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/04/cover_news005.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/04/news004.html",
+      "title": "TORRASのiPhone Duo用ケース「Ostand Q3 レザートーン」　360度回転するリングスタンド付き",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/04/news004.html",
+      "date": "2026-10-04T01:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/04/l_asa_amazon_01.jpg"
+    },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/04/news001.html",
       "title": "OPPOからも“1万mAh”のデカバッテリースマホが登場",
@@ -388,17 +476,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2145/102/IIJmio.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/02/news051.html",
-      "title": "都営地下鉄の「公衆電話」が姿を消す　2028年11月までに　その背景は",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/02/news051.html",
-      "date": "2026-10-02T03:01:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": null
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144895.html",
       "title": "エキサイト、「Flatプラン30GB」料金引き下げ　音声SIMが月額1980円に",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2144895.html",
@@ -485,50 +562,6 @@
       "catLabel": "その他",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/926/main-1.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144959.html",
-      "title": "楽天モバイル、iPhone・Apple Watch向けの保証を値上げ　最大550円アップ",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2144959.html",
-      "date": "2026-10-01T09:32:59+00:00",
-      "sourceKey": "ktai",
-      "catKey": "price",
-      "catLabel": "料金プラン",
-      "carrier": "楽天モバイル",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/959/01.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144915.html",
-      "title": "IIJmioでスマホ大特価セール、「OPPO Reno11 A」が約1万円など",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2144915.html",
-      "date": "2026-10-01T08:50:19+00:00",
-      "sourceKey": "ktai",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/915/01.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144873.html",
-      "title": "「ドコモの銀行」、紹介で最大1.5万円プレゼント",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2144873.html",
-      "date": "2026-10-01T07:10:57+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "ドコモ",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/873/001.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144827.html",
-      "title": "10万円の「Xperia 10 VIII」実機を体験、目指したのは「日常で好きが深まる」",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2144827.html",
-      "date": "2026-10-01T04:58:40+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/827/cont100.jpg"
     },
     {
       "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr-1180_4736.html",
