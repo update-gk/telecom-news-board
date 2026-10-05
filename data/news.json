@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-10-05T14:15:26.594198+00:00",
+  "generated_at": "2026-10-05T21:56:25.568810+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/ranking/galapagos_ranking/2145785.html",
+      "title": "電子書籍人気ランキング（9月25日～10月1日）",
+      "link": "https://k-tai.watch.impress.co.jp/docs/ranking/galapagos_ranking/2145785.html",
+      "date": "2026-10-05T21:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/include/common/p01/images/logo/ktw.l.png"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2145772.html",
+      "title": "表裏のポケットがお役立ちな無印良品のノートケース",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2145772.html",
+      "date": "2026-10-05T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2145/772/muji00.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/minna/2142286.html",
+      "title": "折りたたみスマートフォンは折りたたみキーボードで",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/minna/2142286.html",
+      "date": "2026-10-05T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": null
+    },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/05/news076.html",
       "title": "注目点は“可変絞り”だけじゃない！　「iPhone 18 Pro」のカメラは思った以上に変わっている",
@@ -441,39 +474,6 @@
       "catLabel": "その他",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2143/761/12.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2145294.html",
-      "title": "SMBC日興証券、dポイントの付与や利用を終了",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2145294.html",
-      "date": "2026-10-02T21:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2145/294/main.png"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2145284.html",
-      "title": "10月の「Ponta」キャンペーン、ローソンの買い物を全額ポイント還元など",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2145284.html",
-      "date": "2026-10-02T08:28:07+00:00",
-      "sourceKey": "ktai",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2145/284/main.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2145274.html",
-      "title": "auじぶん銀と三菱UFJ銀で相互間の振込手数料を他行扱いに、27年4月から",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2145274.html",
-      "date": "2026-10-02T08:14:05+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "au/KDDI",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2145/274/cont1.jpg"
     },
     {
       "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20261002_02/",
