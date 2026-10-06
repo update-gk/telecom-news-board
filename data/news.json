@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-10-06T13:09:20.906914+00:00",
+  "generated_at": "2026-10-06T20:07:25.142770+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2146143.html",
+      "title": "汚れたバッグを床に直接置かないための「ori-pact」バッグスタンド",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2146143.html",
+      "date": "2026-10-06T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2146/143/01-1.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/minna/2146139.html",
+      "title": "iPhoneやAndroidでスムーズに使える、Beatsのカスタマイズ対応ヘッドフォン「Beats 360」",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/minna/2146139.html",
+      "date": "2026-10-06T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2146/139/01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/stapaapple/2146040.html",
+      "title": "Godoxストロボ、神コスパでサイコー!!!",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/stapaapple/2146040.html",
+      "date": "2026-10-06T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2146/040/stpapl2026-10-07thumbnail.jpg"
+    },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/06/news078.html",
       "title": "iFaceが安全性を重視した“見せる”モバイルバッテリー「SafePaq」を発売　半固形電池を搭載して6380円から",
@@ -463,39 +496,6 @@
       "catLabel": "MVNO・格安SIM",
       "carrier": "au/KDDI",
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2145/684/00.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2145626.html",
-      "title": "povo、ローソンで「クラフトボス」買うと0.1GB進呈　最大30GB当たる抽選も",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2145626.html",
-      "date": "2026-10-05T04:19:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "mvno",
-      "catLabel": "MVNO・格安SIM",
-      "carrier": "au/KDDI",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2145/626/00.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2145613.html",
-      "title": "チケットレストランがApple Pay・Google Pay対応、スマホで食事補助が完結",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2145613.html",
-      "date": "2026-10-05T03:47:59+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2145/613/ma.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2145605.html",
-      "title": "MATECH、USB-C直挿しのモバイルバッテリー「PowerNano 5000」2種を発売",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2145605.html",
-      "date": "2026-10-05T03:43:50+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2145/605/01.jpg"
     },
     {
       "id": "docomo-https://www.docomo.ne.jp/support/product_update/f52g/index.html",
