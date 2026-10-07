@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-10-07T10:04:46.512791+00:00",
+  "generated_at": "2026-10-07T18:45:50.209751+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2146542.html",
+      "title": "回転が楽しい！ 電動でタテヨコ回転する自動車のスマホホルダー",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2146542.html",
+      "date": "2026-10-07T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2146/542/01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/value/2146151.html",
+      "title": "ahamoとの違いは？ ドコモの小容量プラン「ドコモmini2」の仕組みと料金",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/value/2146151.html",
+      "date": "2026-10-07T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "price",
+      "catLabel": "料金プラン",
+      "carrier": "ドコモ",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2146/151/01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2146519.html",
+      "title": "アマゾン、Ring初のバッテリー式4Kカメラなど4製品を発表",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2146519.html",
+      "date": "2026-10-07T14:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2146/519/Ring.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/07/news091.html",
+      "title": "フリービット創業者の石田宏樹CEOが辞任　子会社の株式取得で「利益相反」などの指摘を受け",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/07/news091.html",
+      "date": "2026-10-07T11:35:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/07/l_st52693_fb-01.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/07/news090.html",
+      "title": "ファミマのゆうちょATM約5400台が営業終了へ　 2027年1月から順次",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/07/news090.html",
+      "date": "2026-10-07T11:22:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/07/cover_news090.jpg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2146427.html",
       "title": "MATECH、iPhone Airより薄く、重さ卵1個分のモバイルバッテリー「MagOn Air 3000」発売",
@@ -25,6 +80,17 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2146/470/001.jpg"
     },
     {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/07/news087.html",
+      "title": "ブラザーのラベルライター「P-TOUCH CUBE」発売　充電池内蔵、スマホアプリからラベル作成",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/07/news087.html",
+      "date": "2026-10-07T08:51:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/07/l_asa_PTOUCHCUBE_01.jpg"
+    },
+    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2146482.html",
       "title": "データセンターの電力を最適化する「広域ワークロードシフト」共同実証を開始、KDDIやソフトバンクなど12者",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2146482.html",
@@ -34,6 +100,17 @@
       "catLabel": "その他",
       "carrier": "au/KDDI",
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2146/482/sub.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/07/news084.html",
+      "title": "ソフトバンクの「iPhone 18 Pro（512GB）」、MNP＋端末返却で2年4万円台【スマホお得情報】",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/07/news084.html",
+      "date": "2026-10-07T08:36:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "ソフトバンク",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/07/l_asa_sumaotoku_01.jpg"
     },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/07/news082.html",
@@ -234,17 +311,6 @@
       "image": "https://image.itmedia.co.jp/mobile/articles/2610/07/cover_news048.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/07/news039.html",
-      "title": "【ワークマン】2900円の「撥水8ポケットショルダーバッグ」　13型ノートPCも入る収納力",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/07/news039.html",
-      "date": "2026-10-07T01:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/07/l_asa_100item_01.jpg"
-    },
-    {
       "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc53c/index.html",
       "title": "「Galaxy A53 5G SC-53C」のソフトウェアアップデート情報のお知らせ",
       "link": "https://www.docomo.ne.jp/support/product_update/sc53c/index.html",
@@ -298,39 +364,6 @@
       "catLabel": "端末",
       "carrier": "ドコモ",
       "image": null
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/07/news055.html",
-      "title": "ステージからストリートまで本格モニタリング環境が整う「オーディオテクニカ ATH-E40」がセールで9％オフの1万3200円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/07/news055.html",
-      "date": "2026-10-07T00:48:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/07/cover_news055.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/07/news054.html",
-      "title": "ゼンハイザーの有線イヤフォン「IE 300」がセールで52％オフの1万9800円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/07/news054.html",
-      "date": "2026-10-07T00:42:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/07/cover_news054.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/07/news053.html",
-      "title": "半固体電池を採用した高い安全性と耐久性を両立した「エレコム モバイルバッテリー EC-C61MN」がセールで21％オフの4990円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/07/news053.html",
-      "date": "2026-10-07T00:38:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/07/cover_news053.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2146143.html",
@@ -529,39 +562,6 @@
       "catLabel": "キャンペーン",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2145/941/1.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2145925.html",
-      "title": "MATECH、半固体電池の2万mAhモバイルバッテリー「PowerCube 20000」　最大45W",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2145925.html",
-      "date": "2026-10-06T03:23:03+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2145/925/01.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2145926.html",
-      "title": "認定中古iPhoneと「シンプル 3」契約で手数料無料　ワイモバイルオンラインストア限定",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2145926.html",
-      "date": "2026-10-06T03:09:44+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "Y!mobile",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2145/926/01.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2145928.html",
-      "title": "グーグルのパソコン「Googlebook」、米国などで本日発売",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2145928.html",
-      "date": "2026-10-06T03:02:03+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2145/928/03.jpg"
     },
     {
       "id": "docomo-https://www.docomo.ne.jp/support/product_update/f51b/index.html",
