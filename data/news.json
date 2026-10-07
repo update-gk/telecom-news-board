@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-10-06T20:07:25.142770+00:00",
+  "generated_at": "2026-10-07T00:31:25.812252+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/06/news076.html",
+      "title": "PayPay、11月以降の地域限定キャンペーン発表　東京や大阪で最大6000円～1万2000円おトク",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/06/news076.html",
+      "date": "2026-10-06T21:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/06/l_asa_PayPay_01.jpg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2146143.html",
       "title": "汚れたバッグを床に直接置かないための「ori-pact」バッグスタンド",
@@ -342,50 +353,6 @@
       "catLabel": "その他",
       "carrier": "ドコモ",
       "image": null
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/06/news047.html",
-      "title": "ピカチュウのシルエットがかわいい「Anker トラベルポーチ」がセールで15％オフの3390円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/06/news047.html",
-      "date": "2026-10-06T00:37:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/06/cover_news047.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/06/news045.html",
-      "title": "充電状況がひと目で分かる「Anker Nano Charger (45W, Display, スイングプラグ) ホワイト」がセールで25％オフの2990円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/06/news045.html",
-      "date": "2026-10-06T00:33:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/06/cover_news045.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/06/news044.html",
-      "title": "3台同時充電に対応するモバイルバッテリー「UGREEN Zapix」がセールで23％オフの3279円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/06/news044.html",
-      "date": "2026-10-06T00:28:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/06/cover_news044.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/06/news043.html",
-      "title": "お風呂やアウトドアで快適に音楽を楽しめる「JVCケンウッド Victor SP-C100BT」がセールで24％オフの7200円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/06/news043.html",
-      "date": "2026-10-06T00:22:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/06/cover_news043.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/ranking/galapagos_ranking/2145785.html",
