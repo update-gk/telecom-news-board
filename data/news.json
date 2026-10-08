@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-10-07T18:45:50.209751+00:00",
+  "generated_at": "2026-10-08T00:53:17.987990+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/08/news055.html",
+      "title": "2ポート同時に急速充電できるコンパクトな「エレコム モバイル充電器 EC-AC12620WH」がセールで19％オフの1290円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/08/news055.html",
+      "date": "2026-10-08T00:23:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/08/cover_news055.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/08/news054.html",
+      "title": "Android XR搭載の「XREAL AURA」、国内価格は22万9800円から　予約金支払い済みの人を対象に注文受付を開始",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/08/news054.html",
+      "date": "2026-10-08T00:21:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/08/cover_news054.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/08/news053.html",
+      "title": "長時間作業に適したイヤーカフ型の「JVCケンウッド Victor HA-NP1T」がセールで10％オフの1万6118円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/08/news053.html",
+      "date": "2026-10-08T00:17:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/08/cover_news053.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/08/news052.html",
+      "title": "本格的な4K動画を滑らかに撮影できるVlogカメラ「DJI Osmo Pocket 3」がセールで21％オフの4万9939円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/08/news052.html",
+      "date": "2026-10-08T00:09:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/08/cover_news052.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/08/news045.html",
+      "title": "楽天モバイルの「ローミング継続」条件は本当に「エリア外」だけ？　2社のマップから見えた“食い違い”",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/08/news045.html",
+      "date": "2026-10-07T21:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "楽天モバイル",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/08/cover_news045.jpg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2146542.html",
       "title": "回転が楽しい！ 電動でタテヨコ回転する自動車のスマホホルダー",
@@ -212,17 +267,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2146/324/02.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/07/news061.html",
-      "title": "「Google Pixel」の認定整備済品が公式オンラインストアで購入可能に　発売時から最大45％オフ、1年保証も",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/07/news061.html",
-      "date": "2026-10-07T03:23:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/07/l_asa_Google_01.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2146305.html",
       "title": "オウルテック、準固体電池搭載のモバイルバッテリー発売　Qi2.2対応で1万mAh",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2146305.html",
@@ -245,17 +289,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2146/295/01.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/07/news044.html",
-      "title": "新コード決済「teppay」はどこで使える？　 エキナカ施設からコンビニ、ファミレス、ECまで一挙案内",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/07/news044.html",
-      "date": "2026-10-07T03:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/07/cover_news044.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2146285.html",
       "title": "Googleストアで「Pixel 8」「Pixel 9」などの認定整備済品、最大45％オフで販売開始",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2146285.html",
@@ -265,50 +298,6 @@
       "catLabel": "端末",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2146/285/01.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/07/news063.html",
-      "title": "Xperia純正充電器がソニーストアから消える　今後は「出力30W以上のUSB Power Deliveryに対応した充電器の使用を」",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/07/news063.html",
-      "date": "2026-10-07T02:54:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/07/l_rk1640414_Xperia-01.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/07/news062.html",
-      "title": "Googleが高齢者向けAI機能「シンプルガイド」公開　音声でスマホ操作や書類確認を支援",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/07/news062.html",
-      "date": "2026-10-07T02:30:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/07/l_rk1640414_Google-01.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/07/news060.html",
-      "title": "アイオーデータが「CDレコ」のスタンドアロンモデルを11月下旬に発売　想定実売価格は3.5万円",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/07/news060.html",
-      "date": "2026-10-07T02:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/07/cover_news060.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/07/news048.html",
-      "title": "Vポイントのキャンペーンまとめ【10月7日最新版】　ジョーシンで最大10万ポイント、ケンタッキーでポイント2倍",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/07/news048.html",
-      "date": "2026-10-07T01:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/07/cover_news048.jpg"
     },
     {
       "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc53c/index.html",
