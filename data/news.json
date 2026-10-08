@@ -1,7 +1,106 @@
 {
-  "generated_at": "2026-10-08T10:18:35.763595+00:00",
+  "generated_at": "2026-10-08T18:43:57.382220+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2146949.html",
+      "title": "アップルが10月13日にイベント開催へ、キーパーソンはXに「Welcome home」",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2146949.html",
+      "date": "2026-10-08T18:00:48+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2146/949/apple.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2146891.html",
+      "title": "OPPO、「Find X10」シリーズを21日にグローバル発表　Pro Maxは全カメラが2億画素",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2146891.html",
+      "date": "2026-10-08T15:01:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2146/891/oppo4-1.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2146842.html",
+      "title": "グーグル、Android新AI保護「AISeal」発表　OS乗っ取り時もデータ保護",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2146842.html",
+      "date": "2026-10-08T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2146/842/00.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/teppan/2146103.html",
+      "title": "日程調整を楽にしたいなら、空き予定をメールで簡単に伝えられる「Microsoft Outlook」",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/teppan/2146103.html",
+      "date": "2026-10-08T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2146/103/01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/congress/2141136.html",
+      "title": "iPhone 18 Pro/18 Pro MaxとApple Watch 12は中身の進化に着目[法林岳之・石川温・石野純也・佐藤文彦のスマホ会議（仮）]",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/congress/2141136.html",
+      "date": "2026-10-08T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": null
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2146921.html",
+      "title": "Googleマップ、世界10都市の食トレンド発表　東京で「お餅」が168％増",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2146921.html",
+      "date": "2026-10-08T12:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2146/921/gm01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2146847.html",
+      "title": "携帯4社、海自沖縄基地隊と災害時協定　船舶で復旧要員など輸送",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2146847.html",
+      "date": "2026-10-08T11:57:09+00:00",
+      "sourceKey": "ktai",
+      "catKey": "trouble",
+      "catLabel": "障害・不具合",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2146/847/02.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2146914.html",
+      "title": "ドコモ「あんしんフィルター」で障害、ネット制限など利用できず",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2146914.html",
+      "date": "2026-10-08T11:23:31+00:00",
+      "sourceKey": "ktai",
+      "catKey": "trouble",
+      "catLabel": "障害・不具合",
+      "carrier": "ドコモ",
+      "image": null
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2146829.html",
+      "title": "OpenAI、ChatGPTでのGPT-6の提供開始と新機能「Intelligent UI」を発表",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2146829.html",
+      "date": "2026-10-08T11:23:27+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2146/829/01-1.jpg"
+    },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/08/news100.html",
       "title": "ソフトバンク、10月8日発売「Xperia 10 VIII」がMNP＋端末返却で2年間24円【スマホお得情報】",
@@ -322,17 +421,6 @@
       "image": null
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/08/news056.html",
-      "title": "ケーブル忘れを防げる「Anker Power Bank（2万mAh, 87W, Built-In USB-C ケーブル）」がセールで33％オフの6720円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/08/news056.html",
-      "date": "2026-10-08T00:30:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/08/cover_news056.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2146542.html",
       "title": "回転が楽しい！ 電動でタテヨコ回転する自動車のスマホホルダー",
       "link": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2146542.html",
@@ -432,72 +520,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2146/403/IDCs.png"
     },
     {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2146344.html",
-      "title": "「Audible」が4カ月間月額99円、プライム会員限定で割引",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2146344.html",
-      "date": "2026-10-07T04:20:49+00:00",
-      "sourceKey": "ktai",
-      "catKey": "price",
-      "catLabel": "料金プラン",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2146/344/01.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2146340.html",
-      "title": "グーグル、オンデバイス向けの画像・音声統合モデル「EmbeddingGemma 2」公開",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2146340.html",
-      "date": "2026-10-07T04:13:08+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2146/340/embeddinggemma2.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2146324.html",
-      "title": "KDDI、斎藤佑樹氏の「野球列島プロジェクト」に協賛　11月に山口県でイベント",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2146324.html",
-      "date": "2026-10-07T03:59:01+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "au/KDDI",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2146/324/02.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2146305.html",
-      "title": "オウルテック、準固体電池搭載のモバイルバッテリー発売　Qi2.2対応で1万mAh",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2146305.html",
-      "date": "2026-10-07T03:18:16+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2146/305/09.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2146295.html",
-      "title": "グーグル「Gemini」、カメラと音声でスマホ操作を助ける「シンプルガイド」提供　介護向け活用ガイドも",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2146295.html",
-      "date": "2026-10-07T03:00:27+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2146/295/01.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2146285.html",
-      "title": "Googleストアで「Pixel 8」「Pixel 9」などの認定整備済品、最大45％オフで販売開始",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2146285.html",
-      "date": "2026-10-07T02:59:11+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2146/285/01.jpg"
-    },
-    {
       "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc53c/index.html",
       "title": "「Galaxy A53 5G SC-53C」のソフトウェアアップデート情報のお知らせ",
       "link": "https://www.docomo.ne.jp/support/product_update/sc53c/index.html",
@@ -551,39 +573,6 @@
       "catLabel": "端末",
       "carrier": "ドコモ",
       "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2146143.html",
-      "title": "汚れたバッグを床に直接置かないための「ori-pact」バッグスタンド",
-      "link": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2146143.html",
-      "date": "2026-10-06T15:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2146/143/01-1.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/minna/2146139.html",
-      "title": "iPhoneやAndroidでスムーズに使える、Beatsのカスタマイズ対応ヘッドフォン「Beats 360」",
-      "link": "https://k-tai.watch.impress.co.jp/docs/column/minna/2146139.html",
-      "date": "2026-10-06T15:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2146/139/01.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/stapaapple/2146040.html",
-      "title": "Godoxストロボ、神コスパでサイコー!!!",
-      "link": "https://k-tai.watch.impress.co.jp/docs/column/stapaapple/2146040.html",
-      "date": "2026-10-06T15:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2146/040/stpapl2026-10-07thumbnail.jpg"
     },
     {
       "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20261007_01/",
