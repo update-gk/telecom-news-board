@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-10-08T18:43:57.382220+00:00",
+  "generated_at": "2026-10-09T01:06:57.484635+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2145732.html",
+      "title": "ソニー、スマホ用空間オーディオマイク「ECM-AX10」10月23日発売　手軽に立体音響を収録",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2145732.html",
+      "date": "2026-10-09T01:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": null
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2146400.html",
+      "title": "ファーウェイの公式サービスセンターが秋葉原・神田エリアにプレオープン、23日グランドオープン",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2146400.html",
+      "date": "2026-10-08T22:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2146/400/01-1.jpg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2146949.html",
       "title": "アップルが10月13日にイベント開催へ、キーパーソンはXに「Welcome home」",
@@ -55,6 +77,28 @@
       "catKey": "device",
       "catLabel": "端末",
       "carrier": null,
+      "image": null
+    },
+    {
+      "id": "ymobile-https://www.ymobile.jp/info/press/2026/26100902.html",
+      "title": "「AirPods 5」の取り扱いを開始",
+      "link": "https://www.ymobile.jp/info/press/2026/26100902.html",
+      "date": "2026-10-08T15:00:00+00:00",
+      "sourceKey": "ymobile",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "Y!mobile",
+      "image": null
+    },
+    {
+      "id": "ymobile-https://www.ymobile.jp/info/press/2026/26100901.html",
+      "title": "「Ray-Ban Meta (Gen 3)」の取り扱いを開始",
+      "link": "https://www.ymobile.jp/info/press/2026/26100901.html",
+      "date": "2026-10-08T15:00:00+00:00",
+      "sourceKey": "ymobile",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "Y!mobile",
       "image": null
     },
     {
@@ -278,17 +322,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2146/711/02.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/08/news078.html",
-      "title": "iPhone 14が上位を席巻、買い取りにiPhone 17もランクイン　ゲオの9月中古ランキング",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/08/news078.html",
-      "date": "2026-10-08T04:05:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/08/l_asa_geo_01.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2146688.html",
       "title": "グーグル、プロンプトでゲーム制作できる「Playground」米国で提供開始",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2146688.html",
@@ -333,17 +366,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2146/661/sub.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/08/news074.html",
-      "title": "Boseが有線イヤフォン市場に再参入　ノイキャン搭載で約1.7万円の「Bose Noise Cancelling Wired Earbuds」",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/08/news074.html",
-      "date": "2026-10-08T02:54:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/08/cover_news074.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2146654.html",
       "title": "次世代XRグラス「XREAL AURA」の価格発表、22万9800円～",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2146654.html",
@@ -355,17 +377,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2146/654/00.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/08/news070.html",
-      "title": "Galaxyの折りたたみスマホが5％オフ、楽天ペイで3.5％還元も　11月4日まで",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/08/news070.html",
-      "date": "2026-10-08T02:29:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": "楽天モバイル",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/08/l_asa_samsung_01.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2146522.html",
       "title": "AI翻訳イヤホン「Timekettle W4 Plus」のクラファンがスタート、両耳シェアでリアルタイム対話通訳",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2146522.html",
@@ -375,28 +386,6 @@
       "catLabel": "その他",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2146/522/cont100.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/08/news061.html",
-      "title": "ウエルシアのお得情報まとめ【10月8日最新版】　ブラックフライデーで最大20％還元、Switch 2が当たるチャンスも",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/08/news061.html",
-      "date": "2026-10-08T01:30:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/08/cover_news061.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/08/news043.html",
-      "title": "SpigenのiPhone Duo用ケース「ウルトラハイブリッド・プロ・マグフィット」　半自動スプリングでヒンジ部分を保護",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/08/news043.html",
-      "date": "2026-10-08T01:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/08/l_asa_amazon_01.jpg"
     },
     {
       "id": "docomo-https://www.docomo.ne.jp/support/product_update/f51g/index.html",
@@ -496,28 +485,6 @@
       "catLabel": "その他",
       "carrier": "au/KDDI",
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2146/482/sub.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2146345.html",
-      "title": "Google「Flow Music」、自然言語で作った音楽ツールをVST3/AUプラグインとして書き出し可能に",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2146345.html",
-      "date": "2026-10-07T06:28:09+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2146/345/google.png"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2146403.html",
-      "title": "IDCFクラウドで障害、「東日本第1リージョン」への不正アクセス",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2146403.html",
-      "date": "2026-10-07T06:02:12+00:00",
-      "sourceKey": "ktai",
-      "catKey": "trouble",
-      "catLabel": "障害・不具合",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2146/403/IDCs.png"
     },
     {
       "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc53c/index.html",
@@ -1385,28 +1352,6 @@
       "sourceKey": "ymobile",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": "Y!mobile",
-      "image": null
-    },
-    {
-      "id": "ymobile-https://www.ymobile.jp/info/press/2026/26061902.html",
-      "title": "「超PayPay祭」が2026年6月19日（金）からスタート！",
-      "link": "https://www.ymobile.jp/info/press/2026/26061902.html",
-      "date": "2026-06-18T15:00:00+00:00",
-      "sourceKey": "ymobile",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "Y!mobile",
-      "image": null
-    },
-    {
-      "id": "ymobile-https://www.ymobile.jp/info/press/2026/26061901.html",
-      "title": "「『Pokémon GO』パートナーリサーチ」の参加券がもらえるキャンペーン2026(夏)",
-      "link": "https://www.ymobile.jp/info/press/2026/26061901.html",
-      "date": "2026-06-18T15:00:00+00:00",
-      "sourceKey": "ymobile",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
       "carrier": "Y!mobile",
       "image": null
     },
