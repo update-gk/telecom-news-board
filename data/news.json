@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-10-09T10:19:27.406708+00:00",
+  "generated_at": "2026-10-09T18:14:19.290787+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/ishikawa/2147280.html",
+      "title": "またもスマホが「実質値上げ」に？　総務省のルール見直しで負担増の懸念",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/ishikawa/2147280.html",
+      "date": "2026-10-09T11:22:03+00:00",
+      "sourceKey": "ktai",
+      "catKey": "price",
+      "catLabel": "料金プラン",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2147/280/sm.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/09/news096.html",
+      "title": "ドコモが「Google Pixel 10a（256GB）」を11万6930円に値上げ　2年7万円台に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/09/news096.html",
+      "date": "2026-10-09T11:17:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "price",
+      "catLabel": "料金プラン",
+      "carrier": "ドコモ",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/09/l_st52693_px10a-01.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/09/news094.html",
+      "title": "ポケモンGOの操作性を改善　「ジガルデ・セル」をルート完了時に受け取り、100％個体を博士に送る際に確認も",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/09/news094.html",
+      "date": "2026-10-09T10:42:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/09/cover_news094.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/09/news092.html",
+      "title": "手元の寒さ対策やスマホ充電に役立つ「HAGOOGI 充電式カイロ」が39％オフの3980円で販売中",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/09/news092.html",
+      "date": "2026-10-09T10:29:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/09/cover_news092.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/09/news089.html",
+      "title": "スマホ背面に装着できる3.7型E Ink電子ペーパー「XTEINK X3 電子書籍リーダー」が20％オフの1万1119円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/09/news089.html",
+      "date": "2026-10-09T10:20:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/09/cover_news089.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/09/news082.html",
+      "title": "「dポイント顧客情報漏えい」説、ドコモが否定　調査結果をXで公表",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/09/news082.html",
+      "date": "2026-10-09T09:55:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": "ドコモ",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/09/cover_news082.jpg"
+    },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/09/news080.html",
       "title": "楽天グループ、1億件超の会員情報流出説を否定　「情報漏えいが発生したという事実は確認されておりません」",
@@ -212,28 +278,6 @@
       "image": "https://image.itmedia.co.jp/mobile/articles/2610/09/l_asa_Garmin_01.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/09/news058.html",
-      "title": "「iPhone 18 Pro Max」を試して分かった進化と課題　想像以上に“使えた”可変絞り搭載カメラ",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/09/news058.html",
-      "date": "2026-10-09T01:54:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/09/cover_news058.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/09/news024.html",
-      "title": "ソニーが小型マイク「ECM-AX10」発表　スマホに挿して立体的で臨場感のある音の収録を",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/09/news024.html",
-      "date": "2026-10-09T01:02:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/09/cover_news024.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2145732.html",
       "title": "ソニー、スマホ用空間オーディオマイク「ECM-AX10」10月23日発売　手軽に立体音響を収録",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2145732.html",
@@ -243,17 +287,6 @@
       "catLabel": "端末",
       "carrier": null,
       "image": null
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/09/news045.html",
-      "title": "【ワークマン】2900円の「防水カジュアルバッグ」　シームテープ＆YKK止水ファスナーで悪天候でも安心",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/09/news045.html",
-      "date": "2026-10-09T01:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/09/l_asa_100item_01.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2146400.html",
@@ -452,17 +485,6 @@
       "catLabel": "その他",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2146/737/01.png"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2146711.html",
-      "title": "「NBA docomo」、10月は全25試合を配信　八村塁所属のクリッパーズ対レイカーズなど",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2146711.html",
-      "date": "2026-10-08T04:27:41+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2146/711/02.jpg"
     },
     {
       "id": "docomo-https://www.docomo.ne.jp/support/product_update/f51g/index.html",
