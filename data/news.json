@@ -1,7 +1,238 @@
 {
-  "generated_at": "2026-10-09T01:06:57.484635+00:00",
+  "generated_at": "2026-10-09T10:19:27.406708+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/09/news080.html",
+      "title": "楽天グループ、1億件超の会員情報流出説を否定　「情報漏えいが発生したという事実は確認されておりません」",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/09/news080.html",
+      "date": "2026-10-09T09:08:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "楽天モバイル",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/09/cover_news080.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2147234.html",
+      "title": "SpaceX、米国で800MHz帯を購入し携帯事業に参入へ",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2147234.html",
+      "date": "2026-10-09T09:04:01+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2147/234/01.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/09/news079.html",
+      "title": "ドライブレコーダーの映像をスマホで確認できるUSBカードリーダー　パイオニアから",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/09/news079.html",
+      "date": "2026-10-09T08:47:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/09/l_asa_paionner_01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/sale/2147201.html",
+      "title": "シャオミの大容量モバイルバッテリーやモニターがアマゾンでセール",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/sale/2147201.html",
+      "date": "2026-10-09T08:26:07+00:00",
+      "sourceKey": "ktai",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2147/201/main.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2147215.html",
+      "title": "ドコモ、「Pixel 10a 256GB」を11万6930円に値上げ",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2147215.html",
+      "date": "2026-10-09T08:24:41+00:00",
+      "sourceKey": "ktai",
+      "catKey": "price",
+      "catLabel": "料金プラン",
+      "carrier": "ドコモ",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2147/215/main.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/09/news078.html",
+      "title": "ダイソーで1100円のノイキャンイヤフォン「TWS009」を試す　騒音カットの効果は実感も電池持ちに課題か",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/09/news078.html",
+      "date": "2026-10-09T08:06:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/09/cover_news078.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/09/news073.html",
+      "title": "Apple Watch充電器が一体化したUSB Type-Cケーブル発売　オウルテックから",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/09/news073.html",
+      "date": "2026-10-09T07:49:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/09/l_asa_OWLMW08_01.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/09/news068.html",
+      "title": "au、発売直後の「Xperia 10 VIII」が2年間47円　MNP＋端末返却が条件【スマホお得情報】",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/09/news068.html",
+      "date": "2026-10-09T07:35:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "au/KDDI",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/09/l_asa_sumaotoku_01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2147163.html",
+      "title": "米アマゾンが「Ring」のスマートロック発表、手回し充電対応",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2147163.html",
+      "date": "2026-10-09T07:25:34+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2147/163/main.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2147150.html",
+      "title": "UGREENのモバイルバッテリーやNASがセール、さらにクーポン割引も",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2147150.html",
+      "date": "2026-10-09T06:36:36+00:00",
+      "sourceKey": "ktai",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2147/150/main.jpeg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2147133.html",
+      "title": "ドコモ、dポイントクラブの会員データ流出を否定　「確認されていない」",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2147133.html",
+      "date": "2026-10-09T06:11:55+00:00",
+      "sourceKey": "ktai",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": "ドコモ",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2147/133/dpoint.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2147089.html",
+      "title": "ワイモバイル、30GBを2カ月目まで無料で試せるキャンペーン　SIM/eSIM対象",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2147089.html",
+      "date": "2026-10-09T04:42:41+00:00",
+      "sourceKey": "ktai",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": "Y!mobile",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2147/089/01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2147087.html",
+      "title": "アマゾン、米国でAndroid搭載の新タブレット「Amazon Alexa Tablet」を発表、Google Playも利用可",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2147087.html",
+      "date": "2026-10-09T04:38:42+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2147/087/01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2147083.html",
+      "title": "Amazon初のGoogle Play対応「Amazon キッズ タブレット」登場――ちいかわやパウ・パトロールの専用カバーモデルも展開",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2147083.html",
+      "date": "2026-10-09T03:58:46+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2147/083/cont10.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2147059.html",
+      "title": "SOUNDPEATS「Aura Nebula」発売、最大43dBのANC搭載",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2147059.html",
+      "date": "2026-10-09T03:58:15+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2147/059/1.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/09/news062.html",
+      "title": "iPhone 18 Pro向け、クロコダイルパターンのイタリアンレザー採用の「マグネットシールド」発売　3万9600円",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/09/news062.html",
+      "date": "2026-10-09T03:46:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/09/l_asa_PRINCIPEprive_01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2147048.html",
+      "title": "国家サイバー統括室、相次ぐ不正アクセスによる情報漏えいを受け対策強化を要請",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2147048.html",
+      "date": "2026-10-09T03:11:57+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2147/048/nocs.png"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2147028.html",
+      "title": "Google、パスキーの設定方法を案内　指紋・顔認証やPINでログイン",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2147028.html",
+      "date": "2026-10-09T03:11:24+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2147/028/pas.png"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/09/news056.html",
+      "title": "Garmin、シリーズ最長クラスの長持ちバッテリー搭載の「Enduro 4」発売　約14万円",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/09/news056.html",
+      "date": "2026-10-09T02:21:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/09/l_asa_Garmin_01.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/09/news058.html",
+      "title": "「iPhone 18 Pro Max」を試して分かった進化と課題　想像以上に“使えた”可変絞り搭載カメラ",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/09/news058.html",
+      "date": "2026-10-09T01:54:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/09/cover_news058.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/09/news024.html",
+      "title": "ソニーが小型マイク「ECM-AX10」発表　スマホに挿して立体的で臨場感のある音の収録を",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/09/news024.html",
+      "date": "2026-10-09T01:02:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/09/cover_news024.jpg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2145732.html",
       "title": "ソニー、スマホ用空間オーディオマイク「ECM-AX10」10月23日発売　手軽に立体音響を収録",
@@ -12,6 +243,17 @@
       "catLabel": "端末",
       "carrier": null,
       "image": null
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/09/news045.html",
+      "title": "【ワークマン】2900円の「防水カジュアルバッグ」　シームテープ＆YKK止水ファスナーで悪天候でも安心",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/09/news045.html",
+      "date": "2026-10-09T01:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/09/l_asa_100item_01.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2146400.html",
@@ -146,17 +388,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2146/829/01-1.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/08/news100.html",
-      "title": "ソフトバンク、10月8日発売「Xperia 10 VIII」がMNP＋端末返却で2年間24円【スマホお得情報】",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/08/news100.html",
-      "date": "2026-10-08T09:14:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "ソフトバンク",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/08/l_asa_sumaotoku_01.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2146811.html",
       "title": "スポーツナビ、プロ野球の試合状況を生成AIが解説する「AI野球解説（β版）」提供開始",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2146811.html",
@@ -188,28 +419,6 @@
       "catLabel": "その他",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2146/790/01-1.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/08/news099.html",
-      "title": "スマホのOSアップデート「いつも／だいたい最新」は約6割、サポート期間「分からない」は約3割　ドコモ調べ",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/08/news099.html",
-      "date": "2026-10-08T07:37:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "ドコモ",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/08/l_asa_docomosuma_01.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/08/news098.html",
-      "title": "資産3000万円以上が対象　MUFG「エムット」最上位サービスと“年会費無料”アメックス・プラチナの魅力とは",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/08/news098.html",
-      "date": "2026-10-08T07:27:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/08/cover_news098.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2146796.html",
@@ -245,72 +454,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2146/737/01.png"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/08/news087.html",
-      "title": "電響社、約1800度の炎に耐える「耐火ポーチ」発売　カーテンやじゅうたんに使える「防炎加工スプレー」も",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/08/news087.html",
-      "date": "2026-10-08T05:15:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/08/l_asa_denkyo_01.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/08/news091.html",
-      "title": "iOSとAndroidの双方に対応するUGRRENのサッカーボール型紛失防止タグ「FineTrack Duo2」がセールで37％オフの1890円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/08/news091.html",
-      "date": "2026-10-08T05:13:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/08/cover_news091.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/08/news090.html",
-      "title": "長時間の装着でも耳が痛くなりにくい「エレコム Bluetooth ヘッドセット LBT-HSOE01ECBK」がセールで21％オフの4750円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/08/news090.html",
-      "date": "2026-10-08T05:09:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/08/cover_news090.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/08/news083.html",
-      "title": "薄型で持ち運びに適した「UGREEN Air モバイルバッテリー 5000mAh」がセールで25％オフの4860円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/08/news083.html",
-      "date": "2026-10-08T04:46:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/08/cover_news083.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/08/news082.html",
-      "title": "3.5mmイヤフォンジャックのないスマホで有線イヤフォンを使いたい人に適した「UGREEN USB Type-C 3.5mm イヤフォン変換アダプター」がセールで45％オフの928円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/08/news082.html",
-      "date": "2026-10-08T04:41:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/08/cover_news082.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/08/news081.html",
-      "title": "6mmの超薄型で持ち運びに適した「Xiaomi UltraThin モバイルバッテリー 5000mAh」がセールで29％オフの4980円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/08/news081.html",
-      "date": "2026-10-08T04:35:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/08/cover_news081.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2146711.html",
       "title": "「NBA docomo」、10月は全25試合を配信　八村塁所属のクリッパーズ対レイカーズなど",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2146711.html",
@@ -320,72 +463,6 @@
       "catLabel": "その他",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2146/711/02.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2146688.html",
-      "title": "グーグル、プロンプトでゲーム制作できる「Playground」米国で提供開始",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2146688.html",
-      "date": "2026-10-08T03:51:48+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2146/688/04.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2146687.html",
-      "title": "Metaの動画アプリ「Edits」が複数枚投稿に対応、Instagramに直接シェアできる",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2146687.html",
-      "date": "2026-10-08T03:38:42+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2146/687/cont0.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2146681.html",
-      "title": "UQモバイル、「iPhone 17e」値上げ後もMNPで実質5547円",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2146681.html",
-      "date": "2026-10-08T03:28:51+00:00",
-      "sourceKey": "ktai",
-      "catKey": "price",
-      "catLabel": "料金プラン",
-      "carrier": "UQ mobile",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2146/681/1.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2146661.html",
-      "title": "サムスン、公式ECや旗艦店で最大10％オフのセール、Galaxy Z Fold8 UltraやWatch8 Classicなど対象",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2146661.html",
-      "date": "2026-10-08T03:16:52+00:00",
-      "sourceKey": "ktai",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2146/661/sub.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2146654.html",
-      "title": "次世代XRグラス「XREAL AURA」の価格発表、22万9800円～",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2146654.html",
-      "date": "2026-10-08T02:37:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2146/654/00.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2146522.html",
-      "title": "AI翻訳イヤホン「Timekettle W4 Plus」のクラファンがスタート、両耳シェアでリアルタイム対話通訳",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2146522.html",
-      "date": "2026-10-08T02:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2146/522/cont100.jpg"
     },
     {
       "id": "docomo-https://www.docomo.ne.jp/support/product_update/f51g/index.html",
@@ -410,28 +487,6 @@
       "image": null
     },
     {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2146542.html",
-      "title": "回転が楽しい！ 電動でタテヨコ回転する自動車のスマホホルダー",
-      "link": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2146542.html",
-      "date": "2026-10-07T15:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2146/542/01.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/value/2146151.html",
-      "title": "ahamoとの違いは？ ドコモの小容量プラン「ドコモmini2」の仕組みと料金",
-      "link": "https://k-tai.watch.impress.co.jp/docs/column/value/2146151.html",
-      "date": "2026-10-07T15:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "price",
-      "catLabel": "料金プラン",
-      "carrier": "ドコモ",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2146/151/01.jpg"
-    },
-    {
       "id": "rakuten-https://corp.mobile.rakuten.co.jp/news/media/2026/1008_01/?l-id=corp_news_media_20261008_01",
       "title": "海上自衛隊沖縄基地隊と通信事業者４社が「災害時における通信の確保のための相互協力に関する細部連携協定」を締結",
       "link": "https://corp.mobile.rakuten.co.jp/news/media/2026/1008_01/?l-id=corp_news_media_20261008_01",
@@ -441,50 +496,6 @@
       "catLabel": "その他",
       "carrier": "楽天モバイル",
       "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2146519.html",
-      "title": "アマゾン、Ring初のバッテリー式4Kカメラなど4製品を発表",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2146519.html",
-      "date": "2026-10-07T14:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2146/519/Ring.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2146427.html",
-      "title": "MATECH、iPhone Airより薄く、重さ卵1個分のモバイルバッテリー「MagOn Air 3000」発売",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2146427.html",
-      "date": "2026-10-07T09:14:14+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2146/427/main.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/sale/2146470.html",
-      "title": "アマゾンで「arrows Alpha2」がタイムセール　約8.5万円に",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/sale/2146470.html",
-      "date": "2026-10-07T09:14:09+00:00",
-      "sourceKey": "ktai",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2146/470/001.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2146482.html",
-      "title": "データセンターの電力を最適化する「広域ワークロードシフト」共同実証を開始、KDDIやソフトバンクなど12者",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2146482.html",
-      "date": "2026-10-07T08:40:02+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "au/KDDI",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2146/482/sub.jpg"
     },
     {
       "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc53c/index.html",
