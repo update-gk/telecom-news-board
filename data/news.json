@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-10-09T18:14:19.290787+00:00",
+  "generated_at": "2026-10-10T00:39:31.354744+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/10/news013.html",
+      "title": "スマホの「実質価格」高騰の恐れ、iPhone 18 Proは2倍高く？　総務省の残価設定ルール厳格化は“誰のため”か",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/10/news013.html",
+      "date": "2026-10-09T21:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/10/cover_news013.jpg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/ishikawa/2147280.html",
       "title": "またもスマホが「実質値上げ」に？　総務省のルール見直しで負担増の懸念",
@@ -234,17 +245,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2147/059/1.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/09/news062.html",
-      "title": "iPhone 18 Pro向け、クロコダイルパターンのイタリアンレザー採用の「マグネットシールド」発売　3万9600円",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/09/news062.html",
-      "date": "2026-10-09T03:46:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/09/l_asa_PRINCIPEprive_01.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2147048.html",
       "title": "国家サイバー統括室、相次ぐ不正アクセスによる情報漏えいを受け対策強化を要請",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2147048.html",
@@ -265,17 +265,6 @@
       "catLabel": "その他",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2147/028/pas.png"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/09/news056.html",
-      "title": "Garmin、シリーズ最長クラスの長持ちバッテリー搭載の「Enduro 4」発売　約14万円",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/09/news056.html",
-      "date": "2026-10-09T02:21:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/09/l_asa_Garmin_01.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2145732.html",
