@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-10-10T00:39:31.354744+00:00",
+  "generated_at": "2026-10-10T09:39:18.230250+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/10/news011.html",
+      "title": "ダイソーで1100円の「GaN USB充電器」は折り畳みプラグで外出用に持ち歩きやすい　45W出力対応でPCでも使える",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/10/news011.html",
+      "date": "2026-10-10T04:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/10/cover_news011.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/10/news015.html",
+      "title": "10月1日から楽天モバイルの「au 4G LTEエリアローミング」が縮小も意外と残っている件",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/10/news015.html",
+      "date": "2026-10-10T03:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "au/KDDI",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/10/cover_news015.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/10/news012.html",
+      "title": "高い透明度と耐衝撃性を両立　NIMASOのiPhone Duo用クリアケース",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/10/news012.html",
+      "date": "2026-10-10T01:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/10/l_asa_amazon_01.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/10/news001.html",
+      "title": "「iPhone Duo」は閉じても開いても迷わず使える　Appleが提示するUIの設計思想",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/10/news001.html",
+      "date": "2026-10-10T01:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/10/cover_news001.jpg"
+    },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/10/news013.html",
       "title": "スマホの「実質価格」高騰の恐れ、iPhone 18 Proは2倍高く？　総務省の残価設定ルール厳格化は“誰のため”か",
