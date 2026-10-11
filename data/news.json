@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T05:17:05.942740+00:00",
+  "generated_at": "2026-10-11T12:31:23.678270+00:00",
   "errors": [],
   "articles": [
     {
@@ -210,17 +210,6 @@
       "catLabel": "料金プラン",
       "carrier": "ドコモ",
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2147/215/main.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/09/news078.html",
-      "title": "ダイソーで1100円のノイキャンイヤフォン「TWS009」を試す　騒音カットの効果は実感も電池持ちに課題か",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/09/news078.html",
-      "date": "2026-10-09T08:06:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/09/cover_news078.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2147163.html",
