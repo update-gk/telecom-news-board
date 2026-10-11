@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-10-10T21:27:21.703064+00:00",
+  "generated_at": "2026-10-11T05:17:05.942740+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/11/news009.html",
+      "title": "楽天モバイル、KDDIローミングが大幅に縮小――ユーザーに対する説明責任はないのか",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/11/news009.html",
+      "date": "2026-10-11T04:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "au/KDDI",
+      "image": "https://image.itmedia.co.jp/images/logo/1200x630_500x500_mobile.gif"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/11/news007.html",
+      "title": "【ワークマン】4900円の「アーバンライトバックパック」　豊富なポケットやナスカン＆バックル付き",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/11/news007.html",
+      "date": "2026-10-11T01:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/11/l_asa_100item_01.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/11/news001.html",
+      "title": "POCO F9 Ultraのベースモデル「REDMI K100 Pro Max」はバッテリー容量とカラバリに違いがある",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/11/news001.html",
+      "date": "2026-10-10T21:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/11/cover_news001.jpg"
+    },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/10/news011.html",
       "title": "ダイソーで1100円の「GaN USB充電器」は折り畳みプラグで外出用に持ち歩きやすい　45W出力対応でPCでも使える",
@@ -188,28 +221,6 @@
       "catLabel": "その他",
       "carrier": null,
       "image": "https://image.itmedia.co.jp/mobile/articles/2610/09/cover_news078.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/09/news073.html",
-      "title": "Apple Watch充電器が一体化したUSB Type-Cケーブル発売　オウルテックから",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/09/news073.html",
-      "date": "2026-10-09T07:49:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/09/l_asa_OWLMW08_01.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/09/news068.html",
-      "title": "au、発売直後の「Xperia 10 VIII」が2年間47円　MNP＋端末返却が条件【スマホお得情報】",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/09/news068.html",
-      "date": "2026-10-09T07:35:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "au/KDDI",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/09/l_asa_sumaotoku_01.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2147163.html",
