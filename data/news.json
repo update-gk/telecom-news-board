@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-10-11T19:26:15.729223+00:00",
+  "generated_at": "2026-10-12T00:22:58.299645+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/12/news010.html",
+      "title": "NTTドコモ、新幹線ホームでの動画視聴を快適に　JR名古屋駅の通信品質、どう改善？",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/12/news010.html",
+      "date": "2026-10-11T21:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ドコモ",
+      "image": null
+    },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/11/news009.html",
       "title": "楽天モバイル、KDDIローミングが大幅に縮小――ユーザーに対する説明責任はないのか",
@@ -157,17 +168,6 @@
       "image": "https://image.itmedia.co.jp/mobile/articles/2610/09/cover_news082.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/09/news080.html",
-      "title": "楽天グループ、1億件超の会員情報流出説を否定　「情報漏えいが発生したという事実は確認されておりません」",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/09/news080.html",
-      "date": "2026-10-09T09:08:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "楽天モバイル",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/09/cover_news080.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2147234.html",
       "title": "SpaceX、米国で800MHz帯を購入し携帯事業に参入へ",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2147234.html",
@@ -177,17 +177,6 @@
       "catLabel": "その他",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2147/234/01.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/09/news079.html",
-      "title": "ドライブレコーダーの映像をスマホで確認できるUSBカードリーダー　パイオニアから",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/09/news079.html",
-      "date": "2026-10-09T08:47:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/09/l_asa_paionner_01.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/sale/2147201.html",
