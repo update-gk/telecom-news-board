@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-10-12T10:32:48.127647+00:00",
+  "generated_at": "2026-10-12T21:09:43.861276+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/minna/2147436.html",
+      "title": "Ray-Ban Metaの破損で感じたウェアラブルデバイスにおける保証サービスの重要度",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/minna/2147436.html",
+      "date": "2026-10-12T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": null
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2146894.html",
+      "title": "結線よりストーンが勝ち！ キラキラUSBケーブルを手に入れた",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2146894.html",
+      "date": "2026-10-12T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2146/894/6.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/stapa/2146862.html",
+      "title": "UGREENの3-in-1全部入り充電スタンドがキたッ！！",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/stapa/2146862.html",
+      "date": "2026-10-12T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2146/862/stptncs2026-10-12thumbnail.jpg"
+    },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/12/news009.html",
       "title": "2～3枚のカードや紙幣も収納できる隠しポケット搭載　VihibiiのiPhone Duo専用ケース",
@@ -166,17 +199,6 @@
       "catLabel": "その他",
       "carrier": null,
       "image": "https://image.itmedia.co.jp/mobile/articles/2610/09/cover_news092.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/09/news089.html",
-      "title": "スマホ背面に装着できる3.7型E Ink電子ペーパー「XTEINK X3 電子書籍リーダー」が20％オフの1万1119円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/09/news089.html",
-      "date": "2026-10-09T10:20:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/09/cover_news089.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2147234.html",
@@ -485,39 +507,6 @@
       "catLabel": "その他",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2146/790/01-1.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2146796.html",
-      "title": "povo、データ使い放題を「まとめ買い」できるトッピング発売",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2146796.html",
-      "date": "2026-10-08T07:01:28+00:00",
-      "sourceKey": "ktai",
-      "catKey": "mvno",
-      "catLabel": "MVNO・格安SIM",
-      "carrier": "au/KDDI",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2146/796/povo.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2146770.html",
-      "title": "OPPO、「ColorOS 17」をチラ見せ　13日解禁",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2146770.html",
-      "date": "2026-10-08T06:57:01+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2146/770/01.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2146737.html",
-      "title": "NTTモビリティと第一交通産業、自動運転サービスで連携　2028年度に社会実装へ",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2146737.html",
-      "date": "2026-10-08T05:18:42+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2146/737/01.png"
     },
     {
       "id": "docomo-https://www.docomo.ne.jp/support/product_update/f51g/index.html",
