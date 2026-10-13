@@ -1,7 +1,194 @@
 {
-  "generated_at": "2026-10-13T06:27:04.261359+00:00",
+  "generated_at": "2026-10-13T16:50:46.785022+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2147831.html",
+      "title": "Apple、スマートホーム製品「Apple Home Collection」を発表",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2147831.html",
+      "date": "2026-10-13T15:00:29+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2147/831/01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/minna/2147797.html",
+      "title": "iPhone 16 ProからiPhone 18 Proに乗り換え、推し活望遠・動画・電池持ちに満足",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/minna/2147797.html",
+      "date": "2026-10-13T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2147/797/01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2147771.html",
+      "title": "550円の、七色に光る「テープライト　リモコン付」",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2147771.html",
+      "date": "2026-10-13T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": null
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2147830.html",
+      "title": "Apple、次世代スマートスピーカー「HomePod mini 2」を10月30日発売",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2147830.html",
+      "date": "2026-10-13T14:33:35+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2147/830/20.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2147825.html",
+      "title": "Apple、A19チップ搭載の「Apple TV 4K」発表、49800円で11月13日発売",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2147825.html",
+      "date": "2026-10-13T13:59:28+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2147/825/01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2147824.html",
+      "title": "Apple、7型画面とSiri AI搭載のスマートディスプレイ「HomeView」発表",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2147824.html",
+      "date": "2026-10-13T13:53:58+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2147/824/10.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/13/news109.html",
+      "title": "7型ディスプレイ搭載「Apple HomeView」発表　Siri AIと顔識別で家族全員に「欲しい情報」を届ける",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/13/news109.html",
+      "date": "2026-10-13T13:19:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/13/l_rk1640414_applehomeview-01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2147807.html",
+      "title": "Uber Eats日本進出10年、生活インフラへ進化――ミキティやカズレーザーも愛用をアピール",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2147807.html",
+      "date": "2026-10-13T11:59:46+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2147/807/cont216.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2147800.html",
+      "title": "楽天モバイルでシステム脆弱性、第三者に住所や電話番号など閲覧される可能性",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2147800.html",
+      "date": "2026-10-13T11:05:47+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "楽天モバイル",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2147/800/rktn.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/13/news106.html",
+      "title": "楽天モバイルの「支払い証明書」が第三者から閲覧できる状態だったことが判明　金融情報や通話履歴は含まれず",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/13/news106.html",
+      "date": "2026-10-13T10:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "楽天モバイル",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/13/cover_news106.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/13/news102.html",
+      "title": "もうすぐ発売の「iPhone Duo」、Apple Storeで発売日に入手したいならやっておきたい“あの準備”とは？",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/13/news102.html",
+      "date": "2026-10-13T09:40:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": null
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2147752.html",
+      "title": "PayPay証券、日本株とETFの取引を一時停止　外部接続先で障害",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2147752.html",
+      "date": "2026-10-13T09:30:42+00:00",
+      "sourceKey": "ktai",
+      "catKey": "trouble",
+      "catLabel": "障害・不具合",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2147/752/sub.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/13/news103.html",
+      "title": "iPhone Duoの「予約注文」が可能に　ペイディなら月1万133円の分割払い→2年後返却で残価免除も",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/13/news103.html",
+      "date": "2026-10-13T09:19:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/13/cover_news103.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/13/news101.html",
+      "title": "JR東日本など首都圏・東北の鉄道事業者7社が「二次元コード乗車券」に移行　2027年春から",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/13/news101.html",
+      "date": "2026-10-13T08:45:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/13/cover_news101.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/13/news100.html",
+      "title": "Y!mobileの認定中古「iPhone 15（128GB）」、MNPだと一括4万2040円【スマホお得情報】",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/13/news100.html",
+      "date": "2026-10-13T07:52:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "Y!mobile",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/13/l_asa_sumaotoku_01.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/13/news097.html",
+      "title": "ソフトバンクの「iPhone Duo」は一括42万9760円、2年23万9760円から　18 Proよりも免除額は控えめ",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/13/news097.html",
+      "date": "2026-10-13T06:49:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "ソフトバンク",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/13/cover_news097.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/13/news092.html",
+      "title": "Nothing、ノイキャン対応で3800円のイヤフォン「CMF Buds Neo」発売",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/13/news092.html",
+      "date": "2026-10-13T06:48:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/13/l_asa_Nothing_01.jpg"
+    },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/13/news091.html",
       "title": "「Apple AirPods Pro 3」がプライム感謝祭先行セールで3万6800円に",
@@ -34,6 +221,17 @@
       "catLabel": "キャンペーン",
       "carrier": null,
       "image": "https://image.itmedia.co.jp/mobile/articles/2610/13/cover_news089.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/13/news071.html",
+      "title": "ドコモの「moto g37 M-51G」10月22日に発売　MNPなら2万円→1万2100円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/13/news071.html",
+      "date": "2026-10-13T05:25:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "ドコモ",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/13/l_asa_docomomoto_01.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2147623.html",
@@ -157,17 +355,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2147/535/00.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/13/news066.html",
-      "title": "薄くて軽いモデルを求める人にピッタリな「iPhone Air（256GB）」が14万9800円に　プライム感謝祭先行セールで21％オフ",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/13/news066.html",
-      "date": "2026-10-13T02:36:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/13/cover_news066.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2147485.html",
       "title": "「Uber Eats」で楽天ポイントが“使える”ように、10月以降順次",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2147485.html",
@@ -177,50 +364,6 @@
       "catLabel": "キャンペーン",
       "carrier": "楽天モバイル",
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2147/485/cont100.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/13/news064.html",
-      "title": "「にこスマ買取」でスマートウォッチも取り扱い開始　Apple Watch計67モデルに対応、3段階の基準で査定",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/13/news064.html",
-      "date": "2026-10-13T02:15:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/13/cover_news064.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/13/news065.html",
-      "title": "「ポイント交換でdポイント最大15％増量キャンペーン」開催　11月1日から",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/13/news065.html",
-      "date": "2026-10-13T02:14:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/13/l_asa_docomo_01.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/13/news012.html",
-      "title": "ファーウェイはなぜ「24時間測り続けること」にこだわるのか　ウェアラブル開発責任者が語る医療機器との違い",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/13/news012.html",
-      "date": "2026-10-13T01:30:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/13/cover_news012.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/13/news047.html",
-      "title": "【3COINS】1650円の「折りたたみ拡張リュック」　側面のファスナーを開ければ収納力アップ",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/13/news047.html",
-      "date": "2026-10-13T01:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/13/l_asa_100item_01.jpg"
     },
     {
       "id": "docomo-https://www.docomo.ne.jp/support/product_update/f52b/index.html",
@@ -265,39 +408,6 @@
       "catLabel": "端末",
       "carrier": "ドコモ",
       "image": null
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/13/news060.html",
-      "title": "楽器をモチーフにしたデザインがオシャレな「JVCケンウッド Victor WOOD master」がセールで19％オフの3万3655円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/13/news060.html",
-      "date": "2026-10-13T00:48:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/13/cover_news060.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/13/news059.html",
-      "title": "半固体リチウムイオン電池を採用した「エレコム モバイルバッテリー EC-C59MN」がセールで21％オフの4990円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/13/news059.html",
-      "date": "2026-10-13T00:43:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/13/cover_news059.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/13/news057.html",
-      "title": "Google、画面付きトラッカー「Google Fitbit Edge」発表　日本では2万6800円で予約開始　バッテリー交換にも対応",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/13/news057.html",
-      "date": "2026-10-12T23:43:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/13/cover_news057.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2146876.html",
@@ -441,105 +551,6 @@
       "catLabel": "キャンペーン",
       "carrier": "ドコモ",
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2147/133/dpoint.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2147089.html",
-      "title": "ワイモバイル、30GBを2カ月目まで無料で試せるキャンペーン　SIM/eSIM対象",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2147089.html",
-      "date": "2026-10-09T04:42:41+00:00",
-      "sourceKey": "ktai",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": "Y!mobile",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2147/089/01.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2147087.html",
-      "title": "アマゾン、米国でAndroid搭載の新タブレット「Amazon Alexa Tablet」を発表、Google Playも利用可",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2147087.html",
-      "date": "2026-10-09T04:38:42+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2147/087/01.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2147083.html",
-      "title": "Amazon初のGoogle Play対応「Amazon キッズ タブレット」登場――ちいかわやパウ・パトロールの専用カバーモデルも展開",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2147083.html",
-      "date": "2026-10-09T03:58:46+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2147/083/cont10.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2147059.html",
-      "title": "SOUNDPEATS「Aura Nebula」発売、最大43dBのANC搭載",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2147059.html",
-      "date": "2026-10-09T03:58:15+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2147/059/1.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2147048.html",
-      "title": "国家サイバー統括室、相次ぐ不正アクセスによる情報漏えいを受け対策強化を要請",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2147048.html",
-      "date": "2026-10-09T03:11:57+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2147/048/nocs.png"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2147028.html",
-      "title": "Google、パスキーの設定方法を案内　指紋・顔認証やPINでログイン",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2147028.html",
-      "date": "2026-10-09T03:11:24+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2147/028/pas.png"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2145732.html",
-      "title": "ソニー、スマホ用空間オーディオマイク「ECM-AX10」10月23日発売　手軽に立体音響を収録",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2145732.html",
-      "date": "2026-10-09T01:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2146400.html",
-      "title": "ファーウェイの公式サービスセンターが秋葉原・神田エリアにプレオープン、23日グランドオープン",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2146400.html",
-      "date": "2026-10-08T22:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2146/400/01-1.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2146949.html",
-      "title": "アップルが10月13日にイベント開催へ、キーパーソンはXに「Welcome home」",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2146949.html",
-      "date": "2026-10-08T18:00:48+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2146/949/apple.jpg"
     },
     {
       "id": "ymobile-https://www.ymobile.jp/info/press/2026/26100902.html",
