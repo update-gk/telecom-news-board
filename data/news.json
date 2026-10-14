@@ -1,7 +1,139 @@
 {
-  "generated_at": "2026-10-13T22:31:04.052436+00:00",
+  "generated_at": "2026-10-14T04:28:25.221512+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2147972.html",
+      "title": "auの「iPhone Duo」価格が発表、本体42万円〜でプログラム適用時の実質負担は23万円〜",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2147972.html",
+      "date": "2026-10-14T03:46:15+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "au/KDDI",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2147/972/cont0.png"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2147947.html",
+      "title": "Google「Gemini 4 Argon」の提供スタート、APIや企業向けに加えAI Ultra/Proユーザーも利用可能に",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2147947.html",
+      "date": "2026-10-14T03:28:57+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2147/947/cont0.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2147938.html",
+      "title": "PayPay証券、日本株・ETFの取引を再開　サイバー攻撃は否定",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2147938.html",
+      "date": "2026-10-14T02:59:46+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2147/938/sub.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/14/news026.html",
+      "title": "SpaceXが米国で自前の携帯サービスを目指す　衛星が届きにくい屋内は800MHz帯で補う",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/14/news026.html",
+      "date": "2026-10-14T02:30:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/14/cover_news026.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/14/news034.html",
+      "title": "一体型ガラスフィルムで端末を全面保護するiPhone Duo用ケース　背面にスタンドを搭載",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/14/news034.html",
+      "date": "2026-10-14T01:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/14/l_asa_amazon_01.jpg"
+    },
+    {
+      "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr-1191_4758.html",
+      "title": "LG CNSとアジア太平洋地域での事業拡大に向けた基本合意書を締結",
+      "link": "https://newsroom.kddi.com/news/detail/kddi_nr-1191_4758.html",
+      "date": "2026-10-14T01:00:00+00:00",
+      "sourceKey": "au",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "au/KDDI",
+      "image": null
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/14/news049.html",
+      "title": "配線整理に適したクレードル付きコードリール「CIO ケルベロス」がセールで13％オフの6480円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/14/news049.html",
+      "date": "2026-10-14T00:20:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/14/cover_news049.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/14/news048.html",
+      "title": "周囲の音を聞き逃さないイヤーカフ型「EDIFIER Comfo Bass Pro」がセールで30％オフの9786円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/14/news048.html",
+      "date": "2026-10-14T00:16:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/14/cover_news048.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/14/news047.html",
+      "title": "大画面で使いやすいSIMフリースマホ「Samsung Galaxy A57 5G」がセールで13％オフの6万9318円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/14/news047.html",
+      "date": "2026-10-14T00:13:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/14/cover_news047.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/14/news046.html",
+      "title": "4台同時充電に対応した「Anker Power Bank」がセールで40％オフの1万790円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/14/news046.html",
+      "date": "2026-10-14T00:09:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/14/cover_news046.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/14/news045.html",
+      "title": "ノイズキャンセリング搭載でクリアなサウンドを楽しめる「ゼンハイザー MOMENTUM True Wireless 3」がセールで22％オフの1万2500円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/14/news045.html",
+      "date": "2026-10-14T00:05:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/14/cover_news045.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/14/news044.html",
+      "title": "ピカチュウデザインの「Anker MagGo Wireless Charging Station (Foldable 3-in-1)」がセールで34％オフの1万490円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/14/news044.html",
+      "date": "2026-10-14T00:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/14/cover_news044.jpg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/ranking/galapagos_ranking/2147769.html",
       "title": "電子書籍人気ランキング（10月2日～10月8日）",
@@ -146,17 +278,6 @@
       "image": "https://image.itmedia.co.jp/mobile/articles/2610/13/cover_news106.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/13/news102.html",
-      "title": "もうすぐ発売の「iPhone Duo」、Apple Storeで発売日に入手したいならやっておきたい“あの準備”とは？",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/13/news102.html",
-      "date": "2026-10-13T09:40:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": null
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2147752.html",
       "title": "PayPay証券、日本株とETFの取引を一時停止　外部接続先で障害",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2147752.html",
@@ -166,105 +287,6 @@
       "catLabel": "障害・不具合",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2147/752/sub.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/13/news103.html",
-      "title": "iPhone Duoの「予約注文」が可能に　ペイディなら月1万133円の分割払い→2年後返却で残価免除も",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/13/news103.html",
-      "date": "2026-10-13T09:19:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/13/cover_news103.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/13/news101.html",
-      "title": "JR東日本など首都圏・東北の鉄道事業者7社が「二次元コード乗車券」に移行　2027年春から",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/13/news101.html",
-      "date": "2026-10-13T08:45:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/13/cover_news101.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/13/news100.html",
-      "title": "Y!mobileの認定中古「iPhone 15（128GB）」、MNPだと一括4万2040円【スマホお得情報】",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/13/news100.html",
-      "date": "2026-10-13T07:52:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "Y!mobile",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/13/l_asa_sumaotoku_01.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/13/news097.html",
-      "title": "ソフトバンクの「iPhone Duo」は一括42万9760円、2年23万9760円から　18 Proよりも免除額は控えめ",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/13/news097.html",
-      "date": "2026-10-13T06:49:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "ソフトバンク",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/13/cover_news097.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/13/news092.html",
-      "title": "Nothing、ノイキャン対応で3800円のイヤフォン「CMF Buds Neo」発売",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/13/news092.html",
-      "date": "2026-10-13T06:48:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/13/l_asa_Nothing_01.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/13/news091.html",
-      "title": "「Apple AirPods Pro 3」がプライム感謝祭先行セールで3万6800円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/13/news091.html",
-      "date": "2026-10-13T05:48:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/13/cover_news091.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/13/news090.html",
-      "title": "まだまだ現役の「Apple Watch Series 11（GPSモデル）」が15％オフの6万4900円で販売中",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/13/news090.html",
-      "date": "2026-10-13T05:45:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/13/cover_news090.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/13/news089.html",
-      "title": "カメラ部分がスタンドになる「ESR Atelier iPhone 18 Pro／17 Pro兼用 Flexスタンドケース」がセールで5129円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/13/news089.html",
-      "date": "2026-10-13T05:25:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/13/cover_news089.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/13/news071.html",
-      "title": "ドコモの「moto g37 M-51G」10月22日に発売　MNPなら2万円→1万2100円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/13/news071.html",
-      "date": "2026-10-13T05:25:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "ドコモ",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/13/l_asa_docomomoto_01.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2147623.html",
@@ -287,28 +309,6 @@
       "catLabel": "キャンペーン",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2147/594/sub.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/13/news073.html",
-      "title": "推し活の痛バッグ作りに適した「KEIYO デジタル缶バッジ AN-S173」がセールで32％オフの2980円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/13/news073.html",
-      "date": "2026-10-13T04:30:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/13/cover_news073.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/13/news070.html",
-      "title": "後方の死角を減らせるデジタルバックミラー「KEIYO AN-R121」がセールで32％オフの2万230円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/13/news070.html",
-      "date": "2026-10-13T04:25:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/13/cover_news070.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2147589.html",
@@ -518,39 +518,6 @@
       "catLabel": "キャンペーン",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2147/201/main.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2147215.html",
-      "title": "ドコモ、「Pixel 10a 256GB」を11万6930円に値上げ",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2147215.html",
-      "date": "2026-10-09T08:24:41+00:00",
-      "sourceKey": "ktai",
-      "catKey": "price",
-      "catLabel": "料金プラン",
-      "carrier": "ドコモ",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2147/215/main.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2147163.html",
-      "title": "米アマゾンが「Ring」のスマートロック発表、手回し充電対応",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2147163.html",
-      "date": "2026-10-09T07:25:34+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2147/163/main.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2147150.html",
-      "title": "UGREENのモバイルバッテリーやNASがセール、さらにクーポン割引も",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2147150.html",
-      "date": "2026-10-09T06:36:36+00:00",
-      "sourceKey": "ktai",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2147/150/main.jpeg"
     },
     {
       "id": "ymobile-https://www.ymobile.jp/info/press/2026/26100902.html",
@@ -942,17 +909,6 @@
       "title": "国内初、国土交通省航空局の「UTMサービスプロバイダID」を取得",
       "link": "https://newsroom.kddi.com/news/detail/kddi_nr-1166_4720.html",
       "date": "2026-09-16T06:00:00+00:00",
-      "sourceKey": "au",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "au/KDDI",
-      "image": null
-    },
-    {
-      "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr-1161_4714.html",
-      "title": "通信事業者間での5Gミリ波の利用エリア拡大に向けた共同検討を開始",
-      "link": "https://newsroom.kddi.com/news/detail/kddi_nr-1161_4714.html",
-      "date": "2026-09-16T04:00:00+00:00",
       "sourceKey": "au",
       "catKey": "other",
       "catLabel": "その他",
