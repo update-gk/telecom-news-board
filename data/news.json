@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-10-14T11:34:53.012164+00:00",
+  "generated_at": "2026-10-14T16:57:16.518046+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/minna/2148152.html",
+      "title": "いい意味で期待を裏切られた「razr fold」のカメラ性能",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/minna/2148152.html",
+      "date": "2026-10-14T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2148/152/1.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/value/2148131.html",
+      "title": "値段据え置きの「ドコモMAX」はお得か？　ドコモ\"無制限プラン\"の選び方",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/value/2148131.html",
+      "date": "2026-10-14T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "price",
+      "catLabel": "料金プラン",
+      "carrier": "ドコモ",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2148/131/01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2148008.html",
+      "title": "磁力キーでスマホを内部に閉じ込める、新世代のスマホ依存防止ボックス",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2148008.html",
+      "date": "2026-10-14T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2148/008/01.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/14/news083.html",
+      "title": "Android 17の「Xperia 1 VIII」とiPhoneでファイル共有可能に　Quick ShareとAirDropの連携で",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/14/news083.html",
+      "date": "2026-10-14T11:05:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/14/cover_news083.jpg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2148168.html",
       "title": "楽天モバイル「Rakuten Mini」「Rakuten Hand」などに脆弱性、AVB機能にテスト鍵が残存　利用停止と乗り換えを案内",
@@ -23,6 +67,17 @@
       "catLabel": "端末",
       "carrier": "楽天モバイル",
       "image": "https://image.itmedia.co.jp/mobile/articles/2610/14/cover_news081.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/14/news079.html",
+      "title": "iPhone 18 Pro向け“ほぼ裸”のバンパーケース「Arc Pulse」発売　1万2980円から",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/14/news079.html",
+      "date": "2026-10-14T10:29:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/14/l_asa_ArcPulse_01.jpg"
     },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/14/news080.html",
@@ -254,17 +309,6 @@
       "catLabel": "キャンペーン",
       "carrier": null,
       "image": "https://image.itmedia.co.jp/mobile/articles/2610/14/cover_news047.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/14/news046.html",
-      "title": "4台同時充電に対応した「Anker Power Bank」がセールで40％オフの1万790円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/14/news046.html",
-      "date": "2026-10-14T00:09:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/14/cover_news046.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/ranking/galapagos_ranking/2147769.html",
@@ -518,39 +562,6 @@
       "catLabel": "料金プラン",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2146/876/02.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2147387.html",
-      "title": "「e-ZUKAスマートアプリコンテスト2026」、受賞アプリ決定",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2147387.html",
-      "date": "2026-10-12T22:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2146889.html",
-      "title": "IIJmio、ローソン・ミニストップでデータ20％増量　Loppiのクーポンカード購入で",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2146889.html",
-      "date": "2026-10-12T21:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2146/889/IIJmio.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/minna/2147436.html",
-      "title": "Ray-Ban Metaの破損で感じたウェアラブルデバイスにおける保証サービスの重要度",
-      "link": "https://k-tai.watch.impress.co.jp/docs/column/minna/2147436.html",
-      "date": "2026-10-12T15:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": null
     },
     {
       "id": "ymobile-https://www.ymobile.jp/info/press/2026/26100902.html",
