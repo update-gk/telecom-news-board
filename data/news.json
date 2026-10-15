@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-10-15T16:44:17.075622+00:00",
+  "generated_at": "2026-10-15T21:11:23.642073+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2148488.html",
+      "title": "「docomo Starlink Direct」、接続者数1000万を突破",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2148488.html",
+      "date": "2026-10-15T21:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2148/488/01-1.jpg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/teppan/2148465.html",
       "title": "「Firefox」ならすぐに要約できて、拡張機能が使えて、プライバシーも守れる",
@@ -551,17 +562,6 @@
       "catLabel": "端末",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2147/797/01.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2147771.html",
-      "title": "550円の、七色に光る「テープライト　リモコン付」",
-      "link": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2147771.html",
-      "date": "2026-10-13T15:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": null
     },
     {
       "id": "docomo-https://www.docomo.ne.jp/support/product_update/f52b/index.html",
