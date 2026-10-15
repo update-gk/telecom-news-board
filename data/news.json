@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-10-15T11:13:32.059349+00:00",
+  "generated_at": "2026-10-15T16:44:17.075622+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/teppan/2148465.html",
+      "title": "「Firefox」ならすぐに要約できて、拡張機能が使えて、プライバシーも守れる",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/teppan/2148465.html",
+      "date": "2026-10-15T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2148/465/thumbnail.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/congress/2148092.html",
+      "title": "アップル初の折りたたみスマホ「iPhone Duo」は市場を席巻できるのか[法林岳之・石川温・石野純也・佐藤文彦のスマホ会議（仮）]",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/congress/2148092.html",
+      "date": "2026-10-15T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": null
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2144581.html",
+      "title": "d払い、「プライム感謝祭」抽選で最大100％ポイント還元　はじめて利用で還元率アップも",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2144581.html",
+      "date": "2026-10-15T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2144/581/01.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/15/news101.html",
+      "title": "バーガーキング公式アプリに不正アクセス　会員情報約1118万件が漏えい　氏名や電話番号、生年月日など",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/15/news101.html",
+      "date": "2026-10-15T11:23:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": null
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/15/news097.html",
+      "title": "「Yahoo!カレンダー」を「LINEカレンダー」へ刷新　単独アプリ化の背景と追加された新機能を解説",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/15/news097.html",
+      "date": "2026-10-15T10:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/15/cover_news097.jpg"
+    },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/15/news098.html",
       "title": "シャープの「AQUOS wish6」でカメラ機能が一部正常に動作しない不具合発生　ソフトウェア更新で対応予定",
@@ -289,17 +344,6 @@
       "image": "https://image.itmedia.co.jp/mobile/articles/2610/14/cover_news007.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/15/news044.html",
-      "title": "【3COINS】880円の「ライトパッカブルバックパック」　約53gで手のひらサイズに収納できる",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/15/news044.html",
-      "date": "2026-10-15T01:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/15/l_asa_100item_01.jpg"
-    },
-    {
       "id": "docomo-https://www.docomo.ne.jp/support/product_update/sh53e/index.html",
       "title": "「AQUOS sense9 SH-53E」のソフトウェアアップデート情報のお知らせ",
       "link": "https://www.docomo.ne.jp/support/product_update/sh53e/index.html",
@@ -518,39 +562,6 @@
       "catLabel": "その他",
       "carrier": null,
       "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2147830.html",
-      "title": "Apple、次世代スマートスピーカー「HomePod mini 2」を10月30日発売",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2147830.html",
-      "date": "2026-10-13T14:33:35+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2147/830/20.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2147825.html",
-      "title": "Apple、A19チップ搭載の「Apple TV 4K」発表、49800円で11月13日発売",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2147825.html",
-      "date": "2026-10-13T13:59:28+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2147/825/01.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2147824.html",
-      "title": "Apple、7型画面とSiri AI搭載のスマートディスプレイ「HomeView」発表",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2147824.html",
-      "date": "2026-10-13T13:53:58+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2147/824/10.jpg"
     },
     {
       "id": "docomo-https://www.docomo.ne.jp/support/product_update/f52b/index.html",
