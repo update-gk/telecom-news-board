@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-10-16T11:08:17.610960+00:00",
+  "generated_at": "2026-10-16T16:26:58.666741+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/17/news017.html",
+      "title": "緊急地震速報の「取り消し報も大音量」――爆音との声SNSに　気象庁「必要に応じて検討は行うべき」",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/17/news017.html",
+      "date": "2026-10-16T15:08:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/17/cover_news017.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2148968.html",
+      "title": "ドコモメール、詐欺メールにも「公式マーク」で注意呼びかけ",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2148968.html",
+      "date": "2026-10-16T13:45:35+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ドコモ",
+      "image": null
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/16/news115.html",
+      "title": "「iPhone Duo」の出荷がもう「2027年1月」表記に　受け取り枠が即埋まる",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/16/news115.html",
+      "date": "2026-10-16T13:45:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/16/cover_news115.jpg"
+    },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/16/news110.html",
       "title": "ドコモ「緊急地震速報が届かない」件を謝罪　エリアメール未配信の障害",
@@ -289,17 +322,6 @@
       "image": "https://image.itmedia.co.jp/mobile/articles/2610/16/cover_news062.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/16/news063.html",
-      "title": "スマホスタンド兼カード入れにもなる変形アクセサリー「MOFT 8-in-1多機能スタンド」がセールで30％オフの4746円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/16/news063.html",
-      "date": "2026-10-16T04:06:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/16/cover_news063.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2148741.html",
       "title": "16日昼の「緊急地震速報」は誤報、気象庁が取り消し",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2148741.html",
@@ -309,17 +331,6 @@
       "catLabel": "その他",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2148/741/261016.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/16/news064.html",
-      "title": "スクエアデザインがオシャレな完全ワイヤレスイヤフォン「オーディオテクニカ ATH-SQ1TW2」がセールで50％オフの5390円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/16/news064.html",
-      "date": "2026-10-16T04:04:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/16/cover_news064.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2148725.html",
@@ -606,17 +617,6 @@
       "catLabel": "キャンペーン",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2145/731/iij01.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/minna/2148152.html",
-      "title": "いい意味で期待を裏切られた「razr fold」のカメラ性能",
-      "link": "https://k-tai.watch.impress.co.jp/docs/column/minna/2148152.html",
-      "date": "2026-10-14T15:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2148/152/1.jpg"
     },
     {
       "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr-1191_4758.html",
