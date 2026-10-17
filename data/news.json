@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-10-17T10:27:35.217650+00:00",
+  "generated_at": "2026-10-17T15:21:16.340948+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2149044.html",
+      "title": "ドコモ、16日地震の「緊急地震速報」不配の原因を解消",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2149044.html",
+      "date": "2026-10-17T11:15:06+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ドコモ",
+      "image": null
+    },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/17/news022.html",
       "title": "ドコモ、KDDI、ソフトバンク、楽天モバイルが示すAI時代のインフラ戦略　今後は「上り」「低遅延」が重要に",
@@ -289,39 +300,6 @@
       "image": "https://image.itmedia.co.jp/mobile/articles/2610/16/cover_news090.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/16/news091.html",
-      "title": "JR東日本がスマホ／スマートウォッチ向け「Suica」の規約を改訂　teppayのサービス開始に伴い",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/16/news091.html",
-      "date": "2026-10-16T04:30:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/16/cover_news091.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/16/news075.html",
-      "title": "時速500kmのリニア車内で「スマホがつながる」　ドコモやJR東海らが挑む、ミリ波バックホールの車内基地局",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/16/news075.html",
-      "date": "2026-10-16T04:30:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "ドコモ",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/16/cover_news075.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/16/news089.html",
-      "title": "トレンドのグリーンカラーがおしゃれな完全ワイヤレスイヤフォン「JVCケンウッド Victor HA-A6T」がセールで18％オフの4455円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/16/news089.html",
-      "date": "2026-10-16T04:29:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/16/cover_news089.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2148741.html",
       "title": "16日昼の「緊急地震速報」は誤報、気象庁が取り消し",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2148741.html",
@@ -551,17 +529,6 @@
       "catLabel": "キャンペーン",
       "carrier": "ドコモ",
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2148/302/dp.png"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/sale/2148284.html",
-      "title": "ahamoの申し込み用コードが80円、2万円分のギフトカード進呈　Amazonプライム感謝祭",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/sale/2148284.html",
-      "date": "2026-10-15T02:53:41+00:00",
-      "sourceKey": "ktai",
-      "catKey": "mvno",
-      "catLabel": "MVNO・格安SIM",
-      "carrier": "ドコモ",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2148/284/01.jpg"
     },
     {
       "id": "docomo-https://www.docomo.ne.jp/support/product_update/sh53e/index.html",
