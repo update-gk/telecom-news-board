@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-10-17T20:24:34.618500+00:00",
+  "generated_at": "2026-10-17T22:58:49.773574+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/mca/2148998.html",
+      "title": "NTTドコモがすべきこと――基地局数から見える次の一手",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/mca/2148998.html",
+      "date": "2026-10-17T21:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ドコモ",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2148/998/01.png"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/18/news001.html",
+      "title": "折りたためない“横ワイド”画面なHuawei「Pura X View」",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/18/news001.html",
+      "date": "2026-10-17T21:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/18/cover_news001.jpg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2149044.html",
       "title": "ドコモ、16日地震の「緊急地震速報」不配の原因を解消",
@@ -289,17 +311,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2148/740/02.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/16/news090.html",
-      "title": "PCとスマホの同時急速充電に適した「Xiaomi 165W Power Bank 1万」がセールで33％オフの3980円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/16/news090.html",
-      "date": "2026-10-16T04:33:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/16/cover_news090.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2148741.html",
       "title": "16日昼の「緊急地震速報」は誤報、気象庁が取り消し",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2148741.html",
@@ -518,17 +529,6 @@
       "catLabel": "キャンペーン",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2148/319/cont200.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2148302.html",
-      "title": "ドコモ「dポイント」11周年、1億ポイント山分け　1カ月未ログインには追加進呈――11月1日から",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2148302.html",
-      "date": "2026-10-15T03:06:11+00:00",
-      "sourceKey": "ktai",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": "ドコモ",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2148/302/dp.png"
     },
     {
       "id": "docomo-https://www.docomo.ne.jp/support/product_update/sh53e/index.html",
