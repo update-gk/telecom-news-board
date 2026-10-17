@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-10-17T03:57:10.961266+00:00",
+  "generated_at": "2026-10-17T10:27:35.217650+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/17/news022.html",
+      "title": "ドコモ、KDDI、ソフトバンク、楽天モバイルが示すAI時代のインフラ戦略　今後は「上り」「低遅延」が重要に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/17/news022.html",
+      "date": "2026-10-17T08:23:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ドコモ",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/17/cover_news022.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2149027.html",
+      "title": "16日の緊急地震速報「M9.9」誤報の原因が明らかに、気象庁は緊急修正",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2149027.html",
+      "date": "2026-10-17T07:10:26+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2149/027/261016.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2149025.html",
+      "title": "ドコモの「緊急地震速報」不配、原因を発表　「従来と異なるデータ」で誤認識",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2149025.html",
+      "date": "2026-10-17T06:55:03+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ドコモ",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2149/025/dcm10.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/17/news018.html",
+      "title": "Appleがスマートディスプレイ「HomeView」を発表するも日本での発売は未定　そもそも出るのか？",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/17/news018.html",
+      "date": "2026-10-17T04:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/17/cover_news018.jpg"
+    },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/17/news002.html",
       "title": "一部iPhoneで「インカメラのシャッター音」を消せる？　iOS 27で確認、注意点も",
@@ -520,17 +564,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2148/284/01.jpg"
     },
     {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2148299.html",
-      "title": "IIJmioで「Xperia 10 VIII」が発売、MNPなら8.5万円",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2148299.html",
-      "date": "2026-10-15T02:46:42+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2148/299/cont100.jpg"
-    },
-    {
       "id": "docomo-https://www.docomo.ne.jp/support/product_update/sh53e/index.html",
       "title": "「AQUOS sense9 SH-53E」のソフトウェアアップデート情報のお知らせ",
       "link": "https://www.docomo.ne.jp/support/product_update/sh53e/index.html",
@@ -562,17 +595,6 @@
       "catLabel": "その他",
       "carrier": "ドコモ",
       "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/topic/special/2145731.html",
-      "title": "IIJmioで「arrows Alpha2」をおトクに買えるチャンス！　MNPで6万4980円～、本誌特別キャンペーンも[Sponsored]",
-      "link": "https://k-tai.watch.impress.co.jp/docs/topic/special/2145731.html",
-      "date": "2026-10-15T00:35:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2145/731/iij01.jpg"
     },
     {
       "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr-1191_4758.html",
