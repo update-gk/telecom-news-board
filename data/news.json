@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-10-16T23:23:49.504720+00:00",
+  "generated_at": "2026-10-17T03:57:10.961266+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/17/news002.html",
+      "title": "一部iPhoneで「インカメラのシャッター音」を消せる？　iOS 27で確認、注意点も",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/17/news002.html",
+      "date": "2026-10-17T01:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/17/cover_news002.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/17/news014.html",
+      "title": "【3COINS】1100円の「スキミング防止ポシェット」　パスポートなどのデータ読み取りリスクを軽減",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/17/news014.html",
+      "date": "2026-10-17T01:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/17/l_asa_100item_01.jpg"
+    },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/17/news017.html",
       "title": "緊急地震速報の「取り消し報も大音量」――爆音との声SNSに　気象庁「必要に応じて検討は行うべき」",
@@ -254,61 +276,6 @@
       "catLabel": "キャンペーン",
       "carrier": null,
       "image": "https://image.itmedia.co.jp/mobile/articles/2610/16/cover_news089.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/16/news057.html",
-      "title": "スマホの背面にくっつく薄型モバイルバッテリー「Anker Nano Power Bank（5000mAh, MagGo, Slim）」がセールで30％オフの5590円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/16/news057.html",
-      "date": "2026-10-16T04:12:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/16/cover_news057.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/16/news058.html",
-      "title": "ライカカメラ搭載スマホ「Xiaomi 17T Pro」がセールで17％オフの13万2809円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/16/news058.html",
-      "date": "2026-10-16T04:11:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/16/cover_news058.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/16/news059.html",
-      "title": "万が一の発火でも燃えにくいガジェットポーチ「Anker Style Pouch」がセールで20％オフの3990円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/16/news059.html",
-      "date": "2026-10-16T04:10:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/16/cover_news059.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/16/news060.html",
-      "title": "家中の赤外線リモコンを1台に集約できる「SwitchBot ハブミニ」がセールで15％オフの4650円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/16/news060.html",
-      "date": "2026-10-16T04:09:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/16/cover_news060.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/16/news061.html",
-      "title": "独特なデザインが魅力のオープンイヤー型イヤフォン「Nothing Ear (open)」がセールで35％オフの1万2800円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/16/news061.html",
-      "date": "2026-10-16T04:09:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/16/cover_news061.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2148741.html",
