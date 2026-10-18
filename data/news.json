@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-10-18T04:03:33.589128+00:00",
+  "generated_at": "2026-10-18T10:46:33.281244+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/18/news009.html",
+      "title": "総務省が端末購入プログラムの残価率を「メールで」議論――キャリアで購入するスマホはさらに「買いにくく」なるのか",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/18/news009.html",
+      "date": "2026-10-18T04:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/images/logo/1200x630_500x500_mobile.gif"
+    },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/18/news002.html",
       "title": "スマホの「充電80％止めで長持ち」「挿しっぱなし充電NG」は本当？　実験で見えた意外な結果",
