@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-10-17T22:58:49.773574+00:00",
+  "generated_at": "2026-10-18T04:03:33.589128+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/18/news002.html",
+      "title": "スマホの「充電80％止めで長持ち」「挿しっぱなし充電NG」は本当？　実験で見えた意外な結果",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/18/news002.html",
+      "date": "2026-10-18T03:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/18/cover_news002.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/17/news001.html",
+      "title": "スマホに「microSDスロット」はまだ必要？　自分に合ったデータの保存方法を考えよう",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/17/news001.html",
+      "date": "2026-10-18T01:30:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/17/cover_news001.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/18/news008.html",
+      "title": "ドコモ純正「3ポートACアダプタ02M」が20％オフ　ノートPCも充電できる",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/18/news008.html",
+      "date": "2026-10-18T01:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ドコモ",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/18/l_asa_amazon_01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2148436.html",
+      "title": "サムスン、「Galaxy Z Fold8/8 Ultra」購入でLINEマンガコイン2000円分　店舗に体験コーナーも",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2148436.html",
+      "date": "2026-10-18T00:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2148/436/001.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2148881.html",
+      "title": "Googleの「かこって検索」、詐欺メッセージをAIで判別できる新機能",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2148881.html",
+      "date": "2026-10-17T23:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2148/881/cts.jpg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/mca/2148998.html",
       "title": "NTTドコモがすべきこと――基地局数から見える次の一手",
@@ -507,28 +562,6 @@
       "catLabel": "料金プラン",
       "carrier": "au/KDDI",
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2148/386/kddi_nr-1198_4764_img_01.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2148337.html",
-      "title": "ドコモ「dカード PLATINUM」特典でポイント進呈誤り、不足分は補填済み",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2148337.html",
-      "date": "2026-10-15T03:47:51+00:00",
-      "sourceKey": "ktai",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": "ドコモ",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2148/337/dcard.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2148319.html",
-      "title": "IIJmioで「POCO F9 Ultra」が発売――セールで13万円～、MNPなら12.5万円～",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2148319.html",
-      "date": "2026-10-15T03:27:05+00:00",
-      "sourceKey": "ktai",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2148/319/cont200.jpg"
     },
     {
       "id": "docomo-https://www.docomo.ne.jp/support/product_update/sh53e/index.html",
