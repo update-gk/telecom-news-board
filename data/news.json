@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T20:25:22.207412+00:00",
+  "generated_at": "2026-10-18T22:55:53.467351+00:00",
   "errors": [],
   "articles": [
     {
@@ -353,28 +353,6 @@
       "catLabel": "端末",
       "carrier": null,
       "image": "https://image.itmedia.co.jp/mobile/articles/2610/16/l_asa_TORRAS_01.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/16/news096.html",
-      "title": "両面ソーラー充電採用のスマートウォッチ「Amazfit T-Rex Dual Solar」発売、最大180日間稼働",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/16/news096.html",
-      "date": "2026-10-16T06:23:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/16/l_asa_Amazfit_01.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/16/news100.html",
-      "title": "ソニー、最高峰ウォークマン3機種を発表　パーツを見直し高音質化　海外との価格差は",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/16/news100.html",
-      "date": "2026-10-16T06:15:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/16/l_rk1640414_walkman-01.jpg"
     },
     {
       "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr-1201_4767.html",
