@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-10-18T10:46:33.281244+00:00",
+  "generated_at": "2026-10-18T15:42:14.940198+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2148882.html",
+      "title": "寝返りも横持ちゲームも快適にするUSB Type-Cアダプター「二子玉川ロータリー」",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2148882.html",
+      "date": "2026-10-18T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2148/882/5thumb.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/stapa/2148837.html",
+      "title": "構図はもう勘に頼らない！　「Qshot V2 Pro」でスマホの自撮りが超快適に",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/stapa/2148837.html",
+      "date": "2026-10-18T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2148/837/thumbnail.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/minna/2148744.html",
+      "title": "ストックホルムの家電店で謎メーカースマホや再生品iPhoneを見てきた",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/minna/2148744.html",
+      "date": "2026-10-18T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2148/744/01.jpg"
+    },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/18/news009.html",
       "title": "総務省が端末購入プログラムの残価率を「メールで」議論――キャリアで購入するスマホはさらに「買いにくく」なるのか",
@@ -540,39 +573,6 @@
       "catLabel": "その他",
       "carrier": "au/KDDI",
       "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2148338.html",
-      "title": "auフィナンシャルサービスなど3社が連携、独自クレカ発行基盤を構築へ",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2148338.html",
-      "date": "2026-10-15T05:43:55+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "au/KDDI",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2148/338/au.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2148377.html",
-      "title": "「ミライノカード」発行元がライフカードに、“ドコモの銀行”との提携終了で",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2148377.html",
-      "date": "2026-10-15T05:40:38+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "ドコモ",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2148/377/001.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2148386.html",
-      "title": "KDDI「au海外放題」が27年2月にリニューアル、対象プランは自動で開始　事前予約は廃止で一律980円に",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2148386.html",
-      "date": "2026-10-15T05:35:39+00:00",
-      "sourceKey": "ktai",
-      "catKey": "price",
-      "catLabel": "料金プラン",
-      "carrier": "au/KDDI",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2148/386/kddi_nr-1198_4764_img_01.jpg"
     },
     {
       "id": "docomo-https://www.docomo.ne.jp/support/product_update/sh53e/index.html",
