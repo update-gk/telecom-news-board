@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-10-19T12:47:09.280620+00:00",
+  "generated_at": "2026-10-19T20:29:49.224251+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2149425.html",
+      "title": "ファーウェイのヘルスケア事業と開発体制、中国本社で見た「TruSense System」と巨大研究施設の裏側",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2149425.html",
+      "date": "2026-10-19T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": null
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/minna/2149396.html",
+      "title": "Pixelスマホの文字起こしをPCで表示・編集できるようにしよう！",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/minna/2149396.html",
+      "date": "2026-10-19T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": null
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/ishikawa/2149381.html",
+      "title": "スマートディスプレイに参入したApple、「スマートホーム」普及を妨げる日本の\"家\"事情とは",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/ishikawa/2149381.html",
+      "date": "2026-10-19T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2149/381/001.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2146374.html",
+      "title": "充電式・マルチ接続・多機能と3拍子揃ったお手頃なマウス「OSMOD Six」",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2146374.html",
+      "date": "2026-10-19T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": null
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2149443.html",
+      "title": "ニフティ、回線申込管理システムに不正アクセス 最大54万件の個人情報漏えいの可能性",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2149443.html",
+      "date": "2026-10-19T14:28:49+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2149/443/261019.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/19/news114.html",
+      "title": "「My SoftBank」「My Y!mobile」などを一時停止　「第三者による不正アクセスの試みがあった」",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/19/news114.html",
+      "date": "2026-10-19T12:31:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ソフトバンク",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/19/l_st52693_msb-01.jpg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2149436.html",
       "title": "ソフトバンク、「My SoftBank」など会員向けWebサイトを一時停止　不正アクセスの試みを検知",
@@ -278,28 +344,6 @@
       "image": "https://image.itmedia.co.jp/mobile/articles/2610/19/cover_news072.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/19/news069.html",
-      "title": "iPhone Duo予約開始で「異例の争奪戦」　マーク・ガーマン氏は批判",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/19/news069.html",
-      "date": "2026-10-19T03:03:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/19/cover_news069.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/19/news071.html",
-      "title": "デジタル庁が「Androidのマイナンバーカード」対応機種を公表　属性証明機能を使える機種は限定的",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/19/news071.html",
-      "date": "2026-10-19T03:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/19/cover_news071.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2149170.html",
       "title": "「d払い」の利用限度額が11月から変更、18～19歳は最大1万円→3万円に",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2149170.html",
@@ -476,28 +520,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2148/830/ndd.jpg"
     },
     {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2148805.html",
-      "title": "ワイモバイルがスマホ1円や還元増額、オンラインストアで",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2148805.html",
-      "date": "2026-10-16T07:27:24+00:00",
-      "sourceKey": "ktai",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": "Y!mobile",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2148/805/00.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2148790.html",
-      "title": "アマゾンが東京都・日比谷で「海外ハイテク家電祭り」、プライム感謝祭にあわせ実機を展示",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2148790.html",
-      "date": "2026-10-16T07:12:24+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2148/790/215.jpg"
-    },
-    {
       "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr-1201_4767.html",
       "title": "「auひかり」の料金改定および「でんきセット割」の提供開始について",
       "link": "https://newsroom.kddi.com/news/detail/kddi_nr-1201_4767.html",
@@ -507,39 +529,6 @@
       "catLabel": "料金プラン",
       "carrier": "au/KDDI",
       "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2148779.html",
-      "title": "16日昼の「緊急地震速報」誤報、気象庁は「サイバー攻撃ではない」",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2148779.html",
-      "date": "2026-10-16T05:20:18+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2148/779/0291.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2148740.html",
-      "title": "au PAY、「東京ポイント」から交換で先着2万人に最大1000Pontaポイント",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2148740.html",
-      "date": "2026-10-16T05:18:54+00:00",
-      "sourceKey": "ktai",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": "au/KDDI",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2148/740/02.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2148741.html",
-      "title": "16日昼の「緊急地震速報」は誤報、気象庁が取り消し",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2148741.html",
-      "date": "2026-10-16T04:04:49+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2148/741/261016.jpg"
     },
     {
       "id": "docomo-https://www.docomo.ne.jp/corporate/anatatodocomo/docomoeveryday/article233/index.html?icid=CRP_INFO_to_CRP_CORP_anatatodocomo_docomoeveryday_article233",
