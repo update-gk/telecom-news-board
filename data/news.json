@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T19:06:37.720017+00:00",
+  "generated_at": "2026-10-20T23:43:52.232764+00:00",
   "errors": [],
   "articles": [
     {
@@ -353,17 +353,6 @@
       "catLabel": "その他",
       "carrier": "ドコモ",
       "image": "https://image.itmedia.co.jp/mobile/articles/2610/20/l_asa_amazon_01.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/20/news058.html",
-      "title": "「Androidのマイナンバーカード」サービス開始　概要とセットアップ方法を紹介",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/20/news058.html",
-      "date": "2026-10-20T01:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/20/cover_news058.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2149371.html",
