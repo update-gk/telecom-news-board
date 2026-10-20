@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-10-20T08:22:15.474370+00:00",
+  "generated_at": "2026-10-20T14:13:36.704165+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/20/news083.html",
+      "title": "マネックス証券が新規口座開設を一時停止　外部委託先システムに不正アクセス試行の痕跡",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/20/news083.html",
+      "date": "2026-10-20T13:21:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/20/l_st52693_mn-01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2149754.html",
+      "title": "DJI、デュアルレンズカメラ「Osmo Pocket 4P」のパールホワイトを発売",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2149754.html",
+      "date": "2026-10-20T12:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2149/754/01-01.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/20/news082.html",
+      "title": "Y!mobileが「ハロウィンセール」開催　スマホが一括1円などの割引、1万ポイント増量など",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/20/news082.html",
+      "date": "2026-10-20T10:18:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": "Y!mobile",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/20/l_asa_YmobileHW_01.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/20/news077.html",
+      "title": "LIBMOが「超なっとくプラン」提供　データ増量で40GBが2970円に、光回線のセット割引も拡充",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/20/news077.html",
+      "date": "2026-10-20T09:09:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "price",
+      "catLabel": "料金プラン",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/20/l_asa_LIBMO_01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2149736.html",
+      "title": "NTTや古河電工など、次世代AI向け光電融合デバイスの量産へ",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2149736.html",
+      "date": "2026-10-20T08:52:30+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2149/736/00.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2149732.html",
+      "title": "JR東「teppay」の本人確認（eKYC）は「マイナカード限定」、運転免許証は利用不可",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2149732.html",
+      "date": "2026-10-20T08:40:06+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2149/732/cont500.jpg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2149718.html",
       "title": "マネックス証券が新規口座開設の受付を一時停止、外部委託先に不正アクセス形跡",
@@ -12,6 +78,28 @@
       "catLabel": "その他",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2149/718/cont0.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/20/news075.html",
+      "title": "ニューズドテック、再生スマホ「Newsed Phone＋」を一般販売開始　コーディング＋施工証明付き",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/20/news075.html",
+      "date": "2026-10-20T08:08:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/20/l_asa_newsedtec_01.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/20/news072.html",
+      "title": "Pontaパスで「ポイントプレミアム交換」開始　1ポイント1円以上の交換が可能に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/20/news072.html",
+      "date": "2026-10-20T07:44:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/20/l_asa_KDDI_01.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2149690.html",
@@ -45,6 +133,17 @@
       "catLabel": "その他",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2149/664/apple.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/20/news069.html",
+      "title": "Y!mobileの認定中古「iPhone SE（第3世代）」、64GBモデルがMNPで1円　11月2日まで【スマホお得情報】",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/20/news069.html",
+      "date": "2026-10-20T05:01:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "Y!mobile",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/20/l_asa_sumaotoku_01.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2149600.html",
@@ -245,28 +344,6 @@
       "image": null
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/20/news050.html",
-      "title": "Suicaとどう違う？　新コード決済「teppay」の使い方から加盟店まで、まとめて解説",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/20/news050.html",
-      "date": "2026-10-19T22:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/20/cover_news050.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/20/news042.html",
-      "title": "新コード決済「teppay」きょう開始　提供の狙いは？　“キャッシュレス疲れ”解消なるか",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/20/news042.html",
-      "date": "2026-10-19T21:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/20/cover_news042.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2149425.html",
       "title": "ファーウェイのヘルスケア事業と開発体制、中国本社で見た「TruSense System」と巨大研究施設の裏側",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2149425.html",
@@ -397,39 +474,6 @@
       "catLabel": "その他",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2149/297/01.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/sale/2149227.html",
-      "title": "Amazonプライム感謝祭は本日まで、Spigenのスマホケースや保護フィルムが最大半額",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/sale/2149227.html",
-      "date": "2026-10-19T04:14:16+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2149/227/list.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2149246.html",
-      "title": "ドコモ「カエドキプログラム」、「iPhone Air」残価変更　1TBモデルは実質7.6万円に",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2149246.html",
-      "date": "2026-10-19T04:13:18+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "ドコモ",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2149/246/08.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2149248.html",
-      "title": "声でメールを探せる「Gmail Live」がGoogle Workspaceでも提供開始、米国英語ユーザーから",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2149248.html",
-      "date": "2026-10-19T04:13:05+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2149/248/cont0.jpg"
     },
     {
       "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20261019_01/",
