@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-10-20T14:13:36.704165+00:00",
+  "generated_at": "2026-10-20T19:06:37.720017+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/minna/2149701.html",
+      "title": "部屋から4キャリア電測してみたくなって、インバウンド用eSIMに手を出してみたんだが。",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/minna/2149701.html",
+      "date": "2026-10-20T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "mvno",
+      "catLabel": "MVNO・格安SIM",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2149/701/01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/stapaapple/2149696.html",
+      "title": "流れる冷却水が見える！！　UGREENのMagSafe対応モバイルバッテリーを購入！",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/stapaapple/2149696.html",
+      "date": "2026-10-20T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2149/696/stpapl2026-10-21thumbnail.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2149594.html",
+      "title": "ケーブルを束ねられて抜き差しも容易、先端部がリング状になったUSB Type-Cケーブル",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2149594.html",
+      "date": "2026-10-20T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2149/594/01.jpg"
+    },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/20/news083.html",
       "title": "マネックス証券が新規口座開設を一時停止　外部委託先システムに不正アクセス試行の痕跡",
@@ -441,39 +474,6 @@
       "catLabel": "端末",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2149/346/01.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2149368.html",
-      "title": "KDDIの法人向け5Gスマホ「DIGNO SX5 KYG07」発売",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2149368.html",
-      "date": "2026-10-19T08:42:30+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "au/KDDI",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2149/368/01.png"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2149326.html",
-      "title": "ボナベンチュラ、「iPhone Duo」向けのレザーケース予約中　約3.2万円",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2149326.html",
-      "date": "2026-10-19T07:53:51+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2149/326/01.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2149297.html",
-      "title": "Gmailの「AI Inbox」機能がWorkspaceユーザーでも利用可能に、英語設定の米国ユーザーが対象",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2149297.html",
-      "date": "2026-10-19T07:53:48+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2149/297/01.jpg"
     },
     {
       "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20261019_01/",
