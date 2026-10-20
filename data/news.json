@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-10-19T20:29:49.224251+00:00",
+  "generated_at": "2026-10-20T00:11:34.354503+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/20/news050.html",
+      "title": "Suicaとどう違う？　新コード決済「teppay」の使い方から加盟店まで、まとめて解説",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/20/news050.html",
+      "date": "2026-10-19T22:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/20/cover_news050.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/20/news042.html",
+      "title": "新コード決済「teppay」きょう開始　提供の狙いは？　“キャッシュレス疲れ”解消なるか",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/20/news042.html",
+      "date": "2026-10-19T21:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/20/cover_news042.jpg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2149425.html",
       "title": "ファーウェイのヘルスケア事業と開発体制、中国本社で見た「TruSense System」と巨大研究施設の裏側",
@@ -223,17 +245,6 @@
       "image": "https://image.itmedia.co.jp/mobile/articles/2610/19/cover_news089.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/19/news090.html",
-      "title": "車内で本格ホームシアター体験、移動型で提案――Aladdin XとMONET Technologies",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/19/news090.html",
-      "date": "2026-10-19T05:35:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/19/cover_news090.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/sale/2149227.html",
       "title": "Amazonプライム感謝祭は本日まで、Spigenのスマホケースや保護フィルムが最大半額",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/sale/2149227.html",
@@ -287,61 +298,6 @@
       "catLabel": "その他",
       "carrier": null,
       "image": null
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/19/news078.html",
-      "title": "本日まで　安全性の高い半固体電池を採用した「エレコム モバイルバッテリー EC-C60MN」がセールで25％オフの2990円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/19/news078.html",
-      "date": "2026-10-19T03:29:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/19/cover_news078.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/19/news077.html",
-      "title": "本日まで！　散らかるデスクの整理に役立つ「コクヨ スタンドツールポーチ ハコビズ AMBG-SP100DM」がセールで10％オフの3861円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/19/news077.html",
-      "date": "2026-10-19T03:28:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/19/cover_news077.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/19/news076.html",
-      "title": "本日まで　USB Type-Cケーブルを本体に収納できる「UGREEN 45W 巻き取り式充電器」がセールで30％オフの3206円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/19/news076.html",
-      "date": "2026-10-19T03:25:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/19/cover_news076.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/19/news074.html",
-      "title": "本日まで　カラーバリエーション豊富で巻き癖がつきにくい「Anker PowerLine III Flow USB-C & USB-C ケーブル (1.8m)」がセールで32％オフの1290円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/19/news074.html",
-      "date": "2026-10-19T03:19:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/19/cover_news074.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/19/news072.html",
-      "title": "本日まで　PCなしでスマホに音楽CDを取り込める「アイオーデータ CDレコ6 CD-6WW/E」がセールで10％オフの1万6020円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/19/news072.html",
-      "date": "2026-10-19T03:15:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/19/cover_news072.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2149170.html",
