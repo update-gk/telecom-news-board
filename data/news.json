@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-10-20T23:43:52.232764+00:00",
+  "generated_at": "2026-10-21T04:15:23.496194+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2149769.html",
+      "title": "「iPhone Duo」の発表を知っている人は38.0％、購入意向は10.5％　MMD研究所調べ",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2149769.html",
+      "date": "2026-10-21T03:02:38+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2149/769/01-01.png"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2149902.html",
+      "title": "IIJmioで「Nothing Phone (4b)」発売、乗り換えなら4万9800円",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2149902.html",
+      "date": "2026-10-21T03:02:32+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2149/902/01.png"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/ranking/galapagos_ranking/2149767.html",
+      "title": "電子書籍人気ランキング（10月9日～10月15日）",
+      "link": "https://k-tai.watch.impress.co.jp/docs/ranking/galapagos_ranking/2149767.html",
+      "date": "2026-10-21T03:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/include/common/p01/images/logo/ktw.l.png"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/21/news039.html",
+      "title": "【3COINS】330円の「平紐バックル付きスマホショルダー」　バックル付きで簡単着脱",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/21/news039.html",
+      "date": "2026-10-21T01:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/21/l_asa_100item_01.jpg"
+    },
+    {
+      "id": "docomo-https://www.docomo.ne.jp/corporate/anatatodocomo/docomoeveryday/article234/index.html?icid=CRP_INFO_to_CRP_CORP_anatatodocomo_docomoeveryday_article234",
+      "title": "あなたとドコモ 新着記事：いつもの扉でバーチャル空間へ。みんなの声で磨くMR技術を使った未来の扉",
+      "link": "https://www.docomo.ne.jp/corporate/anatatodocomo/docomoeveryday/article234/index.html?icid=CRP_INFO_to_CRP_CORP_anatatodocomo_docomoeveryday_article234",
+      "date": "2026-10-21T01:00:00+00:00",
+      "sourceKey": "docomo",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ドコモ",
+      "image": null
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/minna/2149701.html",
       "title": "部屋から4キャリア電測してみたくなって、インバウンド用eSIMに手を出してみたんだが。",
@@ -34,6 +89,17 @@
       "catLabel": "その他",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2149/594/01.jpg"
+    },
+    {
+      "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20261021_01/",
+      "title": "「DIGNO® BX4」を法人向けに“ソフトバンク”で10月28日に発売",
+      "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20261021_01/",
+      "date": "2026-10-20T15:00:00+00:00",
+      "sourceKey": "softbank",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "ソフトバンク",
+      "image": null
     },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/20/news083.html",
@@ -168,17 +234,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2149/664/apple.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/20/news069.html",
-      "title": "Y!mobileの認定中古「iPhone SE（第3世代）」、64GBモデルがMNPで1円　11月2日まで【スマホお得情報】",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/20/news069.html",
-      "date": "2026-10-20T05:01:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "Y!mobile",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/20/l_asa_sumaotoku_01.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2149600.html",
       "title": "JRE BANK、コード決済「teppay」チャージで「JR東日本 鉄道4割引優待券」がもらえる新条件を追加",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2149600.html",
@@ -223,17 +278,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2149/548/02.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/20/news065.html",
-      "title": "“PayPay追撃”ではなく「Suicaの価値向上」──新決済「teppay」の意義や狙いを聞いた",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/20/news065.html",
-      "date": "2026-10-20T03:44:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/20/cover_news065.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2149554.html",
       "title": "ビックカメラ、モバイルSuicaの新コード決済「teppay」対応　最大35％還元も",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2149554.html",
@@ -254,17 +298,6 @@
       "catLabel": "その他",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2149/555/cont100.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/20/news064.html",
-      "title": "富士ソフトからpovo2.0を組み込んだeSIM対応モバイルルーター　10GB／365日間、基本料0円",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/20/news064.html",
-      "date": "2026-10-20T03:30:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "mvno",
-      "catLabel": "MVNO・格安SIM",
-      "carrier": "au/KDDI",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/20/cover_news064.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2149542.html",
@@ -331,28 +364,6 @@
       "catLabel": "端末",
       "carrier": null,
       "image": null
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/20/news020.html",
-      "title": "5万9800円の「Phone (4b)」が示すNothingの戦略　FeliCa対応＆洗練された透過デザイン",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/20/news020.html",
-      "date": "2026-10-20T02:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/20/cover_news020.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/20/news048.html",
-      "title": "ドコモ純正「準固体モバイルバッテリー01M」　発火リスク低減しながら長寿命も実現",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/20/news048.html",
-      "date": "2026-10-20T01:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "ドコモ",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/20/l_asa_amazon_01.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2149371.html",
@@ -430,39 +441,6 @@
       "catLabel": "端末",
       "carrier": "楽天モバイル",
       "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2149443.html",
-      "title": "ニフティ、回線申込管理システムに不正アクセス 最大54万件の個人情報漏えいの可能性",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2149443.html",
-      "date": "2026-10-19T14:28:49+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2149/443/261019.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2149436.html",
-      "title": "ソフトバンク、「My SoftBank」など会員向けWebサイトを一時停止　不正アクセスの試みを検知",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2149436.html",
-      "date": "2026-10-19T12:01:45+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "ソフトバンク",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2149/436/sbhq.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2149346.html",
-      "title": "デジタル庁、Androidのマイナカード対応機種を公開",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2149346.html",
-      "date": "2026-10-19T08:42:37+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2149/346/01.jpg"
     },
     {
       "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20261019_01/",
@@ -699,17 +677,6 @@
       "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc55b/index.html",
       "title": "「Galaxy Z Fold3 5G SC-55B」のソフトウェアアップデート情報のお知らせ",
       "link": "https://www.docomo.ne.jp/support/product_update/sc55b/index.html",
-      "date": "2026-10-07T01:00:00+00:00",
-      "sourceKey": "docomo",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "ドコモ",
-      "image": null
-    },
-    {
-      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc54b/index.html",
-      "title": "「Galaxy Z Flip3 5G SC-54B」のソフトウェアアップデート情報のお知らせ",
-      "link": "https://www.docomo.ne.jp/support/product_update/sc54b/index.html",
       "date": "2026-10-07T01:00:00+00:00",
       "sourceKey": "docomo",
       "catKey": "device",
@@ -1253,17 +1220,6 @@
       "sourceKey": "softbank",
       "catKey": "device",
       "catLabel": "端末",
-      "carrier": "ソフトバンク",
-      "image": null
-    },
-    {
-      "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260804_01/",
-      "title": "2027年3月期 第1四半期 決算発表",
-      "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260804_01/",
-      "date": "2026-08-03T15:00:00+00:00",
-      "sourceKey": "softbank",
-      "catKey": "other",
-      "catLabel": "その他",
       "carrier": "ソフトバンク",
       "image": null
     },
