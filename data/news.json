@@ -1,7 +1,194 @@
 {
-  "generated_at": "2026-10-21T04:15:23.496194+00:00",
+  "generated_at": "2026-10-21T11:32:53.936859+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2150140.html",
+      "title": "ファーウェイ、26年下半期新製品発表会を開催　「WATCH GT 7」シリーズや「FreeBuds Neo」を発表",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2150140.html",
+      "date": "2026-10-21T10:48:24+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": null
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2150009.html",
+      "title": "イオン、一部Webサイトで不正アクセスを検知　個人情報流出など調査",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2150009.html",
+      "date": "2026-10-21T10:09:21+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2150/009/aeon.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2150117.html",
+      "title": "ふるさと納税サイト「ふるさとチョイス」に不正アクセス、寄附者445万人のデータ流出",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2150117.html",
+      "date": "2026-10-21T10:09:18+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2150/117/01-1.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2150089.html",
+      "title": "子どものコンセント感電に注意、やけどや\"電撃傷\"で入院のケースも　国民生活センターが呼びかけ",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2150089.html",
+      "date": "2026-10-21T10:01:39+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2150/089/01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2150106.html",
+      "title": "PLAUDから新製品「Plaud One」「Plaud Note Pro Flow Edition」、進化したAIエージェント機能で資料作成から共有まで丸投げ",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2150106.html",
+      "date": "2026-10-21T10:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "au/KDDI",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2150/106/cont200.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2150060.html",
+      "title": "PLAUDから“一台三役”のAIボイスレコーダー「Plaud One」が数量限定発売へ、AIエージェント兼イヤホンに",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2150060.html",
+      "date": "2026-10-21T10:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "au/KDDI",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2150/060/cont100.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/21/news068.html",
+      "title": "「teppay」導入記念、ビックカメラSuicaカード連携で最大35％還元　カード入会で1万1000円相当付与も",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/21/news068.html",
+      "date": "2026-10-21T09:15:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/21/l_asa_bicteppay_01.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/21/news062.html",
+      "title": "ソフトバンクで約36.5万円の「iPhone Air（1TB）」、MNPで2年間約7.2万円【スマホお得情報】",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/21/news062.html",
+      "date": "2026-10-21T09:02:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "ソフトバンク",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/21/l_asa_sumaotoku_01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2149990.html",
+      "title": "AIレコーダー「Memoket Gem」発売、アンカー出身者たちが描く「会話をAIの記憶に」するビジョン",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2149990.html",
+      "date": "2026-10-21T06:36:11+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2149/990/72.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/21/news060.html",
+      "title": "ポケポケ、拡張パック「デュアルフュージョン」登場　御三家ポケモンが登場するスペシャルパックも",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/21/news060.html",
+      "date": "2026-10-21T06:34:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/21/l_asa_pokepoke_01.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/21/news056.html",
+      "title": "高強度アルミ合金の「UNICASE×ZERO HALLIBURTON」iPhone 18 Proケース　ロゴ刻印＆限定パッケージで提供",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/21/news056.html",
+      "date": "2026-10-21T06:27:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/21/l_asa_UNICASE_01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2149898.html",
+      "title": "ファーウェイ、最大21日間駆動の「HUAWEI WATCH GT 7／GT 7 Pro」発表　ゴルフ・スキー機能を大幅進化",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2149898.html",
+      "date": "2026-10-21T06:15:16+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": null
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2149899.html",
+      "title": "ファーウェイ、薄型・軽量化された「HUAWEI WATCH 6」発表　X-TAPセンサーや2台同時接続でスマート体験を強化",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2149899.html",
+      "date": "2026-10-21T06:15:12+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": null
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2149859.html",
+      "title": "ファーウェイ、「HUAWEI FreeBuds Neo」発表　映像やゲームに最適な小型フラッグシップ",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2149859.html",
+      "date": "2026-10-21T06:15:08+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2149/859/IMG_20261021_143754.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/21/news010.html",
+      "title": "「HUAWEI WATCH 6」発表、9項目の健康データを60秒で測定　八角形のスポーツウォッチ「HUAWEI WATCH GT 7／GT 7 Pro」も",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/21/news010.html",
+      "date": "2026-10-21T06:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/21/cover_news010.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/21/news055.html",
+      "title": "「HUAWEI FreeBuds Neo」発売　1万円台で“世界最高水準のノイキャン性能”をうたう",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/21/news055.html",
+      "date": "2026-10-21T06:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/21/cover_news055.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2149969.html",
+      "title": "グーグルの車載AIが自分仕様に、Gemini「Personal Intelligence」導入でメールや写真から目的地検索",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2149969.html",
+      "date": "2026-10-21T05:22:02+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2149/969/08.jpg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2149769.html",
       "title": "「iPhone Duo」の発表を知っている人は38.0％、購入意向は10.5％　MMD研究所調べ",
@@ -102,17 +289,6 @@
       "image": null
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/20/news083.html",
-      "title": "マネックス証券が新規口座開設を一時停止　外部委託先システムに不正アクセス試行の痕跡",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/20/news083.html",
-      "date": "2026-10-20T13:21:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/20/l_st52693_mn-01.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2149754.html",
       "title": "DJI、デュアルレンズカメラ「Osmo Pocket 4P」のパールホワイトを発売",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2149754.html",
@@ -122,28 +298,6 @@
       "catLabel": "端末",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2149/754/01-01.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/20/news082.html",
-      "title": "Y!mobileが「ハロウィンセール」開催　スマホが一括1円などの割引、1万ポイント増量など",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/20/news082.html",
-      "date": "2026-10-20T10:18:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": "Y!mobile",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/20/l_asa_YmobileHW_01.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/20/news077.html",
-      "title": "LIBMOが「超なっとくプラン」提供　データ増量で40GBが2970円に、光回線のセット割引も拡充",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/20/news077.html",
-      "date": "2026-10-20T09:09:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "price",
-      "catLabel": "料金プラン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/20/l_asa_LIBMO_01.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2149736.html",
@@ -177,28 +331,6 @@
       "catLabel": "その他",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2149/718/cont0.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/20/news075.html",
-      "title": "ニューズドテック、再生スマホ「Newsed Phone＋」を一般販売開始　コーディング＋施工証明付き",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/20/news075.html",
-      "date": "2026-10-20T08:08:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/20/l_asa_newsedtec_01.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/20/news072.html",
-      "title": "Pontaパスで「ポイントプレミアム交換」開始　1ポイント1円以上の交換が可能に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/20/news072.html",
-      "date": "2026-10-20T07:44:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/20/l_asa_KDDI_01.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2149690.html",
@@ -300,127 +432,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2149/555/cont100.jpg"
     },
     {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2149542.html",
-      "title": "povo、「ConnectIN povo」ラインアップ追加　10GB（1年間）付属のモバイルWi-Fiルーター「+F FS045W」発売",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2149542.html",
-      "date": "2026-10-20T03:23:50+00:00",
-      "sourceKey": "ktai",
-      "catKey": "mvno",
-      "catLabel": "MVNO・格安SIM",
-      "carrier": "au/KDDI",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2149/542/pf.png"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2149532.html",
-      "title": "楽天モバイル、「Nothing Phone (4b)」を27日発売",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2149532.html",
-      "date": "2026-10-20T03:13:41+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "楽天モバイル",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2149/532/02.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2149515.html",
-      "title": "楽天モバイル、Apple Watchを最大4.3万円値下げ　外装不良品も",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2149515.html",
-      "date": "2026-10-20T02:50:19+00:00",
-      "sourceKey": "ktai",
-      "catKey": "price",
-      "catLabel": "料金プラン",
-      "carrier": "楽天モバイル",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2149/515/00.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2149513.html",
-      "title": "Pontaポイントを1円以上の価値で交換　新たなポイント交換サービスが29日から",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2149513.html",
-      "date": "2026-10-20T02:50:15+00:00",
-      "sourceKey": "ktai",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2149/513/01.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2149522.html",
-      "title": "povo、他社からの乗り換えと「あと払い（ペイディ）」で追加キャッシュバック",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2149522.html",
-      "date": "2026-10-20T02:38:33+00:00",
-      "sourceKey": "ktai",
-      "catKey": "mvno",
-      "catLabel": "MVNO・格安SIM",
-      "carrier": "au/KDDI",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2149/522/Paidy.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2148901.html",
-      "title": "Nothing、新型スマホ「Phone (4b)」を10月27日発売　5万9800円でFeliCa対応",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2148901.html",
-      "date": "2026-10-20T02:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2149371.html",
-      "title": "「Androidのマイナンバーカード」スタート、スマホだけで本人確認が可能に",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2149371.html",
-      "date": "2026-10-20T00:36:57+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2149425.html",
-      "title": "ファーウェイのヘルスケア事業と開発体制、中国本社で見た「TruSense System」と巨大研究施設の裏側",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2149425.html",
-      "date": "2026-10-19T15:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/minna/2149396.html",
-      "title": "Pixelスマホの文字起こしをPCで表示・編集できるようにしよう！",
-      "link": "https://k-tai.watch.impress.co.jp/docs/column/minna/2149396.html",
-      "date": "2026-10-19T15:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/ishikawa/2149381.html",
-      "title": "スマートディスプレイに参入したApple、「スマートホーム」普及を妨げる日本の\"家\"事情とは",
-      "link": "https://k-tai.watch.impress.co.jp/docs/column/ishikawa/2149381.html",
-      "date": "2026-10-19T15:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2149/381/001.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2146374.html",
-      "title": "充電式・マルチ接続・多機能と3拍子揃ったお手頃なマウス「OSMOD Six」",
-      "link": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2146374.html",
-      "date": "2026-10-19T15:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": null
-    },
-    {
       "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20261020_01/",
       "title": "ソフトバンクとノキア、ソフトバンクの商用ネットワークにおけるAI-RANのフィールドトライアル実施に合意",
       "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20261020_01/",
@@ -473,6 +484,17 @@
       "catKey": "other",
       "catLabel": "その他",
       "carrier": "ドコモ",
+      "image": null
+    },
+    {
+      "id": "ymobile-https://www.ymobile.jp/info/press/2026/26101602.html",
+      "title": "超トク！Android 機種変更キャンペーンで最大10,000円相当のPayPayポイントプレゼント！",
+      "link": "https://www.ymobile.jp/info/press/2026/26101602.html",
+      "date": "2026-10-15T15:00:00+00:00",
+      "sourceKey": "ymobile",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": "Y!mobile",
       "image": null
     },
     {
@@ -1308,17 +1330,6 @@
       "sourceKey": "ymobile",
       "catKey": "mvno",
       "catLabel": "MVNO・格安SIM",
-      "carrier": "Y!mobile",
-      "image": null
-    },
-    {
-      "id": "ymobile-https://www.ymobile.jp/info/press/2026/26062601.html",
-      "title": "Yahoo!ショッピング「超PayPay祭」がスタート！",
-      "link": "https://www.ymobile.jp/info/press/2026/26062601.html",
-      "date": "2026-06-25T15:00:00+00:00",
-      "sourceKey": "ymobile",
-      "catKey": "other",
-      "catLabel": "その他",
       "carrier": "Y!mobile",
       "image": null
     },
