@@ -1,7 +1,97 @@
 {
-  "generated_at": "2026-10-21T11:32:53.936859+00:00",
-  "errors": [],
+  "generated_at": "2026-10-21T17:00:01.611862+00:00",
+  "errors": [
+    "Y!mobile (scrape): 503 Server Error: Service Temporarily Unavailable for url: https://www.ymobile.jp/info/"
+  ],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2150133.html",
+      "title": "楽天市場が緊急メンテ、その他の企業サイト・サービスも続々メンテ　21日夜～",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2150133.html",
+      "date": "2026-10-21T15:04:47+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "楽天モバイル",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2150/133/rktn.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2150090.html",
+      "title": "取り外して使うキーの扱いに便利、手軽に外せるキーホルダー",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2150090.html",
+      "date": "2026-10-21T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2150/090/01-1.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/value/2150069.html",
+      "title": "ドコモの新料金プラン「ドコモmini2」は家族間通話が無料、月880円の通話オプションは必要か",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/value/2150069.html",
+      "date": "2026-10-21T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "price",
+      "catLabel": "料金プラン",
+      "carrier": "ドコモ",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2150/069/01-1.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2149795.html",
+      "title": "まるでテーマパーク！　ファーウェイ中国巨大施設で最新スマホ「Mate 90」や自動運転を体験",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2149795.html",
+      "date": "2026-10-21T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": null
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/minna/2149727.html",
+      "title": "なぜ今までできなかった？ au PAY プリペイドカードがついにAndroidでのタッチ決済に対応",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/minna/2149727.html",
+      "date": "2026-10-21T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "au/KDDI",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2149/727/01-1.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/ishikawa/2149745.html",
+      "title": "iPhone Duo先行レビュー、折りたたみ先駆者のGalaxyと比べて見えた強みと課題",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/ishikawa/2149745.html",
+      "date": "2026-10-21T12:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2149/745/02.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/21/news076.html",
+      "title": "「iPhone Duo」を試して分かった9つの疑問と本音　36万円超の折りたたみスマホは「買い」か？",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/21/news076.html",
+      "date": "2026-10-21T12:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/21/cover_news076.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/21/news071.html",
+      "title": "ラグジュアリーなデザインのイヤーカフ型イヤフォン「HUAWEI FreeClip 2 S」一般販売開始　約3.3万円",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/21/news071.html",
+      "date": "2026-10-21T11:38:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/21/l_asa_HUAWEI_01.jpg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2150140.html",
       "title": "ファーウェイ、26年下半期新製品発表会を開催　「WATCH GT 7」シリーズや「FreeBuds Neo」を発表",
@@ -366,72 +456,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2149/664/apple.jpg"
     },
     {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2149600.html",
-      "title": "JRE BANK、コード決済「teppay」チャージで「JR東日本 鉄道4割引優待券」がもらえる新条件を追加",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2149600.html",
-      "date": "2026-10-20T04:36:48+00:00",
-      "sourceKey": "ktai",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2149/600/cont301.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2149582.html",
-      "title": "食事管理アプリ「あすけん」に新画像解析機能、メニュー正解率向上・パーソナライズも",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2149582.html",
-      "date": "2026-10-20T04:18:59+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2149575.html",
-      "title": "JR東の「teppay」で「NewDays」で使える“5％オフパス”を進呈、期間中5000円以上の利用で",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2149575.html",
-      "date": "2026-10-20T03:53:40+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2149/575/cont201.png"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2149548.html",
-      "title": "AI英会話「スピーク」にAIと電話で話せる新機能　過去の会話も記憶",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2149548.html",
-      "date": "2026-10-20T03:47:14+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2149/548/02.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2149554.html",
-      "title": "ビックカメラ、モバイルSuicaの新コード決済「teppay」対応　最大35％還元も",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2149554.html",
-      "date": "2026-10-20T03:32:45+00:00",
-      "sourceKey": "ktai",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2149/554/00.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2149555.html",
-      "title": "JR東日本の「teppay」本日20日スタート、Suicaアプリのアップデートで使える新しいコード決済サービス",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2149555.html",
-      "date": "2026-10-20T03:31:29+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2149/555/cont100.jpg"
-    },
-    {
       "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20261020_01/",
       "title": "ソフトバンクとノキア、ソフトバンクの商用ネットワークにおけるAI-RANのフィールドトライアル実施に合意",
       "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20261020_01/",
@@ -484,28 +508,6 @@
       "catKey": "other",
       "catLabel": "その他",
       "carrier": "ドコモ",
-      "image": null
-    },
-    {
-      "id": "ymobile-https://www.ymobile.jp/info/press/2026/26101602.html",
-      "title": "超トク！Android 機種変更キャンペーンで最大10,000円相当のPayPayポイントプレゼント！",
-      "link": "https://www.ymobile.jp/info/press/2026/26101602.html",
-      "date": "2026-10-15T15:00:00+00:00",
-      "sourceKey": "ymobile",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": "Y!mobile",
-      "image": null
-    },
-    {
-      "id": "ymobile-https://www.ymobile.jp/info/press/2026/26101601.html",
-      "title": "「シンプル」「シンプル2」「シンプル3」へ海外の高速データ通信毎月2GBを11月18日より提供開始",
-      "link": "https://www.ymobile.jp/info/press/2026/26101601.html",
-      "date": "2026-10-15T15:00:00+00:00",
-      "sourceKey": "ymobile",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "Y!mobile",
       "image": null
     },
     {
@@ -605,28 +607,6 @@
       "catKey": "device",
       "catLabel": "端末",
       "carrier": "ドコモ",
-      "image": null
-    },
-    {
-      "id": "ymobile-https://www.ymobile.jp/info/press/2026/26100902.html",
-      "title": "「AirPods 5」の取り扱いを開始",
-      "link": "https://www.ymobile.jp/info/press/2026/26100902.html",
-      "date": "2026-10-08T15:00:00+00:00",
-      "sourceKey": "ymobile",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "Y!mobile",
-      "image": null
-    },
-    {
-      "id": "ymobile-https://www.ymobile.jp/info/press/2026/26100901.html",
-      "title": "「Ray-Ban Meta (Gen 3)」の取り扱いを開始",
-      "link": "https://www.ymobile.jp/info/press/2026/26100901.html",
-      "date": "2026-10-08T15:00:00+00:00",
-      "sourceKey": "ymobile",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "Y!mobile",
       "image": null
     },
     {
@@ -894,17 +874,6 @@
       "image": null
     },
     {
-      "id": "ymobile-https://www.softbank.jp/mobile/special/hawks-championship2026/?utm_source=owned&utm_medium=social&utm_campaign=_mobile_hsp_hawkschampion2026_20260814_034",
-      "title": "ソフトバンクホークス 優勝キャンペーン",
-      "link": "https://www.softbank.jp/mobile/special/hawks-championship2026/?utm_source=owned&utm_medium=social&utm_campaign=_mobile_hsp_hawkschampion2026_20260814_034",
-      "date": "2026-09-17T15:00:00+00:00",
-      "sourceKey": "ymobile",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": "ソフトバンク",
-      "image": null
-    },
-    {
       "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260917_02/",
       "title": "2026パーソル パ・リーグ優勝を記念して「ソフトバンクホークス 優勝キャンペーン」を本日から順次実施",
       "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260917_02/",
@@ -949,17 +918,6 @@
       "image": null
     },
     {
-      "id": "ymobile-https://www.ymobile.jp/info/press/2026/26091601.html",
-      "title": "SoftBank・Y!mobile・LINEMOでの「Apple TV」および「Apple Arcade」サービス提供終了のご案内",
-      "link": "https://www.ymobile.jp/info/press/2026/26091601.html",
-      "date": "2026-09-15T15:00:00+00:00",
-      "sourceKey": "ymobile",
-      "catKey": "mvno",
-      "catLabel": "MVNO・格安SIM",
-      "carrier": "ソフトバンク",
-      "image": null
-    },
-    {
       "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260915_01/",
       "title": "ソフトバンクとWiseVine、自治体職員の担い手不足の課題解決に向けた戦略的提携に合意〜最大100自治体を対象に、自治体向けの経営管理システム「Build & Scrap」のサービス利用料を5年間無償で提供し、将来的に行政特化型AIの構築を目指す〜",
       "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260915_01/",
@@ -968,17 +926,6 @@
       "catKey": "other",
       "catLabel": "その他",
       "carrier": "ソフトバンク",
-      "image": null
-    },
-    {
-      "id": "ymobile-https://www.ymobile.jp/info/press/2026/26091401.html",
-      "title": "【2026年10月2日更新】ワイモバイルのeSIMでiPhone Duo、iPhone 18 Pro、iPhone 18 Pro Maxがご利用いただけます。",
-      "link": "https://www.ymobile.jp/info/press/2026/26091401.html",
-      "date": "2026-09-13T15:00:00+00:00",
-      "sourceKey": "ymobile",
-      "catKey": "mvno",
-      "catLabel": "MVNO・格安SIM",
-      "carrier": "Y!mobile",
       "image": null
     },
     {
@@ -1004,17 +951,6 @@
       "image": null
     },
     {
-      "id": "ymobile-https://www.softbank.jp/corp/news/press/sbkk/2026/20260910_01/",
-      "title": "「SoftBank Starlink Direct」、9月28日から海外で利用可能に～4カ国で提供を開始し、対象の国・地域を順次拡大～",
-      "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260910_01/",
-      "date": "2026-09-09T15:00:00+00:00",
-      "sourceKey": "ymobile",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "ソフトバンク",
-      "image": null
-    },
-    {
       "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260909_02/",
       "title": "「AQUOS wish6」を“ワイモバイル”で9月17日に発売",
       "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260909_02/",
@@ -1034,17 +970,6 @@
       "catKey": "device",
       "catLabel": "端末",
       "carrier": "ソフトバンク",
-      "image": null
-    },
-    {
-      "id": "ymobile-https://www.softbank.jp/corp/news/press/sbkk/2026/20260909_02/",
-      "title": "「AQUOS wish6」を9月17日に発売",
-      "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260909_02/",
-      "date": "2026-09-08T15:00:00+00:00",
-      "sourceKey": "ymobile",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "Y!mobile",
       "image": null
     },
     {
@@ -1125,17 +1050,6 @@
       "image": null
     },
     {
-      "id": "ymobile-https://www.ymobile.jp/info/press/2026/26082701.html",
-      "title": "SIMフリースマホなどが購入できる「Y!mobile Free Style」で「REDMI Note 17 Pro Max 5G」を8月28日より販売開始",
-      "link": "https://www.ymobile.jp/info/press/2026/26082701.html",
-      "date": "2026-08-26T15:00:00+00:00",
-      "sourceKey": "ymobile",
-      "catKey": "mvno",
-      "catLabel": "MVNO・格安SIM",
-      "carrier": "Y!mobile",
-      "image": null
-    },
-    {
       "id": "rakuten-https://corp.mobile.rakuten.co.jp/news/media/2026/0825_01/?l-id=corp_news_media_20260825_01",
       "title": "楽天モバイル、大島商船高等専門学校と練習船「大島丸」の災害支援利用推進に関する連携協定を締結",
       "link": "https://corp.mobile.rakuten.co.jp/news/media/2026/0825_01/?l-id=corp_news_media_20260825_01",
@@ -1144,17 +1058,6 @@
       "catKey": "other",
       "catLabel": "その他",
       "carrier": "楽天モバイル",
-      "image": null
-    },
-    {
-      "id": "ymobile-https://www.ymobile.jp/info/press/2026/26082501.html",
-      "title": "Google Play ギフトコードキャンペーン",
-      "link": "https://www.ymobile.jp/info/press/2026/26082501.html",
-      "date": "2026-08-24T15:00:00+00:00",
-      "sourceKey": "ymobile",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": "Y!mobile",
       "image": null
     },
     {
@@ -1177,39 +1080,6 @@
       "catKey": "other",
       "catLabel": "その他",
       "carrier": "ソフトバンク",
-      "image": null
-    },
-    {
-      "id": "ymobile-https://www.ymobile.jp/info/press/2026/26081801.html",
-      "title": "SIMフリースマホなどが購入できる「Y!mobile Free Style」で「arrows Alpha2」を8月27日より販売開始",
-      "link": "https://www.ymobile.jp/info/press/2026/26081801.html",
-      "date": "2026-08-17T15:00:00+00:00",
-      "sourceKey": "ymobile",
-      "catKey": "mvno",
-      "catLabel": "MVNO・格安SIM",
-      "carrier": "Y!mobile",
-      "image": null
-    },
-    {
-      "id": "ymobile-https://www.ymobile.jp/info/press/2026/26081701.html",
-      "title": "ディズニープラスがソフトバンク・ワイモバイルまとめて支払いに対応",
-      "link": "https://www.ymobile.jp/info/press/2026/26081701.html",
-      "date": "2026-08-16T15:00:00+00:00",
-      "sourceKey": "ymobile",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "ソフトバンク",
-      "image": null
-    },
-    {
-      "id": "ymobile-https://www.ymobile.jp/info/press/2026/26081401.html",
-      "title": "「コミックマーケット108」で電波対策を強化",
-      "link": "https://www.ymobile.jp/info/press/2026/26081401.html",
-      "date": "2026-08-13T15:00:00+00:00",
-      "sourceKey": "ymobile",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "Y!mobile",
       "image": null
     },
     {
@@ -1246,39 +1116,6 @@
       "image": null
     },
     {
-      "id": "ymobile-https://www.ymobile.jp/info/press/2026/26080301.html",
-      "title": "日頃のご愛顧に感謝を込めて「ワイモバ 超！感謝祭」を強化！\r\n大好評の「ワイモバ紹介キャンペーン」の特典を倍増！",
-      "link": "https://www.ymobile.jp/info/press/2026/26080301.html",
-      "date": "2026-08-02T15:00:00+00:00",
-      "sourceKey": "ymobile",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": "Y!mobile",
-      "image": null
-    },
-    {
-      "id": "ymobile-https://www.softbank.jp/mobile/info/personal/news/internationalfailure/20260731_01/",
-      "title": "台湾での防空演習に伴うデータ通信制限に関するご案内",
-      "link": "https://www.softbank.jp/mobile/info/personal/news/internationalfailure/20260731_01/",
-      "date": "2026-07-30T15:00:00+00:00",
-      "sourceKey": "ymobile",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "Y!mobile",
-      "image": null
-    },
-    {
-      "id": "ymobile-https://www.ymobile.jp/info/press/2026/26073001.html",
-      "title": "夏がおトク！キャリア決済で最大10,000円相当のPayPayポイントプレゼント！",
-      "link": "https://www.ymobile.jp/info/press/2026/26073001.html",
-      "date": "2026-07-29T15:00:00+00:00",
-      "sourceKey": "ymobile",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": "Y!mobile",
-      "image": null
-    },
-    {
       "id": "uq-https://www.uqwimax.jp/annai/news_release/202607291.html",
       "title": "令和８年熊本地震に伴うデータ通信に関する支援について",
       "link": "https://www.uqwimax.jp/annai/news_release/202607291.html",
@@ -1298,39 +1135,6 @@
       "catKey": "other",
       "catLabel": "その他",
       "carrier": "UQ mobile",
-      "image": null
-    },
-    {
-      "id": "ymobile-https://www.ymobile.jp/cp/cho-otokuwari/",
-      "title": "「シンプル3 M/L」が加入翌月から1年間、毎月1,000円引きになる「超！おトク割」を7月17日に開始",
-      "link": "https://www.ymobile.jp/cp/cho-otokuwari/",
-      "date": "2026-07-14T15:00:00+00:00",
-      "sourceKey": "ymobile",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "Y!mobile",
-      "image": null
-    },
-    {
-      "id": "ymobile-https://www.ymobile.jp/info/press/2026/26071501.html",
-      "title": "子回線専用プラン（シェアプラン）でeSIMが利用可能に",
-      "link": "https://www.ymobile.jp/info/press/2026/26071501.html",
-      "date": "2026-07-14T15:00:00+00:00",
-      "sourceKey": "ymobile",
-      "catKey": "price",
-      "catLabel": "料金プラン",
-      "carrier": "Y!mobile",
-      "image": null
-    },
-    {
-      "id": "ymobile-https://www.ymobile.jp/info/press/2026/26070901.html",
-      "title": "SIMフリースマホなどが購入できる「Y!mobile Free Style」をワイモバイルオンラインストアで提供開始",
-      "link": "https://www.ymobile.jp/info/press/2026/26070901.html",
-      "date": "2026-07-08T15:00:00+00:00",
-      "sourceKey": "ymobile",
-      "catKey": "mvno",
-      "catLabel": "MVNO・格安SIM",
-      "carrier": "Y!mobile",
       "image": null
     },
     {
