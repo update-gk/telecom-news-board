@@ -1,9 +1,20 @@
 {
-  "generated_at": "2026-10-21T17:00:01.611862+00:00",
+  "generated_at": "2026-10-21T21:29:20.474393+00:00",
   "errors": [
     "Y!mobile (scrape): 503 Server Error: Service Temporarily Unavailable for url: https://www.ymobile.jp/info/"
   ],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2150170.html",
+      "title": "ドコモがWebサイトを一時停止、予防措置で緊急メンテ",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2150170.html",
+      "date": "2026-10-21T17:28:01+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ドコモ",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2150/170/dcm10.jpg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2150133.html",
       "title": "楽天市場が緊急メンテ、その他の企業サイト・サービスも続々メンテ　21日夜～",
@@ -324,17 +335,6 @@
       "image": "https://image.itmedia.co.jp/mobile/articles/2610/21/l_asa_100item_01.jpg"
     },
     {
-      "id": "docomo-https://www.docomo.ne.jp/corporate/anatatodocomo/docomoeveryday/article234/index.html?icid=CRP_INFO_to_CRP_CORP_anatatodocomo_docomoeveryday_article234",
-      "title": "あなたとドコモ 新着記事：いつもの扉でバーチャル空間へ。みんなの声で磨くMR技術を使った未来の扉",
-      "link": "https://www.docomo.ne.jp/corporate/anatatodocomo/docomoeveryday/article234/index.html?icid=CRP_INFO_to_CRP_CORP_anatatodocomo_docomoeveryday_article234",
-      "date": "2026-10-21T01:00:00+00:00",
-      "sourceKey": "docomo",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "ドコモ",
-      "image": null
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/minna/2149701.html",
       "title": "部屋から4キャリア電測してみたくなって、インバウンド用eSIMに手を出してみたんだが。",
       "link": "https://k-tai.watch.impress.co.jp/docs/column/minna/2149701.html",
@@ -445,17 +445,6 @@
       "image": null
     },
     {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2149664.html",
-      "title": "アップル、イベント「Pro and tell」29日開催へ",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2149664.html",
-      "date": "2026-10-20T06:47:32+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2149/664/apple.jpg"
-    },
-    {
       "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20261020_01/",
       "title": "ソフトバンクとノキア、ソフトバンクの商用ネットワークにおけるAI-RANのフィールドトライアル実施に合意",
       "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20261020_01/",
@@ -500,17 +489,6 @@
       "image": null
     },
     {
-      "id": "docomo-https://www.docomo.ne.jp/corporate/anatatodocomo/docomoeveryday/article233/index.html?icid=CRP_INFO_to_CRP_CORP_anatatodocomo_docomoeveryday_article233",
-      "title": "あなたとドコモ 新着記事：「おもちゃを届けよう！」トイザらス×e-Craftが創る、新しいものづくり体験",
-      "link": "https://www.docomo.ne.jp/corporate/anatatodocomo/docomoeveryday/article233/index.html?icid=CRP_INFO_to_CRP_CORP_anatatodocomo_docomoeveryday_article233",
-      "date": "2026-10-16T01:00:00+00:00",
-      "sourceKey": "docomo",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "ドコモ",
-      "image": null
-    },
-    {
       "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr_s-78_4761.html",
       "title": "役員等の人事について",
       "link": "https://newsroom.kddi.com/news/detail/kddi_nr_s-78_4761.html",
@@ -519,39 +497,6 @@
       "catKey": "other",
       "catLabel": "その他",
       "carrier": "au/KDDI",
-      "image": null
-    },
-    {
-      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sh53e/index.html",
-      "title": "「AQUOS sense9 SH-53E」のソフトウェアアップデート情報のお知らせ",
-      "link": "https://www.docomo.ne.jp/support/product_update/sh53e/index.html",
-      "date": "2026-10-15T01:00:00+00:00",
-      "sourceKey": "docomo",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "ドコモ",
-      "image": null
-    },
-    {
-      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sh54c/index.html",
-      "title": "「Wi-Fi STATION SH-54C」のソフトウェアアップデート情報のお知らせ",
-      "link": "https://www.docomo.ne.jp/support/product_update/sh54c/index.html",
-      "date": "2026-10-15T01:00:00+00:00",
-      "sourceKey": "docomo",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "ドコモ",
-      "image": null
-    },
-    {
-      "id": "docomo-https://www.docomo.ne.jp/support/product_update/f41f/index.html",
-      "title": "「らくらくホン F-41F」のソフトウェアアップデート情報のお知らせ",
-      "link": "https://www.docomo.ne.jp/support/product_update/f41f/index.html",
-      "date": "2026-10-15T01:00:00+00:00",
-      "sourceKey": "docomo",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "ドコモ",
       "image": null
     },
     {
@@ -566,72 +511,6 @@
       "image": null
     },
     {
-      "id": "docomo-https://www.docomo.ne.jp/support/product_update/f52b/index.html",
-      "title": "「らくらくスマートフォン F-52B」のソフトウェアアップデート情報のお知らせ",
-      "link": "https://www.docomo.ne.jp/support/product_update/f52b/index.html",
-      "date": "2026-10-13T01:00:00+00:00",
-      "sourceKey": "docomo",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "ドコモ",
-      "image": null
-    },
-    {
-      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc53f/index.html",
-      "title": "「Galaxy A25 5G SC-53F」のソフトウェアアップデート情報のお知らせ",
-      "link": "https://www.docomo.ne.jp/support/product_update/sc53f/index.html",
-      "date": "2026-10-13T01:00:00+00:00",
-      "sourceKey": "docomo",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "ドコモ",
-      "image": null
-    },
-    {
-      "id": "docomo-https://www.docomo.ne.jp/corporate/anatatodocomo/docomoeveryday/article232/index.html?icid=CRP_INFO_to_CRP_CORP_anatatodocomo_docomoeveryday_article232",
-      "title": "あなたとドコモ 新着記事：通信とデジタルで女性の健康課題に向き合う。ドコモが広げるフェムテック共創",
-      "link": "https://www.docomo.ne.jp/corporate/anatatodocomo/docomoeveryday/article232/index.html?icid=CRP_INFO_to_CRP_CORP_anatatodocomo_docomoeveryday_article232",
-      "date": "2026-10-13T01:00:00+00:00",
-      "sourceKey": "docomo",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "ドコモ",
-      "image": null
-    },
-    {
-      "id": "docomo-https://www.docomo.ne.jp/product/m51g/",
-      "title": "「moto g37 M-51G」10月22日発売",
-      "link": "https://www.docomo.ne.jp/product/m51g/",
-      "date": "2026-10-13T01:00:00+00:00",
-      "sourceKey": "docomo",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "ドコモ",
-      "image": null
-    },
-    {
-      "id": "docomo-https://www.docomo.ne.jp/support/product_update/f51g/index.html",
-      "title": "「arrows Alpha2 F-51G」のソフトウェアアップデート情報のお知らせ",
-      "link": "https://www.docomo.ne.jp/support/product_update/f51g/index.html",
-      "date": "2026-10-08T01:00:00+00:00",
-      "sourceKey": "docomo",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "ドコモ",
-      "image": null
-    },
-    {
-      "id": "docomo-https://www.docomo.ne.jp/support/product_update/f51f/index.html",
-      "title": "「arrows Alpha F-51F」のソフトウェアアップデート情報のお知らせ",
-      "link": "https://www.docomo.ne.jp/support/product_update/f51f/index.html",
-      "date": "2026-10-08T01:00:00+00:00",
-      "sourceKey": "docomo",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "ドコモ",
-      "image": null
-    },
-    {
       "id": "rakuten-https://corp.mobile.rakuten.co.jp/news/media/2026/1008_01/?l-id=corp_news_media_20261008_01",
       "title": "海上自衛隊沖縄基地隊と通信事業者４社が「災害時における通信の確保のための相互協力に関する細部連携協定」を締結",
       "link": "https://corp.mobile.rakuten.co.jp/news/media/2026/1008_01/?l-id=corp_news_media_20261008_01",
@@ -640,50 +519,6 @@
       "catKey": "other",
       "catLabel": "その他",
       "carrier": "楽天モバイル",
-      "image": null
-    },
-    {
-      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc53c/index.html",
-      "title": "「Galaxy A53 5G SC-53C」のソフトウェアアップデート情報のお知らせ",
-      "link": "https://www.docomo.ne.jp/support/product_update/sc53c/index.html",
-      "date": "2026-10-07T01:00:00+00:00",
-      "sourceKey": "docomo",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "ドコモ",
-      "image": null
-    },
-    {
-      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc52c/index.html",
-      "title": "「Galaxy S22 Ultra SC-52C」のソフトウェアアップデート情報のお知らせ",
-      "link": "https://www.docomo.ne.jp/support/product_update/sc52c/index.html",
-      "date": "2026-10-07T01:00:00+00:00",
-      "sourceKey": "docomo",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "ドコモ",
-      "image": null
-    },
-    {
-      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc51c/index.html",
-      "title": "「Galaxy S22 SC-51C」のソフトウェアアップデート情報のお知らせ",
-      "link": "https://www.docomo.ne.jp/support/product_update/sc51c/index.html",
-      "date": "2026-10-07T01:00:00+00:00",
-      "sourceKey": "docomo",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "ドコモ",
-      "image": null
-    },
-    {
-      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc55b/index.html",
-      "title": "「Galaxy Z Fold3 5G SC-55B」のソフトウェアアップデート情報のお知らせ",
-      "link": "https://www.docomo.ne.jp/support/product_update/sc55b/index.html",
-      "date": "2026-10-07T01:00:00+00:00",
-      "sourceKey": "docomo",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "ドコモ",
       "image": null
     },
     {
