@@ -1,9 +1,119 @@
 {
-  "generated_at": "2026-10-21T21:29:20.474393+00:00",
+  "generated_at": "2026-10-22T04:15:20.121003+00:00",
   "errors": [
     "Y!mobile (scrape): 503 Server Error: Service Temporarily Unavailable for url: https://www.ymobile.jp/info/"
   ],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2150318.html",
+      "title": "Google Cloud、モデルガーデンでOpenAIモデル「GPT-6」などを提供開始",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2150318.html",
+      "date": "2026-10-22T03:52:43+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": null
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2150299.html",
+      "title": "22日午前も一部Webサービスで緊急メンテが継続、楽天市場や気象庁など",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2150299.html",
+      "date": "2026-10-22T03:43:15+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "楽天モバイル",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2150/299/cont0.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2150277.html",
+      "title": "OTTOCAST、接続安定性と放熱性能を高めたCarPlay／Android Autoアダプター「U2Air Neo」を発売",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2150277.html",
+      "date": "2026-10-22T02:56:12+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": null
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/22/news056.html",
+      "title": "ドコモが一部サイトで緊急メンテナンス、現在は完了　不正アクセスは確認されず",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/22/news056.html",
+      "date": "2026-10-22T02:54:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "trouble",
+      "catLabel": "障害・不具合",
+      "carrier": "ドコモ",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/22/l_st52693_docomom-01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2150266.html",
+      "title": "ドコモ、Webサイトの緊急メンテ完了　セキュリティ予防",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2150266.html",
+      "date": "2026-10-22T02:39:37+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ドコモ",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2150/266/cont0.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/22/news055.html",
+      "title": "OTTOCAST、ワイヤレスカーアダプター「U2Air Neo」発売　期間限定Amazonで約4000円オフ",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/22/news055.html",
+      "date": "2026-10-22T02:39:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/22/l_asa_Ottocast_01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2150171.html",
+      "title": "Apple Musicが新ロゴ発表、音の波紋から生まれたデザインなど公開",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2150171.html",
+      "date": "2026-10-22T02:35:05+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2150/171/01.jpg"
+    },
+    {
+      "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr-1205_4772.html",
+      "title": "AIの社会実装に向け、Broadcomとネットワークインフラ技術で提携",
+      "link": "https://newsroom.kddi.com/news/detail/kddi_nr-1205_4772.html",
+      "date": "2026-10-22T02:00:00+00:00",
+      "sourceKey": "au",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "au/KDDI",
+      "image": null
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2150025.html",
+      "title": "TVer IDで有料プランを簡単決済、「TVer ID支払い」開始　第1弾はFOD",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2150025.html",
+      "date": "2026-10-22T01:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "price",
+      "catLabel": "料金プラン",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2150/025/01-1.png"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/22/news038.html",
+      "title": "ドコモ純正「スマートウォッチ02」　睡眠データを分析可能、2000項目以上の試験をクリア",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/22/news038.html",
+      "date": "2026-10-22T01:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ドコモ",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/22/l_asa_amazon_01.jpg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2150170.html",
       "title": "ドコモがWebサイトを一時停止、予防措置で緊急メンテ",
@@ -258,28 +368,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2149/859/IMG_20261021_143754.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/21/news010.html",
-      "title": "「HUAWEI WATCH 6」発表、9項目の健康データを60秒で測定　八角形のスポーツウォッチ「HUAWEI WATCH GT 7／GT 7 Pro」も",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/21/news010.html",
-      "date": "2026-10-21T06:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/21/cover_news010.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/21/news055.html",
-      "title": "「HUAWEI FreeBuds Neo」発売　1万円台で“世界最高水準のノイキャン性能”をうたう",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/21/news055.html",
-      "date": "2026-10-21T06:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/21/cover_news055.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2149969.html",
       "title": "グーグルの車載AIが自分仕様に、Gemini「Personal Intelligence」導入でメールや写真から目的地検索",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2149969.html",
@@ -324,15 +412,15 @@
       "image": "https://k-tai.watch.impress.co.jp/include/common/p01/images/logo/ktw.l.png"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/21/news039.html",
-      "title": "【3COINS】330円の「平紐バックル付きスマホショルダー」　バックル付きで簡単着脱",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/21/news039.html",
+      "id": "docomo-https://www.docomo.ne.jp/corporate/anatatodocomo/docomoeveryday/article234/index.html?icid=CRP_INFO_to_CRP_CORP_anatatodocomo_docomoeveryday_article234",
+      "title": "あなたとドコモ 新着記事：いつもの扉でバーチャル空間へ。みんなの声で磨くMR技術を使った未来の扉",
+      "link": "https://www.docomo.ne.jp/corporate/anatatodocomo/docomoeveryday/article234/index.html?icid=CRP_INFO_to_CRP_CORP_anatatodocomo_docomoeveryday_article234",
       "date": "2026-10-21T01:00:00+00:00",
-      "sourceKey": "itmedia",
+      "sourceKey": "docomo",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/21/l_asa_100item_01.jpg"
+      "carrier": "ドコモ",
+      "image": null
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/minna/2149701.html",
@@ -376,72 +464,6 @@
       "catKey": "device",
       "catLabel": "端末",
       "carrier": "ソフトバンク",
-      "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2149754.html",
-      "title": "DJI、デュアルレンズカメラ「Osmo Pocket 4P」のパールホワイトを発売",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2149754.html",
-      "date": "2026-10-20T12:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2149/754/01-01.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2149736.html",
-      "title": "NTTや古河電工など、次世代AI向け光電融合デバイスの量産へ",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2149736.html",
-      "date": "2026-10-20T08:52:30+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2149/736/00.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2149732.html",
-      "title": "JR東「teppay」の本人確認（eKYC）は「マイナカード限定」、運転免許証は利用不可",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2149732.html",
-      "date": "2026-10-20T08:40:06+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2149/732/cont500.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2149718.html",
-      "title": "マネックス証券が新規口座開設の受付を一時停止、外部委託先に不正アクセス形跡",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2149718.html",
-      "date": "2026-10-20T08:13:41+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2149/718/cont0.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2149690.html",
-      "title": "《発表会レポート》JR東の「teppay」が始動、2万円超決済だけでない「Suicaの枠組みを超える」サービスの狙いとは",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2149690.html",
-      "date": "2026-10-20T07:36:18+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2149/690/cont400.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/review/2149675.html",
-      "title": "本日開始「Androidのマイナンバーカード」さっそく登録、試してわかったiPhoneとの違いと注意点",
-      "link": "https://k-tai.watch.impress.co.jp/docs/review/2149675.html",
-      "date": "2026-10-20T07:08:02+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
       "image": null
     },
     {
@@ -489,6 +511,17 @@
       "image": null
     },
     {
+      "id": "docomo-https://www.docomo.ne.jp/corporate/anatatodocomo/docomoeveryday/article233/index.html?icid=CRP_INFO_to_CRP_CORP_anatatodocomo_docomoeveryday_article233",
+      "title": "あなたとドコモ 新着記事：「おもちゃを届けよう！」トイザらス×e-Craftが創る、新しいものづくり体験",
+      "link": "https://www.docomo.ne.jp/corporate/anatatodocomo/docomoeveryday/article233/index.html?icid=CRP_INFO_to_CRP_CORP_anatatodocomo_docomoeveryday_article233",
+      "date": "2026-10-16T01:00:00+00:00",
+      "sourceKey": "docomo",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ドコモ",
+      "image": null
+    },
+    {
       "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr_s-78_4761.html",
       "title": "役員等の人事について",
       "link": "https://newsroom.kddi.com/news/detail/kddi_nr_s-78_4761.html",
@@ -497,6 +530,39 @@
       "catKey": "other",
       "catLabel": "その他",
       "carrier": "au/KDDI",
+      "image": null
+    },
+    {
+      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sh53e/index.html",
+      "title": "「AQUOS sense9 SH-53E」のソフトウェアアップデート情報のお知らせ",
+      "link": "https://www.docomo.ne.jp/support/product_update/sh53e/index.html",
+      "date": "2026-10-15T01:00:00+00:00",
+      "sourceKey": "docomo",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "ドコモ",
+      "image": null
+    },
+    {
+      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sh54c/index.html",
+      "title": "「Wi-Fi STATION SH-54C」のソフトウェアアップデート情報のお知らせ",
+      "link": "https://www.docomo.ne.jp/support/product_update/sh54c/index.html",
+      "date": "2026-10-15T01:00:00+00:00",
+      "sourceKey": "docomo",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ドコモ",
+      "image": null
+    },
+    {
+      "id": "docomo-https://www.docomo.ne.jp/support/product_update/f41f/index.html",
+      "title": "「らくらくホン F-41F」のソフトウェアアップデート情報のお知らせ",
+      "link": "https://www.docomo.ne.jp/support/product_update/f41f/index.html",
+      "date": "2026-10-15T01:00:00+00:00",
+      "sourceKey": "docomo",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ドコモ",
       "image": null
     },
     {
@@ -511,6 +577,72 @@
       "image": null
     },
     {
+      "id": "docomo-https://www.docomo.ne.jp/support/product_update/f52b/index.html",
+      "title": "「らくらくスマートフォン F-52B」のソフトウェアアップデート情報のお知らせ",
+      "link": "https://www.docomo.ne.jp/support/product_update/f52b/index.html",
+      "date": "2026-10-13T01:00:00+00:00",
+      "sourceKey": "docomo",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "ドコモ",
+      "image": null
+    },
+    {
+      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc53f/index.html",
+      "title": "「Galaxy A25 5G SC-53F」のソフトウェアアップデート情報のお知らせ",
+      "link": "https://www.docomo.ne.jp/support/product_update/sc53f/index.html",
+      "date": "2026-10-13T01:00:00+00:00",
+      "sourceKey": "docomo",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "ドコモ",
+      "image": null
+    },
+    {
+      "id": "docomo-https://www.docomo.ne.jp/corporate/anatatodocomo/docomoeveryday/article232/index.html?icid=CRP_INFO_to_CRP_CORP_anatatodocomo_docomoeveryday_article232",
+      "title": "あなたとドコモ 新着記事：通信とデジタルで女性の健康課題に向き合う。ドコモが広げるフェムテック共創",
+      "link": "https://www.docomo.ne.jp/corporate/anatatodocomo/docomoeveryday/article232/index.html?icid=CRP_INFO_to_CRP_CORP_anatatodocomo_docomoeveryday_article232",
+      "date": "2026-10-13T01:00:00+00:00",
+      "sourceKey": "docomo",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ドコモ",
+      "image": null
+    },
+    {
+      "id": "docomo-https://www.docomo.ne.jp/product/m51g/",
+      "title": "「moto g37 M-51G」10月22日発売",
+      "link": "https://www.docomo.ne.jp/product/m51g/",
+      "date": "2026-10-13T01:00:00+00:00",
+      "sourceKey": "docomo",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "ドコモ",
+      "image": null
+    },
+    {
+      "id": "docomo-https://www.docomo.ne.jp/support/product_update/f51g/index.html",
+      "title": "「arrows Alpha2 F-51G」のソフトウェアアップデート情報のお知らせ",
+      "link": "https://www.docomo.ne.jp/support/product_update/f51g/index.html",
+      "date": "2026-10-08T01:00:00+00:00",
+      "sourceKey": "docomo",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ドコモ",
+      "image": null
+    },
+    {
+      "id": "docomo-https://www.docomo.ne.jp/support/product_update/f51f/index.html",
+      "title": "「arrows Alpha F-51F」のソフトウェアアップデート情報のお知らせ",
+      "link": "https://www.docomo.ne.jp/support/product_update/f51f/index.html",
+      "date": "2026-10-08T01:00:00+00:00",
+      "sourceKey": "docomo",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ドコモ",
+      "image": null
+    },
+    {
       "id": "rakuten-https://corp.mobile.rakuten.co.jp/news/media/2026/1008_01/?l-id=corp_news_media_20261008_01",
       "title": "海上自衛隊沖縄基地隊と通信事業者４社が「災害時における通信の確保のための相互協力に関する細部連携協定」を締結",
       "link": "https://corp.mobile.rakuten.co.jp/news/media/2026/1008_01/?l-id=corp_news_media_20261008_01",
@@ -519,6 +651,50 @@
       "catKey": "other",
       "catLabel": "その他",
       "carrier": "楽天モバイル",
+      "image": null
+    },
+    {
+      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc53c/index.html",
+      "title": "「Galaxy A53 5G SC-53C」のソフトウェアアップデート情報のお知らせ",
+      "link": "https://www.docomo.ne.jp/support/product_update/sc53c/index.html",
+      "date": "2026-10-07T01:00:00+00:00",
+      "sourceKey": "docomo",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "ドコモ",
+      "image": null
+    },
+    {
+      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc52c/index.html",
+      "title": "「Galaxy S22 Ultra SC-52C」のソフトウェアアップデート情報のお知らせ",
+      "link": "https://www.docomo.ne.jp/support/product_update/sc52c/index.html",
+      "date": "2026-10-07T01:00:00+00:00",
+      "sourceKey": "docomo",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "ドコモ",
+      "image": null
+    },
+    {
+      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc51c/index.html",
+      "title": "「Galaxy S22 SC-51C」のソフトウェアアップデート情報のお知らせ",
+      "link": "https://www.docomo.ne.jp/support/product_update/sc51c/index.html",
+      "date": "2026-10-07T01:00:00+00:00",
+      "sourceKey": "docomo",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "ドコモ",
+      "image": null
+    },
+    {
+      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc55b/index.html",
+      "title": "「Galaxy Z Fold3 5G SC-55B」のソフトウェアアップデート情報のお知らせ",
+      "link": "https://www.docomo.ne.jp/support/product_update/sc55b/index.html",
+      "date": "2026-10-07T01:00:00+00:00",
+      "sourceKey": "docomo",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "ドコモ",
       "image": null
     },
     {
@@ -695,17 +871,6 @@
       "catKey": "other",
       "catLabel": "その他",
       "carrier": "楽天モバイル",
-      "image": null
-    },
-    {
-      "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr_s-77_4722.html",
-      "title": "組織変更および人事異動について",
-      "link": "https://newsroom.kddi.com/news/detail/kddi_nr_s-77_4722.html",
-      "date": "2026-09-18T06:00:00+00:00",
-      "sourceKey": "au",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "au/KDDI",
       "image": null
     },
     {
