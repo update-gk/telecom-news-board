@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-10-22T16:59:00.141192+00:00",
+  "generated_at": "2026-10-22T21:24:18.814655+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2150510.html",
+      "title": "Google「Gemini」に新メニュー「Customize」、AIの指示や外部アプリ連携を一元管理",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2150510.html",
+      "date": "2026-10-22T21:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2150/510/gemini.jpg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2150523.html",
       "title": "いよいよ登場「iPhone Duo」と「Siri AI」の日本語対応、新しいiPhoneで何ができる？",
@@ -452,17 +463,6 @@
       "catLabel": "端末",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2149/990/72.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2149898.html",
-      "title": "ファーウェイ、最大21日間駆動の「HUAWEI WATCH GT 7／GT 7 Pro」発表　ゴルフ・スキー機能を大幅進化",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2149898.html",
-      "date": "2026-10-21T06:15:16+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": null
     },
     {
       "id": "docomo-https://www.docomo.ne.jp/corporate/anatatodocomo/docomoeveryday/article234/index.html?icid=CRP_INFO_to_CRP_CORP_anatatodocomo_docomoeveryday_article234",
