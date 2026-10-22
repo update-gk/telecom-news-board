@@ -1,7 +1,84 @@
 {
-  "generated_at": "2026-10-22T11:33:06.875752+00:00",
+  "generated_at": "2026-10-22T16:59:00.141192+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2150523.html",
+      "title": "いよいよ登場「iPhone Duo」と「Siri AI」の日本語対応、新しいiPhoneで何ができる？",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2150523.html",
+      "date": "2026-10-22T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": null
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2150515.html",
+      "title": "ボクシング「井上尚弥展」開幕で本人がサプライズ登場、ドコモが語る「ファンの熱量」とエンタメ事業の狙い",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2150515.html",
+      "date": "2026-10-22T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ドコモ",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2150/515/07.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/teppan/2150439.html",
+      "title": "チャットではなく“判断”に特化したAI「Jev」をスマホで使おう。問い合わせ対応など、多く判断する仕事を楽に",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/teppan/2150439.html",
+      "date": "2026-10-22T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2150/439/0001.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/topic/special/2148134.html",
+      "title": "出張先やベッドの上が極上ゲーム部屋に!? 　手元のスマホが“RTX 5080”搭載パソコンに化ける「GeForce NOW」という新提案[Sponsored]",
+      "link": "https://k-tai.watch.impress.co.jp/docs/topic/special/2148134.html",
+      "date": "2026-10-22T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": null
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2150491.html",
+      "title": "ドコモ「あんしんフィルター」の障害続く、Android版の暫定対処方法を案内",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2150491.html",
+      "date": "2026-10-22T12:29:57+00:00",
+      "sourceKey": "ktai",
+      "catKey": "trouble",
+      "catLabel": "障害・不具合",
+      "carrier": "ドコモ",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2150/491/docomo_logo.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/22/news083.html",
+      "title": "ソフトバンク、「My SoftBank」「My Y!mobile」「My Menu」を再開　セキュリティ強化の対策を実施",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/22/news083.html",
+      "date": "2026-10-22T11:52:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ソフトバンク",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/22/l_st52693_mysb-01.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/22/news078.html",
+      "title": "マイルがたまる「ANA Pay」200万会員突破　抽選でANA Pay残高500円分をプレゼント",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/22/news078.html",
+      "date": "2026-10-22T09:58:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/22/l_asa_ANAPay_01.jpg"
+    },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/20/news079.html",
       "title": "モバイルSuicaの新決済「teppay」を早速試した　店員への伝え方や決済音は？　スムーズに決済できる？",
@@ -386,61 +463,6 @@
       "catLabel": "その他",
       "carrier": null,
       "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2149899.html",
-      "title": "ファーウェイ、薄型・軽量化された「HUAWEI WATCH 6」発表　X-TAPセンサーや2台同時接続でスマート体験を強化",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2149899.html",
-      "date": "2026-10-21T06:15:12+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2149859.html",
-      "title": "ファーウェイ、「HUAWEI FreeBuds Neo」発表　映像やゲームに最適な小型フラッグシップ",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2149859.html",
-      "date": "2026-10-21T06:15:08+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2149/859/IMG_20261021_143754.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2149969.html",
-      "title": "グーグルの車載AIが自分仕様に、Gemini「Personal Intelligence」導入でメールや写真から目的地検索",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2149969.html",
-      "date": "2026-10-21T05:22:02+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2149/969/08.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2149769.html",
-      "title": "「iPhone Duo」の発表を知っている人は38.0％、購入意向は10.5％　MMD研究所調べ",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2149769.html",
-      "date": "2026-10-21T03:02:38+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2149/769/01-01.png"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2149902.html",
-      "title": "IIJmioで「Nothing Phone (4b)」発売、乗り換えなら4万9800円",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2149902.html",
-      "date": "2026-10-21T03:02:32+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2149/902/01.png"
     },
     {
       "id": "docomo-https://www.docomo.ne.jp/corporate/anatatodocomo/docomoeveryday/article234/index.html?icid=CRP_INFO_to_CRP_CORP_anatatodocomo_docomoeveryday_article234",
