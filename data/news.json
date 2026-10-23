@@ -1,7 +1,172 @@
 {
-  "generated_at": "2026-10-23T04:19:27.274394+00:00",
+  "generated_at": "2026-10-23T11:22:39.375034+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2150865.html",
+      "title": "OPPO「Find X10」シリーズがグローバルで発表、「Find X10 Pro Max」はトリプル2億画素",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2150865.html",
+      "date": "2026-10-23T10:19:04+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2150/865/a.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2150834.html",
+      "title": "佐川急便の個人情報流出は最大約5323万件",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2150834.html",
+      "date": "2026-10-23T10:18:59+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2150/834/sagawa.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2150824.html",
+      "title": "NTTとJAXA、圏外を減らす低軌道衛星実験で通信容量が最大2.67倍",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2150824.html",
+      "date": "2026-10-23T09:15:16+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2150/824/01.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/23/news072.html",
+      "title": "NTTが宇宙通信で偉業　地上圏外でもスマホやIoTがつながる未来へ",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/23/news072.html",
+      "date": "2026-10-23T08:59:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/23/cover_news072.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2150820.html",
+      "title": "タイムズカー情報漏えい、“お見舞金”3000円支払いへ　本人確認書類は全削除",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2150820.html",
+      "date": "2026-10-23T08:46:52+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2150/820/times.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/23/news071.html",
+      "title": "ファーウェイ、日本初の直営アフターサービス拠点を秋葉原・神田エリアへオープン　下取りでウォッチ30％オフも",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/23/news071.html",
+      "date": "2026-10-23T08:31:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/23/l_asa_HUAWEI_01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2150786.html",
+      "title": "小説家の村上龍氏が逝去、「限りなく透明に近いブルー」「5分後の世界」「ユーチューバー」など",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2150786.html",
+      "date": "2026-10-23T07:41:49+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2150/786/2.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2150787.html",
+      "title": "Netflix、11月の新着作品は「トークサバイバー！DEAD or LAUGH」「フールナイト」など",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2150787.html",
+      "date": "2026-10-23T07:41:44+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": null
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/23/news066.html",
+      "title": "ソフトバンク、モバイル事業20周年などを記念したキャンペーン　基本料実質半額、最大10万ポイント還元など",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/23/news066.html",
+      "date": "2026-10-23T07:35:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": "ソフトバンク",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/23/l_asa_SB_01.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/23/news064.html",
+      "title": "iPhone Duo発売直後に「転売」が横行　メルカリ・Yahoo!フリマ・ラクマで割高に？",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/23/news064.html",
+      "date": "2026-10-23T06:15:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/23/cover_news064.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/23/news061.html",
+      "title": "楽天モバイル、「iPhone Duo」がキャンペーンで最大4万円相当還元　2年間約17万円～に【スマホお得情報】",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/23/news061.html",
+      "date": "2026-10-23T05:15:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": "楽天モバイル",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/23/l_asa_sumaotoku_01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2150712.html",
+      "title": "「motorola edge 70 fusion」本日23日発売　7000mAhバッテリー搭載スマホ",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2150712.html",
+      "date": "2026-10-23T05:03:01+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2150/712/00.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2150696.html",
+      "title": "iPhone Duo本日発売、Netflixやインスタなど対応アプリ登場",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2150696.html",
+      "date": "2026-10-23T04:59:38+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2150/696/main.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2150655.html",
+      "title": "ファーウェイ、国内初の「公式サービスセンター」オープン　対面修理や体験の拠点に",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2150655.html",
+      "date": "2026-10-23T04:56:49+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": null
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2150690.html",
+      "title": "ドコモ、台風30号で沖縄・与那国町と竹富町の一部に通信障害　JAPANローミング提供",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2150690.html",
+      "date": "2026-10-23T04:38:57+00:00",
+      "sourceKey": "ktai",
+      "catKey": "trouble",
+      "catLabel": "障害・不具合",
+      "carrier": "ドコモ",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2150/690/docomo_logo.jpg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2150682.html",
       "title": "Meta、パーソナルAIエージェント「Muse」を日本で提供　目標設定でタスクを自律実行",
@@ -45,6 +210,17 @@
       "catLabel": "その他",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2150/660/00.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/23/news058.html",
+      "title": "AULUMU、ドットデザインのiPhone Duo用アラミド繊維ケース発売　厚さ1.4mmでMagSafe対応",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/23/news058.html",
+      "date": "2026-10-23T03:52:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/23/l_asa_AULUMU_01.jpg"
     },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/23/news057.html",
@@ -113,6 +289,17 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2150/622/gd.png"
     },
     {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/23/news052.html",
+      "title": "ドコモが1万円未満の「スマートウォッチ03」発売　バッテリー持続や視認性が向上",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/23/news052.html",
+      "date": "2026-10-23T02:29:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "ドコモ",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/23/l_asa_docomo_01.jpg"
+    },
+    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2150606.html",
       "title": "「iPhone Duo」が本日23日発売、Apple 銀座でも初の折りたたみiPhoneに注目が集まる",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2150606.html",
@@ -155,17 +342,6 @@
       "catLabel": "その他",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2150/510/gemini.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/23/news036.html",
-      "title": "Apple初の折りたたみ「iPhone Duo」きょう発売　価格、特徴、誰向けか――5分で分かるまとめ",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/23/news036.html",
-      "date": "2026-10-22T21:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/23/cover_news036.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2150523.html",
@@ -213,7 +389,7 @@
     },
     {
       "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20261023_01/",
-      "title": "“ソフトバンク”のモバイル事業20周年や、ブロードバンド事業・でんき事業の周年を記念した「SUPER ARIGATO YEAR」を開催（PDF形式）",
+      "title": "“ソフトバンク”のモバイル事業20周年や、ブロードバンド事業・でんき事業の周年を記念した「SUPER ARIGATO YEAR」を開催",
       "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20261023_01/",
       "date": "2026-10-22T15:00:00+00:00",
       "sourceKey": "softbank",
@@ -245,39 +421,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2150/491/docomo_logo.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/22/news083.html",
-      "title": "ソフトバンク、「My SoftBank」「My Y!mobile」「My Menu」を再開　セキュリティ強化の対策を実施",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/22/news083.html",
-      "date": "2026-10-22T11:52:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "ソフトバンク",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/22/l_st52693_mysb-01.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/22/news078.html",
-      "title": "マイルがたまる「ANA Pay」200万会員突破　抽選でANA Pay残高500円分をプレゼント",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/22/news078.html",
-      "date": "2026-10-22T09:58:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/22/l_asa_ANAPay_01.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/20/news079.html",
-      "title": "モバイルSuicaの新決済「teppay」を早速試した　店員への伝え方や決済音は？　スムーズに決済できる？",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/20/news079.html",
-      "date": "2026-10-22T08:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/20/cover_news079.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2150419.html",
       "title": "FMVのノートパソコンでpovoがすぐ使える「FMV Note U」登場、トッピング追加で使い放題やギガ追加も自由自在",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2150419.html",
@@ -298,17 +441,6 @@
       "catLabel": "その他",
       "carrier": "ソフトバンク",
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2150/414/01.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/22/news076.html",
-      "title": "楽天モバイルの10月23日発売「motorola edge 70 fusion」、MNP＋キャンペーンで実質4万8900円【スマホお得情報】",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/22/news076.html",
-      "date": "2026-10-22T07:03:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": "楽天モバイル",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/22/l_asa_sumaotoku_01.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2150379.html",
@@ -333,17 +465,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2150/346/001.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/22/news066.html",
-      "title": "SoftBank SELECTION、iPhone Duo向けアクセサリーを発売　牛本革ケースや保護ガラスなど",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/22/news066.html",
-      "date": "2026-10-22T05:50:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "ソフトバンク",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/22/l_asa_SB_01.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2150318.html",
       "title": "Google Cloud、モデルガーデンでOpenAIモデル「GPT-6」などを提供開始",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2150318.html",
@@ -355,50 +476,6 @@
       "image": null
     },
     {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2150299.html",
-      "title": "22日午前も一部Webサービスで緊急メンテが継続、楽天市場や気象庁など",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2150299.html",
-      "date": "2026-10-22T03:43:15+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "楽天モバイル",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2150/299/cont0.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2150277.html",
-      "title": "OTTOCAST、接続安定性と放熱性能を高めたCarPlay／Android Autoアダプター「U2Air Neo」を発売",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2150277.html",
-      "date": "2026-10-22T02:56:12+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2150266.html",
-      "title": "ドコモ、Webサイトの緊急メンテ完了　セキュリティ予防",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2150266.html",
-      "date": "2026-10-22T02:39:37+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "ドコモ",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2150/266/cont0.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2150171.html",
-      "title": "Apple Musicが新ロゴ発表、音の波紋から生まれたデザインなど公開",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2150171.html",
-      "date": "2026-10-22T02:35:05+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2150/171/01.jpg"
-    },
-    {
       "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr-1205_4772.html",
       "title": "AIの社会実装に向け、Broadcomとネットワークインフラ技術で提携",
       "link": "https://newsroom.kddi.com/news/detail/kddi_nr-1205_4772.html",
@@ -407,72 +484,6 @@
       "catKey": "other",
       "catLabel": "その他",
       "carrier": "au/KDDI",
-      "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2150025.html",
-      "title": "TVer IDで有料プランを簡単決済、「TVer ID支払い」開始　第1弾はFOD",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2150025.html",
-      "date": "2026-10-22T01:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "price",
-      "catLabel": "料金プラン",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2150/025/01-1.png"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2150170.html",
-      "title": "ドコモがWebサイトを一時停止、予防措置で緊急メンテ",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2150170.html",
-      "date": "2026-10-21T17:28:01+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "ドコモ",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2150/170/dcm10.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2150133.html",
-      "title": "楽天市場が一部ページで緊急メンテ、その他の企業サイト・サービスも続々メンテ　21日夜～",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2150133.html",
-      "date": "2026-10-21T15:04:47+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "楽天モバイル",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2150/133/rktn.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2150090.html",
-      "title": "取り外して使うキーの扱いに便利、手軽に外せるキーホルダー",
-      "link": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2150090.html",
-      "date": "2026-10-21T15:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2150/090/01-1.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/value/2150069.html",
-      "title": "ドコモの新料金プラン「ドコモmini2」は家族間通話が無料、月880円の通話オプションは必要か",
-      "link": "https://k-tai.watch.impress.co.jp/docs/column/value/2150069.html",
-      "date": "2026-10-21T15:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "price",
-      "catLabel": "料金プラン",
-      "carrier": "ドコモ",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2150/069/01-1.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2149795.html",
-      "title": "まるでテーマパーク！　ファーウェイ中国巨大施設で最新スマホ「Mate 90」や自動運転を体験",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2149795.html",
-      "date": "2026-10-21T15:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
       "image": null
     },
     {
