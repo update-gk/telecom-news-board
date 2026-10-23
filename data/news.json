@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-10-23T11:22:39.375034+00:00",
+  "generated_at": "2026-10-23T16:51:22.429856+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/23/news074.html",
+      "title": "「iPhone Duo」はLINEもポケモンGOも“黒い”余白だらけ？　日本の定番アプリは未対応が多く",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/23/news074.html",
+      "date": "2026-10-23T14:55:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/23/cover_news074.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2150880.html",
+      "title": "モンゴル火災でKDDIが謝罪、現地子会社社員が乗車の車両が関係　訪問は通信品質確認のため",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2150880.html",
+      "date": "2026-10-23T12:46:13+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "au/KDDI",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2150/880/01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2150887.html",
+      "title": "ドコモ「エリアメール」がPHP対応で一部停止、Jアラートや避難情報対象・地震速報は継続",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2150887.html",
+      "date": "2026-10-23T12:42:11+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ドコモ",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2150/887/dcm10.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/23/news075.html",
+      "title": "さすがGoogle――「iPhone Duo」でもYouTubeが快適　ただし進化の余地あり",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/23/news075.html",
+      "date": "2026-10-23T10:45:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/23/cover_news075.jpg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2150865.html",
       "title": "OPPO「Find X10」シリーズがグローバルで発表、「Find X10 Pro Max」はトリプル2億画素",
@@ -100,6 +144,17 @@
       "catLabel": "キャンペーン",
       "carrier": "ソフトバンク",
       "image": "https://image.itmedia.co.jp/mobile/articles/2610/23/l_asa_SB_01.jpg"
+    },
+    {
+      "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr_s-80_4786.html",
+      "title": "モンゴルのヌムルグ自然保護区において2026年10月8日に発生した草原火災についてのお詫び",
+      "link": "https://newsroom.kddi.com/news/detail/kddi_nr_s-80_4786.html",
+      "date": "2026-10-23T07:00:00+00:00",
+      "sourceKey": "au",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "au/KDDI",
+      "image": null
     },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/23/news064.html",
@@ -452,28 +507,6 @@
       "catLabel": "MVNO・格安SIM",
       "carrier": "au/KDDI",
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2150/379/001.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2150346.html",
-      "title": "LIBMO、Web限定で「超なっとくプラン」が半年間割引　10GBが月額550円など",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2150346.html",
-      "date": "2026-10-22T05:59:09+00:00",
-      "sourceKey": "ktai",
-      "catKey": "price",
-      "catLabel": "料金プラン",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2150/346/001.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2150318.html",
-      "title": "Google Cloud、モデルガーデンでOpenAIモデル「GPT-6」などを提供開始",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2150318.html",
-      "date": "2026-10-22T03:52:43+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": null
     },
     {
       "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr-1205_4772.html",
@@ -935,17 +968,6 @@
       "catKey": "other",
       "catLabel": "その他",
       "carrier": "ソフトバンク",
-      "image": null
-    },
-    {
-      "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr-1175_4731.html",
-      "title": "日本郵便とKDDI、ドローン社会基盤化へ基本合意書を締結し、郵便局をドローンポート拠点とする実証を開始",
-      "link": "https://newsroom.kddi.com/news/detail/kddi_nr-1175_4731.html",
-      "date": "2026-09-28T01:00:00+00:00",
-      "sourceKey": "au",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "au/KDDI",
       "image": null
     },
     {
