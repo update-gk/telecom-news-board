@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-10-23T21:15:58.990455+00:00",
+  "generated_at": "2026-10-24T04:10:01.667745+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/24/news016.html",
+      "title": "あなたの愛用アプリも「iPhone Duo」に対応？　最適化アプリ、非対応アプリの一例【10月24日最新版】",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/24/news016.html",
+      "date": "2026-10-24T03:48:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/24/cover_news016.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/24/news015.html",
+      "title": "iPhone Duoを使って痛感した「Face ID」のありがたさ　充電スタンドに置いたまま通知が見られない不便さに苦しむ",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/24/news015.html",
+      "date": "2026-10-24T03:30:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": null
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/24/news014.html",
+      "title": "進化した「Siri AI」で感じた、iPhoneの操作を一変させる実力　「AI出遅れ」の汚名返上なるか",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/24/news014.html",
+      "date": "2026-10-24T02:09:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/24/cover_news014.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/24/news012.html",
+      "title": "ダイソーで1100円の「USB Type-C to HDMIケーブル」でスマホの画面をテレビに映すとどうなる？　対応機種なら試してみる価値あり",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/24/news012.html",
+      "date": "2026-10-24T02:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/24/cover_news012.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/24/news005.html",
+      "title": "薄型コンパクトなガジェットポーチ　耐荷重約30kgのステンレス製S字カラビナ搭載",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/24/news005.html",
+      "date": "2026-10-24T01:30:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/24/l_asa_amazon_01.jpg"
+    },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/23/news074.html",
       "title": "「iPhone Duo」はLINEもポケモンGOも“黒い”余白だらけ？　日本の定番アプリは未対応が多く",
@@ -81,7 +136,7 @@
     },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/23/news072.html",
-      "title": "NTTが宇宙通信で偉業　地上圏外でもスマホやIoTがつながる未来へ",
+      "title": "NTTが宇宙通信で成果　地上圏外でも「あらゆるIoT」がつながる未来へ",
       "link": "https://www.itmedia.co.jp/mobile/articles/2610/23/news072.html",
       "date": "2026-10-23T08:59:00+00:00",
       "sourceKey": "itmedia",
@@ -364,28 +419,6 @@
       "catLabel": "端末",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2150/606/cont100.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/23/news037.html",
-      "title": "【ニトリ】799円の「スマホクッション」　デコネコのお腹にすっぽり収まる",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/23/news037.html",
-      "date": "2026-10-23T01:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/23/l_asa_100item_01.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/23/news002.html",
-      "title": "若者の間で流行する「ホビ垢」とは？　実はホビーでもホビットでもない、“○○○する自分”が主役のSNSアカウント",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/23/news002.html",
-      "date": "2026-10-22T23:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/23/cover_news002.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2150510.html",
