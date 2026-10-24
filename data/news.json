@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-10-24T20:33:06.972200+00:00",
+  "generated_at": "2026-10-24T23:02:28.881619+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2150538.html",
+      "title": "LINE、飲食店の電話予約をAIが代行する「LINE AI予約」開始　月額1万円から",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2150538.html",
+      "date": "2026-10-24T22:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "price",
+      "catLabel": "料金プラン",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2150/538/01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2150132.html",
+      "title": "「dポイントクラブ」「d払い」に「箱根駅伝」デザイン登場、獲得ポイントの6％をドコモが寄付",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2150132.html",
+      "date": "2026-10-24T22:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": "ドコモ",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2150/132/01-1.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2150838.html",
+      "title": "DJI・Hasselbladの旗艦店が表参道に10月31日オープン",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2150838.html",
+      "date": "2026-10-24T21:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2150/838/main.jpeg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2150130.html",
+      "title": "Google「AI モード」にアップデート、公式サイトの強調やサムネイル追加など",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2150130.html",
+      "date": "2026-10-24T21:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2150/130/001.jpg"
+    },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/24/news017.html",
       "title": "KDDI、子会社モビコムのモンゴルでの火災について事実関係を公表　「法令違反行為を行っていない」",
@@ -507,50 +551,6 @@
       "catLabel": "障害・不具合",
       "carrier": "Y!mobile",
       "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2150491.html",
-      "title": "ドコモ「あんしんフィルター」の障害続く、Android版の暫定対処方法を案内",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2150491.html",
-      "date": "2026-10-22T12:29:57+00:00",
-      "sourceKey": "ktai",
-      "catKey": "trouble",
-      "catLabel": "障害・不具合",
-      "carrier": "ドコモ",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2150/491/docomo_logo.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2150419.html",
-      "title": "FMVのノートパソコンでpovoがすぐ使える「FMV Note U」登場、トッピング追加で使い放題やギガ追加も自由自在",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2150419.html",
-      "date": "2026-10-22T07:18:43+00:00",
-      "sourceKey": "ktai",
-      "catKey": "mvno",
-      "catLabel": "MVNO・格安SIM",
-      "carrier": "au/KDDI",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2150/419/cont0.png"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2150414.html",
-      "title": "Web版「My SoftBank」がサービス再開",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2150414.html",
-      "date": "2026-10-22T07:18:19+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "ソフトバンク",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2150/414/01.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2150379.html",
-      "title": "povo AIに「ChatGPT 5.5」シリーズなど追加、画像生成も1日3回まで可能に",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2150379.html",
-      "date": "2026-10-22T06:16:14+00:00",
-      "sourceKey": "ktai",
-      "catKey": "mvno",
-      "catLabel": "MVNO・格安SIM",
-      "carrier": "au/KDDI",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2150/379/001.jpg"
     },
     {
       "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr-1205_4772.html",
