@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-10-24T04:10:01.667745+00:00",
+  "generated_at": "2026-10-24T10:41:30.072672+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/24/news017.html",
+      "title": "KDDI、子会社モビコムのモンゴルでの火災について事実関係を公表　「法令違反行為を行っていない」",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/24/news017.html",
+      "date": "2026-10-24T04:58:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "au/KDDI",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/24/l_st52693_kddim-01.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/24/news013.html",
+      "title": "「Androidのマイナンバーカード」がスタートするもフル機能対応機種が少ない件　ポイントは「StrongBox」という仕組み",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/24/news013.html",
+      "date": "2026-10-24T04:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": null
+    },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/24/news016.html",
       "title": "あなたの愛用アプリも「iPhone Duo」に対応？　最適化アプリ、非対応アプリの一例【10月24日最新版】",
@@ -397,17 +419,6 @@
       "catLabel": "その他",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2150/622/gd.png"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/23/news052.html",
-      "title": "ドコモが1万円未満の「スマートウォッチ03」発売　バッテリー持続や視認性が向上",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/23/news052.html",
-      "date": "2026-10-23T02:29:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "ドコモ",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/23/l_asa_docomo_01.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2150606.html",
