@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-10-25T11:06:49.518086+00:00",
+  "generated_at": "2026-10-25T15:54:44.109209+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/stapa/2150540.html",
+      "title": "iPhone 16 Pro Maxから「iPhone 18 Pro Max」へ乗り換えて感じた地味な大満足",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/stapa/2150540.html",
+      "date": "2026-10-25T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2150/540/stptncs2026-10-26thumbnail.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2150539.html",
+      "title": "5年出遅れて導入したpovo、週30分のための2枚目のSIM",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2150539.html",
+      "date": "2026-10-25T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "mvno",
+      "catLabel": "MVNO・格安SIM",
+      "carrier": "au/KDDI",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2150/539/001.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/congress/2150303.html",
+      "title": "ドコモのユーザーファーストな料金改定といまだに残る課題[法林岳之・石川温・石野純也・佐藤文彦のスマホ会議（仮）]",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/congress/2150303.html",
+      "date": "2026-10-25T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "price",
+      "catLabel": "料金プラン",
+      "carrier": "ドコモ",
+      "image": null
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2150985.html",
+      "title": "ドコモ、緊急速報「エリアメール」完全再開",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2150985.html",
+      "date": "2026-10-25T11:34:43+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ドコモ",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2150/985/docomo2.jpg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2150961.html",
       "title": "ドコモ、一部停止中の「エリアメール」は10月26日朝に再開へ",
@@ -487,17 +531,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2150/671/cont0.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/23/news053.html",
-      "title": "きょう発売の「iPhone Duo」、Apple 表参道でゲットしてきた　早速開封レポート",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/23/news053.html",
-      "date": "2026-10-23T03:24:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/23/cover_news053.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2150641.html",
       "title": "楽天、AIによる社会変革を探る「Rakuten AI Technology Conference 2026」　11月14日無料開催",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2150641.html",
@@ -518,50 +551,6 @@
       "catLabel": "端末",
       "carrier": "ドコモ",
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2150/628/03.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2150622.html",
-      "title": "グーグル、モバイル版「ドキュメント」で音声から文書生成できる「Docs Live」を提供開始",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2150622.html",
-      "date": "2026-10-23T02:45:28+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2150/622/gd.png"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2150606.html",
-      "title": "「iPhone Duo」が本日23日発売、Apple 銀座でも初の折りたたみiPhoneに注目が集まる",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2150606.html",
-      "date": "2026-10-23T02:27:18+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2150/606/cont100.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2150510.html",
-      "title": "Google「Gemini」に新メニュー「Customize」、AIの指示や外部アプリ連携を一元管理",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2150510.html",
-      "date": "2026-10-22T21:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2150/510/gemini.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2150523.html",
-      "title": "いよいよ登場「iPhone Duo」と「Siri AI」の日本語対応、新しいiPhoneで何ができる？",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2150523.html",
-      "date": "2026-10-22T15:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": null
     },
     {
       "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20261023_01/",
