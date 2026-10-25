@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-10-25T20:40:28.295471+00:00",
+  "generated_at": "2026-10-25T23:07:28.451683+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/26/news038.html",
+      "title": "「Galaxy Z Fold8」「iPhone Duo」を“メイン端末”として使う上での課題　縦型コンテンツの最適化をどう進める？",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/26/news038.html",
+      "date": "2026-10-25T21:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/26/cover_news038.jpg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/stapa/2150540.html",
       "title": "iPhone 16 Pro Maxから「iPhone 18 Pro Max」へ乗り換えて感じた地味な大満足",
@@ -496,28 +507,6 @@
       "catLabel": "その他",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2150/660/00.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/23/news058.html",
-      "title": "AULUMU、ドットデザインのiPhone Duo用アラミド繊維ケース発売　厚さ1.4mmでMagSafe対応",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/23/news058.html",
-      "date": "2026-10-23T03:52:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/23/l_asa_AULUMU_01.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/23/news057.html",
-      "title": "メルカリ出品コメント欄に「偽事務局」の不審URL　広報「コメント欄で通知することは100％ない」",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/23/news057.html",
-      "date": "2026-10-23T03:50:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/23/cover_news057.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2150671.html",
