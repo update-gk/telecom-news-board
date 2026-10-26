@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-10-26T12:39:58.647738+00:00",
+  "generated_at": "2026-10-26T20:23:11.038712+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/27/news040.html",
+      "title": "「Google Fitbit Edge」先行レビュー：画面付き、Google マップ対応の実力は？　Fitbit Airとの1万円差を検証する",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/27/news040.html",
+      "date": "2026-10-26T17:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": null
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2151324.html",
+      "title": "ソフトバンク、緊急速報メールの配信をすべて再開 PHP脆弱性対応完了",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2151324.html",
+      "date": "2026-10-26T15:22:28+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ソフトバンク",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2151/324/sb2.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/27/news042.html",
+      "title": "「iPhone Duo」は買いか見送りか――賛否　そんな中、登場した「iPad mini」は誰向け？",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/27/news042.html",
+      "date": "2026-10-26T15:15:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/27/cover_news042.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2151257.html",
+      "title": "忠実な原音再生とトリプルドライバーが魅力、「Nothing Headphone (1) Pro」",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2151257.html",
+      "date": "2026-10-26T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2151/257/sub.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/minna/2150799.html",
+      "title": "1年間使った「iPhone 17 Pro」に別れを告げて「iPhone Duo」の準備を",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/minna/2150799.html",
+      "date": "2026-10-26T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": null
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/keyword/2148494.html",
+      "title": "【第1026回】着信履歴の「+」番号に折り返しはNG！　国際電話の罠と理由を解説",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/keyword/2148494.html",
+      "date": "2026-10-26T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": null
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/26/news082.html",
+      "title": "新型「iPad mini」発表　有機EL搭載で防水にも対応、5.4mm／255gへと薄く軽くなって11万9800円から",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/26/news082.html",
+      "date": "2026-10-26T14:44:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/26/cover_news082.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2151317.html",
+      "title": "アップル、薄さ5.4mmでOLED搭載の新「iPad mini」発表、11万9800円～",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2151317.html",
+      "date": "2026-10-26T14:12:09+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2151/317/03.jpg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2151296.html",
       "title": "Joshin、不正アクセスで最大約600万件の会員情報漏洩の可能性",
@@ -212,17 +300,6 @@
       "image": null
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/26/news038.html",
-      "title": "「Galaxy Z Fold8」「iPhone Duo」を“メイン端末”として使う上での課題　縦型コンテンツの最適化をどう進める？",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/26/news038.html",
-      "date": "2026-10-25T21:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/26/cover_news038.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/stapa/2150540.html",
       "title": "iPhone 16 Pro Maxから「iPhone 18 Pro Max」へ乗り換えて感じた地味な大満足",
       "link": "https://k-tai.watch.impress.co.jp/docs/column/stapa/2150540.html",
@@ -253,6 +330,17 @@
       "catKey": "price",
       "catLabel": "料金プラン",
       "carrier": "ドコモ",
+      "image": null
+    },
+    {
+      "id": "ymobile-https://www.softbank.jp/corp/news/info/2026/20261023_01/",
+      "title": "緊急速報メールの配信再開について",
+      "link": "https://www.softbank.jp/corp/news/info/2026/20261023_01/",
+      "date": "2026-10-25T15:00:00+00:00",
+      "sourceKey": "ymobile",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "Y!mobile",
       "image": null
     },
     {
@@ -287,17 +375,6 @@
       "catLabel": "その他",
       "carrier": "ソフトバンク",
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2150/959/sb2.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/25/news004.html",
-      "title": "Apple HomeViewは「日本発売未定」状態――アップルはスマートホームで日本を攻略できるか",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/25/news004.html",
-      "date": "2026-10-25T02:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/images/logo/1200x630_500x500_mobile.gif"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2150676.html",
@@ -353,17 +430,6 @@
       "catLabel": "その他",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2150/130/001.jpg"
-    },
-    {
-      "id": "ymobile-https://www.softbank.jp/corp/news/info/2026/20261023_01/",
-      "title": "（更新）メンテナンスに伴う緊急速報メールの配信停止について（緊急地震速報と津波警報の配信を再開）",
-      "link": "https://www.softbank.jp/corp/news/info/2026/20261023_01/",
-      "date": "2026-10-24T15:00:00+00:00",
-      "sourceKey": "ymobile",
-      "catKey": "trouble",
-      "catLabel": "障害・不具合",
-      "carrier": "Y!mobile",
-      "image": null
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2150880.html",
@@ -443,17 +509,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2150/786/2.jpg"
     },
     {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2150787.html",
-      "title": "Netflix、11月の新着作品は「トークサバイバー！DEAD or LAUGH」「フールナイト」など",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2150787.html",
-      "date": "2026-10-23T07:41:44+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": null
-    },
-    {
       "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr_s-80_4786.html",
       "title": "モンゴルのヌムルグ自然保護区において2026年10月8日に発生した草原火災についてのお詫び",
       "link": "https://newsroom.kddi.com/news/detail/kddi_nr_s-80_4786.html",
@@ -463,50 +518,6 @@
       "catLabel": "その他",
       "carrier": "au/KDDI",
       "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2150712.html",
-      "title": "「motorola edge 70 fusion」本日23日発売　7000mAhバッテリー搭載スマホ",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2150712.html",
-      "date": "2026-10-23T05:03:01+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2150/712/00.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2150696.html",
-      "title": "iPhone Duo本日発売、Netflixやインスタなど対応アプリ登場",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2150696.html",
-      "date": "2026-10-23T04:59:38+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2150/696/main.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2150655.html",
-      "title": "ファーウェイ、国内初の「公式サービスセンター」オープン　対面修理や体験の拠点に",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2150655.html",
-      "date": "2026-10-23T04:56:49+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2150690.html",
-      "title": "ドコモ、台風30号で沖縄・与那国町と竹富町の一部に通信障害　JAPANローミング提供",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2150690.html",
-      "date": "2026-10-23T04:38:57+00:00",
-      "sourceKey": "ktai",
-      "catKey": "trouble",
-      "catLabel": "障害・不具合",
-      "carrier": "ドコモ",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2150/690/docomo_logo.jpg"
     },
     {
       "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20261023_01/",
