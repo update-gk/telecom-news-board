@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T15:15:39.302045+00:00",
+  "generated_at": "2026-10-27T22:01:42.743337+00:00",
   "errors": [],
   "articles": [
     {
@@ -386,17 +386,6 @@
       "catLabel": "その他",
       "carrier": null,
       "image": "https://image.itmedia.co.jp/mobile/articles/2610/27/cover_news062.png"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/27/news059.html",
-      "title": "AGMが小型カメラ「AGM CAM 1」発売、防水対応で補助ライト付き　11月4日まで3000円オフの6980円",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/27/news059.html",
-      "date": "2026-10-27T02:23:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/27/l_asa_AGM_01.jpg"
     },
     {
       "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr-1209_4784.html",
