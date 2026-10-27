@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-10-26T20:23:11.038712+00:00",
+  "generated_at": "2026-10-27T00:18:58.852801+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/27/news050.html",
+      "title": "iOS 27.2配信開始　Siri AIが日本語に対応　iPhone DuoはApple Pencilを利用可能に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/27/news050.html",
+      "date": "2026-10-26T22:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/27/cover_news050.jpg"
+    },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/27/news040.html",
       "title": "「Google Fitbit Edge」先行レビュー：画面付き、Google マップ対応の実力は？　Fitbit Airとの1万円差を検証する",
@@ -66,6 +77,17 @@
       "catKey": "other",
       "catLabel": "その他",
       "carrier": null,
+      "image": null
+    },
+    {
+      "id": "ymobile-https://www.ymobile.jp/info/press/2026/26102701.html",
+      "title": "SIMフリースマホなどが購入できる「Y!mobile Free Style」で「Nothing Phone (4b)」を10月27日より販売開始",
+      "link": "https://www.ymobile.jp/info/press/2026/26102701.html",
+      "date": "2026-10-26T15:00:00+00:00",
+      "sourceKey": "ymobile",
+      "catKey": "mvno",
+      "catLabel": "MVNO・格安SIM",
+      "carrier": "Y!mobile",
       "image": null
     },
     {
@@ -245,17 +267,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2151/085/01.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/26/news053.html",
-      "title": "PayPayが本人確認（eKYC）のセキュリティ強化　撮影廃止でICチップ読み取り方式へ統一",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/26/news053.html",
-      "date": "2026-10-26T03:04:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/26/l_asa_PayPay_01.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2151088.html",
       "title": "ドコモのMVNO向け設備で故障、23日と25日の2度《復旧済み》",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2151088.html",
@@ -276,28 +287,6 @@
       "catLabel": "その他",
       "carrier": "ソフトバンク",
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2151/087/01.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/26/news023.html",
-      "title": "マウスやケーブルなどを出し入れしやすい自立仕様　エレコムのガジェットポーチを紹介",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/26/news023.html",
-      "date": "2026-10-26T01:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/26/l_asa_amazon_01.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/26/news043.html",
-      "title": "iFixitが「iPhone Duo」を分解　折りたたみスマホで最も修理しやすいが内側画面の修理に課題",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/26/news043.html",
-      "date": "2026-10-26T00:44:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": null
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/stapa/2150540.html",
@@ -1407,17 +1396,6 @@
       "sourceKey": "ymobile",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": "Y!mobile",
-      "image": null
-    },
-    {
-      "id": "ymobile-https://www.ymobile.jp/info/press/2026/26071501.html",
-      "title": "子回線専用プラン（シェアプラン）でeSIMが利用可能に",
-      "link": "https://www.ymobile.jp/info/press/2026/26071501.html",
-      "date": "2026-07-14T15:00:00+00:00",
-      "sourceKey": "ymobile",
-      "catKey": "price",
-      "catLabel": "料金プラン",
       "carrier": "Y!mobile",
       "image": null
     },
