@@ -1,7 +1,161 @@
 {
-  "generated_at": "2026-10-28T05:08:36.686872+00:00",
+  "generated_at": "2026-10-28T12:32:55.655372+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/28/news085.html",
+      "title": "auが通信品質10部門で単独首位、追うソフトバンクは「小差」　5G SA利用率3.8％の課題も　Opensignal調査",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/28/news085.html",
+      "date": "2026-10-28T11:29:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "au/KDDI",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/28/cover_news085.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2152024.html",
+      "title": "日本通信、ネオキャリアを5カ月再延期　接続試験で技術的課題",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2152024.html",
+      "date": "2026-10-28T10:49:47+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2152/024/jci.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2152020.html",
+      "title": "ドコモが新型「iPad mini（A20 Pro）」の価格を発表、約2年間で実質9.3万円",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2152020.html",
+      "date": "2026-10-28T10:23:15+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ドコモ",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2152/020/cont000.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2151959.html",
+      "title": "au、「iPad mini（A20 Pro）」価格を発表　セルラーモデルが約16.8万円～",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2151959.html",
+      "date": "2026-10-28T10:22:11+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "au/KDDI",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2151/959/001.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2152002.html",
+      "title": "auが10部門制覇、楽天モバイルは1100万回線突破も通信品質向上――Opensignal 26年10月レポート",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2152002.html",
+      "date": "2026-10-28T10:18:10+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "au/KDDI",
+      "image": null
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/28/news080.html",
+      "title": "日本通信のフルMVNOサービス、開始時期を5カ月延長へ　「テクニカルな課題が判明」",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/28/news080.html",
+      "date": "2026-10-28T10:05:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "mvno",
+      "catLabel": "MVNO・格安SIM",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/28/l_st52693_bm-01.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/28/news076.html",
+      "title": "折りたたみ「iPhone Duo」標準キーボードの使い心地は？　分割表示や片手用キーボードへの切り替え方法も",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/28/news076.html",
+      "date": "2026-10-28T09:40:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/28/cover_news076.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2152001.html",
+      "title": "ドコモ、28日夕方に通信障害《復旧済み》",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2152001.html",
+      "date": "2026-10-28T09:38:30+00:00",
+      "sourceKey": "ktai",
+      "catKey": "trouble",
+      "catLabel": "障害・不具合",
+      "carrier": "ドコモ",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2152/001/cont0.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2151925.html",
+      "title": "au・UQモバイルのメール障害が復旧、「不正侵入は確認されていない」",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2151925.html",
+      "date": "2026-10-28T08:23:42+00:00",
+      "sourceKey": "ktai",
+      "catKey": "trouble",
+      "catLabel": "障害・不具合",
+      "carrier": "au/KDDI",
+      "image": null
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/28/news074.html",
+      "title": "“ニセ警察詐欺”を疑似体験できる無料ブラウザゲーム「騙される30秒前」登場　警察庁の協力もと開発",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/28/news074.html",
+      "date": "2026-10-28T08:21:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/28/l_asa_nisekeisatsu_01.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/28/news063.html",
+      "title": "携帯で通話するだけでAIが業務代行、カスハラ判定も　アドバンスト・メディアが「AmiVoice Mobile Genie」発表",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/28/news063.html",
+      "date": "2026-10-28T07:48:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/28/cover_news063.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/28/news070.html",
+      "title": "AI利用時のリスク対策を強化した「ESET HOME セキュリティ」新バージョンを提供　iPhoneアプリも登場",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/28/news070.html",
+      "date": "2026-10-28T07:26:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/28/l_asa_ESETHOME_01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2151914.html",
+      "title": "第61回スーパーボウルのハーフタイムショーにジェイ・Z出演へ　Apple Musicに特設コーナー",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2151914.html",
+      "date": "2026-10-28T06:58:56+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2151/914/00.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/28/news066.html",
+      "title": "手のひらサイズの縦折りスマホ「nubia Flip 2」、Y!mobileへMNPで一括9800円【スマホお得情報】",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/28/news066.html",
+      "date": "2026-10-28T06:50:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "Y!mobile",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/28/l_asa_sumaotoku_01.jpg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2151875.html",
       "title": "アップル、「Apple Creator Studio」を11月アップデート――Final Cut ProにMotionVFX統合やAIエージェントツール",
@@ -147,7 +301,7 @@
     },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/28/news055.html",
-      "title": "auとUQ mobileのキャリアメールで障害　音声通話やデータ通信への影響はなし",
+      "title": "auとUQ mobileのキャリアメールで障害　音声通話やデータ通信への影響はなし【復旧】",
       "link": "https://www.itmedia.co.jp/mobile/articles/2610/28/news055.html",
       "date": "2026-10-28T02:27:00+00:00",
       "sourceKey": "itmedia",
@@ -256,6 +410,17 @@
       "image": null
     },
     {
+      "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20261028_02/",
+      "title": "SMBC日本シリーズ2026優勝を記念して「ソフトバンクホークス 日本一キャンペーン」を開始",
+      "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20261028_02/",
+      "date": "2026-10-27T15:00:00+00:00",
+      "sourceKey": "softbank",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": "ソフトバンク",
+      "image": null
+    },
+    {
       "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20261028_01/",
       "title": "量子コンピュータを活用した材料開発基盤構築の研究を6社で開始",
       "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20261028_01/",
@@ -298,28 +463,6 @@
       "catLabel": "その他",
       "carrier": "ドコモ",
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2151/662/docomo_logo.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/27/news096.html",
-      "title": "バルミューダが初のコンテンツ事業「パーソナルAIラジオ」発表　“自分だけの番組”を毎朝10分配信する狙いとは",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/27/news096.html",
-      "date": "2026-10-27T10:52:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/27/cover_news096.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/27/news095.html",
-      "title": "auショップの問い合わせ半減、通信品質の最適化は2年から1カ月へ短縮　KDDIが示す「AI前提社会」の道筋",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/27/news095.html",
-      "date": "2026-10-27T10:34:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "au/KDDI",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/27/cover_news095.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2151578.html",
@@ -366,39 +509,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2151/581/261027.jpg"
     },
     {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2151556.html",
-      "title": "auじぶん銀行アプリ刷新、引き落とし予定もわかる「タイムライン」新設",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2151556.html",
-      "date": "2026-10-27T07:14:14+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "au/KDDI",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2151/556/01.png"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2151493.html",
-      "title": "auから新しい「iPad mini」、11月6日発売",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2151493.html",
-      "date": "2026-10-27T04:43:52+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "au/KDDI",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2151/493/Apple-iPad-mini-starlight-261026.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2151489.html",
-      "title": "「iOS 27.2」「iPadOS 27.2」が提供開始、「Siri AI」の日本語対応や100以上の修正",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2151489.html",
-      "date": "2026-10-27T04:40:24+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2151/489/cont0.png"
-    },
-    {
       "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr-1219_4789.html",
       "title": "au、まったく新しい「iPad mini」を11月6日に発売",
       "link": "https://newsroom.kddi.com/news/detail/kddi_nr-1219_4789.html",
@@ -407,50 +517,6 @@
       "catKey": "device",
       "catLabel": "端末",
       "carrier": "au/KDDI",
-      "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2151486.html",
-      "title": "ソフトバンク、新しい「iPad mini」を取り扱い　予約は10月29日2時10分から",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2151486.html",
-      "date": "2026-10-27T04:29:22+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "ソフトバンク",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2151/486/Apple-iPad-mini-midnight-261026.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2151483.html",
-      "title": "ドコモ、新しい「iPad mini」を11月6日に発売　10月29日8時から予約受付",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2151483.html",
-      "date": "2026-10-27T04:27:38+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "ドコモ",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2151/483/Apple-iPad-mini-water-resistance-261026.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2151468.html",
-      "title": "AI前提社会で問われる「体験価値」とは、KDDI松田社長が語る新時代の戦略",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2151468.html",
-      "date": "2026-10-27T04:24:55+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "au/KDDI",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2151/468/101540.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2151476.html",
-      "title": "LINE、通話の録音や文字起こしができる「通話レコーディング」をLINEラボで提供開始",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2151476.html",
-      "date": "2026-10-27T04:04:39+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
       "image": null
     },
     {
@@ -1195,17 +1261,6 @@
       "title": "（開示事項の経過）連結子会社（LINE MAN CORPORATION PTE. LTD.）の株式取得の完了時期の変更に関するお知らせ",
       "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260828_01/",
       "date": "2026-08-27T15:00:00+00:00",
-      "sourceKey": "softbank",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "ソフトバンク",
-      "image": null
-    },
-    {
-      "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260827_01/",
-      "title": "AIを活用し、子どものこころのケアに取り組む教師を支援するサービス「メンタリ」を提供開始",
-      "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260827_01/",
-      "date": "2026-08-26T15:00:00+00:00",
       "sourceKey": "softbank",
       "catKey": "other",
       "catLabel": "その他",
