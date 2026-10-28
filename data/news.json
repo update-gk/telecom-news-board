@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-10-28T12:32:55.655372+00:00",
+  "generated_at": "2026-10-28T20:10:13.232409+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2152015.html",
+      "title": "百均で買える45WのUSB充電器、実は馴染みのあるメーカー製だった",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2152015.html",
+      "date": "2026-10-28T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2152/015/01-1.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2151993.html",
+      "title": "アマゾン「Alexa+」、提供開始　月額3000円でプライム会員は無料",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2151993.html",
+      "date": "2026-10-28T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "price",
+      "catLabel": "料金プラン",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2151/993/57.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2151982.html",
+      "title": "楽天カード、「Google Pay」のタッチ決済に対応",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2151982.html",
+      "date": "2026-10-28T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "楽天モバイル",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2151/982/01-1.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/china/2151971.html",
+      "title": "世界初のトリプル2億画素カメラフォン登場、ファーウェイ3つ折りモデルも発表",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/china/2151971.html",
+      "date": "2026-10-28T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2151/971/wt261025.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/value/2151887.html",
+      "title": "ドコモ「データプラス」110円値上げ、ahamoの段階制で高額化の落とし穴",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/value/2151887.html",
+      "date": "2026-10-28T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "price",
+      "catLabel": "料金プラン",
+      "carrier": "ドコモ",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2151/887/01-1.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2151885.html",
+      "title": "アマゾン、Alexa+対応の新型「Echo Dot」と「Echo Time」発売",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2151885.html",
+      "date": "2026-10-28T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2151/885/242.jpg"
+    },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/28/news085.html",
       "title": "auが通信品質10部門で単独首位、追うソフトバンクは「小差」　5G SA利用率3.8％の課題も　Opensignal調査",
@@ -12,6 +78,17 @@
       "catLabel": "その他",
       "carrier": "au/KDDI",
       "image": "https://image.itmedia.co.jp/mobile/articles/2610/28/cover_news085.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/28/news075.html",
+      "title": "5周年を迎えた「povo2.0」の次なる一手　多すぎるトッピングにAIが回答、海外キャリアとの共創も",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/28/news075.html",
+      "date": "2026-10-28T11:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "mvno",
+      "catLabel": "MVNO・格安SIM",
+      "carrier": "au/KDDI",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/28/cover_news075.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2152024.html",
@@ -441,72 +518,6 @@
       "catLabel": "その他",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2151/699/10.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2151696.html",
-      "title": "アップル、M6搭載の新型「MacBook Pro」発表　11月6日発売",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2151696.html",
-      "date": "2026-10-27T14:05:25+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2151/696/001.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2151662.html",
-      "title": "ドコモ光「plala（Sコース）」で44万件の情報流出、委託先に不正アクセス",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2151662.html",
-      "date": "2026-10-27T11:43:23+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "ドコモ",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2151/662/docomo_logo.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2151578.html",
-      "title": "バルミューダ、「BALMUDA Good Morning Radio」ベータ版開始　AIで一人ひとりに合わせたラジオ番組を生成",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2151578.html",
-      "date": "2026-10-27T09:48:08+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2151620.html",
-      "title": "「Nothing Phone (4b)」本日27日発売、5万9800円",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2151620.html",
-      "date": "2026-10-27T09:16:51+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2151606.html",
-      "title": "KDDI SUMMIT 2026で「世界povoサミット」、生成AI活用と海外進出に見るサブブランドのポテンシャル",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2151606.html",
-      "date": "2026-10-27T08:55:26+00:00",
-      "sourceKey": "ktai",
-      "catKey": "mvno",
-      "catLabel": "MVNO・格安SIM",
-      "carrier": "au/KDDI",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2151/606/154328.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2151581.html",
-      "title": "So-netなど258万件超の個人情報漏洩、ソニーネットワークが発表",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2151581.html",
-      "date": "2026-10-27T07:47:08+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2151/581/261027.jpg"
     },
     {
       "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr-1219_4789.html",
