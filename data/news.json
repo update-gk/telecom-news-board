@@ -1,7 +1,194 @@
 {
-  "generated_at": "2026-10-27T22:01:42.743337+00:00",
+  "generated_at": "2026-10-28T05:08:36.686872+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2151875.html",
+      "title": "アップル、「Apple Creator Studio」を11月アップデート――Final Cut ProにMotionVFX統合やAIエージェントツール",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2151875.html",
+      "date": "2026-10-28T04:54:40+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2151/875/cont0.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2151862.html",
+      "title": "ドコモSMTBネット銀行、電話・チャット横断の顧客応対AIを稼働開始",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2151862.html",
+      "date": "2026-10-28T04:42:29+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ドコモ",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2151/862/smtb.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2151681.html",
+      "title": "ドコモ、USJの当選を装う偽メールに注意喚起",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2151681.html",
+      "date": "2026-10-28T04:42:26+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ドコモ",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2151/681/docomo_logo.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2151840.html",
+      "title": "アップル、古いiPhone向けに「iOS 18.7.11」を公開　悪用報告のあるゼロデイ脆弱性など3件を修正",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2151840.html",
+      "date": "2026-10-28T03:42:47+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2151/840/main.png"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/28/news061.html",
+      "title": "ソニーが6型の空間再現ディスプレイ「ELF-MN1」発売　デジタルフィギュアなど立体映像を裸眼で楽しめる",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/28/news061.html",
+      "date": "2026-10-28T03:42:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/28/l_asa_Sony_01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2151837.html",
+      "title": "PayPayとセブン‐イレブン、「セブンカフェ」半額など　11月1日～",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2151837.html",
+      "date": "2026-10-28T03:39:52+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2151/837/00.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2151827.html",
+      "title": "ソニー、5.4万円の小型空間再現ディスプレイ「ELF-MN1」を発表",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2151827.html",
+      "date": "2026-10-28T03:19:19+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2151/827/cont0.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2151820.html",
+      "title": "LINEで既読つけずにトーク全体をさかのぼれる新機能、LYP会員向けに11月4日開始",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2151820.html",
+      "date": "2026-10-28T03:13:47+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2151/820/main.png"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2151814.html",
+      "title": "ソフトバンク、新型「iPad mini（A20 Pro）」価格発表　11万9800円～",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2151814.html",
+      "date": "2026-10-28T03:03:59+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ソフトバンク",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2151/814/02.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2151805.html",
+      "title": "ソニー、全画素AFとHDRを両立した4K60p対応スマホセンサー「LYTIA 720」",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2151805.html",
+      "date": "2026-10-28T02:51:43+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": null
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/28/news059.html",
+      "title": "LINE、トーク画面から食事写真を送るだけでカロリーと栄養素を分析する食事管理AIエージェントを公開",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/28/news059.html",
+      "date": "2026-10-28T02:46:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/28/cover_news059.png"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2151797.html",
+      "title": "LINEに「食事管理エージェント」、写真を送ってAIがチェック",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2151797.html",
+      "date": "2026-10-28T02:40:25+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2151/797/main.png"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/28/news054.html",
+      "title": "LINE、Androidでも“長押し”で既読付けずにメッセージ確認可能に　未読のままトーク全体をさかのぼれる有料機能も",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/28/news054.html",
+      "date": "2026-10-28T02:30:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/28/cover_news054.png"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/28/news055.html",
+      "title": "auとUQ mobileのキャリアメールで障害　音声通話やデータ通信への影響はなし",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/28/news055.html",
+      "date": "2026-10-28T02:27:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "trouble",
+      "catLabel": "障害・不具合",
+      "carrier": "au/KDDI",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/28/l_st52693_aumail-01.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/28/news052.html",
+      "title": "チェキ初のタッチパネル式モニター搭載　プリンターにもなるインスタントカメラ「instax mini Evo 2」発売",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/28/news052.html",
+      "date": "2026-10-28T01:59:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/28/l_asa_instaxminiEvo2_01.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/28/news035.html",
+      "title": "折り紙構造でフラットに開くFIKLIKのガジェットポーチ　マグネットでデスク横に固定OK",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/28/news035.html",
+      "date": "2026-10-28T01:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/28/l_asa_amazon_01.jpg"
+    },
+    {
+      "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr-1212_4787.html",
+      "title": "リスク診断・対処を効率化、AI脆弱性管理ソリューションを提供開始",
+      "link": "https://newsroom.kddi.com/news/detail/kddi_nr-1212_4787.html",
+      "date": "2026-10-28T01:00:00+00:00",
+      "sourceKey": "au",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "au/KDDI",
+      "image": null
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2151686.html",
       "title": "「iFLYTEK AI翻訳イヤホン」登場、通話やオンライン会議をリアルタイム翻訳",
@@ -66,6 +253,17 @@
       "catKey": "other",
       "catLabel": "その他",
       "carrier": "au/KDDI",
+      "image": null
+    },
+    {
+      "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20261028_01/",
+      "title": "量子コンピュータを活用した材料開発基盤構築の研究を6社で開始",
+      "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20261028_01/",
+      "date": "2026-10-27T15:00:00+00:00",
+      "sourceKey": "softbank",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ソフトバンク",
       "image": null
     },
     {
@@ -135,28 +333,6 @@
       "image": null
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/27/news092.html",
-      "title": "「auじぶん銀行」アプリをリニューアル　無料回数や資金の流れが確認しやすく",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/27/news092.html",
-      "date": "2026-10-27T09:30:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "au/KDDI",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/27/l_asa_aujibunapp_01.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/27/news087.html",
-      "title": "IIJmioの「OPPO Reno11 A」がMNPで一括9980円　11月4日まで【スマホお得情報】",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/27/news087.html",
-      "date": "2026-10-27T09:28:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/27/l_asa_sumaotoku_01.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2151620.html",
       "title": "「Nothing Phone (4b)」本日27日発売、5万9800円",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2151620.html",
@@ -179,17 +355,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2151/606/154328.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/27/news090.html",
-      "title": "So-netの会員情報など258万件超が漏えい 不審な連絡への警戒を呼びかけ",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/27/news090.html",
-      "date": "2026-10-27T07:56:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/27/l_st52693_sonet-01.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2151581.html",
       "title": "So-netなど258万件超の個人情報漏洩、ソニーネットワークが発表",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2151581.html",
@@ -210,50 +375,6 @@
       "catLabel": "その他",
       "carrier": "au/KDDI",
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2151/556/01.png"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/27/news080.html",
-      "title": "「ポケモンユナイト」2027年3月にサービス終了　Switch版・スマホ版とも　未使用の有償ジェムは払い戻しへ",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/27/news080.html",
-      "date": "2026-10-27T06:12:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/27/cover_news080.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/27/news076.html",
-      "title": "ソフトバンクとY!mobileがFree Styleで「Nothing Phone (4b)」発売　約6万円、3000円相当の還元も",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/27/news076.html",
-      "date": "2026-10-27T05:12:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": "ソフトバンク",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/27/l_asa_SBYmobile_01.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/27/news075.html",
-      "title": "ノートPCとスマホを同時に急速充電できる「UGREEN Nexode 100W急速充電器」が37％オフの4586円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/27/news075.html",
-      "date": "2026-10-27T04:55:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/27/cover_news075.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/27/news074.html",
-      "title": "GPS＆Wi-Fi対応で前後2カメラ構成のドラレコ「70mai Dash Cam A410 Neo」が37％オフの9999円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/27/news074.html",
-      "date": "2026-10-27T04:54:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/27/cover_news074.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2151493.html",
@@ -322,17 +443,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2151/468/101540.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/27/news067.html",
-      "title": "TVer、UI刷新で「番組が主役」のデザインに　フォントサイズ変更、お気に入りタレントLINE通知も可能に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/27/news067.html",
-      "date": "2026-10-27T04:05:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/27/l_asa_TVer_01.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2151476.html",
       "title": "LINE、通話の録音や文字起こしができる「通話レコーディング」をLINEラボで提供開始",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2151476.html",
@@ -342,50 +452,6 @@
       "catLabel": "その他",
       "carrier": null,
       "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2151432.html",
-      "title": "d払いで「履歴からの残高送金」が利用しづらく、通常送金は利用可能",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2151432.html",
-      "date": "2026-10-27T03:39:08+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2151/432/sub.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2151431.html",
-      "title": "ワイモバイル、SIMフリースマホ「Nothing Phone (4b)」を本日27日発売",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2151431.html",
-      "date": "2026-10-27T02:52:59+00:00",
-      "sourceKey": "ktai",
-      "catKey": "mvno",
-      "catLabel": "MVNO・格安SIM",
-      "carrier": "Y!mobile",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2151/431/01.png"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2151426.html",
-      "title": "KDDIやユニバーサルら、YouTube活用の新人オーディション「SCAN」を発表",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2151426.html",
-      "date": "2026-10-27T02:44:38+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "au/KDDI",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2151/426/111459.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/27/news062.html",
-      "title": "LINEで通話の録音／録画が可能に　音声通話は文字起こしも　今冬からは有料に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/27/news062.html",
-      "date": "2026-10-27T02:37:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/27/cover_news062.png"
     },
     {
       "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr-1209_4784.html",
@@ -426,83 +492,6 @@
       "link": "https://newsroom.kddi.com/news/detail/kddi_nr-1209_4781.html",
       "date": "2026-10-27T01:30:01+00:00",
       "sourceKey": "au",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "au/KDDI",
-      "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2151326.html",
-      "title": "VLAモデルで言葉と行動を結びつける、人と協働する次世代ヒューマノイドの可能性【KDDI SUMMIT 2026】",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2151326.html",
-      "date": "2026-10-27T01:30:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "au/KDDI",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2151/326/cont500.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2151325.html",
-      "title": "自動運転やドローンをAIで統合監視、KDDIが描く「モビリティコントロールセンター」【KDDI SUMMIT 2026】",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2151325.html",
-      "date": "2026-10-27T01:30:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "au/KDDI",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2151/325/cont400.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2151323.html",
-      "title": "大阪堺データセンターで早くも「フェーズ2」計画、コンテナ型＋外気液冷で工数半減と消費電力削減を狙う【KDDI SUMMIT 2026】",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2151323.html",
-      "date": "2026-10-27T01:30:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "au/KDDI",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2151/323/cont300.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2151322.html",
-      "title": "基地局ごとの学習結果を上位AIへ集約、KDDIが体感品質を高める「分散型AI」【KDDI SUMMIT 2026】",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2151322.html",
-      "date": "2026-10-27T01:30:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "au/KDDI",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2151/322/cont200.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2151320.html",
-      "title": "KDDI、スマートグラスとAIで作業レポートを自動作成するソリューションを展示【KDDI SUMMIT 2026】",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2151320.html",
-      "date": "2026-10-27T01:30:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "au/KDDI",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2151/320/cont100.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2151316.html",
-      "title": "KDDI、5Gミリ波と生成AIで街がアート空間に　映像をリアルタイム共有する「生成アート体験」【KDDI SUMMIT 2026】",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2151316.html",
-      "date": "2026-10-27T01:30:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "au/KDDI",
-      "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2151313.html",
-      "title": "KDDI、地域ごとの交通課題を解決する「自動運転車両ショールーム」を展示【KDDI SUMMIT 2026】",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2151313.html",
-      "date": "2026-10-27T01:30:00+00:00",
-      "sourceKey": "ktai",
       "catKey": "other",
       "catLabel": "その他",
       "carrier": "au/KDDI",
@@ -715,17 +704,6 @@
       "catKey": "other",
       "catLabel": "その他",
       "carrier": "Y!mobile",
-      "image": null
-    },
-    {
-      "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr_s-78_4761.html",
-      "title": "役員等の人事について",
-      "link": "https://newsroom.kddi.com/news/detail/kddi_nr_s-78_4761.html",
-      "date": "2026-10-15T06:00:00+00:00",
-      "sourceKey": "au",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "au/KDDI",
       "image": null
     },
     {
@@ -1265,17 +1243,6 @@
       "catKey": "campaign",
       "catLabel": "キャンペーン",
       "carrier": "Y!mobile",
-      "image": null
-    },
-    {
-      "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260820_02/",
-      "title": "ソフトバンクとエリクソン、日本で初めてエリクソンの「AI in RAN」を5G商用ネットワークで実証～無線アクセスネットワークにおけるAIの有効性を検証～",
-      "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260820_02/",
-      "date": "2026-08-19T15:00:00+00:00",
-      "sourceKey": "softbank",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "ソフトバンク",
       "image": null
     },
     {
