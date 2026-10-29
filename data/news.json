@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-10-28T20:10:13.232409+00:00",
+  "generated_at": "2026-10-29T00:42:47.558335+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/topic/special/2143713.html",
+      "title": "チャージから店舗・ネット・請求書の⽀払いまで「au PAY」をAndroidスマートフォンやiPhone&Apple Watchでつかいこなす基本＆活⽤術[Sponsored]",
+      "link": "https://k-tai.watch.impress.co.jp/docs/topic/special/2143713.html",
+      "date": "2026-10-28T21:30:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "au/KDDI",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2143/713/00.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/ranking/galapagos_ranking/2151979.html",
+      "title": "電子書籍人気ランキング（10月16日～10月22日）",
+      "link": "https://k-tai.watch.impress.co.jp/docs/ranking/galapagos_ranking/2151979.html",
+      "date": "2026-10-28T21:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/include/common/p01/images/logo/ktw.l.png"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/29/news052.html",
+      "title": "楽天モバイル、1100万回線突破の背景に「通信品質向上」とOpensignalが分析　下り速度とカバレッジの課題は残る",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/29/news052.html",
+      "date": "2026-10-28T21:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "楽天モバイル",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/29/cover_news052.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/29/news042.html",
+      "title": "「iPhone Duo」のアプリはどこに置く？　閉じたら“右寄せ”、開いたら“両端”が正解か　開閉×縦横で指の届く範囲を検証",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/29/news042.html",
+      "date": "2026-10-28T21:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/29/cover_news042.jpg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2152015.html",
       "title": "百均で買える45WのUSB充電器、実は馴染みのあるメーカー製だった",
@@ -344,17 +388,6 @@
       "image": null
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/28/news059.html",
-      "title": "LINE、トーク画面から食事写真を送るだけでカロリーと栄養素を分析する食事管理AIエージェントを公開",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/28/news059.html",
-      "date": "2026-10-28T02:46:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/28/cover_news059.png"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2151797.html",
       "title": "LINEに「食事管理エージェント」、写真を送ってAIがチェック",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2151797.html",
@@ -364,50 +397,6 @@
       "catLabel": "その他",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2151/797/main.png"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/28/news054.html",
-      "title": "LINE、Androidでも“長押し”で既読付けずにメッセージ確認可能に　未読のままトーク全体をさかのぼれる有料機能も",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/28/news054.html",
-      "date": "2026-10-28T02:30:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/28/cover_news054.png"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/28/news055.html",
-      "title": "auとUQ mobileのキャリアメールで障害　音声通話やデータ通信への影響はなし【復旧】",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/28/news055.html",
-      "date": "2026-10-28T02:27:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "trouble",
-      "catLabel": "障害・不具合",
-      "carrier": "au/KDDI",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/28/l_st52693_aumail-01.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/28/news052.html",
-      "title": "チェキ初のタッチパネル式モニター搭載　プリンターにもなるインスタントカメラ「instax mini Evo 2」発売",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/28/news052.html",
-      "date": "2026-10-28T01:59:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/28/l_asa_instaxminiEvo2_01.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/28/news035.html",
-      "title": "折り紙構造でフラットに開くFIKLIKのガジェットポーチ　マグネットでデスク横に固定OK",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/28/news035.html",
-      "date": "2026-10-28T01:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/28/l_asa_amazon_01.jpg"
     },
     {
       "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr-1212_4787.html",
@@ -476,17 +465,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2151/660/cont100.jpg"
     },
     {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2150864.html",
-      "title": "チケット完売の盛況、KDDIがスーパーフォーミュラ初開催「ファンシート」、限定グッズとAI体験で盛り上がった現地レポート",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2150864.html",
-      "date": "2026-10-27T15:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "au/KDDI",
-      "image": null
-    },
-    {
       "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20261028_02/",
       "title": "SMBC日本シリーズ2026優勝を記念して「ソフトバンクホークス 日本一キャンペーン」を開始",
       "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20261028_02/",
@@ -507,17 +485,6 @@
       "catLabel": "その他",
       "carrier": "ソフトバンク",
       "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2151699.html",
-      "title": "アップルがM6チップ搭載の24型「iMac」発表、24万9800円～",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2151699.html",
-      "date": "2026-10-27T14:28:58+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2151/699/10.jpg"
     },
     {
       "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr-1219_4789.html",
