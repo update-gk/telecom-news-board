@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-10-29T09:43:01.489750+00:00",
+  "generated_at": "2026-10-29T18:19:44.508685+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/fujioka/2152436.html",
+      "title": "ドコモだけ配信できなかった「緊急地震速報」、そのしくみとほかの手段を考える",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/fujioka/2152436.html",
+      "date": "2026-10-29T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ドコモ",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2152/436/1.png"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/teppan/2152358.html",
+      "title": "ニュースの新しい楽しみ方、結末を予想してプレゼントがもらえる「グノシー」",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/teppan/2152358.html",
+      "date": "2026-10-29T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2152/358/thumbnail.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2152424.html",
+      "title": "IoT向け接続「MEEQ」が楽天回線を追加した理由とは？　月額50円の休止プランやAI時代を見据えた大容量通信の勝算",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2152424.html",
+      "date": "2026-10-29T11:11:06+00:00",
+      "sourceKey": "ktai",
+      "catKey": "trouble",
+      "catLabel": "障害・不具合",
+      "carrier": "楽天モバイル",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2152/424/cont100.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2152385.html",
+      "title": "ソフトバンク、台湾などで国際ローミングサービスを拡充",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2152385.html",
+      "date": "2026-10-29T09:59:35+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ソフトバンク",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2152/385/01-1.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2152379.html",
+      "title": "新型「iPad mini」、Amazonでも予約受付がスタート",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2152379.html",
+      "date": "2026-10-29T09:50:38+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2152/379/01.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/29/news082.html",
+      "title": "ミークのIoT SIMに楽天モバイル回線を追加、国内初の「4キャリア」対応　月額50円の「休止プラン」も",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/29/news082.html",
+      "date": "2026-10-29T09:47:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "trouble",
+      "catLabel": "障害・不具合",
+      "carrier": "楽天モバイル",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/29/cover_news082.jpg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2152351.html",
       "title": "個人情報漏えいが増加、「パスワード変更」や「パスキー」活用など消費者庁が対策呼びかけ",
@@ -12,6 +78,39 @@
       "catLabel": "その他",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2152/351/sub.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/29/news081.html",
+      "title": "SUNEAST、最大読み込み速度2000MB／sの防水ポータブルSSD発売　512GB～2TBの3モデル",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/29/news081.html",
+      "date": "2026-10-29T09:23:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/29/l_asa_SUNEAST_01.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/29/news079.html",
+      "title": "楽天モバイル、新型iPad miniやiPad、iPad Pro、iPad Airを取り扱い　11月6日から",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/29/news079.html",
+      "date": "2026-10-29T08:43:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "楽天モバイル",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/29/l_asa_rakuten_01.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/29/news071.html",
+      "title": "「arrows Alpha2（8GB＋256GB）」、IIJへMNPで約3万円割引　11月4日まで【スマホお得情報】",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/29/news071.html",
+      "date": "2026-10-29T08:09:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/29/l_asa_sumaotoku_01.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2152339.html",
@@ -300,28 +399,6 @@
       "image": "https://k-tai.watch.impress.co.jp/include/common/p01/images/logo/ktw.l.png"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/29/news052.html",
-      "title": "楽天モバイル、1100万回線突破の背景に「通信品質向上」とOpensignalが分析　下り速度とカバレッジの課題は残る",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/29/news052.html",
-      "date": "2026-10-28T21:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "楽天モバイル",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/29/cover_news052.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/29/news042.html",
-      "title": "「iPhone Duo」のアプリはどこに置く？　閉じたら“右寄せ”、開いたら“両端”が正解か　開閉×縦横で指の届く範囲を検証",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/29/news042.html",
-      "date": "2026-10-28T21:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/29/cover_news042.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2152015.html",
       "title": "百均で買える45WのUSB充電器、実は馴染みのあるメーカー製だった",
       "link": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2152015.html",
@@ -419,61 +496,6 @@
       "catLabel": "キャンペーン",
       "carrier": "ソフトバンク",
       "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2152024.html",
-      "title": "日本通信、ネオキャリアを5カ月再延期　接続試験で技術的課題",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2152024.html",
-      "date": "2026-10-28T10:49:47+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2152/024/jci.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2152020.html",
-      "title": "ドコモが新型「iPad mini（A20 Pro）」の価格を発表、約2年間で実質9.3万円",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2152020.html",
-      "date": "2026-10-28T10:23:15+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "ドコモ",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2152/020/cont000.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2151959.html",
-      "title": "au、「iPad mini（A20 Pro）」価格を発表　セルラーモデルが約16.8万円～",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2151959.html",
-      "date": "2026-10-28T10:22:11+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "au/KDDI",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2151/959/001.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2152002.html",
-      "title": "auが10部門制覇、楽天モバイルは1100万回線突破も通信品質向上――Opensignal 26年10月レポート",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2152002.html",
-      "date": "2026-10-28T10:18:10+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "au/KDDI",
-      "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2152001.html",
-      "title": "ドコモ、28日夕方に通信障害《復旧済み》",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2152001.html",
-      "date": "2026-10-28T09:38:30+00:00",
-      "sourceKey": "ktai",
-      "catKey": "trouble",
-      "catLabel": "障害・不具合",
-      "carrier": "ドコモ",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2152/001/cont0.jpg"
     },
     {
       "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr-1212_4787.html",
