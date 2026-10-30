@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-10-30T17:54:45.970299+00:00",
+  "generated_at": "2026-10-30T22:08:34.227814+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/31/news016.html",
+      "title": "キャリアともMVNOとも違う独自路線　povoが目指す「パートナー連携2乗」と世界展開の勝算",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/31/news016.html",
+      "date": "2026-10-30T21:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "mvno",
+      "catLabel": "MVNO・格安SIM",
+      "carrier": "au/KDDI",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/31/cover_news016.jpg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2152771.html",
       "title": "PayPay、12月以降の自治体キャンペーンを発表　山梨県上野原市で25％還元など",
