@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-10-30T09:49:21.596347+00:00",
+  "generated_at": "2026-10-30T17:54:45.970299+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2152771.html",
+      "title": "PayPay、12月以降の自治体キャンペーンを発表　山梨県上野原市で25％還元など",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2152771.html",
+      "date": "2026-10-30T10:18:57+00:00",
+      "sourceKey": "ktai",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2152/771/paypay01.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/30/news085.html",
+      "title": "KDDIのユーザー情報が漏えいか　ライフネット生命への不正アクセスで判明",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/30/news085.html",
+      "date": "2026-10-30T09:27:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "au/KDDI",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/30/l_st52693_lkddi-01.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/30/news086.html",
+      "title": "dバリューパスで「Uber Eats」「LUUP」のクーポン特典追加　コンビニ特典も当選本数アップ",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/30/news086.html",
+      "date": "2026-10-30T09:26:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/30/l_asa_docomo_01.jpg"
+    },
     {
       "id": "au-https://newsroom.kddi.com/news/assets/2026/kddi_nr_s-82_4796/kddi_nr_s-82_4796_pdf_01.pdf",
       "title": "ライフネット生命の一部システムへの不正アクセスによるKDDIお客さま情報の漏えいの可能性について",
@@ -267,28 +300,6 @@
       "image": "https://image.itmedia.co.jp/mobile/articles/2610/30/l_asa_amazon_01.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/30/news031.html",
-      "title": "若者が選ぶ流行語「チャッピー構文」ってなんだ？　「結論から言うね」なAIの口癖、実は人間のせいかもしれない",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/30/news031.html",
-      "date": "2026-10-29T23:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/30/cover_news031.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/30/news049.html",
-      "title": "「iPhone Duo」は“我慢の連続”　歴代最重254g、Face IDなし……それでも満足できる人の条件が分かった",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/30/news049.html",
-      "date": "2026-10-29T23:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/30/cover_news049.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/fujioka/2152436.html",
       "title": "ドコモだけ配信できなかった「緊急地震速報」、そのしくみとほかの手段を考える",
       "link": "https://k-tai.watch.impress.co.jp/docs/column/fujioka/2152436.html",
@@ -496,17 +507,6 @@
       "catLabel": "その他",
       "carrier": "楽天モバイル",
       "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2152260.html",
-      "title": "グーグル、リアルタイムで世界を生成・操作できるAIモデル「Genie 4」発表",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2152260.html",
-      "date": "2026-10-29T05:19:47+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2152/260/16.jpg"
     },
     {
       "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr-1222_4792.html",
