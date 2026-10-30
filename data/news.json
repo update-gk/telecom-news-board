@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-10-29T18:19:44.508685+00:00",
+  "generated_at": "2026-10-30T00:43:27.161603+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/30/news031.html",
+      "title": "若者が選ぶ流行語「チャッピー構文」ってなんだ？　「結論から言うね」なAIの口癖、実は人間のせいかもしれない",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/30/news031.html",
+      "date": "2026-10-29T23:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/30/cover_news031.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/30/news049.html",
+      "title": "「iPhone Duo」は“我慢の連続”　歴代最重254g、Face IDなし……それでも満足できる人の条件が分かった",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/30/news049.html",
+      "date": "2026-10-29T23:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/30/cover_news049.jpg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/fujioka/2152436.html",
       "title": "ドコモだけ配信できなかった「緊急地震速報」、そのしくみとほかの手段を考える",
