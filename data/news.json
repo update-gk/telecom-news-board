@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-10-31T19:11:37.932941+00:00",
+  "generated_at": "2026-10-31T23:59:13.840956+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2152812.html",
+      "title": "Googleの「Gemini Notebook」、数百冊の教科書を無料で追加可能に",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2152812.html",
+      "date": "2026-10-31T22:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2152/812/gemini_notebook.png"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2152809.html",
+      "title": "ドコモ、ガストでdポイント2倍還元、11月1日から",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2152809.html",
+      "date": "2026-10-31T21:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": "ドコモ",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2152/809/01.jpg"
+    },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/31/news002.html",
       "title": "楽天モバイル販売ランキング：「iPhone 17e」の連続首位が6カ月で途切れる　代わって首位の機種は？【2026年9月】",
@@ -529,28 +551,6 @@
       "catLabel": "障害・不具合",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2152/307/iijmio.png"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2152295.html",
-      "title": "「iPad mini（A20 Pro）」直販・キャリア価格まとめ、本日29日予約開始",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2152295.html",
-      "date": "2026-10-29T06:58:21+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2152/295/01-1.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2152289.html",
-      "title": "楽天モバイル一部店舗でスマート眼鏡「SABERA」体験コーナー、11月4日～",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2152289.html",
-      "date": "2026-10-29T06:14:03+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "楽天モバイル",
-      "image": null
     },
     {
       "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr-1222_4792.html",
