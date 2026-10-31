@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-10-30T22:08:34.227814+00:00",
+  "generated_at": "2026-10-31T05:02:41.815804+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/31/news019.html",
+      "title": "スマホの映像をTVやディスプレイに出力すると意外と便利（プレゼンとか特に）",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/31/news019.html",
+      "date": "2026-10-31T04:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/31/cover_news019.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/31/news018.html",
+      "title": "ダイソーで1100円の「PD対応20Wモバイルバッテリー」を試す　手頃な価格でそこそこ高速にスマホを充電可能",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/31/news018.html",
+      "date": "2026-10-31T02:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/31/cover_news018.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/31/news001.html",
+      "title": "au販売ランキング：「iPhone 18 Pro」が初登場首位、18 Proシリーズがトップ10の6ランクを占める【2026年9月】",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/31/news001.html",
+      "date": "2026-10-31T01:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "au/KDDI",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/31/cover_news001.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/28/news079.html",
+      "title": "Google マップの新機能「マップに相談」は“知人に聞く”感覚で使える　「Pixel 11 Pro Fold」などフォルダブルとの相性も抜群",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/28/news079.html",
+      "date": "2026-10-31T01:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/28/cover_news079.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/31/news015.html",
+      "title": "【無印良品】3990円のはっ水リュックサックが11月4日まで10％オフ　オリジナル肩ひもが負担を軽減",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/31/news015.html",
+      "date": "2026-10-31T01:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2610/31/l_asa_100item_01.jpg"
+    },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/31/news016.html",
       "title": "キャリアともMVNOとも違う独自路線　povoが目指す「パートナー連携2乗」と世界展開の勝算",
@@ -256,17 +311,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2152/534/sub.png"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/30/news063.html",
-      "title": "ワイヤレスイヤフォン「Anker Liberty Buds 2」発売、独自AIチップが騒音を処理　約2.2万円",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/30/news063.html",
-      "date": "2026-10-30T02:44:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/30/l_asa_Anker_01.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2152526.html",
       "title": "楽天モバイルで「Rakuten Link」アプリが開けない障害",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2152526.html",
@@ -287,28 +331,6 @@
       "catLabel": "その他",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2152/054/02.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/30/news034.html",
-      "title": "ドコモ販売ランキング：新発売の「iPhone 18 Pro」が2位と4位に、「iPhone 17」が首位守る【2026年9月】",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/30/news034.html",
-      "date": "2026-10-30T01:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "ドコモ",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/30/cover_news034.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/30/news048.html",
-      "title": "サンワサプライのセミハードガジェットケースが37％オフ　フルオープン仕様、仕切り板で柔軟に収納",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/30/news048.html",
-      "date": "2026-10-30T01:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/30/l_asa_amazon_01.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/fujioka/2152436.html",
