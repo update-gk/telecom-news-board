@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-11-01T13:01:58.721797+00:00",
+  "generated_at": "2026-11-01T19:27:36.296927+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/mitsui/2152711.html",
+      "title": "アップル初の折りたたみスマホ「iPhone Duo」のカメラをチェック",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/mitsui/2152711.html",
+      "date": "2026-11-01T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2152/711/DSC_0978.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2152688.html",
+      "title": "名刺は自動、人間は覚悟　「機動文具 自動変形名刺ケース」を買った",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2152688.html",
+      "date": "2026-11-01T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2152/688/14.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/stapa/2152042.html",
+      "title": "iPhone 18 Pro Maxのケースを買いまくり！　Spigenの定番ケースや極薄ケース、レンズ保護ケースを試したッ!!!",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/stapa/2152042.html",
+      "date": "2026-11-01T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2152/042/stptncs2026-11-02_thumbnail.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/minna/2152013.html",
+      "title": "「Fitbit Charge」シリーズ愛好家が「Fitbit Edge」を使ってみて最も気になったこと",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/minna/2152013.html",
+      "date": "2026-11-01T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2152/013/001.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/topic/special/2140326.html",
+      "title": "ユーザー数6億6000万人の動画編集アプリ「CapCut」のグローバルイベントがシンガポールで初開催！　活気溢れるその模様をレポート[Sponsored]",
+      "link": "https://k-tai.watch.impress.co.jp/docs/topic/special/2140326.html",
+      "date": "2026-11-01T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": null
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/01/news007.html",
+      "title": "KDDIの名機「INFOBAR」に新展開、11月18日に何かを発表――砂原哲氏が明かす",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/01/news007.html",
+      "date": "2026-11-01T13:30:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "au/KDDI",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/01/cover_news007.jpg"
+    },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/01/news006.html",
       "title": "iPhone Duo、最適化できていないアプリに不満の声続出――App Storeでの「強制」により年明けには一気に解消か",
@@ -77,7 +143,7 @@
       "catKey": "other",
       "catLabel": "その他",
       "carrier": "ドコモ",
-      "image": null
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2151/915/01-1.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2152812.html",
@@ -507,61 +573,6 @@
       "catLabel": "障害・不具合",
       "carrier": "楽天モバイル",
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2152/424/cont100.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2152385.html",
-      "title": "ソフトバンク、台湾などで国際ローミングサービスを拡充",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2152385.html",
-      "date": "2026-10-29T09:59:35+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "ソフトバンク",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2152/385/01-1.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2152379.html",
-      "title": "新型「iPad mini」、Amazonでも予約受付がスタート",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2152379.html",
-      "date": "2026-10-29T09:50:38+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2152/379/01.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2152351.html",
-      "title": "個人情報漏えいが増加、「パスワード変更」や「パスキー」活用など消費者庁が対策呼びかけ",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2152351.html",
-      "date": "2026-10-29T09:37:24+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2152/351/sub.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2152339.html",
-      "title": "ドコモ「d払い/dポイント」11月はトイザらス山分けや資生堂＋7％還元など",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2152339.html",
-      "date": "2026-10-29T08:07:57+00:00",
-      "sourceKey": "ktai",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": "ドコモ",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2152/339/01-1.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2152333.html",
-      "title": "ドコモ「d払い」、11月は豊川市や町田市などで最大100％還元",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2152333.html",
-      "date": "2026-10-29T07:47:42+00:00",
-      "sourceKey": "ktai",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": "ドコモ",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2152/333/main.jpg"
     },
     {
       "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr-1222_4792.html",
