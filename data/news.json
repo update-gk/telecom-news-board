@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-11-01T05:51:09.091109+00:00",
+  "generated_at": "2026-11-01T13:01:58.721797+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/01/news006.html",
+      "title": "iPhone Duo、最適化できていないアプリに不満の声続出――App Storeでの「強制」により年明けには一気に解消か",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/01/news006.html",
+      "date": "2026-11-01T08:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/images/logo/1200x630_500x500_mobile.gif"
+    },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/01/news005.html",
       "title": "「iPad mini（A20 Pro）」は何が進化した？　「iPhone Duo」とはどう違う？　スペックや用途を比較する",
