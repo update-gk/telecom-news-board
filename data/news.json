@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-11-01T19:27:36.296927+00:00",
+  "generated_at": "2026-11-02T00:29:06.560605+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2152694.html",
+      "title": "Gemini、チャットから直接PDF・ドキュメント・スプレッドシートを生成・編集する新機能",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2152694.html",
+      "date": "2026-11-01T21:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2152/694/main.jpg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/mitsui/2152711.html",
       "title": "アップル初の折りたたみスマホ「iPhone Duo」のカメラをチェック",
@@ -388,17 +399,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2152/632/aupay01.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2610/30/news070.html",
-      "title": "楽天モバイル、ファミマ駐車場に移動型ショップを展開　アンケートに答えて1000ポイント進呈も",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/30/news070.html",
-      "date": "2026-10-30T04:50:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": "楽天モバイル",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2610/30/l_asa_rakuten_01.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2152606.html",
       "title": "「au PAY プリペイドカード」、Google Payのタッチ決済利用で最大1200円分を還元",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2152606.html",
@@ -562,17 +562,6 @@
       "catLabel": "障害・不具合",
       "carrier": "楽天モバイル",
       "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2152424.html",
-      "title": "IoT向け接続「MEEQ」が楽天回線を追加した理由とは？　月額50円の休止プランやAI時代を見据えた大容量通信の勝算",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2152424.html",
-      "date": "2026-10-29T11:11:06+00:00",
-      "sourceKey": "ktai",
-      "catKey": "trouble",
-      "catLabel": "障害・不具合",
-      "carrier": "楽天モバイル",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2152/424/cont100.jpg"
     },
     {
       "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr-1222_4792.html",
