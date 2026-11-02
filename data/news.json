@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-11-02T10:49:39.353639+00:00",
+  "generated_at": "2026-11-02T21:37:31.792183+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/02/news069.html",
+      "title": "【ワークマン】3500円の「ザットカジュアルバックパック」　視認性の高いオレンジ内装にポケットも充実",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/02/news069.html",
+      "date": "2026-11-02T21:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/02/l_asa_100item_01.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/02/news071.html",
+      "title": "Galaxy折りたたみスマホ向け「保護フィルム無料貼替特典」を終了　有償の修理サービスへ改定",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/02/news071.html",
+      "date": "2026-11-02T12:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "price",
+      "catLabel": "料金プラン",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/02/cover_news071.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2153244.html",
+      "title": "XREALが「XREAL AURA」を発表――CEOやグーグル、ソニーが語る空間コンピューティングとは",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2153244.html",
+      "date": "2026-11-02T11:22:33+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2153/244/150728.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/03/news011.html",
+      "title": "7000円以下でヒンジまで守る、memumiのiPhone Duo用アラミド繊維ケースはハイレベルな逸品　MagSafe非対応だが対策あり",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/03/news011.html",
+      "date": "2026-11-02T11:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/03/cover_news011.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/02/news068.html",
+      "title": "PayPayの地方自治体キャンペーン、12月以降は関東圏などで最大25％還元／最大1万5000円おトク",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/02/news068.html",
+      "date": "2026-11-02T09:46:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/02/l_asa_PayPay_01.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/02/news065.html",
+      "title": "フラッグシップARグラス後継モデル「XREAL 1 Pro＋」発売　映像画質や装着時の安定感を改善",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/02/news065.html",
+      "date": "2026-11-02T08:41:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/02/l_asa_XREAL_01.jpg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2153189.html",
       "title": "XREAL、輝度1200ニトや60fpsの3D変換に対応したARグラス「XREAL 1 Pro+」を11月10日発売",
@@ -36,6 +102,17 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2153/171/01.png"
     },
     {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/02/news064.html",
+      "title": "iPhone 18 Proシリーズ、発売3週間の販売台数がiPhone 17 Proシリーズより3.1％増に　カウンターポイントが発表",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/02/news064.html",
+      "date": "2026-11-02T07:12:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/02/l_asa_Counterpoint_01.jpg"
+    },
+    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2153147.html",
       "title": "GMO熊谷代表が情報流出を謝罪、セキュリティ不備やSNS対応陳謝",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2153147.html",
@@ -67,6 +144,17 @@
       "catLabel": "端末",
       "carrier": "ドコモ",
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2153/129/cont0.png"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/02/news057.html",
+      "title": "ドコモ、縦折りスマホ「motorola razr 60d」を2年間33円で提供中　MNPや端末返却が条件【スマホお得情報】",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/02/news057.html",
+      "date": "2026-11-02T05:18:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ドコモ",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/02/l_asa_sumaotoku_01.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2153051.html",
@@ -289,39 +377,6 @@
       "image": null
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/01/news007.html",
-      "title": "KDDIの名機「INFOBAR」に新展開、11月18日に何かを発表――砂原哲氏が明かす",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/01/news007.html",
-      "date": "2026-11-01T13:30:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "au/KDDI",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/01/cover_news007.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/01/news006.html",
-      "title": "iPhone Duo、最適化できていないアプリに不満の声続出――App Storeでの「強制」により年明けには一気に解消か",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/01/news006.html",
-      "date": "2026-11-01T08:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/images/logo/1200x630_500x500_mobile.gif"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/01/news005.html",
-      "title": "「iPad mini（A20 Pro）」は何が進化した？　「iPhone Duo」とはどう違う？　スペックや用途を比較する",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/01/news005.html",
-      "date": "2026-11-01T04:05:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/01/cover_news005.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2152798.html",
       "title": "Leminoでボクシング「フェニックスバトル163」を独占生配信、11月10日から",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2152798.html",
@@ -452,17 +507,6 @@
       "catLabel": "キャンペーン",
       "carrier": "au/KDDI",
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2152/600/main.jpeg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2152672.html",
-      "title": "「au PAY」で決済額ランキング始まる、11月は1位に2.5万ポイント",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2152672.html",
-      "date": "2026-10-30T07:07:58+00:00",
-      "sourceKey": "ktai",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": "au/KDDI",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2152/672/main.jpeg"
     },
     {
       "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20261030_02/",
