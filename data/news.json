@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-11-03T06:11:29.770169+00:00",
+  "generated_at": "2026-11-03T16:56:10.365071+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2153255.html",
+      "title": "美大とのコラボで生まれたロール型のガジェットケース",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2153255.html",
+      "date": "2026-11-03T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": null
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/ishikawa/2153254.html",
+      "title": "折りたたみ「iPhone Duo」のアプリ最適化が遅れる理由と2027年への展望",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/ishikawa/2153254.html",
+      "date": "2026-11-03T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2153/254/00.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/minna/2152806.html",
+      "title": "家族共有の「Fire TV」、子どもの動画漬けをルーター機能で遮断",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/minna/2152806.html",
+      "date": "2026-11-03T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2152/806/01.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/03/news016.html",
+      "title": "「Xiaomi 18 Pro」シリーズ、11月に“世界展開”　「どの国・地域での発売が楽しみですか？」と日本公式X",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/03/news016.html",
+      "date": "2026-11-03T13:38:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/03/cover_news016.jpg"
+    },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/03/news013.html",
       "title": "au PAYとPontaのキャンペーンまとめ【11月3日最新版】　抽選で10万ポイント還元、ECサイトで最大34％還元あり",
@@ -485,39 +529,6 @@
       "catLabel": "その他",
       "carrier": "au/KDDI",
       "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2152734.html",
-      "title": "ドコモメールで障害が発生、一部で利用しづらい状況に",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2152734.html",
-      "date": "2026-10-30T08:47:04+00:00",
-      "sourceKey": "ktai",
-      "catKey": "trouble",
-      "catLabel": "障害・不具合",
-      "carrier": "ドコモ",
-      "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2152699.html",
-      "title": "ドコモ、エディオンとローソンの利用で最大3万ポイント当たるキャンペーン",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2152699.html",
-      "date": "2026-10-30T07:28:06+00:00",
-      "sourceKey": "ktai",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": "ドコモ",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2152/699/01.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2152600.html",
-      "title": "「Pontaパス」会員が「HOT PEPPER Beauty」予約・来店で100ポイント、抽選で100名に1万ポイント",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2152600.html",
-      "date": "2026-10-30T07:08:01+00:00",
-      "sourceKey": "ktai",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": "au/KDDI",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2152/600/main.jpeg"
     },
     {
       "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20261030_02/",
