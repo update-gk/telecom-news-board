@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-11-02T21:37:31.792183+00:00",
+  "generated_at": "2026-11-03T06:11:29.770169+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/03/news013.html",
+      "title": "au PAYとPontaのキャンペーンまとめ【11月3日最新版】　抽選で10万ポイント還元、ECサイトで最大34％還元あり",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/03/news013.html",
+      "date": "2026-11-03T01:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": "au/KDDI",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/03/cover_news013.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/03/news012.html",
+      "title": "2万6400円の本革スマホショルダーバッグ　日本エコレザー基準の最高分類に認定",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/03/news012.html",
+      "date": "2026-11-03T01:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/03/l_asa_rakuten_01.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/03/news015.html",
+      "title": "iPhone DuoのヒンジもボタンもカバーできるSmallRigのアラミド繊維ケース　前面フレームがあれば完璧だった",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/03/news015.html",
+      "date": "2026-11-02T23:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/03/cover_news015.jpg"
+    },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/02/news069.html",
       "title": "【ワークマン】3500円の「ザットカジュアルバックパック」　視認性の高いオレンジ内装にポケットも充実",
@@ -287,28 +320,6 @@
       "catLabel": "その他",
       "carrier": "ドコモ",
       "image": null
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/02/news030.html",
-      "title": "あなたの街の「スマホ決済」キャンペーンまとめ【2026年11月版】～PayPay、d払い、au PAY、楽天ペイ",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/02/news030.html",
-      "date": "2026-11-02T01:30:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": "au/KDDI",
-      "image": null
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/02/news039.html",
-      "title": "d払い、dポイントのキャンペーンまとめ【11月2日最新版】　1万～10万ポイント還元のチャンス、ポイント交換で8％増量",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/02/news039.html",
-      "date": "2026-11-02T01:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/02/cover_news039.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2152694.html",
