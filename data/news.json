@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-11-03T16:56:10.365071+00:00",
+  "generated_at": "2026-11-03T23:06:13.179541+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2153253.html",
+      "title": "PayPayポイント最大23％、Yahoo!ショッピングのブラックフライデーが22日開始",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2153253.html",
+      "date": "2026-11-03T21:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2153/253/03.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/04/news043.html",
+      "title": "ドコモは「つながって当たり前」をどう実現？　「置局」業務の舞台裏を紹介",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/04/news043.html",
+      "date": "2026-11-03T21:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ドコモ",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/04/cover_news043.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/04/news041.html",
+      "title": "12月から変わるahamoの新料金を検証　165円値上げでも“実質値下げ”になる人は？　他社とも比較",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/04/news041.html",
+      "date": "2026-11-03T21:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "price",
+      "catLabel": "料金プラン",
+      "carrier": "ドコモ",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/04/cover_news041.jpg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2153255.html",
       "title": "美大とのコラボで生まれたロール型のガジェットケース",
@@ -278,28 +311,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2153/040/01.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/02/news054.html",
-      "title": "「楽天Edy」25周年記念キャンペーン開催　クイズ正解で合計250万ポイント山分け＆抽選でグッズ進呈",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/02/news054.html",
-      "date": "2026-11-02T03:34:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": "楽天モバイル",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/02/l_asa_rakupay_01.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/02/news028.html",
-      "title": "AULUMUのiPhone Duo用ケースを試す　光を反射する“粒子ドット”が個性的、薄型でMagSafeも強力",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/02/news028.html",
-      "date": "2026-11-02T03:20:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/02/cover_news028.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2153028.html",
       "title": "「au Design project」に新展開か、Webサイトに「2026.11.18」の予告バナー",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2153028.html",
@@ -309,17 +320,6 @@
       "catLabel": "その他",
       "carrier": "au/KDDI",
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2153/028/cont0.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/02/news051.html",
-      "title": "セブン‐イレブンで最大11％還元や“現金還元”も　新登場「nanacoクレジットカード」のお得度を検証する",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/02/news051.html",
-      "date": "2026-11-02T02:55:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/02/cover_news051.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2153016.html",
@@ -341,17 +341,6 @@
       "catKey": "campaign",
       "catLabel": "キャンペーン",
       "carrier": null,
-      "image": null
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/02/news049.html",
-      "title": "ドコモ「東京メトロ全線の70％超で5G化」完了　混雑する地下鉄でもサクサクつながる実現へ",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/02/news049.html",
-      "date": "2026-11-02T02:35:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "ドコモ",
       "image": null
     },
     {
@@ -507,17 +496,6 @@
       "catLabel": "キャンペーン",
       "carrier": "ドコモ",
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2152/809/01.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2152771.html",
-      "title": "PayPay、12月以降の自治体キャンペーンを発表　山梨県上野原市で25％還元など",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2152771.html",
-      "date": "2026-10-30T10:18:57+00:00",
-      "sourceKey": "ktai",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2152/771/paypay01.jpg"
     },
     {
       "id": "au-https://newsroom.kddi.com/news/assets/2026/kddi_nr_s-82_4796/kddi_nr_s-82_4796_pdf_01.pdf",
