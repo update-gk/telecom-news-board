@@ -1,7 +1,183 @@
 {
-  "generated_at": "2026-11-04T05:49:25.644675+00:00",
+  "generated_at": "2026-11-04T14:11:29.209983+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2153713.html",
+      "title": "ドコモ前田社長、第2四半期決算の増収増益と通期上方修正を発表――地震速報不達には「あってはならないこと」と陳謝",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2153713.html",
+      "date": "2026-11-04T11:53:16+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ドコモ",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2153/713/cont300.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2153688.html",
+      "title": "無印良品「MUJIアプリ」情報流出は2726万件に、セゾン発行「MUJI Card」全桁も対象",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2153688.html",
+      "date": "2026-11-04T10:36:35+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2153/688/101327400.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/04/news088.html",
+      "title": "ahamo改定の反響は？ 「厳しい意見もあるが段階制への評価も」――ドコモ前田社長",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/04/news088.html",
+      "date": "2026-11-04T10:31:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "price",
+      "catLabel": "料金プラン",
+      "carrier": "ドコモ",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/04/cover_news088.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2153638.html",
+      "title": "CIO、「AmazonスマイルSale」でモバイルバッテリーなど最大50％オフ",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2153638.html",
+      "date": "2026-11-04T10:16:24+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2153/638/main_thumb.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/04/news087.html",
+      "title": "情報漏えいの「おわびメール」が毎日届いてうんざり……漏れた情報別に“最低限やること”をまとめた",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/04/news087.html",
+      "date": "2026-11-04T10:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/04/cover_news087.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/04/news084.html",
+      "title": "PayPay、上期に7期連続増収増益　日常決済の「幹」からカード・銀行の「枝」へ送客加速",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/04/news084.html",
+      "date": "2026-11-04T08:17:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/04/cover_news084.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2153598.html",
+      "title": "シャオミ、「ロボット掃除機 S60」と「Mijia ハンディークリーナー」を発売",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2153598.html",
+      "date": "2026-11-04T08:08:02+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2153/598/01-1.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2153592.html",
+      "title": "ソフトバンク、「MWC27バルセロナ」に初出展",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2153592.html",
+      "date": "2026-11-04T08:04:59+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ソフトバンク",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2153/592/01_thumb.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/04/news083.html",
+      "title": "楽天モバイルの「iPhone 18 Pro（256GB）」MNPで最大4万ポイント還元、2年間実質約8.8万【スマホお得情報】",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/04/news083.html",
+      "date": "2026-11-04T07:09:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": "楽天モバイル",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/04/l_asa_sumaotoku_01.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/04/news072.html",
+      "title": "サイバー攻撃の漏えい情報件数、10月だけで2025年の約3.7倍に急増　MM総研調べ",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/04/news072.html",
+      "date": "2026-11-04T07:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/04/l_asa_MMsouken_01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2153570.html",
+      "title": "LINEMO、契約事務手数料3850円が0円になる期間限定キャンペーンを開始",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2153570.html",
+      "date": "2026-11-04T06:58:02+00:00",
+      "sourceKey": "ktai",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": "ソフトバンク",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2153/570/20261104.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/04/news079.html",
+      "title": "ドコモが「さらに設備投資」　鉄道やイベントでの通信品質を改善へ　都営地下鉄の全駅で“5G化”を完了",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/04/news079.html",
+      "date": "2026-11-04T06:25:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ドコモ",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/04/cover_news079.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2153535.html",
+      "title": "ドコモ、上期で4500局の5G基地局を新設――「Sub6・NR化・SA同時並行で進める」と前田社長",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2153535.html",
+      "date": "2026-11-04T06:23:59+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ドコモ",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2153/535/cont200.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2153520.html",
+      "title": "アップル、新「ヘルスケア」アプリを日本語などに拡大へ",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2153520.html",
+      "date": "2026-11-04T06:10:55+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2153/520/01_thumb.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/04/news075.html",
+      "title": "ドコモだけ鳴らなかった「緊急地震速報」、前田社長がエリアメール不具合を謝罪",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/04/news075.html",
+      "date": "2026-11-04T05:57:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "trouble",
+      "catLabel": "障害・不具合",
+      "carrier": "ドコモ",
+      "image": null
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/04/news073.html",
+      "title": "docomo Starlink Direct、2028年度には音声通話対応の「V2」も登場へ",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/04/news073.html",
+      "date": "2026-11-04T05:39:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": null
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2153487.html",
       "title": "混雑状況に応じて通信量を自動調整、ドコモが国内初の実証実験",
@@ -45,6 +221,17 @@
       "catLabel": "その他",
       "carrier": "ドコモ",
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2153/499/cont100.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/04/news067.html",
+      "title": "楽天ペイで「超トク還元祭」第2弾を開始　「全国どこでもクーポン」を先着50万人に限定配布",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/04/news067.html",
+      "date": "2026-11-04T04:22:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": "楽天モバイル",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/04/l_asa_rakupay_01.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2153464.html",
@@ -135,17 +322,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2153/362/apple.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/04/news040.html",
-      "title": "楽天ペイと楽天ポイントのキャンペーンまとめ【11月4日最新版】　抽選で最大1万～5万ポイント還元や10％還元あり",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/04/news040.html",
-      "date": "2026-11-04T01:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": "楽天モバイル",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/04/cover_news040.jpg"
-    },
-    {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/04/news042.html",
       "title": "【ワークマン】2900円の「エックスシェルター断熱αバックパック」予約販売中　特殊な断熱シートで外気の影響を防ぐ",
       "link": "https://www.itmedia.co.jp/mobile/articles/2611/04/news042.html",
@@ -155,6 +331,17 @@
       "catLabel": "その他",
       "carrier": null,
       "image": "https://image.itmedia.co.jp/mobile/articles/2611/04/l_asa_100item_01.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/04/news040.html",
+      "title": "楽天ペイと楽天ポイントのキャンペーンまとめ【11月4日最新版】　抽選で最大1万～5万ポイント還元や10％還元あり",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/04/news040.html",
+      "date": "2026-11-04T01:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": "楽天モバイル",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/04/cover_news040.jpg"
     },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/04/news054.html",
@@ -201,28 +388,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2153/253/03.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/04/news043.html",
-      "title": "ドコモは「つながって当たり前」をどう実現？　「置局」業務の舞台裏を紹介",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/04/news043.html",
-      "date": "2026-11-03T21:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "ドコモ",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/04/cover_news043.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/04/news041.html",
-      "title": "12月から変わるahamoの新料金を検証　165円値上げでも“実質値下げ”になる人は？　他社とも比較",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/04/news041.html",
-      "date": "2026-11-03T21:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "price",
-      "catLabel": "料金プラン",
-      "carrier": "ドコモ",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/04/cover_news041.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2153255.html",
       "title": "美大とのコラボで生まれたロール型のガジェットケース",
       "link": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2153255.html",
@@ -265,39 +430,6 @@
       "catLabel": "その他",
       "carrier": "ソフトバンク",
       "image": null
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/03/news016.html",
-      "title": "「Xiaomi 18 Pro」シリーズ、11月に“世界展開”　「どの国・地域での発売が楽しみですか？」と日本公式X",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/03/news016.html",
-      "date": "2026-11-03T13:38:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/03/cover_news016.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/03/news013.html",
-      "title": "au PAYとPontaのキャンペーンまとめ【11月3日最新版】　抽選で10万ポイント還元、ECサイトで最大34％還元あり",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/03/news013.html",
-      "date": "2026-11-03T01:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": "au/KDDI",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/03/cover_news013.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/03/news012.html",
-      "title": "2万6400円の本革スマホショルダーバッグ　日本エコレザー基準の最高分類に認定",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/03/news012.html",
-      "date": "2026-11-03T01:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/03/l_asa_rakuten_01.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2153244.html",
@@ -388,61 +520,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2153/051/sub.jpg"
     },
     {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2153060.html",
-      "title": "ドコモ、オンラインおトク割に「iPhone Air」（256GB）を追加",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2153060.html",
-      "date": "2026-11-02T03:53:44+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "ドコモ",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2153/060/cont0.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2153040.html",
-      "title": "ドコモSMTBネット銀行、円定期預金の金利を引き上げ 　最大年1.55％に",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2153040.html",
-      "date": "2026-11-02T03:40:45+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "ドコモ",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2153/040/01.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2153028.html",
-      "title": "「au Design project」に新展開か、Webサイトに「2026.11.18」の予告バナー",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2153028.html",
-      "date": "2026-11-02T03:10:58+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "au/KDDI",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2153/028/cont0.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2153016.html",
-      "title": "Google、Gmailを守る3つの確認方法を案内",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2153016.html",
-      "date": "2026-11-02T02:50:31+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2153/016/01.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2153008.html",
-      "title": "JCB、オリジナルシリーズ新規入会でクレカ乗車45％還元　11月30日まで",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2153008.html",
-      "date": "2026-11-02T02:44:21+00:00",
-      "sourceKey": "ktai",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": null
-    },
-    {
       "id": "docomo-https://www.docomo.ne.jp/service/dvaluepass/contents_list/character.html",
       "title": "dバリューパスに「薬屋のひとりごと」が新たに追加されました",
       "link": "https://www.docomo.ne.jp/service/dvaluepass/contents_list/character.html",
@@ -452,39 +529,6 @@
       "catLabel": "その他",
       "carrier": "ドコモ",
       "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2152694.html",
-      "title": "Gemini、チャットから直接PDF・ドキュメント・スプレッドシートを生成・編集する新機能",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2152694.html",
-      "date": "2026-11-01T21:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2152/694/main.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/mitsui/2152711.html",
-      "title": "アップル初の折りたたみスマホ「iPhone Duo」のカメラをチェック",
-      "link": "https://k-tai.watch.impress.co.jp/docs/column/mitsui/2152711.html",
-      "date": "2026-11-01T15:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2152/711/DSC_0978.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2152688.html",
-      "title": "名刺は自動、人間は覚悟　「機動文具 自動変形名刺ケース」を買った",
-      "link": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2152688.html",
-      "date": "2026-11-01T15:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2152/688/14.jpg"
     },
     {
       "id": "au-https://newsroom.kddi.com/news/assets/2026/kddi_nr_s-82_4796/kddi_nr_s-82_4796_pdf_01.pdf",
