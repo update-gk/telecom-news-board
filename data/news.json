@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-11-04T14:11:29.209983+00:00",
+  "generated_at": "2026-11-04T21:12:17.662507+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2153669.html",
+      "title": "QTモバイル、機種変更で「iPhone 16」など最大5500円割引　来年1月末まで",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2153669.html",
+      "date": "2026-11-04T21:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2153/669/01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2153756.html",
+      "title": "ドコモの「d払い」で障害、4日夜～【復旧】",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2153756.html",
+      "date": "2026-11-04T15:53:56+00:00",
+      "sourceKey": "ktai",
+      "catKey": "trouble",
+      "catLabel": "障害・不具合",
+      "carrier": "ドコモ",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2153/756/dbarai.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/05/news044.html",
+      "title": "d払いで障害、クレジットカードでの支払いが利用しにくい事象が発生【復旧】",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/05/news044.html",
+      "date": "2026-11-04T15:32:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "trouble",
+      "catLabel": "障害・不具合",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/05/cover_news044.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2153743.html",
+      "title": "11月の「Ponta」キャンペーン、JALマイル交換25％アップや最大10万ポイント抽選",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2153743.html",
+      "date": "2026-11-04T15:01:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2153/743/01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/value/2153700.html",
+      "title": "軽くなった「iPad mini（A20 Pro）」に合う回線とは？　タブレット用プランやサブブランド、MVNOを比較",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/value/2153700.html",
+      "date": "2026-11-04T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "price",
+      "catLabel": "料金プラン",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2153/700/1.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2153256.html",
+      "title": "ライブやフェスに最適なKiUの可愛いショルダーバッグ",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2153256.html",
+      "date": "2026-11-04T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": null
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2153713.html",
       "title": "ドコモ前田社長、第2四半期決算の増収増益と通期上方修正を発表――地震速報不達には「あってはならないこと」と陳謝",
@@ -463,61 +529,6 @@
       "catLabel": "端末",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2153/184/141157_1.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2153171.html",
-      "title": "ワイモバイル、認定中古「iPhone 14」が50％オフなど割引　オンライン限定",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2153171.html",
-      "date": "2026-11-02T08:03:12+00:00",
-      "sourceKey": "ktai",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": "Y!mobile",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2153/171/01.png"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2153147.html",
-      "title": "GMO熊谷代表が情報流出を謝罪、セキュリティ不備やSNS対応陳謝",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2153147.html",
-      "date": "2026-11-02T06:54:27+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2153/147/gmo01.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2153146.html",
-      "title": "auから単体でAndroidアプリが動くXRグラス「XREAL AURA」が登場、事前予約でポイント還元キャンペーンも",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2153146.html",
-      "date": "2026-11-02T06:48:44+00:00",
-      "sourceKey": "ktai",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": "au/KDDI",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2153/146/cont0.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2153129.html",
-      "title": "ドコモ、XRグラス「XREAL AURA」を27日発売",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2153129.html",
-      "date": "2026-11-02T06:25:25+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "ドコモ",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2153/129/cont0.png"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2153051.html",
-      "title": "ドコモの5G基地局は他社の半分以下、5G化率18.5％で最下位　総務省調査",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2153051.html",
-      "date": "2026-11-02T05:08:06+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "ドコモ",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2153/051/sub.jpg"
     },
     {
       "id": "docomo-https://www.docomo.ne.jp/service/dvaluepass/contents_list/character.html",
