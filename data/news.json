@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-11-05T17:15:44.921739+00:00",
+  "generated_at": "2026-11-05T23:30:05.874246+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2154158.html",
+      "title": "IIJmioの「スマホ大特価セール」、GalaxyやiPhoneなどが対象",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2154158.html",
+      "date": "2026-11-05T21:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2154/158/16.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2154051.html",
+      "title": "IIJmio、「25ギガプランお試し割」の適用条件を変更",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2154051.html",
+      "date": "2026-11-05T21:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "price",
+      "catLabel": "料金プラン",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2154/051/iijmio_thumb.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/06/news045.html",
+      "title": "ドコモの通信障害が「復旧」　原因は「5G SA契約者を収容する交換機における輻輳」",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/06/news045.html",
+      "date": "2026-11-05T17:38:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "trouble",
+      "catLabel": "障害・不具合",
+      "carrier": "ドコモ",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/06/cover_news045.jpg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2154154.html",
       "title": "IIJmioの「のりかえ価格」、スマホが1980円から　iPhoneやGalaxyも対象",
@@ -81,7 +114,7 @@
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2154110.html",
-      "title": "ドコモの通信障害、発生から9時間経過も継続中　5日11時～",
+      "title": "ドコモの通信障害、発生から9時間経過も継続中　5日11時～【復旧】",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2154110.html",
       "date": "2026-11-05T11:21:53+00:00",
       "sourceKey": "ktai",
@@ -378,7 +411,7 @@
     },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/05/news067.html",
-      "title": "ドコモ通信障害の対象範囲を特定――「5G SA」契約が対象、4G設定への切り替えで回避も",
+      "title": "【復旧】ドコモ通信障害の対象範囲を特定――「5G SA」契約が対象、4G設定への切り替えで回避も",
       "link": "https://www.itmedia.co.jp/mobile/articles/2611/05/news067.html",
       "date": "2026-11-05T04:34:00+00:00",
       "sourceKey": "itmedia",
@@ -465,61 +498,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2153/840/cont0.jpg"
     },
     {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2153833.html",
-      "title": "ドコモへ不正アクセス疑い、オンラインショップとMy docomoで緊急メンテ",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2153833.html",
-      "date": "2026-11-05T02:36:21+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "ドコモ",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2153/833/dcm10_thumb.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/05/news060.html",
-      "title": "GMOインターネットの情報漏えい事案で総務省が業界団体に「ブロッキング要請」との報道　NTTは動いた？",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/05/news060.html",
-      "date": "2026-11-05T02:15:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/05/cover_news060.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2153723.html",
-      "title": "バッファロー、半固体セル採用で5000mAhの薄型モバイルバッテリー発売",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2153723.html",
-      "date": "2026-11-05T01:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": null
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/05/news035.html",
-      "title": "楽天市場で780円のスマホポーチが販売中　12色の豊富なカラーで汚れにも強い",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/05/news035.html",
-      "date": "2026-11-05T01:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "楽天モバイル",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/05/l_asa_rakuten_01.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/05/news046.html",
-      "title": "WAON POINTやAEON Payのキャンペーンまとめ【11月5日最新版】　ブラックフライデーで11倍還元、5日に20％還元も",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/05/news046.html",
-      "date": "2026-11-05T01:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/05/cover_news046.jpg"
-    },
-    {
       "id": "docomo-https://www.docomo.ne.jp/support/product_update/m51f/index.html",
       "title": "「motorola razr 60d M-51F」のソフトウェアアップデート情報のお知らせ",
       "link": "https://www.docomo.ne.jp/support/product_update/m51f/index.html",
@@ -540,50 +518,6 @@
       "catLabel": "その他",
       "carrier": "ドコモ",
       "image": null
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/05/news058.html",
-      "title": "傷が付きにくいシボ加工を採用したコンパクト急速充電器「CIO NovaPort DUOII 65W」がセールで27％オフの3980円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/05/news058.html",
-      "date": "2026-11-05T00:53:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/05/cover_news058.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/05/news055.html",
-      "title": "プロチーム共創のゲーミングイヤフォン「ソニー INZONE Buds WF-G700N」がセールで27％オフの2万1582円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/05/news055.html",
-      "date": "2026-11-05T00:48:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/05/cover_news055.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/05/news054.html",
-      "title": "さまざまな機器に対応する有線ゲーミングイヤフォン「Logicool G G333」がセールで34％オフの4900円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/05/news054.html",
-      "date": "2026-11-05T00:44:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/05/cover_news054.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/05/news053.html",
-      "title": "束ねて持ち運んでも絡まりにくい「Anker PowerLine III Flow USB-C & USB-C ケーブル (0.9m ライトパープル)」がセールでで22％オフの1390円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/05/news053.html",
-      "date": "2026-11-05T00:39:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/05/cover_news053.jpg"
     },
     {
       "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20261104_01/",
