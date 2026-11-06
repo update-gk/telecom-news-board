@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-11-06T16:40:27.399902+00:00",
+  "generated_at": "2026-11-06T22:56:16.746632+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/07/news002.html",
+      "title": "「iPhone Duo」を売るだけで1台12万円の利益　香港の発売日に起きた“買い取り狂騒曲”、昼には相場が急落",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/07/news002.html",
+      "date": "2026-11-06T21:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/07/cover_news002.jpg"
+    },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/06/news087.html",
       "title": "KDDI上期決算はモバイル通信収入が335億円増　楽天ローミング縮小で「パケ止まり率」も3割改善",
@@ -419,28 +430,6 @@
       "catLabel": "その他",
       "carrier": null,
       "image": "https://image.itmedia.co.jp/mobile/articles/2611/06/l_asa_100item_01.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/06/news042.html",
-      "title": "Suicaのキャンペーンまとめ【11月6日最新版】　teppayで20～35％還元、1万JRE POINT還元も",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/06/news042.html",
-      "date": "2026-11-06T01:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/06/cover_news042.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/06/news055.html",
-      "title": "高音質で音楽に没入できる「ゼンハイザー MOMENTUM True Wireless 4」のAmazon限定セットがセールで24％オフの3万2900円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/06/news055.html",
-      "date": "2026-11-06T00:52:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/06/cover_news055.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2154158.html",
