@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-11-06T22:56:16.746632+00:00",
+  "generated_at": "2026-11-07T05:34:18.281040+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/07/news016.html",
+      "title": "ドコモが業績予想を上方修正　好調な「ドコモ MAX」と「料金値上げ」の勝算、残るネットワークの課題とは",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/07/news016.html",
+      "date": "2026-11-07T04:20:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "price",
+      "catLabel": "料金プラン",
+      "carrier": "ドコモ",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/07/cover_news016.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/07/news014.html",
+      "title": "もう一度使いたい「auのケータイ」はどれ？　KDDI公式X反響　“INFOBAR”にG'zOne”――他にも名機たくさん",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/07/news014.html",
+      "date": "2026-11-07T02:35:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "au/KDDI",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/07/cover_news014.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/07/news009.html",
+      "title": "財布代わりになる約120gの軽量スマホショルダー　iPhone Pro Maxサイズもすっきり収納",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/07/news009.html",
+      "date": "2026-11-07T01:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/07/l_asa_rakuten_01.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/07/news012.html",
+      "title": "Vポイントのキャンペーンまとめ【11月7日最新版】　5万～10万ポイント還元のチャンス、対象鉄道の乗車で10倍",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/07/news012.html",
+      "date": "2026-11-07T01:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/07/cover_news012.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2154546.html",
+      "title": "「ANIMAX MUSIX 2026」、TIGETでチケット販売中　11月20日・21日に開催",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2154546.html",
+      "date": "2026-11-07T00:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2154/546/01.jpg"
+    },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/07/news002.html",
       "title": "「iPhone Duo」を売るだけで1台12万円の利益　香港の発売日に起きた“買い取り狂騒曲”、昼には相場が急落",
@@ -421,17 +476,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2154/250/docomo.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/06/news036.html",
-      "title": "【ワークマン】3500円の「マルチ収納リュック」　ノートPCやシューズ＆ヘルメットもすっきり入る",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/06/news036.html",
-      "date": "2026-11-06T01:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/06/l_asa_100item_01.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2154158.html",
       "title": "IIJmioの「スマホ大特価セール」、GalaxyやiPhoneなどが対象",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2154158.html",
@@ -529,17 +573,6 @@
       "catLabel": "その他",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2154/123/171549.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2154110.html",
-      "title": "ドコモの通信障害、発生から9時間経過も継続中　5日11時～【復旧】",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2154110.html",
-      "date": "2026-11-05T11:21:53+00:00",
-      "sourceKey": "ktai",
-      "catKey": "trouble",
-      "catLabel": "障害・不具合",
-      "carrier": "ドコモ",
-      "image": null
     },
     {
       "id": "docomo-https://www.docomo.ne.jp/support/product_update/m51f/index.html",
