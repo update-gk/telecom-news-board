@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-11-07T05:34:18.281040+00:00",
+  "generated_at": "2026-11-07T12:46:52.189686+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/07/news019.html",
+      "title": "「povoの新規加入が非常に順調に伸びている」背景は？　今後は「2枚目→メイン」利用狙う――KDDI松田社長",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/07/news019.html",
+      "date": "2026-11-07T07:47:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "mvno",
+      "catLabel": "MVNO・格安SIM",
+      "carrier": "au/KDDI",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/07/cover_news019.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/07/news017.html",
+      "title": "移動で困ったことがあったら「人」じゃなく「スマホ」に聞く時代なのかも",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/07/news017.html",
+      "date": "2026-11-07T05:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/07/cover_news017.jpg"
+    },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/07/news016.html",
       "title": "ドコモが業績予想を上方修正　好調な「ドコモ MAX」と「料金値上げ」の勝算、残るネットワークの課題とは",
