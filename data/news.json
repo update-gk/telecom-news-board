@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-11-07T19:19:06.756104+00:00",
+  "generated_at": "2026-11-08T00:19:35.475749+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/08/news005.html",
+      "title": "折り方がZ型→G型に変わった3つ折りスマホ「HUAWEI Mate XT 2」は“iPhone Duoキラー”になるか　開けば10.2型、初の防水対応も実現",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/08/news005.html",
+      "date": "2026-11-07T23:22:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/08/cover_news005.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2154391.html",
+      "title": "CIO、ドン・キホーテ限定カラーのモバイルバッテリーと充電器を発売",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2154391.html",
+      "date": "2026-11-07T23:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2154/391/18.jpg"
+    },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/07/news019.html",
       "title": "「povoの新規加入が非常に順調に伸びている」背景は？　今後は「2枚目→メイン」利用狙う――KDDI松田社長",
@@ -584,17 +606,6 @@
       "catLabel": "障害・不具合",
       "carrier": "au/KDDI",
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2154/138/01.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2154123.html",
-      "title": "「節約」から「自分への投資」へ――マネーツリーとGoogle Healthが連携してお金と健康を可視化する狙い",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2154123.html",
-      "date": "2026-11-05T12:26:52+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2154/123/171549.jpg"
     },
     {
       "id": "docomo-https://www.docomo.ne.jp/support/product_update/m51f/index.html",
