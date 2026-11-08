@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-11-08T17:50:13.607386+00:00",
+  "generated_at": "2026-11-08T21:53:53.900220+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2154151.html",
+      "title": "IIJmio、通話定額オプション割引キャンペーンの名称を変更",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2154151.html",
+      "date": "2026-11-08T21:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2154/151/iij.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/09/news037.html",
+      "title": "「iPhone Duo」実機レビュー：精緻なハードウェアが光る一方、最適化不足という“Appleらしくない粗さ”も",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/09/news037.html",
+      "date": "2026-11-08T21:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/09/cover_news037.jpg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2154450.html",
       "title": "隠しカメラを探すのは自分の目！　手のひらサイズの「宇宙人型 カメラ探知機」",
@@ -509,28 +531,6 @@
       "image": "https://image.itmedia.co.jp/mobile/articles/2611/06/l_asa_HUAWEI_01.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/06/news064.html",
-      "title": "半固体電池を採用したMagSafe対応モバイルバッテリー「TORRAS MiniMag Pro」がセールで20％オフの9599円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/06/news064.html",
-      "date": "2026-11-06T04:30:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/06/cover_news064.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/06/news063.html",
-      "title": "ケーブルの持ち歩きを減らせる「TORRAS FlexLine 40W急速充電器 70CM巻き取り式USB-Cケーブル ホワイト」がセールで29％オフの4961円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/06/news063.html",
-      "date": "2026-11-06T04:24:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/06/cover_news063.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2154275.html",
       "title": "楽天モバイルが「iPad」の価格発表、Webと店頭で発売",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2154275.html",
@@ -628,17 +628,6 @@
       "catLabel": "その他",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2154/146/01.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2154015.html",
-      "title": "クアルコム、2026年度第4四半期および通期決算を発表――自動車向け好調で過去最高を更新",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2154015.html",
-      "date": "2026-11-05T15:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": null
     },
     {
       "id": "docomo-https://www.docomo.ne.jp/support/product_update/m51f/index.html",
