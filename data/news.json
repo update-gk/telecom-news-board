@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-11-10T10:55:51.010661+00:00",
+  "generated_at": "2026-11-10T19:33:25.700090+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2155227.html",
+      "title": "データ転送・給電をオンオフするスイッチ付きUSB4ケーブル",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2155227.html",
+      "date": "2026-11-10T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": null
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/minna/2155183.html",
+      "title": "Gemini Nano、使ってますか？",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/minna/2155183.html",
+      "date": "2026-11-10T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2155/183/1.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/stapaapple/2154542.html",
+      "title": "コピペできない文字も一瞬でテキスト化！　「iText」が俺的に超絶便利でサイコー!!!",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/stapaapple/2154542.html",
+      "date": "2026-11-10T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2154/542/stpapl2026-11-11thumbnail.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/10/news036.html",
+      "title": "ESRの“頑丈系”iPhone Duoケース「Atelier」と「Classic ハイブリッド」を比較　カメラバンプのスタンド機構が賢い",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/10/news036.html",
+      "date": "2026-11-10T10:30:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/10/cover_news036.jpg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2155263.html",
       "title": "レノボ、7色・2サイズから選べる「IdeaPad Vibe Gen 12」　12月発売",
@@ -47,6 +91,17 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2155/278/00.jpg"
     },
     {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/10/news080.html",
+      "title": "ソフトバンクの11型「iPad Air（M4）」128GBモデルが2年約6万円に【スマホお得情報】",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/10/news080.html",
+      "date": "2026-11-10T09:29:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ソフトバンク",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/10/l_asa_sumaotoku_01.jpg"
+    },
+    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2155254.html",
       "title": "JR東日本、28年春にウォークスルー改札を本格導入　Suicaをかざさず通過",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2155254.html",
@@ -56,6 +111,17 @@
       "catLabel": "その他",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2155/254/jr1.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/10/news078.html",
+      "title": "LINEヤフー、AIエージェント「Agent i」iOS版アプリを提供開始　ウィジェットからも利用可能",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/10/news078.html",
+      "date": "2026-11-10T09:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/10/l_asa_LINEyahoo_01.jpg"
     },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/10/news079.html",
@@ -333,17 +399,6 @@
       "image": "https://image.itmedia.co.jp/mobile/articles/2611/10/cover_news046.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/10/news035.html",
-      "title": "【ワークマン】1900円の「撥水スマートデイバッグ」　広い間口＆多彩なポケットでたっぷり収納",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/10/news035.html",
-      "date": "2026-11-10T01:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/10/l_asa_100item_01.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/ranking/galapagos_ranking/2154776.html",
       "title": "電子書籍人気ランキング（10月30日～11月5日）",
       "link": "https://k-tai.watch.impress.co.jp/docs/ranking/galapagos_ranking/2154776.html",
@@ -463,39 +518,6 @@
       "catLabel": "その他",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2154/864/01_thumb.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2154875.html",
-      "title": "楽天モバイル「Rakuten最強衛星サービス」年内開始へ、ユーザー限定せず当面無料",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2154875.html",
-      "date": "2026-11-09T07:50:50+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "楽天モバイル",
-      "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2154848.html",
-      "title": "ソフトバンク、上半期は増収増益　通期業績予想を上方修正",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2154848.html",
-      "date": "2026-11-09T07:21:09+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "ソフトバンク",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2154/848/02.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2154809.html",
-      "title": "総務省、「偽基地局」開設疑いで中国籍の人物を告発",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2154809.html",
-      "date": "2026-11-09T05:46:40+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": null
     },
     {
       "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20261109_01/",
