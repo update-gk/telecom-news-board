@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-11-09T15:51:27.837978+00:00",
+  "generated_at": "2026-11-10T01:23:29.586868+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/ranking/galapagos_ranking/2154776.html",
+      "title": "電子書籍人気ランキング（10月30日～11月5日）",
+      "link": "https://k-tai.watch.impress.co.jp/docs/ranking/galapagos_ranking/2154776.html",
+      "date": "2026-11-09T21:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/include/common/p01/images/logo/ktw.l.png"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2154974.html",
       "title": "Apple Watchにも装着できる小型のAIボイスレコーダー「Memoket Gem」",
@@ -33,7 +44,7 @@
       "catKey": "other",
       "catLabel": "その他",
       "carrier": "ソフトバンク",
-      "image": null
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2154/963/26.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/ishikawa/2154426.html",
@@ -344,50 +355,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2154/744/cont1.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/09/news034.html",
-      "title": "多機能で使いやすい2ポケット　シンプルデザインのレザー風スマホショルダー",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/09/news034.html",
-      "date": "2026-11-09T01:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/09/l_asa_rakuten_01.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/09/news050.html",
-      "title": "厚さ8.6mmの超薄型設計でスマホと重ね持ちしやすい「UGREEN Air モバイルバッテリー 5000mAh」がセールで34％オフの4510円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/09/news050.html",
-      "date": "2026-11-09T00:53:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/09/cover_news050.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/09/news049.html",
-      "title": "プロ仕様のカラビナが付属したモバイルバッテリー「TORRAS FlexLine」がセールで27％オフの8069円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/09/news049.html",
-      "date": "2026-11-09T00:47:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/09/cover_news049.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/09/news047.html",
-      "title": "高出力による急速充電に対応した「Anker USB-C & USB-C ケーブル」がセールで37％オフの1690円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/09/news047.html",
-      "date": "2026-11-09T00:42:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/09/cover_news047.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2154151.html",
       "title": "IIJmio、通話定額オプション割引キャンペーンの名称を変更",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2154151.html",
@@ -518,17 +485,6 @@
       "catLabel": "その他",
       "carrier": "ドコモ",
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2154/506/003.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2154503.html",
-      "title": "ドコモ最大29万件の顧客情報流出で見舞金を検討、「ahamo」サイトも予防的に停止",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2154503.html",
-      "date": "2026-11-06T10:24:01+00:00",
-      "sourceKey": "ktai",
-      "catKey": "mvno",
-      "catLabel": "MVNO・格安SIM",
-      "carrier": "ドコモ",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2154/503/04.jpg"
     },
     {
       "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr_s-83_4819.html",
