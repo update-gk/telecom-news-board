@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-11-10T19:33:25.700090+00:00",
+  "generated_at": "2026-11-11T01:09:40.416156+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/11/news055.html",
+      "title": "高出力機器の急速充電に適した「Anker Zolo USB-C & USB-C ケーブル (240W, 高耐久ナイロン) 1.0m ホワイト」がセールで36％オフの890円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/11/news055.html",
+      "date": "2026-11-11T00:52:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/11/cover_news055.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/11/news054.html",
+      "title": "ノートPCとスマホの充電をまとめたい人に適した「UGREEN Nexode 65W 急速充電器」がセールで28％オフの3150円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/11/news054.html",
+      "date": "2026-11-11T00:47:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/11/cover_news054.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/11/news053.html",
+      "title": "紛失防止タグ内蔵で置き忘れを防げる超薄型モバイルバッテリー「CIO SMARTCOBY ULTRA SLIM 3K」がセールで11％オフの7980円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/11/news053.html",
+      "date": "2026-11-11T00:42:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/11/cover_news053.jpg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2155227.html",
       "title": "データ転送・給電をオンオフするスイッチ付きUSB4ケーブル",
@@ -34,6 +67,39 @@
       "catLabel": "その他",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2154/542/stpapl2026-11-11thumbnail.jpg"
+    },
+    {
+      "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20261111_01/",
+      "title": "“ソフトバンク”“ワイモバイル”“LINEMO”で「Apple One」を提供開始～「Apple One」の月額料金（税抜き）の10％相当のPayPayポイントが2年間、毎月たまる～",
+      "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20261111_01/",
+      "date": "2026-11-10T15:00:00+00:00",
+      "sourceKey": "softbank",
+      "catKey": "price",
+      "catLabel": "料金プラン",
+      "carrier": "ソフトバンク",
+      "image": null
+    },
+    {
+      "id": "ymobile-https://stn.mb.softbank.jp/S2X1g",
+      "title": "“ソフトバンク”“ワイモバイル”“LINEMO”で「Apple One」を提供開始",
+      "link": "https://stn.mb.softbank.jp/S2X1g",
+      "date": "2026-11-10T15:00:00+00:00",
+      "sourceKey": "ymobile",
+      "catKey": "mvno",
+      "catLabel": "MVNO・格安SIM",
+      "carrier": "ソフトバンク",
+      "image": null
+    },
+    {
+      "id": "ymobile-https://www.softbank.jp/mobile/info/personal/news/service/20261111a/",
+      "title": "「SoftBank Starlink Direct」、11月11日からオーストラリアで海外利用可能に",
+      "link": "https://www.softbank.jp/mobile/info/personal/news/service/20261111a/",
+      "date": "2026-11-10T15:00:00+00:00",
+      "sourceKey": "ymobile",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ソフトバンク",
+      "image": null
     },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/10/news036.html",
@@ -212,50 +278,6 @@
       "image": "https://image.itmedia.co.jp/mobile/articles/2611/10/cover_news069.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/10/news067.html",
-      "title": "動画視聴やWeb閲覧に便利なスタンド型の「Anker PowerWave 10 Stand」がセールで20％オフの1990円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/10/news067.html",
-      "date": "2026-11-10T05:26:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/10/cover_news067.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/10/news066.html",
-      "title": "最大100W給電に対応した「UGREEN USB Type-C ケーブル 100W/5A」がセールで40％オフの780円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/10/news066.html",
-      "date": "2026-11-10T05:23:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/10/cover_news066.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/10/news065.html",
-      "title": "3ポート搭載＆大容量2万mAhの「CIO SMARTCOBY TRIO 35W モバイルバッテリー」がセールで36％オフの4480円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/10/news065.html",
-      "date": "2026-11-10T05:17:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/10/cover_news065.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/10/news064.html",
-      "title": "カード収納とスタンド機能をスマートに追加できる「MOFT Snap-On MagSafeスタンド MOVAS磁力強化」がセールで20％オフの3584円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/10/news064.html",
-      "date": "2026-11-10T05:12:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/10/cover_news064.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2155140.html",
       "title": "iPhone向けに「iOS 27.2.1」登場、Bluetoothでプロセスメモリ破壊される脆弱性など修正",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2155140.html",
@@ -298,17 +320,6 @@
       "catLabel": "その他",
       "carrier": "楽天モバイル",
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2155/121/rktn.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/10/news058.html",
-      "title": "LINEの「メッセージ予約」機能が期間限定で登場　正式提供は今冬以降",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/10/news058.html",
-      "date": "2026-11-10T04:02:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/10/l_asa_LINE_01.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2155109.html",
@@ -355,17 +366,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2155/060/01.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/10/news052.html",
-      "title": "Apple、「iOS 27.2.1」公開　iMessageの盗み見やBluetoothの不正ペアリングにつながる脆弱性を修正",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/10/news052.html",
-      "date": "2026-11-10T02:47:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/10/cover_news052.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2155053.html",
       "title": "LINE、指定日時に送信できる「メッセージ予約」提供開始　まずは無料で",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2155053.html",
@@ -375,28 +375,6 @@
       "catLabel": "その他",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2155/053/00.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/10/news051.html",
-      "title": "背面ディスプレイ搭載「Xiaomi 18 Pro」シリーズの体験イベントを表参道で開催　11月20日から4日間",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/10/news051.html",
-      "date": "2026-11-10T02:16:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/10/l_asa_Xiaomi_01.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/10/news046.html",
-      "title": "MetaのAIエージェント「Muse」がApple WatchとWear OSに対応　手首から音声で呼び出し",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/10/news046.html",
-      "date": "2026-11-10T01:04:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/10/cover_news046.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/ranking/galapagos_ranking/2154776.html",
@@ -1323,17 +1301,6 @@
       "image": null
     },
     {
-      "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260908_02/",
-      "title": "AIマネジメントシステムの国際規格「ISO/IEC 42001:2023」の認証を取得～責任あるAIの実現に向け、AIガバナンスの強化を推進〜",
-      "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260908_02/",
-      "date": "2026-09-07T15:00:00+00:00",
-      "sourceKey": "softbank",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "ソフトバンク",
-      "image": null
-    },
-    {
       "id": "ymobile-https://www.ymobile.jp/info/press/2026/26082701.html",
       "title": "SIMフリースマホなどが購入できる「Y!mobile Free Style」で「REDMI Note 17 Pro Max 5G」を8月28日より販売開始",
       "link": "https://www.ymobile.jp/info/press/2026/26082701.html",
@@ -1393,28 +1360,6 @@
       "title": "「コミックマーケット108」で電波対策を強化",
       "link": "https://www.ymobile.jp/info/press/2026/26081401.html",
       "date": "2026-08-13T15:00:00+00:00",
-      "sourceKey": "ymobile",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "Y!mobile",
-      "image": null
-    },
-    {
-      "id": "ymobile-https://www.ymobile.jp/info/press/2026/26080301.html",
-      "title": "日頃のご愛顧に感謝を込めて「ワイモバ 超！感謝祭」を強化！\r\n大好評の「ワイモバ紹介キャンペーン」の特典を倍増！",
-      "link": "https://www.ymobile.jp/info/press/2026/26080301.html",
-      "date": "2026-08-02T15:00:00+00:00",
-      "sourceKey": "ymobile",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": "Y!mobile",
-      "image": null
-    },
-    {
-      "id": "ymobile-https://www.softbank.jp/mobile/info/personal/news/internationalfailure/20260731_01/",
-      "title": "台湾での防空演習に伴うデータ通信制限に関するご案内",
-      "link": "https://www.softbank.jp/mobile/info/personal/news/internationalfailure/20260731_01/",
-      "date": "2026-07-30T15:00:00+00:00",
       "sourceKey": "ymobile",
       "catKey": "other",
       "catLabel": "その他",
