@@ -1,7 +1,84 @@
 {
-  "generated_at": "2026-11-11T10:37:01.433924+00:00",
+  "generated_at": "2026-11-11T19:27:30.544668+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/ishikawa/2155700.html",
+      "title": "有機ELで薄型化した新「iPad mini」を試す、iPhone Duo併用での本音",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/ishikawa/2155700.html",
+      "date": "2026-11-11T15:27:26+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2155/700/01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2155670.html",
+      "title": "iPhone DuoをモバイルPC代わりに使うためのSpigen MagSafeスマホリング",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2155670.html",
+      "date": "2026-11-11T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": null
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/value/2155623.html",
+      "title": "既存プランの値上げはARPUにどう影響した?　大手3キャリアの上期決算から分かること",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/value/2155623.html",
+      "date": "2026-11-11T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "price",
+      "catLabel": "料金プラン",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2155/623/7.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/11/news094.html",
+      "title": "JR東日本「スマホをかざさず改札を通過」体験に、シャープ「AQUOS R10」を採用",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/11/news094.html",
+      "date": "2026-11-11T11:38:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/11/cover_news094.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2155671.html",
+      "title": "Google、最新AIモデル「Gemini 4 Carbon」提供開始",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2155671.html",
+      "date": "2026-11-11T11:22:51+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2155/671/01_thumb.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2155667.html",
+      "title": "Google Fi、2つの5G網とWi-Fiを自動切換する「スーパーネットワーク」　Pixel 9以降に対応",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2155667.html",
+      "date": "2026-11-11T11:05:01+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": null
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/11/news092.html",
+      "title": "家事を撮影するだけで1時間1000円分のポイントがたまる　ポイ活アプリ「サンポ」で実施",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/11/news092.html",
+      "date": "2026-11-11T09:35:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/11/l_asa_PONT_01.jpg"
+    },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/11/news091.html",
       "title": "ドコモの通信障害、一部復旧も依然として継続　サイバー攻撃は否定",
@@ -45,6 +122,17 @@
       "catLabel": "MVNO・格安SIM",
       "carrier": "au/KDDI",
       "image": "https://image.itmedia.co.jp/mobile/articles/2611/11/cover_news090.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/11/news088.html",
+      "title": "「ANAグローバルeSIM」開始、利用料金の20％マイルがたまる　1GB～無制限を用意",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/11/news088.html",
+      "date": "2026-11-11T08:21:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "price",
+      "catLabel": "料金プラン",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/11/l_asa_ANA_01.jpg"
     },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/11/news087.html",
@@ -99,7 +187,7 @@
       "catKey": "mvno",
       "catLabel": "MVNO・格安SIM",
       "carrier": "au/KDDI",
-      "image": null
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2155/513/main.jpg"
     },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/11/news078.html",
@@ -529,61 +617,6 @@
       "catLabel": "その他",
       "carrier": null,
       "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2155068.html",
-      "title": "Apple Music、「DJ CHARI & DJ TATSUKI のヒップホップ講座」最終回を配信",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2155068.html",
-      "date": "2026-11-10T03:20:57+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2155/068/01_thumb.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2155060.html",
-      "title": "モスバーガーで対象商品が「dポイント」3倍、もれなく100ポイント還元も　11日～",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2155060.html",
-      "date": "2026-11-10T03:02:08+00:00",
-      "sourceKey": "ktai",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2155/060/01.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2155053.html",
-      "title": "LINE、指定日時に送信できる「メッセージ予約」提供開始　まずは無料で",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2155053.html",
-      "date": "2026-11-10T02:37:49+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2155/053/00.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/ranking/galapagos_ranking/2154776.html",
-      "title": "電子書籍人気ランキング（10月30日～11月5日）",
-      "link": "https://k-tai.watch.impress.co.jp/docs/ranking/galapagos_ranking/2154776.html",
-      "date": "2026-11-09T21:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/include/common/p01/images/logo/ktw.l.png"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2154974.html",
-      "title": "Apple Watchにも装着できる小型のAIボイスレコーダー「Memoket Gem」",
-      "link": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2154974.html",
-      "date": "2026-11-09T15:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2154/974/P1584105.jpg"
     },
     {
       "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20261109_01/",
