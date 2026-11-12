@@ -1,7 +1,84 @@
 {
-  "generated_at": "2026-11-12T10:50:08.407463+00:00",
+  "generated_at": "2026-11-12T19:46:06.958518+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/teppan/2155944.html",
+      "title": "他のスマホやパソコンとすぐにファイル交換できるWebアプリ「AirLocal」",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/teppan/2155944.html",
+      "date": "2026-11-12T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2155/944/icon.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/review/2155215.html",
+      "title": "主要MVNO各社の音声通話プラン料金まとめ【2026年11月号】",
+      "link": "https://k-tai.watch.impress.co.jp/docs/review/2155215.html",
+      "date": "2026-11-12T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "price",
+      "catLabel": "料金プラン",
+      "carrier": null,
+      "image": null
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2156055.html",
+      "title": "AIボイスレコーダー「Soundcore Work」が機能拡充――話し言葉を文章化する「Typeless」機能や「Notta」連携モデルを発表",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2156055.html",
+      "date": "2026-11-12T11:44:44+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2156/055/cont1190.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/review/2156053.html",
+      "title": "一足先に「Xiaomi 18 Pro／Pro Max」を触ってきた",
+      "link": "https://k-tai.watch.impress.co.jp/docs/review/2156053.html",
+      "date": "2026-11-12T11:43:41+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": null
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2156051.html",
+      "title": "アンカー、ワイヤレスヘッドホン「Anker Space 2 Pro」発売――独自AIチップでノイキャン性能が約1.5倍に向上",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2156051.html",
+      "date": "2026-11-12T11:16:12+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2156/051/cont2260.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2156045.html",
+      "title": "アンカーから睡眠特化型スマートスピーカー「Anker SleepLab」が来春発売、ミリ波レーダーで睡眠計測する上位モデルも",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2156045.html",
+      "date": "2026-11-12T10:56:31+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2156/045/cont1850.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2156041.html",
+      "title": "アンカー、睡眠用イヤホン「Anker Sleep Earbuds 4」を発表",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2156041.html",
+      "date": "2026-11-12T10:56:07+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2156/041/cont1790.jpg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2156017.html",
       "title": "アンカー、イヤーカフ型ワイヤレスイヤホン「Anker AeroClip 2」シリーズ発表――AI文字起こし対応「Pro」も来春登場",
@@ -399,72 +476,6 @@
       "image": null
     },
     {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2155447.html",
-      "title": "ドコモ、11日の通信障害も「5G SA」　原因は調査中",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2155447.html",
-      "date": "2026-11-11T03:01:56+00:00",
-      "sourceKey": "ktai",
-      "catKey": "trouble",
-      "catLabel": "障害・不具合",
-      "carrier": "ドコモ",
-      "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2155432.html",
-      "title": "ソフトバンク・ワイモバイル・LINEMOで「Apple One」提供へ、2年間10％ポイント還元も",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2155432.html",
-      "date": "2026-11-11T03:01:56+00:00",
-      "sourceKey": "ktai",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": "ソフトバンク",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2155/432/01.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2155413.html",
-      "title": "ドコモで通信障害、全国に影響　11日昼～【更新】",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2155413.html",
-      "date": "2026-11-11T02:24:57+00:00",
-      "sourceKey": "ktai",
-      "catKey": "trouble",
-      "catLabel": "障害・不具合",
-      "carrier": "ドコモ",
-      "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2155227.html",
-      "title": "データ転送・給電をオンオフするスイッチ付きUSB4ケーブル",
-      "link": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2155227.html",
-      "date": "2026-11-10T15:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/minna/2155183.html",
-      "title": "Gemini Nano、使ってますか？",
-      "link": "https://k-tai.watch.impress.co.jp/docs/column/minna/2155183.html",
-      "date": "2026-11-10T15:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2155/183/1.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/stapaapple/2154542.html",
-      "title": "コピペできない文字も一瞬でテキスト化！　「iText」が俺的に超絶便利でサイコー!!!",
-      "link": "https://k-tai.watch.impress.co.jp/docs/column/stapaapple/2154542.html",
-      "date": "2026-11-10T15:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2154/542/stpapl2026-11-11thumbnail.jpg"
-    },
-    {
       "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20261111_02/",
       "title": "防災分野にデジタルツインを活用して、被災した建物の応急危険度判定を遠隔から実施する技術を実証",
       "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20261111_02/",
@@ -507,17 +518,6 @@
       "catLabel": "その他",
       "carrier": "ソフトバンク",
       "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2155263.html",
-      "title": "レノボ、7色・2サイズから選べる「IdeaPad Vibe Gen 12」　12月発売",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2155263.html",
-      "date": "2026-11-10T09:54:23+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2155/263/122.jpg"
     },
     {
       "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20261109_01/",
