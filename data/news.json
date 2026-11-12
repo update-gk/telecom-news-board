@@ -1,7 +1,84 @@
 {
-  "generated_at": "2026-11-11T19:27:30.544668+00:00",
+  "generated_at": "2026-11-12T02:10:29.753430+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2155656.html",
+      "title": "バッファロー、「Qi2 25W」対応・有線もOKなコンセント一体型充電器発売",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2155656.html",
+      "date": "2026-11-12T01:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2155/656/sub.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/12/news040.html",
+      "title": "【ワークマン】1500円の「ザットカジュアルミニショルダー」　防水生地＆止水ファスナーを採用",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/12/news040.html",
+      "date": "2026-11-12T01:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/12/l_asa_100item_01.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/12/news053.html",
+      "title": "ライトニングもUSB Type-Cも1本で充電できる「Anker PowerLine II 3-in-1 ケーブル (0.9m ブラック)」がセールで26％オフの1690円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/12/news053.html",
+      "date": "2026-11-12T00:54:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/12/cover_news053.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/12/news052.html",
+      "title": "6マイクAI通話に対応した「Edifier X5 pro Gen 2」がセールで30％オフの4184円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/12/news052.html",
+      "date": "2026-11-12T00:49:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/12/cover_news052.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/12/news051.html",
+      "title": "ケーブル忘れの心配を解消できる着脱式コード内蔵モバイルバッテリー「CIO SMARTCOBY Pro SLIM CABLE」がセールで33％オフの3980円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/12/news051.html",
+      "date": "2026-11-12T00:45:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/12/cover_news051.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/12/news050.html",
+      "title": "カラーバリエーション豊富な「UGREEN Air 65W Type-C充電器」がセールで25％オフの3209円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/12/news050.html",
+      "date": "2026-11-12T00:41:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/12/cover_news050.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/12/news044.html",
+      "title": "ドコモの通信障害が完全復旧　今回も原因は5G SA交換機の輻輳",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/12/news044.html",
+      "date": "2026-11-11T23:21:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "trouble",
+      "catLabel": "障害・不具合",
+      "carrier": "ドコモ",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/12/l_st52693_docomore-01.jpg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/ishikawa/2155700.html",
       "title": "有機ELで薄型化した新「iPad mini」を試す、iPhone Duo併用での本音",
@@ -223,28 +300,6 @@
       "image": "https://image.itmedia.co.jp/mobile/articles/2611/11/cover_news075.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/11/news076.html",
-      "title": "IIJmioにMNPでシャープ「AQUOS R9」が約5.5万円　11月30日まで【スマホお得情報】",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/11/news076.html",
-      "date": "2026-11-11T05:17:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/11/l_asa_sumaotoku_01.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/11/news064.html",
-      "title": "「iPhone 15」が販売2位、新たな中古の売れ筋になるか　ゲオの10月ランキング",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/11/news064.html",
-      "date": "2026-11-11T04:55:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/11/l_asa_geo_01.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2155477.html",
       "title": "グーグルとアドビが連携拡大、Google ドライブやGmailで「Acrobat」利用など",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2155477.html",
@@ -265,28 +320,6 @@
       "catLabel": "端末",
       "carrier": null,
       "image": null
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/11/news068.html",
-      "title": "「Google Pixel Tag」登場　10億台超規模のFind HubネットワークとUWBで高精度探索　Google初のトラッカー",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/11/news068.html",
-      "date": "2026-11-11T03:45:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/11/cover_news068.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/11/news065.html",
-      "title": "Googleの11月版「Pixel Drop」　Geminiのタスク代行が日本でも利用可能に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/11/news065.html",
-      "date": "2026-11-11T03:05:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/11/cover_news065.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2155447.html",
@@ -320,83 +353,6 @@
       "catLabel": "障害・不具合",
       "carrier": "ドコモ",
       "image": null
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/11/news060.html",
-      "title": "ドコモで再び通信障害が発生　5G SAに原因ありと判明【更新】",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/11/news060.html",
-      "date": "2026-11-11T02:24:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "trouble",
-      "catLabel": "障害・不具合",
-      "carrier": "ドコモ",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/11/l_st52693_docomo-01.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/11/news058.html",
-      "title": "AndroidとPixelの11月版更新配信開始　「Pixel 11」シリーズで撮影した写真が保存されない不具合などを修正",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/11/news058.html",
-      "date": "2026-11-11T01:04:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "trouble",
-      "catLabel": "障害・不具合",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/11/cover_news058.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/11/news041.html",
-      "title": "はっ水加工されたスマホショルダー　オープンポケットと3つのカードポケット付き",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/11/news041.html",
-      "date": "2026-11-11T01:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/11/l_asa_rakuten_01.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/11/news057.html",
-      "title": "USB Type-C機器に直挿しできるマイク付きのカナル型イヤフォン「オーディオテクニカ ATH-CKD3C WH」がセールで32％オフの2090円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/11/news057.html",
-      "date": "2026-11-11T00:56:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/11/cover_news057.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/11/news055.html",
-      "title": "高出力機器の急速充電に適した「Anker Zolo USB-C & USB-C ケーブル (240W, 高耐久ナイロン) 1.0m ホワイト」がセールで36％オフの890円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/11/news055.html",
-      "date": "2026-11-11T00:52:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/11/cover_news055.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/11/news054.html",
-      "title": "ノートPCとスマホの充電をまとめたい人に適した「UGREEN Nexode 65W 急速充電器」がセールで28％オフの3150円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/11/news054.html",
-      "date": "2026-11-11T00:47:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/11/cover_news054.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/11/news053.html",
-      "title": "紛失防止タグ内蔵で置き忘れを防げる超薄型モバイルバッテリー「CIO SMARTCOBY ULTRA SLIM 3K」がセールで11％オフの7980円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/11/news053.html",
-      "date": "2026-11-11T00:42:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/11/cover_news053.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2155227.html",
@@ -606,17 +562,6 @@
       "catLabel": "その他",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2155/109/0.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2155096.html",
-      "title": "シャオミ、背面ディスプレイ搭載「Xiaomi 18 Pro」シリーズを11月17日に発表　表参道で先行体験イベントも開催",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2155096.html",
-      "date": "2026-11-10T03:40:44+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": null
     },
     {
       "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20261109_01/",
