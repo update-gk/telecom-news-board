@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-11-12T19:46:06.958518+00:00",
+  "generated_at": "2026-11-13T01:44:14.881109+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/13/news040.html",
+      "title": "ホイッスルになる引き手付き　リュックなどにも取り付けられるmaster-pieceのスマホショルダー",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/13/news040.html",
+      "date": "2026-11-13T01:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/13/l_asa_rakuten_01.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/13/news064.html",
+      "title": "厚さ約8.7mmの薄型軽量設計を採用したMagSafe対応モバイルバッテリー「Xiaomi Super Slim 5000mAh」がセールで35％オフの2980円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/13/news064.html",
+      "date": "2026-11-13T00:56:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/13/cover_news064.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/13/news062.html",
+      "title": "強力マグネットと折りたたみ式スタンドを備えたモバイルバッテリー「Anker 622 Magnetic Battery (MagGo)」がセールで18％オフの4490円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/13/news062.html",
+      "date": "2026-11-13T00:52:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/13/cover_news062.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/13/news061.html",
+      "title": "半固体電解質採用のケーブル一体型モデル「バッファロー モバイルバッテリー BMPBSA5000BKX」がセールで19％オフの3380円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/13/news061.html",
+      "date": "2026-11-13T00:48:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/13/cover_news061.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/13/news044.html",
+      "title": "Pixel TagとAirTagは何が違う？　Androidスマホで使えて1000円台から買える紛失防止タグの選び方",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/13/news044.html",
+      "date": "2026-11-12T23:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/13/cover_news044.png"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/13/news050.html",
+      "title": "Xperia 1 VIIIが「Android 17」に対応、ぶっちゃけどう便利に？　ソニーが明かした「細やかな配慮」",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/13/news050.html",
+      "date": "2026-11-12T21:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/13/cover_news050.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/13/news051.html",
+      "title": "ソニーに聞く「Xperia 10 VIII」の進化　スペック競争を離れ「日常のストレス解消」「推し活」に注力",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/13/news051.html",
+      "date": "2026-11-12T21:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/13/cover_news051.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/13/news027.html",
+      "title": "SNSに子供の顔写真、出せますか？　“家族系YouTuber”の収益化停止で考える、子供をネットに出すリスク",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/13/news027.html",
+      "date": "2026-11-12T21:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/13/cover_news027.jpg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/teppan/2155944.html",
       "title": "他のスマホやパソコンとすぐにファイル交換できるWebアプリ「AirLocal」",
@@ -22,7 +110,7 @@
       "catKey": "price",
       "catLabel": "料金プラン",
       "carrier": null,
-      "image": null
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2155/215/01_thumb.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2156055.html",
@@ -168,17 +256,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2155/925/001.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/12/news065.html",
-      "title": "「超PayPay祭」11月20日から開催　最大10万ポイント還元、PayPay銀行連携でも当選確率アップ",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/12/news065.html",
-      "date": "2026-11-12T05:31:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/12/l_asa_PayPay_01.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2155878.html",
       "title": "Google、複数人で使うコラボレーションツール「TableTop」　投票やゲームをAIで作成・共有可能",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2155878.html",
@@ -210,28 +287,6 @@
       "catLabel": "その他",
       "carrier": null,
       "image": null
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/12/news057.html",
-      "title": "スマートグラス「Even G2」の法人向け開発キット「Enterprise SDK」リリース　FlutterやiOS／Androidに対応",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/12/news057.html",
-      "date": "2026-11-12T04:31:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/12/l_asa_EvenRealities_01.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/12/news061.html",
-      "title": "JVCケンウッドが新型ディスプレイオーディオを発売　ハードキーや最大27W充電のUSB Type-C端子も装備",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/12/news061.html",
-      "date": "2026-11-12T04:21:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/12/l_asa_JVC_01.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2155830.html",
@@ -276,72 +331,6 @@
       "catLabel": "端末",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2155/656/sub.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/12/news040.html",
-      "title": "【ワークマン】1500円の「ザットカジュアルミニショルダー」　防水生地＆止水ファスナーを採用",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/12/news040.html",
-      "date": "2026-11-12T01:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/12/l_asa_100item_01.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/12/news053.html",
-      "title": "ライトニングもUSB Type-Cも1本で充電できる「Anker PowerLine II 3-in-1 ケーブル (0.9m ブラック)」がセールで26％オフの1690円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/12/news053.html",
-      "date": "2026-11-12T00:54:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/12/cover_news053.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/12/news052.html",
-      "title": "6マイクAI通話に対応した「Edifier X5 pro Gen 2」がセールで30％オフの4184円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/12/news052.html",
-      "date": "2026-11-12T00:49:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/12/cover_news052.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/12/news051.html",
-      "title": "ケーブル忘れの心配を解消できる着脱式コード内蔵モバイルバッテリー「CIO SMARTCOBY Pro SLIM CABLE」がセールで33％オフの3980円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/12/news051.html",
-      "date": "2026-11-12T00:45:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/12/cover_news051.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/12/news050.html",
-      "title": "カラーバリエーション豊富な「UGREEN Air 65W Type-C充電器」がセールで25％オフの3209円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/12/news050.html",
-      "date": "2026-11-12T00:41:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/12/cover_news050.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/12/news044.html",
-      "title": "ドコモの通信障害が完全復旧　今回も原因は5G SA交換機の輻輳",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/12/news044.html",
-      "date": "2026-11-11T23:21:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "trouble",
-      "catLabel": "障害・不具合",
-      "carrier": "ドコモ",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/12/l_st52693_docomore-01.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/ishikawa/2155700.html",
