@@ -1,7 +1,84 @@
 {
-  "generated_at": "2026-11-13T10:45:51.862650+00:00",
+  "generated_at": "2026-11-13T19:28:24.184091+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/13/news096.html",
+      "title": "マネックス証券、不正アクセスで最大113万件のメルアド漏えいの恐れ　本人確認書類画像1592件も",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/13/news096.html",
+      "date": "2026-11-13T14:11:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/13/l_st52693_monex-01.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/13/news094.html",
+      "title": "「ボトルネック解消」――楽天、衛星通信に自信　今後の展開は“一気に加速”",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/13/news094.html",
+      "date": "2026-11-13T12:20:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "楽天モバイル",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/13/cover_news094.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2156449.html",
+      "title": "マネックス証券、不正アクセスでメールアドレス最大113万件と本人確認書類1600件弱が漏洩のおそれ",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2156449.html",
+      "date": "2026-11-13T12:19:16+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2156/449/01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2156437.html",
+      "title": "楽天グループ、第3四半期の連結売上高が過去最高　EBITDAは1235億円で成長加速",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2156437.html",
+      "date": "2026-11-13T11:49:15+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "楽天モバイル",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2156/437/005.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/13/news092.html",
+      "title": "auとソフトバンクが「5G信頼性」で世界トップ　Opensignalが「5Gモバイルネットワークアワード2026」発表",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/13/news092.html",
+      "date": "2026-11-13T11:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "au/KDDI",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/13/l_asa_Opensignal_01.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/13/news089.html",
+      "title": "ベルキン、iPhone 18 Pro向けレザー調シリコンケース発売　360度回転するキックスタンド付き",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/13/news089.html",
+      "date": "2026-11-13T10:33:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/13/l_asa_Belkin_01.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/13/news082.html",
+      "title": "auの「AQUOS sense10」がMNPで2年間9900円、機種変更でも1万円台に【スマホお得情報】",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/13/news082.html",
+      "date": "2026-11-13T10:07:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "au/KDDI",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/13/l_asa_sumaotoku_01.jpg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2156404.html",
       "title": "楽天三木谷氏、ローミング縮小の「影響は限定的」",
@@ -12,6 +89,17 @@
       "catLabel": "その他",
       "carrier": "楽天モバイル",
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2156/404/mk.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/13/news076.html",
+      "title": "「GEO BLACK FRIDAY SALE 2026」開催、中古スマホ／ゲームや4Kテレビが割引に　11月21日から",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/13/news076.html",
+      "date": "2026-11-13T09:29:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/13/l_asa_geo_01.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2156403.html",
@@ -311,6 +399,17 @@
       "image": null
     },
     {
+      "id": "ymobile-https://stn.mb.softbank.jp/H8J0S",
+      "title": "「海外あんしん定額」のサービスメンテナンスのお知らせ",
+      "link": "https://stn.mb.softbank.jp/H8J0S",
+      "date": "2026-11-12T15:00:00+00:00",
+      "sourceKey": "ymobile",
+      "catKey": "trouble",
+      "catLabel": "障害・不具合",
+      "carrier": "Y!mobile",
+      "image": null
+    },
+    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2156055.html",
       "title": "AIボイスレコーダー「Soundcore Work」が機能拡充――話し言葉を文章化する「Typeless」機能や「Notta」連携モデルを発表",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2156055.html",
@@ -463,28 +562,6 @@
       "catLabel": "その他",
       "carrier": null,
       "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2155830.html",
-      "title": "「超PayPay祭」20日にスタート、PayPayカードでは必ず当選するスクラッチくじも",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2155830.html",
-      "date": "2026-11-12T03:59:48+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2155/830/cont0.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2155819.html",
-      "title": "Google、公式ストアで「ブラックフライデーセール」　20日から",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2155819.html",
-      "date": "2026-11-12T03:49:20+00:00",
-      "sourceKey": "ktai",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2155/819/01_thumb.jpg"
     },
     {
       "id": "ymobile-https://www.ymobile.jp/info/press/2026/26111201.html",
@@ -1342,17 +1419,6 @@
       "catKey": "mvno",
       "catLabel": "MVNO・格安SIM",
       "carrier": "Y!mobile",
-      "image": null
-    },
-    {
-      "id": "ymobile-https://www.ymobile.jp/info/press/2026/26081701.html",
-      "title": "ディズニープラスがソフトバンク・ワイモバイルまとめて支払いに対応",
-      "link": "https://www.ymobile.jp/info/press/2026/26081701.html",
-      "date": "2026-08-16T15:00:00+00:00",
-      "sourceKey": "ymobile",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "ソフトバンク",
       "image": null
     },
     {
