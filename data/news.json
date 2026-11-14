@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-11-14T10:00:28.402629+00:00",
+  "generated_at": "2026-11-14T17:51:46.005137+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/14/news017.html",
+      "title": "Netflixが値上げ　最安の広告つきプランは月額990円、4K対応「プレミアム」は2590円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/14/news017.html",
+      "date": "2026-11-14T14:05:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "price",
+      "catLabel": "料金プラン",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/14/cover_news017.png"
+    },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/14/news016.html",
       "title": "モバイルセグメントは損失をさらに縮小し、純増基調を維持――楽天グループが2026年度第3四半期決算を発表",
