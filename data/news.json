@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-11-14T01:22:07.385004+00:00",
+  "generated_at": "2026-11-14T10:00:28.402629+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/14/news016.html",
+      "title": "モバイルセグメントは損失をさらに縮小し、純増基調を維持――楽天グループが2026年度第3四半期決算を発表",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/14/news016.html",
+      "date": "2026-11-14T06:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "楽天モバイル",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/14/cover_news016.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/14/news015.html",
+      "title": "ドコモの通信障害で影響を受けた「5G SA」回線数は5Gユーザーの3～4％　思ったよりも少ない？　多い？",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/14/news015.html",
+      "date": "2026-11-14T04:15:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "trouble",
+      "catLabel": "障害・不具合",
+      "carrier": "ドコモ",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/14/cover_news015.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/14/news012.html",
+      "title": "【ダイソー】110円の「スタンド（便器型）」　日常生活がちょっと楽しく、実用性も十分",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/14/news012.html",
+      "date": "2026-11-14T01:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/14/l_asa_100item_01.jpg"
+    },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/14/news014.html",
       "title": "ローミング縮小でも楽天モバイルからユーザーが流出しない理由　一方で浮上する「副回線化とARPU低下」の懸念",
