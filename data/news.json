@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-11-13T19:28:24.184091+00:00",
+  "generated_at": "2026-11-14T01:22:07.385004+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/14/news014.html",
+      "title": "ローミング縮小でも楽天モバイルからユーザーが流出しない理由　一方で浮上する「副回線化とARPU低下」の懸念",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/14/news014.html",
+      "date": "2026-11-14T00:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "楽天モバイル",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/14/cover_news014.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/14/news001.html",
+      "title": "“折りたたみGalaxy”のヘビーユーザーが「iPhone Duo」を使って感じたこと",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/14/news001.html",
+      "date": "2026-11-13T21:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/14/cover_news001.jpg"
+    },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/13/news096.html",
       "title": "マネックス証券、不正アクセスで最大113万件のメルアド漏えいの恐れ　本人確認書類画像1592件も",
@@ -353,17 +375,6 @@
       "catLabel": "キャンペーン",
       "carrier": null,
       "image": "https://image.itmedia.co.jp/mobile/articles/2611/13/cover_news061.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/13/news044.html",
-      "title": "Pixel TagとAirTagは何が違う？　Androidスマホで使えて1000円台から買える紛失防止タグの選び方",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/13/news044.html",
-      "date": "2026-11-12T23:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/13/cover_news044.png"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/teppan/2155944.html",
