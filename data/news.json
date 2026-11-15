@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-11-14T22:12:42.500606+00:00",
+  "generated_at": "2026-11-15T05:54:39.750803+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/15/news007.html",
+      "title": "NTTドコモで不正アクセスと5G SA通信障害が発生――「複数システムが有機的に連動する際の仕組みを悪用」とはなんなのか",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/15/news007.html",
+      "date": "2026-11-15T03:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "trouble",
+      "catLabel": "障害・不具合",
+      "carrier": "ドコモ",
+      "image": "https://image.itmedia.co.jp/images/logo/1200x630_500x500_mobile.gif"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/15/news002.html",
+      "title": "20mmと60mmの2眼になった「Osmo Pocket 4P」を金時山で試す　登山も展示会取材もこれ1台でこなせる実力",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/15/news002.html",
+      "date": "2026-11-15T01:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/15/cover_news002.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/15/news005.html",
+      "title": "ベルトやバッグにも取り付けられる軽量スマホショルダー　iPhone Pro Maxもしっかり収納",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/15/news005.html",
+      "date": "2026-11-15T01:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/15/l_asa_rakuten_01.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/15/news006.html",
+      "title": "「HomePod mini 2」と「HomePod」どっちを買う？　新旧モデルを比較して分かった選び方",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/15/news006.html",
+      "date": "2026-11-14T23:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/15/cover_news006.jpg"
+    },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/14/news017.html",
       "title": "Netflixが値上げ　最安の広告つきプランは月額990円、4K対応「プレミアム」は2590円に",
@@ -375,50 +419,6 @@
       "catLabel": "端末",
       "carrier": null,
       "image": "https://image.itmedia.co.jp/mobile/articles/2611/13/l_asa_Applepoke_01.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/13/news040.html",
-      "title": "ホイッスルになる引き手付き　リュックなどにも取り付けられるmaster-pieceのスマホショルダー",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/13/news040.html",
-      "date": "2026-11-13T01:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/13/l_asa_rakuten_01.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/13/news064.html",
-      "title": "厚さ約8.7mmの薄型軽量設計を採用したMagSafe対応モバイルバッテリー「Xiaomi Super Slim 5000mAh」がセールで35％オフの2980円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/13/news064.html",
-      "date": "2026-11-13T00:56:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/13/cover_news064.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/13/news062.html",
-      "title": "強力マグネットと折りたたみ式スタンドを備えたモバイルバッテリー「Anker 622 Magnetic Battery (MagGo)」がセールで18％オフの4490円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/13/news062.html",
-      "date": "2026-11-13T00:52:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/13/cover_news062.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/13/news061.html",
-      "title": "半固体電解質採用のケーブル一体型モデル「バッファロー モバイルバッテリー BMPBSA5000BKX」がセールで19％オフの3380円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/13/news061.html",
-      "date": "2026-11-13T00:48:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/13/cover_news061.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/teppan/2155944.html",
