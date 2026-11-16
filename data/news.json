@@ -1,7 +1,216 @@
 {
-  "generated_at": "2026-11-16T00:53:34.391331+00:00",
+  "generated_at": "2026-11-16T10:53:22.119253+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2156829.html",
+      "title": "ドコモSMTBネット銀行、特別金利の円定期預金とdポイント進呈プログラム開始",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2156829.html",
+      "date": "2026-11-16T09:28:11+00:00",
+      "sourceKey": "ktai",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": "ドコモ",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2156/829/01.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/16/news075.html",
+      "title": "Google Storeで「ブラックフライデーセール」開催　Pixelシリーズの割引やストアポイント付与あり",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/16/news075.html",
+      "date": "2026-11-16T08:56:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/16/l_asa_Google_01.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/16/news074.html",
+      "title": "ドコモの「5G SA」通信障害は15時58分に回復　一時的に設定変更した人は元に戻したか確認を",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/16/news074.html",
+      "date": "2026-11-16T08:45:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "trouble",
+      "catLabel": "障害・不具合",
+      "carrier": "ドコモ",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/16/cover_news074.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/16/news073.html",
+      "title": "スマホの速度競争は「古い指標になるかもしれない」　KDDI松田社長が語る“AI前提社会”のネットワーク戦略",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/16/news073.html",
+      "date": "2026-11-16T08:05:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "au/KDDI",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/16/cover_news073.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2156779.html",
+      "title": "Netflixが値上げ、月額990円～",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2156779.html",
+      "date": "2026-11-16T07:58:22+00:00",
+      "sourceKey": "ktai",
+      "catKey": "price",
+      "catLabel": "料金プラン",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2156/779/netflix.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2156789.html",
+      "title": "ドコモの「5G SA」通信障害が完全復旧、全国で一時利用しづらい状況に",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2156789.html",
+      "date": "2026-11-16T07:56:56+00:00",
+      "sourceKey": "ktai",
+      "catKey": "trouble",
+      "catLabel": "障害・不具合",
+      "carrier": "ドコモ",
+      "image": null
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/16/news070.html",
+      "title": "dショッピングの「BLACKFRIDAY」、抽選で全額ポイントバック　dカードで当選確率2倍に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/16/news070.html",
+      "date": "2026-11-16T07:06:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/16/l_asa_docomo_01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2156694.html",
+      "title": "花王商品で「dポイント」＋10％還元、対象店舗のポイントも＋20％還元　12月1日から",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2156694.html",
+      "date": "2026-11-16T06:55:46+00:00",
+      "sourceKey": "ktai",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2156/694/01_thumb1.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2156728.html",
+      "title": "PayPay証券、米アンソロピック株を11月19日から取扱予定、100円から購入可",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2156728.html",
+      "date": "2026-11-16T05:21:56+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2156/728/01.png"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2155699.html",
+      "title": "16日のドコモ通信障害、60％復旧",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2155699.html",
+      "date": "2026-11-16T05:08:15+00:00",
+      "sourceKey": "ktai",
+      "catKey": "trouble",
+      "catLabel": "障害・不具合",
+      "carrier": "ドコモ",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2155/699/dcm10.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/16/news064.html",
+      "title": "Y!mobile、5～18歳＋家族向け「ワイモバ親子割」提供　各種割引適用で30GBが1年間月858円から",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/16/news064.html",
+      "date": "2026-11-16T04:31:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": "Y!mobile",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/16/l_asa_Ymobile_01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2156692.html",
+      "title": "au PAYで最大10万ポイント当たる、Pontaパスは確率10倍",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2156692.html",
+      "date": "2026-11-16T04:25:30+00:00",
+      "sourceKey": "ktai",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": "au/KDDI",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2156/692/cont0.png"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/16/news060.html",
+      "title": "ソフトバンク、最大30GBの2段階定額プラン「スマホデビュープラン2」　条件達成で5～18歳は半年間0円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/16/news060.html",
+      "date": "2026-11-16T04:07:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "price",
+      "catLabel": "料金プラン",
+      "carrier": "ソフトバンク",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/16/l_asa_SB_01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2156672.html",
+      "title": "ドコモ、「d払い」12月の自治体連携キャンペーンを発表――最大20％還元やスタンプ企画も",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2156672.html",
+      "date": "2026-11-16T03:39:24+00:00",
+      "sourceKey": "ktai",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": "ドコモ",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2156/672/cont0.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2156654.html",
+      "title": "ソフトバンク、2段階料金の「スマホデビュープラン2」提供開始　18日から",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2156654.html",
+      "date": "2026-11-16T03:28:04+00:00",
+      "sourceKey": "ktai",
+      "catKey": "price",
+      "catLabel": "料金プラン",
+      "carrier": "ソフトバンク",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2156/654/01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2156645.html",
+      "title": "ワイモバイル、「ワイモバ親子割」11月18日開始、30GBが月額858円～",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2156645.html",
+      "date": "2026-11-16T03:23:18+00:00",
+      "sourceKey": "ktai",
+      "catKey": "price",
+      "catLabel": "料金プラン",
+      "carrier": "Y!mobile",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2156/645/01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2156616.html",
+      "title": "ドコモでまたも通信障害、11月3度目",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2156616.html",
+      "date": "2026-11-16T02:07:45+00:00",
+      "sourceKey": "ktai",
+      "catKey": "trouble",
+      "catLabel": "障害・不具合",
+      "carrier": "ドコモ",
+      "image": null
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/16/news057.html",
+      "title": "ドコモの「5G SA」携帯電話回線で全国規模の通信障害　11月16日10時2分頃に発生【回復】",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/16/news057.html",
+      "date": "2026-11-16T02:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "trouble",
+      "catLabel": "障害・不具合",
+      "carrier": "ドコモ",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/16/cover_news057.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/16/news041.html",
+      "title": "【ダイソー】1100円の「寝ながら　完全ワイヤレスステレオイヤホン」　タッチセンサー搭載、最大5時間再生",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/16/news041.html",
+      "date": "2026-11-16T01:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/16/l_asa_100item_01.jpg"
+    },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/16/news047.html",
       "title": "新料金「ドコモ mini2」のお得度を検証　値上げされるirumoや現行ドコモ miniからプラン変更すべき？",
@@ -58,136 +267,59 @@
       "image": null
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/15/news007.html",
-      "title": "NTTドコモで不正アクセスと5G SA通信障害が発生――「複数システムが有機的に連動する際の仕組みを悪用」とはなんなのか",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/15/news007.html",
-      "date": "2026-11-15T03:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "trouble",
-      "catLabel": "障害・不具合",
-      "carrier": "ドコモ",
-      "image": "https://image.itmedia.co.jp/images/logo/1200x630_500x500_mobile.gif"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/15/news002.html",
-      "title": "20mmと60mmの2眼になった「Osmo Pocket 4P」を金時山で試す　登山も展示会取材もこれ1台でこなせる実力",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/15/news002.html",
-      "date": "2026-11-15T01:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/15/cover_news002.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/15/news005.html",
-      "title": "ベルトやバッグにも取り付けられる軽量スマホショルダー　iPhone Pro Maxもしっかり収納",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/15/news005.html",
-      "date": "2026-11-15T01:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/15/l_asa_rakuten_01.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/15/news006.html",
-      "title": "「HomePod mini 2」と「HomePod」どっちを買う？　新旧モデルを比較して分かった選び方",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/15/news006.html",
-      "date": "2026-11-14T23:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/15/cover_news006.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/14/news017.html",
-      "title": "Netflixが値上げ　最安の広告つきプランは月額990円、4K対応「プレミアム」は2590円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/14/news017.html",
-      "date": "2026-11-14T14:05:00+00:00",
-      "sourceKey": "itmedia",
+      "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20261116_02/",
+      "title": "最大30GBまで利用できる2段階定額の新プラン「スマホデビュープラン2」を提供開始～条件を満たした5～18歳のお客さまを対象に、「スマホデビュープラン2」の月額料金が半年間0円になるキャンペーンも実施～",
+      "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20261116_02/",
+      "date": "2026-11-15T15:00:00+00:00",
+      "sourceKey": "softbank",
       "catKey": "price",
       "catLabel": "料金プラン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/14/cover_news017.png"
+      "carrier": "ソフトバンク",
+      "image": null
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/14/news016.html",
-      "title": "モバイルセグメントは損失をさらに縮小し、純増基調を維持――楽天グループが2026年度第3四半期決算を発表",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/14/news016.html",
-      "date": "2026-11-14T06:00:00+00:00",
-      "sourceKey": "itmedia",
+      "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20261116_01/",
+      "title": "5～18歳のお客さまとその家族がお得になる「ワイモバ親子割」を提供開始～「PayPayカード ゴールド」でお支払いの場合、「おうち割 光セット（A）」との併用で、毎月30GBが月額780円（税込み858円）で1年間利用可能～",
+      "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20261116_01/",
+      "date": "2026-11-15T15:00:00+00:00",
+      "sourceKey": "softbank",
+      "catKey": "price",
+      "catLabel": "料金プラン",
+      "carrier": "ソフトバンク",
+      "image": null
+    },
+    {
+      "id": "ymobile-https://www.ymobile.jp/info/press/2026/26111602.html",
+      "title": "オンラインストア配送遅延のお知らせ",
+      "link": "https://www.ymobile.jp/info/press/2026/26111602.html",
+      "date": "2026-11-15T15:00:00+00:00",
+      "sourceKey": "ymobile",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": "楽天モバイル",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/14/cover_news016.jpg"
+      "carrier": "Y!mobile",
+      "image": null
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/14/news015.html",
-      "title": "ドコモの通信障害で影響を受けた「5G SA」回線数は5Gユーザーの3～4％　思ったよりも少ない？　多い？",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/14/news015.html",
-      "date": "2026-11-14T04:15:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "trouble",
-      "catLabel": "障害・不具合",
-      "carrier": "ドコモ",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/14/cover_news015.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/14/news012.html",
-      "title": "【ダイソー】110円の「スタンド（便器型）」　日常生活がちょっと楽しく、実用性も十分",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/14/news012.html",
-      "date": "2026-11-14T01:00:00+00:00",
-      "sourceKey": "itmedia",
+      "id": "ymobile-https://www.ymobile.jp/info/press/2026/26111601.html",
+      "title": "オンラインストアでの「ワイモバ親子割」受付開始時間について",
+      "link": "https://www.ymobile.jp/info/press/2026/26111601.html",
+      "date": "2026-11-15T15:00:00+00:00",
+      "sourceKey": "ymobile",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/14/l_asa_100item_01.jpg"
+      "carrier": "Y!mobile",
+      "image": null
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/14/news014.html",
-      "title": "ローミング縮小でも楽天モバイルからユーザーが流出しない理由　一方で浮上する「副回線化とARPU低下」の懸念",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/14/news014.html",
-      "date": "2026-11-14T00:00:00+00:00",
-      "sourceKey": "itmedia",
+      "id": "ymobile-https://www.softbank.jp/corp/news/press/sbkk/2026/20261116_01/",
+      "title": "5～18歳の方とその家族がお得になる「ワイモバ親子割」を提供開始",
+      "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20261116_01/",
+      "date": "2026-11-15T15:00:00+00:00",
+      "sourceKey": "ymobile",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": "楽天モバイル",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/14/cover_news014.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/14/news001.html",
-      "title": "“折りたたみGalaxy”のヘビーユーザーが「iPhone Duo」を使って感じたこと",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/14/news001.html",
-      "date": "2026-11-13T21:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/14/cover_news001.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/13/news096.html",
-      "title": "マネックス証券、不正アクセスで最大113万件のメルアド漏えいの恐れ　本人確認書類画像1592件も",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/13/news096.html",
-      "date": "2026-11-13T14:11:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/13/l_st52693_monex-01.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/13/news094.html",
-      "title": "「ボトルネック解消」――楽天、衛星通信に自信　今後の展開は“一気に加速”",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/13/news094.html",
-      "date": "2026-11-13T12:20:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "楽天モバイル",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/13/cover_news094.jpg"
+      "carrier": "Y!mobile",
+      "image": null
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2156449.html",
@@ -212,39 +344,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2156/437/005.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/13/news092.html",
-      "title": "auとソフトバンクが「5G信頼性」で世界トップ　Opensignalが「5Gモバイルネットワークアワード2026」発表",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/13/news092.html",
-      "date": "2026-11-13T11:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "au/KDDI",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/13/l_asa_Opensignal_01.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/13/news089.html",
-      "title": "ベルキン、iPhone 18 Pro向けレザー調シリコンケース発売　360度回転するキックスタンド付き",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/13/news089.html",
-      "date": "2026-11-13T10:33:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/13/l_asa_Belkin_01.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/13/news082.html",
-      "title": "auの「AQUOS sense10」がMNPで2年間9900円、機種変更でも1万円台に【スマホお得情報】",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/13/news082.html",
-      "date": "2026-11-13T10:07:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "au/KDDI",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/13/l_asa_sumaotoku_01.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2156404.html",
       "title": "楽天三木谷氏、ローミング縮小の「影響は限定的」",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2156404.html",
@@ -254,17 +353,6 @@
       "catLabel": "その他",
       "carrier": "楽天モバイル",
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2156/404/mk.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/13/news076.html",
-      "title": "「GEO BLACK FRIDAY SALE 2026」開催、中古スマホ／ゲームや4Kテレビが割引に　11月21日から",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/13/news076.html",
-      "date": "2026-11-13T09:29:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/13/l_asa_geo_01.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2156403.html",
@@ -278,17 +366,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2156/403/main.jpeg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/13/news091.html",
-      "title": "楽天モバイル「つながりにくさ解消」へ本腰――JTOWERとの連携で500市区町村超のエリア品質を強化",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/13/news091.html",
-      "date": "2026-11-13T08:59:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "楽天モバイル",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/13/cover_news091.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2156354.html",
       "title": "楽天モバイルが決算発表、ローミング通信量は約35％減少も解約には大きな影響なし",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2156354.html",
@@ -298,17 +375,6 @@
       "catLabel": "その他",
       "carrier": "楽天モバイル",
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2156/354/Rakuten_42.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/13/news090.html",
-      "title": "楽天モバイルとKDDIのローミング契約、縮小の影響は「非常に限定的」　三木谷氏が決算で説明",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/13/news090.html",
-      "date": "2026-11-13T08:43:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "au/KDDI",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/13/cover_news090.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2156345.html",
@@ -432,28 +498,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2156/174/AGCPSEs.png"
     },
     {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/teppan/2155944.html",
-      "title": "他のスマホやパソコンとすぐにファイル交換できるWebアプリ「AirLocal」",
-      "link": "https://k-tai.watch.impress.co.jp/docs/column/teppan/2155944.html",
-      "date": "2026-11-12T15:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2155/944/icon.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/review/2155215.html",
-      "title": "主要MVNO各社の音声通話プラン料金まとめ【2026年11月号】",
-      "link": "https://k-tai.watch.impress.co.jp/docs/review/2155215.html",
-      "date": "2026-11-12T15:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "price",
-      "catLabel": "料金プラン",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2155/215/01_thumb.jpg"
-    },
-    {
       "id": "rakuten-https://corp.mobile.rakuten.co.jp/news/press/2026/1113_01/?l-id=corp_news_press_20261113_01",
       "title": "楽天モバイルとJTOWER、ネットワーク品質向上に向け連携を強化",
       "link": "https://corp.mobile.rakuten.co.jp/news/press/2026/1113_01/?l-id=corp_news_press_20261113_01",
@@ -473,105 +517,6 @@
       "catKey": "trouble",
       "catLabel": "障害・不具合",
       "carrier": "Y!mobile",
-      "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2156055.html",
-      "title": "AIボイスレコーダー「Soundcore Work」が機能拡充――話し言葉を文章化する「Typeless」機能や「Notta」連携モデルを発表",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2156055.html",
-      "date": "2026-11-12T11:44:44+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2156/055/cont1190.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/review/2156053.html",
-      "title": "一足先に「Xiaomi 18 Pro／Pro Max」を触ってきた",
-      "link": "https://k-tai.watch.impress.co.jp/docs/review/2156053.html",
-      "date": "2026-11-12T11:43:41+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2156051.html",
-      "title": "アンカー、ワイヤレスヘッドホン「Anker Space 2 Pro」発売――独自AIチップでノイキャン性能が約1.5倍に向上",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2156051.html",
-      "date": "2026-11-12T11:16:12+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2156/051/cont2260.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2156045.html",
-      "title": "アンカーから睡眠特化型スマートスピーカー「Anker SleepLab」が来春発売、ミリ波レーダーで睡眠計測する上位モデルも",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2156045.html",
-      "date": "2026-11-12T10:56:31+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2156/045/cont1850.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2156041.html",
-      "title": "アンカー、睡眠用イヤホン「Anker Sleep Earbuds 4」を発表",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2156041.html",
-      "date": "2026-11-12T10:56:07+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2156/041/cont1790.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2156017.html",
-      "title": "アンカー、イヤーカフ型ワイヤレスイヤホン「Anker AeroClip 2」シリーズ発表――AI文字起こし対応「Pro」も来春登場",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2156017.html",
-      "date": "2026-11-12T10:02:11+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2156/017/cont145.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2155978.html",
-      "title": "バッファロー、60W PD充電しながら通話やハイレゾ再生できるY字変換ケーブル",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2155978.html",
-      "date": "2026-11-12T08:20:47+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2155/978/01-1.png"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2155974.html",
-      "title": "LINE、使い方に困ったらAIに聞ける新機能　「LINEかんたんヘルプ」友だち追加で",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2155974.html",
-      "date": "2026-11-12T08:02:20+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2155926.html",
-      "title": "Apple Music Classical、「アルバム・オブ・ザ・イヤー2026」でイム・ユンチャンの「ゴルトベルク変奏曲」を選出",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2155926.html",
-      "date": "2026-11-12T07:22:17+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
       "image": null
     },
     {
@@ -1356,17 +1301,6 @@
       "image": null
     },
     {
-      "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260910_01/",
-      "title": "「SoftBank Starlink Direct」、9月28日から海外で利用可能に～4カ国で提供を開始し、対象の国・地域を順次拡大～",
-      "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260910_01/",
-      "date": "2026-09-09T15:00:00+00:00",
-      "sourceKey": "softbank",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "ソフトバンク",
-      "image": null
-    },
-    {
       "id": "ymobile-https://www.softbank.jp/corp/news/press/sbkk/2026/20260910_01/",
       "title": "「SoftBank Starlink Direct」、9月28日から海外で利用可能に～4カ国で提供を開始し、対象の国・地域を順次拡大～",
       "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260910_01/",
@@ -1375,17 +1309,6 @@
       "catKey": "other",
       "catLabel": "その他",
       "carrier": "ソフトバンク",
-      "image": null
-    },
-    {
-      "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260909_02/",
-      "title": "「AQUOS wish6」を“ワイモバイル”で9月17日に発売",
-      "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260909_02/",
-      "date": "2026-09-08T15:00:00+00:00",
-      "sourceKey": "softbank",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "Y!mobile",
       "image": null
     },
     {
@@ -1400,17 +1323,6 @@
       "image": null
     },
     {
-      "id": "ymobile-https://www.ymobile.jp/info/press/2026/26082701.html",
-      "title": "SIMフリースマホなどが購入できる「Y!mobile Free Style」で「REDMI Note 17 Pro Max 5G」を8月28日より販売開始",
-      "link": "https://www.ymobile.jp/info/press/2026/26082701.html",
-      "date": "2026-08-26T15:00:00+00:00",
-      "sourceKey": "ymobile",
-      "catKey": "mvno",
-      "catLabel": "MVNO・格安SIM",
-      "carrier": "Y!mobile",
-      "image": null
-    },
-    {
       "id": "rakuten-https://corp.mobile.rakuten.co.jp/news/media/2026/0825_01/?l-id=corp_news_media_20260825_01",
       "title": "楽天モバイル、大島商船高等専門学校と練習船「大島丸」の災害支援利用推進に関する連携協定を締結",
       "link": "https://corp.mobile.rakuten.co.jp/news/media/2026/0825_01/?l-id=corp_news_media_20260825_01",
@@ -1419,28 +1331,6 @@
       "catKey": "other",
       "catLabel": "その他",
       "carrier": "楽天モバイル",
-      "image": null
-    },
-    {
-      "id": "ymobile-https://www.ymobile.jp/info/press/2026/26082501.html",
-      "title": "Google Play ギフトコードキャンペーン",
-      "link": "https://www.ymobile.jp/info/press/2026/26082501.html",
-      "date": "2026-08-24T15:00:00+00:00",
-      "sourceKey": "ymobile",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": "Y!mobile",
-      "image": null
-    },
-    {
-      "id": "ymobile-https://www.ymobile.jp/info/press/2026/26081801.html",
-      "title": "SIMフリースマホなどが購入できる「Y!mobile Free Style」で「arrows Alpha2」を8月27日より販売開始",
-      "link": "https://www.ymobile.jp/info/press/2026/26081801.html",
-      "date": "2026-08-17T15:00:00+00:00",
-      "sourceKey": "ymobile",
-      "catKey": "mvno",
-      "catLabel": "MVNO・格安SIM",
-      "carrier": "Y!mobile",
       "image": null
     },
     {
