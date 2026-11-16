@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-11-16T10:53:22.119253+00:00",
+  "generated_at": "2026-11-16T21:52:37.314682+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2156875.html",
+      "title": "宇宙通信の容量限界を「光」で解決するNTT、衛星間通信や光地上局を開発へ　宇宙データセンターも",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2156875.html",
+      "date": "2026-11-16T21:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2156/875/sub.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2156828.html",
+      "title": "実売千円ちょっと。壁掛け時計を置き時計として使える時計スタンド",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2156828.html",
+      "date": "2026-11-16T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2156/828/02.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/minna/2156822.html",
+      "title": "Museのかわいらしさに騙されるな！",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/minna/2156822.html",
+      "date": "2026-11-16T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2156/822/001.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2156289.html",
+      "title": "Googleストアの「ブラックフライデー セール」、対象商品は？",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2156289.html",
+      "date": "2026-11-16T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2156/289/01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/mca/2155948.html",
+      "title": "基地局展開から見たソフトバンクの現在地――品質強化に向けた焦点",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/mca/2155948.html",
+      "date": "2026-11-16T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ソフトバンク",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2155/948/001.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/16/news078.html",
+      "title": "mineoユーザーのメルアドが漏えいした可能性　委託先で不正アクセス発生",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/16/news078.html",
+      "date": "2026-11-16T12:56:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/16/l_st52693_optage-01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2156864.html",
+      "title": "INFORICHが事業発表会を開催、「CHARGESPOT」のスタンドが“推し活”スポットになる「JamsCollection」とのコラボも",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2156864.html",
+      "date": "2026-11-16T11:53:10+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2156/864/cont100.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/16/news077.html",
+      "title": "Y!mobileの認定中古「iPhone 13（128GB）」、新規／MNPで1万4800円【スマホお得情報】",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/16/news077.html",
+      "date": "2026-11-16T10:14:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "Y!mobile",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/16/l_asa_sumaotoku_01.jpg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2156829.html",
       "title": "ドコモSMTBネット銀行、特別金利の円定期預金とdポイント進呈プログラム開始",
@@ -212,17 +300,6 @@
       "image": "https://image.itmedia.co.jp/mobile/articles/2611/16/l_asa_100item_01.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/16/news047.html",
-      "title": "新料金「ドコモ mini2」のお得度を検証　値上げされるirumoや現行ドコモ miniからプラン変更すべき？",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/16/news047.html",
-      "date": "2026-11-15T21:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "price",
-      "catLabel": "料金プラン",
-      "carrier": "ドコモ",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/16/cover_news047.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/minna/2156538.html",
       "title": "石橋を叩いて渡る筆者ですが、詐欺サイトに騙されました",
       "link": "https://k-tai.watch.impress.co.jp/docs/column/minna/2156538.html",
@@ -430,72 +507,6 @@
       "catLabel": "その他",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2156/247/cont0.png"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2156225.html",
-      "title": "グーグル、高速で高効率な「Gemini 4 Hydrogen」提供開始",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2156225.html",
-      "date": "2026-11-13T04:17:17+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2156/225/main.jpeg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2156209.html",
-      "title": "「JCOM」と「いい生活」、業務資本提携を発表、不動産会社向けSaaS導入支援を共同で推進",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2156209.html",
-      "date": "2026-11-13T04:10:50+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2156/209/01.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2156211.html",
-      "title": "auで「BLACK FRIDAY 2026」開始、Apple Watchなどがセール",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2156211.html",
-      "date": "2026-11-13T03:38:40+00:00",
-      "sourceKey": "ktai",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": "au/KDDI",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2156/211/aubfs.jpeg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2156194.html",
-      "title": "「Microsoft 365」で13日未明から大規模障害、OutlookやTeamsなど全世界で利用しづらく",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2156194.html",
-      "date": "2026-11-13T03:10:54+00:00",
-      "sourceKey": "ktai",
-      "catKey": "trouble",
-      "catLabel": "障害・不具合",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2156/194/cont0.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2156178.html",
-      "title": "NVIDIAのジェンスン・フアン氏がCEO辞任",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2156178.html",
-      "date": "2026-11-13T02:48:08+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2156/178/01.png"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2156174.html",
-      "title": "「カジッチュ」のApple Gift Cardが登場、ポケモン30周年でアップルとコラボ",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2156174.html",
-      "date": "2026-11-13T02:45:02+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2156/174/AGCPSEs.png"
     },
     {
       "id": "rakuten-https://corp.mobile.rakuten.co.jp/news/press/2026/1113_01/?l-id=corp_news_press_20261113_01",
