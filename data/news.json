@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-11-15T20:15:21.295940+00:00",
+  "generated_at": "2026-11-16T00:53:34.391331+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/16/news047.html",
+      "title": "新料金「ドコモ mini2」のお得度を検証　値上げされるirumoや現行ドコモ miniからプラン変更すべき？",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/16/news047.html",
+      "date": "2026-11-15T21:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "price",
+      "catLabel": "料金プラン",
+      "carrier": "ドコモ",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/16/cover_news047.jpg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/minna/2156538.html",
       "title": "石橋を叩いて渡る筆者ですが、詐欺サイトに騙されました",
@@ -344,17 +355,6 @@
       "image": null
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/13/news081.html",
-      "title": "SamsungとGoogle「Gemini搭載スマートグラス」を米韓で12月に発売　“ながら利用シーンを徹底追求”し、プライバシーに配慮",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/13/news081.html",
-      "date": "2026-11-13T06:03:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": null
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2156247.html",
       "title": "Google検索に最新AIモデル「Gemini 4 Hydrogen」を導入――複雑な質問への回答や視覚的な表示を強化",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2156247.html",
@@ -399,17 +399,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2156/211/aubfs.jpeg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/13/news074.html",
-      "title": "モバイルバッテリーシェアの設置スポットがポケストップに　CHARGESPOTがポケモンGOとパートナーシップ",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/13/news074.html",
-      "date": "2026-11-13T03:37:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/13/cover_news074.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2156194.html",
       "title": "「Microsoft 365」で13日未明から大規模障害、OutlookやTeamsなど全世界で利用しづらく",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2156194.html",
@@ -419,17 +408,6 @@
       "catLabel": "障害・不具合",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2156/194/cont0.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/13/news069.html",
-      "title": "手袋だとスマホが反応しないのはなぜ？　スマホ対応手袋の選び方",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/13/news069.html",
-      "date": "2026-11-13T03:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/13/cover_news069.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2156178.html",
@@ -452,17 +430,6 @@
       "catLabel": "その他",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2156/174/AGCPSEs.png"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/13/news070.html",
-      "title": "ポケモン30周年記念で「カジッチュ」のApple Gift Cardを発売　Apple Store全店舗が「ポケGO」のポケストップに",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/13/news070.html",
-      "date": "2026-11-13T02:32:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/13/l_asa_Applepoke_01.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/teppan/2155944.html",
