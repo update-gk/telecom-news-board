@@ -1,7 +1,194 @@
 {
-  "generated_at": "2026-11-16T21:52:37.314682+00:00",
+  "generated_at": "2026-11-17T07:31:34.142751+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2157032.html",
+      "title": "「AQUOS sense11」キャリアとMVNOの価格一覧、ソフトバンクは2年間24円",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2157032.html",
+      "date": "2026-11-17T04:56:35+00:00",
+      "sourceKey": "ktai",
+      "catKey": "mvno",
+      "catLabel": "MVNO・格安SIM",
+      "carrier": "ソフトバンク",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2157/032/01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2157034.html",
+      "title": "インプレス、発売前の「そのまま使えるAI×営業」全文無料公開　登録不要・ブラウザで",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2157034.html",
+      "date": "2026-11-17T04:39:40+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2157/034/00.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2157025.html",
+      "title": "Duolingoとポケモンがコラボ、期間限定イベントや特別背景ポケモンが登場",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2157025.html",
+      "date": "2026-11-17T03:55:59+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2157/025/main.png"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2157011.html",
+      "title": "クレカ22社とJCCA、フィッシングの注意喚起を実施",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2157011.html",
+      "date": "2026-11-17T03:47:19+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2157/011/00.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2156991.html",
+      "title": "IIJmio「すみっコぐらし」コラボ第3弾、新規契約で限定グッズ",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2156991.html",
+      "date": "2026-11-17T03:15:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": null
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2156980.html",
+      "title": "ソフトバンク、iPhone 18 Proを実質値上げ　MNP・オンラインショップで",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2156980.html",
+      "date": "2026-11-17T03:14:56+00:00",
+      "sourceKey": "ktai",
+      "catKey": "price",
+      "catLabel": "料金プラン",
+      "carrier": "ソフトバンク",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2156/980/iphone18pro.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2156973.html",
+      "title": "U-NEXT MOBILE、利用開始から1年ごとに10GBをプレゼント",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2156973.html",
+      "date": "2026-11-17T02:45:41+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2156/973/main.png"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/17/news054.html",
+      "title": "ドコモSMTBネット銀行、ドコモ回線ユーザーのメインバンク利用で毎月ポイント還元（上限なし）",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/17/news054.html",
+      "date": "2026-11-17T02:36:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": "ドコモ",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/17/l_asa_docomo_01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2156897.html",
+      "title": "「AQUOS sense11」発表、シャープが目指した“価格に見合う価値”とは――資材高騰下でも「スペックを削らず長く使える性能」を追求",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2156897.html",
+      "date": "2026-11-17T01:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2156/897/cont200.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/review/2154472.html",
+      "title": "写真で見る「AQUOS sense11」、限界まで薄くした本体や連続撮影枚数向上の秘密をチェック",
+      "link": "https://k-tai.watch.impress.co.jp/docs/review/2154472.html",
+      "date": "2026-11-17T01:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2154/472/cont100.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2154453.html",
+      "title": "シャープ「AQUOS sense11」発表・26日発売、約157gの薄型ボディに6年セキュリティ更新対応",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2154453.html",
+      "date": "2026-11-17T01:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2154/453/main_thumb.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/17/news050.html",
+      "title": "9万円台からの「AQUOS sense11」発表　厚さ7.6mm／157gに薄型軽量化、最大4回／6年のアップデートに対応",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/17/news050.html",
+      "date": "2026-11-17T01:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/17/cover_news050.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/17/news040.html",
+      "title": "楽天市場で中古「iPhone 15」が販売中　128GBモデルが約7.9万円から",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/17/news040.html",
+      "date": "2026-11-17T01:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "楽天モバイル",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/17/l_asa_rakuten_01.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/17/news007.html",
+      "title": "シャープは“10万円前後のミッドレンジ”をどう訴求するのか　「AQUOS sense11」で見せる妥協なき戦略",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/17/news007.html",
+      "date": "2026-11-17T01:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/17/cover_news007.jpg"
+    },
+    {
+      "id": "docomo-https://www.docomo.ne.jp/product/sh53g/",
+      "title": "「AQUOS sense11 SH-53G」11月26日発売",
+      "link": "https://www.docomo.ne.jp/product/sh53g/",
+      "date": "2026-11-17T01:00:00+00:00",
+      "sourceKey": "docomo",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "ドコモ",
+      "image": null
+    },
+    {
+      "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr-1247_4833.html",
+      "title": "「AQUOS sense11」をauから11月26日に発売",
+      "link": "https://newsroom.kddi.com/news/detail/kddi_nr-1247_4833.html",
+      "date": "2026-11-17T01:00:00+00:00",
+      "sourceKey": "au",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "au/KDDI",
+      "image": null
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/17/news033.html",
+      "title": "空港ラウンジは待つ場所から“過ごす場所”に　刷新したJAL羽田国内線ラウンジを見てきた　個室ワークスペースや焼きカレーパンも",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/17/news033.html",
+      "date": "2026-11-16T23:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/17/cover_news033.jpg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2156875.html",
       "title": "宇宙通信の容量限界を「光」で解決するNTT、衛星間通信や光地上局を開発へ　宇宙データセンターも",
@@ -56,6 +243,28 @@
       "catLabel": "その他",
       "carrier": "ソフトバンク",
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2155/948/001.jpg"
+    },
+    {
+      "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20261117_01/",
+      "title": "「AQUOS sense11」を“ソフトバンク”で11月26日に発売",
+      "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20261117_01/",
+      "date": "2026-11-16T15:00:00+00:00",
+      "sourceKey": "softbank",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "ソフトバンク",
+      "image": null
+    },
+    {
+      "id": "rakuten-https://corp.mobile.rakuten.co.jp/news/press/2026/1117_01/?l-id=corp_news_press_20261117_01",
+      "title": "楽天モバイル、「AQUOS sense11」を11月17日（火）より予約受付開始",
+      "link": "https://corp.mobile.rakuten.co.jp/news/press/2026/1117_01/?l-id=corp_news_press_20261117_01",
+      "date": "2026-11-16T15:00:00+00:00",
+      "sourceKey": "rakuten",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "楽天モバイル",
+      "image": null
     },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/16/news078.html",
@@ -201,17 +410,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2155/699/dcm10.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/16/news064.html",
-      "title": "Y!mobile、5～18歳＋家族向け「ワイモバ親子割」提供　各種割引適用で30GBが1年間月858円から",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/16/news064.html",
-      "date": "2026-11-16T04:31:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": "Y!mobile",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/16/l_asa_Ymobile_01.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2156692.html",
       "title": "au PAYで最大10万ポイント当たる、Pontaパスは確率10倍",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2156692.html",
@@ -221,17 +419,6 @@
       "catLabel": "キャンペーン",
       "carrier": "au/KDDI",
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2156/692/cont0.png"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/16/news060.html",
-      "title": "ソフトバンク、最大30GBの2段階定額プラン「スマホデビュープラン2」　条件達成で5～18歳は半年間0円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/16/news060.html",
-      "date": "2026-11-16T04:07:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "price",
-      "catLabel": "料金プラン",
-      "carrier": "ソフトバンク",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/16/l_asa_SB_01.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2156672.html",
@@ -278,28 +465,6 @@
       "image": null
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/16/news057.html",
-      "title": "ドコモの「5G SA」携帯電話回線で全国規模の通信障害　11月16日10時2分頃に発生【回復】",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/16/news057.html",
-      "date": "2026-11-16T02:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "trouble",
-      "catLabel": "障害・不具合",
-      "carrier": "ドコモ",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/16/cover_news057.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/16/news041.html",
-      "title": "【ダイソー】1100円の「寝ながら　完全ワイヤレスステレオイヤホン」　タッチセンサー搭載、最大5時間再生",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/16/news041.html",
-      "date": "2026-11-16T01:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/16/l_asa_100item_01.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/minna/2156538.html",
       "title": "石橋を叩いて渡る筆者ですが、詐欺サイトに騙されました",
       "link": "https://k-tai.watch.impress.co.jp/docs/column/minna/2156538.html",
@@ -331,17 +496,6 @@
       "catLabel": "その他",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2156/436/cont0.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/congress/2155298.html",
-      "title": "36万円のiPhone Duoと5万9800円のNothing Phone (4b)　価格が語る秋のスマホ事情[法林岳之・石川温・石野純也・佐藤文彦のスマホ会議（仮）]",
-      "link": "https://k-tai.watch.impress.co.jp/docs/column/congress/2155298.html",
-      "date": "2026-11-15T15:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": null
     },
     {
       "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20261116_02/",
@@ -399,94 +553,6 @@
       "image": null
     },
     {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2156449.html",
-      "title": "マネックス証券、不正アクセスでメールアドレス最大113万件と本人確認書類1600件弱が漏洩のおそれ",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2156449.html",
-      "date": "2026-11-13T12:19:16+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2156/449/01.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2156437.html",
-      "title": "楽天グループ、第3四半期の連結売上高が過去最高　EBITDAは1235億円で成長加速",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2156437.html",
-      "date": "2026-11-13T11:49:15+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "楽天モバイル",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2156/437/005.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2156404.html",
-      "title": "楽天三木谷氏、ローミング縮小の「影響は限定的」",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2156404.html",
-      "date": "2026-11-13T09:37:15+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "楽天モバイル",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2156/404/mk.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2156403.html",
-      "title": "楽天モバイルとJTOWERが連携強化、27年3月末までに1000件以上導入へ",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2156403.html",
-      "date": "2026-11-13T09:24:41+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "楽天モバイル",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2156/403/main.jpeg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2156354.html",
-      "title": "楽天モバイルが決算発表、ローミング通信量は約35％減少も解約には大きな影響なし",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2156354.html",
-      "date": "2026-11-13T08:44:17+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "楽天モバイル",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2156/354/Rakuten_42.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2156345.html",
-      "title": "楽天モバイル、26年第3四半期の設備投資に403億円計上　基地局着工数は倍増",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2156345.html",
-      "date": "2026-11-13T07:37:03+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "楽天モバイル",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2156/345/041.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2156333.html",
-      "title": "楽天モバイルのローミング縮小、解約率への影響は軽微　ネットワークも安定",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2156333.html",
-      "date": "2026-11-13T07:18:35+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "楽天モバイル",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2156/333/042.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2156325.html",
-      "title": "楽天モバイル、契約数1105万回線を突破",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2156325.html",
-      "date": "2026-11-13T07:04:28+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "楽天モバイル",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2156/325/007.jpg"
-    },
-    {
       "id": "au-https://newsroom.kddi.com/ir-news/detail/kddi_ir-1263_4827.html",
       "title": "自己株式の取得状況及び取得終了に関するお知らせ",
       "link": "https://newsroom.kddi.com/ir-news/detail/kddi_ir-1263_4827.html",
@@ -496,17 +562,6 @@
       "catLabel": "その他",
       "carrier": "au/KDDI",
       "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2156247.html",
-      "title": "Google検索に最新AIモデル「Gemini 4 Hydrogen」を導入――複雑な質問への回答や視覚的な表示を強化",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2156247.html",
-      "date": "2026-11-13T04:29:05+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2156/247/cont0.png"
     },
     {
       "id": "rakuten-https://corp.mobile.rakuten.co.jp/news/press/2026/1113_01/?l-id=corp_news_press_20261113_01",
@@ -817,17 +872,6 @@
       "image": null
     },
     {
-      "id": "rakuten-https://corp.mobile.rakuten.co.jp/news/press/2026/1029_01/?l-id=corp_news_press_20261029_01",
-      "title": "楽天モバイル、新型「iPad mini（A20 Pro）」および発売中の「iPad（A16）」、「iPad Pro（M5）」、「iPad Air（M4）」の取り扱いを開始",
-      "link": "https://corp.mobile.rakuten.co.jp/news/press/2026/1029_01/?l-id=corp_news_press_20261029_01",
-      "date": "2026-10-28T15:00:00+00:00",
-      "sourceKey": "rakuten",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "楽天モバイル",
-      "image": null
-    },
-    {
       "id": "ymobile-https://www.softbank.jp/mobile/special/hawks-nipponchampions2026/?utm_source=owned&utm_medium=social&utm_campaign=_mobile_hsp_hawkschampion2026_20260928_034",
       "title": "ソフトバンクホークス 日本一キャンペーン",
       "link": "https://www.softbank.jp/mobile/special/hawks-nipponchampions2026/?utm_source=owned&utm_medium=social&utm_campaign=_mobile_hsp_hawkschampion2026_20260928_034",
@@ -869,17 +913,6 @@
       "catKey": "other",
       "catLabel": "その他",
       "carrier": "ソフトバンク",
-      "image": null
-    },
-    {
-      "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr-1219_4789.html",
-      "title": "au、まったく新しい「iPad mini」を11月6日に発売",
-      "link": "https://newsroom.kddi.com/news/detail/kddi_nr-1219_4789.html",
-      "date": "2026-10-27T04:30:00+00:00",
-      "sourceKey": "au",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "au/KDDI",
       "image": null
     },
     {
@@ -1103,17 +1136,6 @@
       "image": null
     },
     {
-      "id": "docomo-https://www.docomo.ne.jp/product/m51g/",
-      "title": "「moto g37 M-51G」10月22日発売",
-      "link": "https://www.docomo.ne.jp/product/m51g/",
-      "date": "2026-10-13T01:00:00+00:00",
-      "sourceKey": "docomo",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "ドコモ",
-      "image": null
-    },
-    {
       "id": "ymobile-https://www.ymobile.jp/info/press/2026/26100902.html",
       "title": "「AirPods 5」の取り扱いを開始",
       "link": "https://www.ymobile.jp/info/press/2026/26100902.html",
@@ -1298,17 +1320,6 @@
       "catKey": "mvno",
       "catLabel": "MVNO・格安SIM",
       "carrier": "Y!mobile",
-      "image": null
-    },
-    {
-      "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260910_02/",
-      "title": "「iPhone Duo」「iPhone 18 Pro」「iPhone 18 Pro Max」「Apple Watch Series 12」「Apple Watch Ultra 4」「AirPods 5」を“ソフトバンク”で発売～「iPhone 18 Pro」「iPhone 18 Pro Max」および最新のApple Watchは9月12日に、「iPhone Duo」は10月16日に、それぞれ予約受け付けを開始～",
-      "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260910_02/",
-      "date": "2026-09-09T15:00:00+00:00",
-      "sourceKey": "softbank",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "ソフトバンク",
       "image": null
     },
     {
