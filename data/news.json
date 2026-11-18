@@ -1,7 +1,150 @@
 {
-  "generated_at": "2026-11-17T18:21:52.423721+00:00",
+  "generated_at": "2026-11-18T02:49:11.304028+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr-1244_4831.html",
+      "title": "「UQ親子応援割」を提供開始",
+      "link": "https://newsroom.kddi.com/news/detail/kddi_nr-1244_4831.html",
+      "date": "2026-11-18T02:00:00+00:00",
+      "sourceKey": "au",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "au/KDDI",
+      "image": null
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2157313.html",
+      "title": "auから「INFOBAR ZERO」、通話・SMS専用で復活　12月25日発売",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2157313.html",
+      "date": "2026-11-18T01:28:06+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "au/KDDI",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2157/313/100513.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/18/news058.html",
+      "title": "KDDIが約8年ぶりに新「INFOBAR ZERO」発表　通話とSMSに特化　3万2780円で12月25日に発売",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/18/news058.html",
+      "date": "2026-11-18T01:06:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "au/KDDI",
+      "image": null
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/18/news046.html",
+      "title": "【ダイソー】1100円の「イヤピタッ　完全ワイヤレスステレオイヤホン」　耳に挟んで圧迫感を軽減",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/18/news046.html",
+      "date": "2026-11-18T01:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/18/l_asa_100item_01.jpg"
+    },
+    {
+      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc53g/index.html",
+      "title": "「Samsung Galaxy S26 Ultra SC-53G」のソフトウェアアップデート情報のお知らせ",
+      "link": "https://www.docomo.ne.jp/support/product_update/sc53g/index.html",
+      "date": "2026-11-18T01:00:00+00:00",
+      "sourceKey": "docomo",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "ドコモ",
+      "image": null
+    },
+    {
+      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc52g/index.html",
+      "title": "「Samsung Galaxy S26+ SC-52G」のソフトウェアアップデート情報のお知らせ",
+      "link": "https://www.docomo.ne.jp/support/product_update/sc52g/index.html",
+      "date": "2026-11-18T01:00:00+00:00",
+      "sourceKey": "docomo",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "ドコモ",
+      "image": null
+    },
+    {
+      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc51g/index.html",
+      "title": "「Samsung Galaxy S26 SC-51G」のソフトウェアアップデート情報のお知らせ",
+      "link": "https://www.docomo.ne.jp/support/product_update/sc51g/index.html",
+      "date": "2026-11-18T01:00:00+00:00",
+      "sourceKey": "docomo",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "ドコモ",
+      "image": null
+    },
+    {
+      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc57g/index.html",
+      "title": "「Samsung Galaxy Z Fold8 SC-57G」のソフトウェアアップデート情報のお知らせ",
+      "link": "https://www.docomo.ne.jp/support/product_update/sc57g/index.html",
+      "date": "2026-11-18T01:00:00+00:00",
+      "sourceKey": "docomo",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "ドコモ",
+      "image": null
+    },
+    {
+      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc56g/index.html",
+      "title": "「Samsung Galaxy Z Fold8 Ultra SC-56G」のソフトウェアアップデート情報のお知らせ",
+      "link": "https://www.docomo.ne.jp/support/product_update/sc56g/index.html",
+      "date": "2026-11-18T01:00:00+00:00",
+      "sourceKey": "docomo",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "ドコモ",
+      "image": null
+    },
+    {
+      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc55g/index.html",
+      "title": "「Samsung Galaxy Z Flip8 SC-55G」のソフトウェアアップデート情報のお知らせ",
+      "link": "https://www.docomo.ne.jp/support/product_update/sc55g/index.html",
+      "date": "2026-11-18T01:00:00+00:00",
+      "sourceKey": "docomo",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "ドコモ",
+      "image": null
+    },
+    {
+      "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr-1245_4832.html",
+      "title": "「INFOBAR ZERO」をau Flex Styleから12月25日に発売",
+      "link": "https://newsroom.kddi.com/news/detail/kddi_nr-1245_4832.html",
+      "date": "2026-11-18T01:00:00+00:00",
+      "sourceKey": "au",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "au/KDDI",
+      "image": null
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/18/news043.html",
+      "title": "薄型軽量でヒンジ保護もMagSafeも“全部入り”　FOFVOのiPhone Duo用アラミド繊維ケースは満点に近い完成度",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/18/news043.html",
+      "date": "2026-11-17T23:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/18/cover_news043.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/ranking/galapagos_ranking/2157174.html",
+      "title": "電子書籍人気ランキング（11月6日～11月12日）",
+      "link": "https://k-tai.watch.impress.co.jp/docs/ranking/galapagos_ranking/2157174.html",
+      "date": "2026-11-17T21:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/include/common/p01/images/logo/ktw.l.png"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2157273.html",
       "title": "薄くても「半固体」、安心して日常使いできるモバイルバッテリー「BMPBSA5000シリーズ」",
@@ -78,6 +221,28 @@
       "catLabel": "端末",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2157/080/01-1.jpg"
+    },
+    {
+      "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20261118_01/",
+      "title": "スマホで撮影したバスケの試合映像をAIで解析する技術を実証～ハイライト動画やスタッツの自動生成を通して、競技環境の向上と次世代育成を推進～",
+      "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20261118_01/",
+      "date": "2026-11-17T15:00:00+00:00",
+      "sourceKey": "softbank",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ソフトバンク",
+      "image": null
+    },
+    {
+      "id": "ymobile-https://www.ymobile.jp/info/press/2026/26111802.html",
+      "title": "SIMフリースマホなどが購入できる「Y!mobile Free Style」で「Xiaomi 18 Pro Max」を11月27日より販売開始",
+      "link": "https://www.ymobile.jp/info/press/2026/26111802.html",
+      "date": "2026-11-17T15:00:00+00:00",
+      "sourceKey": "ymobile",
+      "catKey": "mvno",
+      "catLabel": "MVNO・格安SIM",
+      "carrier": "Y!mobile",
+      "image": null
     },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/17/news077.html",
@@ -421,61 +586,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2156/897/cont200.jpg"
     },
     {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/review/2154472.html",
-      "title": "写真で見る「AQUOS sense11」、限界まで薄くした本体や連続撮影枚数向上の秘密をチェック",
-      "link": "https://k-tai.watch.impress.co.jp/docs/review/2154472.html",
-      "date": "2026-11-17T01:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2154/472/cont100.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2154453.html",
-      "title": "シャープ「AQUOS sense11」発表・26日発売、約157gの薄型ボディに6年セキュリティ更新対応",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2154453.html",
-      "date": "2026-11-17T01:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2154/453/main_thumb.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/17/news050.html",
-      "title": "9万円台からの「AQUOS sense11」発表　厚さ7.6mm／157gに薄型軽量化、最大4回／6年のアップデートに対応",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/17/news050.html",
-      "date": "2026-11-17T01:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/17/cover_news050.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/17/news040.html",
-      "title": "楽天市場で中古「iPhone 15」が販売中　128GBモデルが約7.9万円から",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/17/news040.html",
-      "date": "2026-11-17T01:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "楽天モバイル",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/17/l_asa_rakuten_01.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/17/news007.html",
-      "title": "シャープは“10万円前後のミッドレンジ”をどう訴求するのか　「AQUOS sense11」で見せる妥協なき戦略",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/17/news007.html",
-      "date": "2026-11-17T01:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/17/cover_news007.jpg"
-    },
-    {
       "id": "docomo-https://www.docomo.ne.jp/product/sh53g/",
       "title": "「AQUOS sense11 SH-53G」11月26日発売",
       "link": "https://www.docomo.ne.jp/product/sh53g/",
@@ -496,17 +606,6 @@
       "catLabel": "端末",
       "carrier": "au/KDDI",
       "image": null
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/17/news033.html",
-      "title": "空港ラウンジは待つ場所から“過ごす場所”に　刷新したJAL羽田国内線ラウンジを見てきた　個室ワークスペースや焼きカレーパンも",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/17/news033.html",
-      "date": "2026-11-16T23:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/17/cover_news033.jpg"
     },
     {
       "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20261117_01/",
@@ -861,17 +960,6 @@
       "image": null
     },
     {
-      "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr-1217_4791.html",
-      "title": "自動運転の複数台運行を見守る、安定した映像伝送技術を実証",
-      "link": "https://newsroom.kddi.com/news/detail/kddi_nr-1217_4791.html",
-      "date": "2026-10-29T04:00:00+00:00",
-      "sourceKey": "au",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "au/KDDI",
-      "image": null
-    },
-    {
       "id": "docomo-https://www.docomo.ne.jp/support/product_update/f52e/index.html",
       "title": "「arrows We2 F-52E」のソフトウェアアップデート情報のお知らせ",
       "link": "https://www.docomo.ne.jp/support/product_update/f52e/index.html",
@@ -913,17 +1001,6 @@
       "catKey": "campaign",
       "catLabel": "キャンペーン",
       "carrier": "ソフトバンク",
-      "image": null
-    },
-    {
-      "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr-1212_4787.html",
-      "title": "リスク診断・対処を効率化、AI脆弱性管理ソリューションを提供開始",
-      "link": "https://newsroom.kddi.com/news/detail/kddi_nr-1212_4787.html",
-      "date": "2026-10-28T01:00:00+00:00",
-      "sourceKey": "au",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "au/KDDI",
       "image": null
     },
     {
@@ -1103,72 +1180,6 @@
       "image": null
     },
     {
-      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sh53e/index.html",
-      "title": "「AQUOS sense9 SH-53E」のソフトウェアアップデート情報のお知らせ",
-      "link": "https://www.docomo.ne.jp/support/product_update/sh53e/index.html",
-      "date": "2026-10-15T01:00:00+00:00",
-      "sourceKey": "docomo",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "ドコモ",
-      "image": null
-    },
-    {
-      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sh54c/index.html",
-      "title": "「Wi-Fi STATION SH-54C」のソフトウェアアップデート情報のお知らせ",
-      "link": "https://www.docomo.ne.jp/support/product_update/sh54c/index.html",
-      "date": "2026-10-15T01:00:00+00:00",
-      "sourceKey": "docomo",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "ドコモ",
-      "image": null
-    },
-    {
-      "id": "docomo-https://www.docomo.ne.jp/support/product_update/f41f/index.html",
-      "title": "「らくらくホン F-41F」のソフトウェアアップデート情報のお知らせ",
-      "link": "https://www.docomo.ne.jp/support/product_update/f41f/index.html",
-      "date": "2026-10-15T01:00:00+00:00",
-      "sourceKey": "docomo",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "ドコモ",
-      "image": null
-    },
-    {
-      "id": "docomo-https://www.docomo.ne.jp/support/product_update/f52b/index.html",
-      "title": "「らくらくスマートフォン F-52B」のソフトウェアアップデート情報のお知らせ",
-      "link": "https://www.docomo.ne.jp/support/product_update/f52b/index.html",
-      "date": "2026-10-13T01:00:00+00:00",
-      "sourceKey": "docomo",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "ドコモ",
-      "image": null
-    },
-    {
-      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc53f/index.html",
-      "title": "「Galaxy A25 5G SC-53F」のソフトウェアアップデート情報のお知らせ",
-      "link": "https://www.docomo.ne.jp/support/product_update/sc53f/index.html",
-      "date": "2026-10-13T01:00:00+00:00",
-      "sourceKey": "docomo",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "ドコモ",
-      "image": null
-    },
-    {
-      "id": "docomo-https://www.docomo.ne.jp/corporate/anatatodocomo/docomoeveryday/article232/index.html?icid=CRP_INFO_to_CRP_CORP_anatatodocomo_docomoeveryday_article232",
-      "title": "あなたとドコモ 新着記事：通信とデジタルで女性の健康課題に向き合う。ドコモが広げるフェムテック共創",
-      "link": "https://www.docomo.ne.jp/corporate/anatatodocomo/docomoeveryday/article232/index.html?icid=CRP_INFO_to_CRP_CORP_anatatodocomo_docomoeveryday_article232",
-      "date": "2026-10-13T01:00:00+00:00",
-      "sourceKey": "docomo",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "ドコモ",
-      "image": null
-    },
-    {
       "id": "ymobile-https://www.ymobile.jp/info/press/2026/26100902.html",
       "title": "「AirPods 5」の取り扱いを開始",
       "link": "https://www.ymobile.jp/info/press/2026/26100902.html",
@@ -1334,17 +1345,6 @@
       "image": null
     },
     {
-      "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260915_01/",
-      "title": "ソフトバンクとWiseVine、自治体職員の担い手不足の課題解決に向けた戦略的提携に合意〜最大100自治体を対象に、自治体向けの経営管理システム「Build & Scrap」のサービス利用料を5年間無償で提供し、将来的に行政特化型AIの構築を目指す〜",
-      "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260915_01/",
-      "date": "2026-09-14T15:00:00+00:00",
-      "sourceKey": "softbank",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "ソフトバンク",
-      "image": null
-    },
-    {
       "id": "ymobile-https://www.ymobile.jp/info/press/2026/26091401.html",
       "title": "【2026年10月2日更新】ワイモバイルのeSIMでiPhone Duo、iPhone 18 Pro、iPhone 18 Pro Maxがご利用いただけます。",
       "link": "https://www.ymobile.jp/info/press/2026/26091401.html",
@@ -1364,17 +1364,6 @@
       "catKey": "other",
       "catLabel": "その他",
       "carrier": "ソフトバンク",
-      "image": null
-    },
-    {
-      "id": "ymobile-https://www.softbank.jp/corp/news/press/sbkk/2026/20260909_02/",
-      "title": "「AQUOS wish6」を9月17日に発売",
-      "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260909_02/",
-      "date": "2026-09-08T15:00:00+00:00",
-      "sourceKey": "ymobile",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "Y!mobile",
       "image": null
     },
     {
