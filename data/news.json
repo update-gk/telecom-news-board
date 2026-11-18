@@ -1,7 +1,106 @@
 {
-  "generated_at": "2026-11-18T11:25:17.238591+00:00",
+  "generated_at": "2026-11-18T20:17:52.978150+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/minna/2157679.html",
+      "title": "予定管理やWeb調査まで自律でこなすMetaのAIエージェント「Muse」、原稿ネタまで提案された体験記",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/minna/2157679.html",
+      "date": "2026-11-18T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": null
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2157667.html",
+      "title": "「iPad mini（A20 Pro）」を購入、薄くて軽くて大画面になった完成形かも",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2157667.html",
+      "date": "2026-11-18T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": null
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/value/2157646.html",
+      "title": "最小構成9万4600円の「AQUOS sense11」、メモリー増量や薄型化でミッドハイを狙うシャープの戦略",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/value/2157646.html",
+      "date": "2026-11-18T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": null
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2157633.html",
+      "title": "持続可能なAIへのカギは「光」、NTTが取り組む光電融合や光量子などR&Dの最前線",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2157633.html",
+      "date": "2026-11-18T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2157/633/02.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2156860.html",
+      "title": "OPPOが「Find X10」シリーズを12月10日に発表、部材価格高騰のなかハイエンド2機種展開でブランド向上へ",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2156860.html",
+      "date": "2026-11-18T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": null
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2156841.html",
+      "title": "OPPOが上位モデル「Find X10 Pro Max」発表へ、日本初のトリプル2億画素カメラ搭載　12月17日発売",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2156841.html",
+      "date": "2026-11-18T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": null
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2156836.html",
+      "title": "OPPO Find X10が登場、広角・望遠のデュアル2億画素カメラとおサイフケータイ搭載　12月17日発売",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2156836.html",
+      "date": "2026-11-18T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": null
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/19/news041.html",
+      "title": "「OPPO Find X10」シリーズが日本上陸　Find X10 Pro Maxは“トリプル2億画素カメラ”を搭載、FeliCaはX10のみ",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/19/news041.html",
+      "date": "2026-11-18T15:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/19/cover_news041.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/18/news085.html",
+      "title": "KDDI社長「INFOBAR ZEROの開発を直前まで知らなかった」　25年目に新たな名機を結実させた背景",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/18/news085.html",
+      "date": "2026-11-18T11:08:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "au/KDDI",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/18/cover_news085.jpg"
+    },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/18/news082.html",
       "title": "「OPPO Reno16 5G」、IIJmioにMNPで3万円割引→5万9800円に　11月30日まで【スマホお得情報】",
@@ -518,83 +617,6 @@
       "catLabel": "その他",
       "carrier": "楽天モバイル",
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2157/235/rakuten-sec.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2157234.html",
-      "title": "SWITCHBOT、オールシーズン温度を自動調整する「moera スマートマットレストッパー」を発表",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2157234.html",
-      "date": "2026-11-17T10:11:31+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2157/234/cont400.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2157221.html",
-      "title": "SwitchBot、「SwitchBot ロック Ultra Max 顔認証ドアベルセット」18日発売",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2157221.html",
-      "date": "2026-11-17T09:54:27+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2157/221/door_main.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2157106.html",
-      "title": "グーグルの「Gemini」、スキルの共有やGoogleドライブなどからのファイル追加に順次対応",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2157106.html",
-      "date": "2026-11-17T09:43:10+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2157/106/gemini.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2157205.html",
-      "title": "「SwitchBot カーテン4」を12月15日に発売、バッテリーが脱着式に",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2157205.html",
-      "date": "2026-11-17T09:18:13+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2157/205/cont300.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2157124.html",
-      "title": "OPPO、楽天市場でブラックフライデー開催へ　19日～",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2157124.html",
-      "date": "2026-11-17T08:40:45+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "楽天モバイル",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2157/124/findx9.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2157051.html",
-      "title": "IIJmioの店頭申込、本人確認にICチップ読取導入へ　書面アップロードは廃止",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2157051.html",
-      "date": "2026-11-17T08:40:37+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2157/051/iijmio.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2157168.html",
-      "title": "SwitchBot、「お掃除ロボット S30」18日発売、直径28cmで小型化",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2157168.html",
-      "date": "2026-11-17T08:34:59+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2157/168/01_thumb.jpg"
     },
     {
       "id": "docomo-https://www.docomo.ne.jp/product/sh53g/",
