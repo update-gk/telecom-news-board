@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-11-19T11:23:10.195354+00:00",
+  "generated_at": "2026-11-19T20:21:35.172710+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/ishikawa/2158013.html",
+      "title": "「Premiere」モバイル版、アドビがAndroid版の開発に本腰を入れる理由",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/ishikawa/2158013.html",
+      "date": "2026-11-19T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2158/013/2.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/minna/2157957.html",
+      "title": "ワイド画面や水冷スマホ、バンコクの展示会で見つけた珍しい端末",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/minna/2157957.html",
+      "date": "2026-11-19T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2157/957/05.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/teppan/2157947.html",
+      "title": "紙の本が好きなあなたに、在庫確認＆取り寄せ依頼ができる「ほんらぶWEB」",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/teppan/2157947.html",
+      "date": "2026-11-19T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2157/947/thumbnail.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/congress/2157604.html",
+      "title": "賢くなったSiri AIと、漏れ続ける個人情報にユーザーが取るべき行動はあるのか[法林岳之・石川温・石野純也・佐藤文彦のスマホ会議（仮）]",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/congress/2157604.html",
+      "date": "2026-11-19T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": null
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/19/news057.html",
+      "title": "OPPO、公式ショップと楽天市場で「BLACK FRIDAY」開催　スマートフォンやタブレットがおトクに",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/19/news057.html",
+      "date": "2026-11-19T12:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "楽天モバイル",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/19/l_asa_OPPO_01.jpg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2158018.html",
       "title": "ドコモ、10ギガの光回線が最大1年間2970円／月　12月1日から",
@@ -12,6 +67,17 @@
       "catLabel": "その他",
       "carrier": "ドコモ",
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2158/018/01.png"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/19/news073.html",
+      "title": "UQ mobile、PANTONEカラーの「motorola edge 60」がMNPで2年47円に【スマホお得情報】",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/19/news073.html",
+      "date": "2026-11-19T10:52:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "UQ mobile",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/19/l_asa_sumaotoku_01.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2157902.html",
@@ -430,50 +496,6 @@
       "catLabel": "その他",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2157/312/01.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2157472.html",
-      "title": "Suica新キャラクターは「うさぎ」",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2157472.html",
-      "date": "2026-11-18T05:19:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2157/472/cont00.png"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2157445.html",
-      "title": "ほぼ日、“充電できるポケット”「POCKé」を12月発売　Qi2対応のモバイルバッテリー",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2157445.html",
-      "date": "2026-11-18T04:44:52+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2157/445/01.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2157447.html",
-      "title": "UQ mobileで「UQ親子応援割」が19日スタート、1年間月額1100円割引",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2157447.html",
-      "date": "2026-11-18T04:26:16+00:00",
-      "sourceKey": "ktai",
-      "catKey": "price",
-      "catLabel": "料金プラン",
-      "carrier": "UQ mobile",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2157/447/cont0.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2157392.html",
-      "title": "サムスン、Gemini搭載スマートグラスを12月10日に米国・韓国で発売",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2157392.html",
-      "date": "2026-11-18T04:24:20+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2157/392/main.jpg"
     },
     {
       "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr-1244_4831.html",
