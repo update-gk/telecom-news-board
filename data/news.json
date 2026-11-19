@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-11-18T20:17:52.978150+00:00",
+  "generated_at": "2026-11-19T02:26:11.692419+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/19/news037.html",
+      "title": "中古「iPhone 14」、楽天市場で128GBモデルが約5万円から販売中",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/19/news037.html",
+      "date": "2026-11-19T01:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "楽天モバイル",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/19/l_asa_rakuten_01.jpg"
+    },
+    {
+      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc56f/index.html",
+      "title": "「Samsung Galaxy Z Fold7 SC-56F」のソフトウェアアップデート情報のお知らせ",
+      "link": "https://www.docomo.ne.jp/support/product_update/sc56f/index.html",
+      "date": "2026-11-19T01:00:00+00:00",
+      "sourceKey": "docomo",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "ドコモ",
+      "image": null
+    },
+    {
+      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc55f/index.html",
+      "title": "「Samsung Galaxy Z Flip7 SC-55F」のソフトウェアアップデート情報のお知らせ",
+      "link": "https://www.docomo.ne.jp/support/product_update/sc55f/index.html",
+      "date": "2026-11-19T01:00:00+00:00",
+      "sourceKey": "docomo",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "ドコモ",
+      "image": null
+    },
+    {
+      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc52f/index.html",
+      "title": "「Galaxy S25 Ultra SC-52F」のソフトウェアアップデート情報のお知らせ",
+      "link": "https://www.docomo.ne.jp/support/product_update/sc52f/index.html",
+      "date": "2026-11-19T01:00:00+00:00",
+      "sourceKey": "docomo",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "ドコモ",
+      "image": null
+    },
+    {
+      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc51f/index.html",
+      "title": "「Galaxy S25 SC-51F」のソフトウェアアップデート情報のお知らせ",
+      "link": "https://www.docomo.ne.jp/support/product_update/sc51f/index.html",
+      "date": "2026-11-19T01:00:00+00:00",
+      "sourceKey": "docomo",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "ドコモ",
+      "image": null
+    },
+    {
+      "id": "docomo-https://www.docomo.ne.jp/support/product_update/so52f/index.html",
+      "title": "「Xperia 10 VII SO-52F」のソフトウェアアップデート情報のお知らせ",
+      "link": "https://www.docomo.ne.jp/support/product_update/so52f/index.html",
+      "date": "2026-11-19T01:00:00+00:00",
+      "sourceKey": "docomo",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "ドコモ",
+      "image": null
+    },
+    {
+      "id": "docomo-https://www.docomo.ne.jp/support/product_update/so51f/index.html",
+      "title": "「Xperia 1 VII SO-51F」のソフトウェアアップデート情報のお知らせ",
+      "link": "https://www.docomo.ne.jp/support/product_update/so51f/index.html",
+      "date": "2026-11-19T01:00:00+00:00",
+      "sourceKey": "docomo",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "ドコモ",
+      "image": null
+    },
+    {
+      "id": "docomo-https://www.docomo.ne.jp/support/product_update/so52e/index.html",
+      "title": "「Xperia 10 VI SO-52E」のソフトウェアアップデート情報のお知らせ",
+      "link": "https://www.docomo.ne.jp/support/product_update/so52e/index.html",
+      "date": "2026-11-19T01:00:00+00:00",
+      "sourceKey": "docomo",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "ドコモ",
+      "image": null
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/minna/2157679.html",
       "title": "予定管理やWeb調査まで自律でこなすMetaのAIエージェント「Muse」、原稿ネタまで提案された体験記",
@@ -311,17 +399,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2157/391/01.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/18/news065.html",
-      "title": "「Xiaomi Smart Band 11」、ラグジュアリーな2色を数量限定発売　12月7日まで早割キャンペーン",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/18/news065.html",
-      "date": "2026-11-18T02:37:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/18/l_asa_Xiaomi_01.jpg"
-    },
-    {
       "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr-1244_4831.html",
       "title": "「UQ親子応援割」を提供開始",
       "link": "https://newsroom.kddi.com/news/detail/kddi_nr-1244_4831.html",
@@ -342,28 +419,6 @@
       "catLabel": "端末",
       "carrier": "au/KDDI",
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2157/313/100513.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/18/news058.html",
-      "title": "KDDIが約8年ぶりに新「INFOBAR ZERO」発表　通話とSMSに特化　3万2780円で12月25日に発売",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/18/news058.html",
-      "date": "2026-11-18T01:06:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "au/KDDI",
-      "image": null
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/18/news046.html",
-      "title": "【ダイソー】1100円の「イヤピタッ　完全ワイヤレスステレオイヤホン」　耳に挟んで圧迫感を軽減",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/18/news046.html",
-      "date": "2026-11-18T01:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/18/l_asa_100item_01.jpg"
     },
     {
       "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc53g/index.html",
@@ -441,17 +496,6 @@
       "catLabel": "端末",
       "carrier": "au/KDDI",
       "image": null
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/18/news043.html",
-      "title": "薄型軽量でヒンジ保護もMagSafeも“全部入り”　FOFVOのiPhone Duo用アラミド繊維ケースは満点に近い完成度",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/18/news043.html",
-      "date": "2026-11-17T23:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/18/cover_news043.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/ranking/galapagos_ranking/2157174.html",
@@ -894,17 +938,6 @@
       "image": null
     },
     {
-      "id": "docomo-https://www.docomo.ne.jp/support/product_update/m51e/index.html",
-      "title": "「motorola razr 50d M-51E」のソフトウェアアップデート情報のお知らせ",
-      "link": "https://www.docomo.ne.jp/support/product_update/m51e/index.html",
-      "date": "2026-11-05T01:00:00+00:00",
-      "sourceKey": "docomo",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "ドコモ",
-      "image": null
-    },
-    {
       "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20261104_01/",
       "title": "ソフトバンク、「MWC Barcelona」に初出展し、通信事業者において最大規模のブースを展開",
       "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20261104_01/",
@@ -913,17 +946,6 @@
       "catKey": "other",
       "catLabel": "その他",
       "carrier": "ソフトバンク",
-      "image": null
-    },
-    {
-      "id": "docomo-https://www.docomo.ne.jp/service/dvaluepass/contents_list/character.html",
-      "title": "dバリューパスに「薬屋のひとりごと」が新たに追加されました",
-      "link": "https://www.docomo.ne.jp/service/dvaluepass/contents_list/character.html",
-      "date": "2026-11-02T02:00:00+00:00",
-      "sourceKey": "docomo",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "ドコモ",
       "image": null
     },
     {
@@ -993,28 +1015,6 @@
       "image": null
     },
     {
-      "id": "docomo-https://www.docomo.ne.jp/support/product_update/f52e/index.html",
-      "title": "「arrows We2 F-52E」のソフトウェアアップデート情報のお知らせ",
-      "link": "https://www.docomo.ne.jp/support/product_update/f52e/index.html",
-      "date": "2026-10-29T01:00:00+00:00",
-      "sourceKey": "docomo",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "ドコモ",
-      "image": null
-    },
-    {
-      "id": "docomo-https://www.docomo.ne.jp/corporate/anatatodocomo/docomoeveryday/article236/index.html?icid=CRP_INFO_to_CRP_CORP_anatatodocomo_docomoeveryday_article236",
-      "title": "あなたとドコモ 新着記事：地域を知るには、地域のなかへ。ドコモ社員が挑む新しい地域共創",
-      "link": "https://www.docomo.ne.jp/corporate/anatatodocomo/docomoeveryday/article236/index.html?icid=CRP_INFO_to_CRP_CORP_anatatodocomo_docomoeveryday_article236",
-      "date": "2026-10-29T01:00:00+00:00",
-      "sourceKey": "docomo",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "ドコモ",
-      "image": null
-    },
-    {
       "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20261029_01/",
       "title": "剰余金の配当（中間配当）に関するお知らせ",
       "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20261029_01/",
@@ -1056,17 +1056,6 @@
       "catKey": "other",
       "catLabel": "その他",
       "carrier": "ソフトバンク",
-      "image": null
-    },
-    {
-      "id": "docomo-https://www.docomo.ne.jp/corporate/anatatodocomo/docomoeveryday/article235/index.html?icid=CRP_INFO_to_CRP_CORP_anatatodocomo_docomoeveryday_article235",
-      "title": "あなたとドコモ 新着記事：「あんしん・安全」の先へ。子どもたちの「好き」と可能性をひらくドコモ未来プロジェクト",
-      "link": "https://www.docomo.ne.jp/corporate/anatatodocomo/docomoeveryday/article235/index.html?icid=CRP_INFO_to_CRP_CORP_anatatodocomo_docomoeveryday_article235",
-      "date": "2026-10-27T01:00:00+00:00",
-      "sourceKey": "docomo",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "ドコモ",
       "image": null
     },
     {
@@ -1136,17 +1125,6 @@
       "image": null
     },
     {
-      "id": "docomo-https://www.docomo.ne.jp/corporate/anatatodocomo/docomoeveryday/article234/index.html?icid=CRP_INFO_to_CRP_CORP_anatatodocomo_docomoeveryday_article234",
-      "title": "あなたとドコモ 新着記事：いつもの扉でバーチャル空間へ。みんなの声で磨くMR技術を使った未来の扉",
-      "link": "https://www.docomo.ne.jp/corporate/anatatodocomo/docomoeveryday/article234/index.html?icid=CRP_INFO_to_CRP_CORP_anatatodocomo_docomoeveryday_article234",
-      "date": "2026-10-21T01:00:00+00:00",
-      "sourceKey": "docomo",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "ドコモ",
-      "image": null
-    },
-    {
       "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20261021_01/",
       "title": "「DIGNO® BX4」を法人向けに“ソフトバンク”で10月28日に発売",
       "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20261021_01/",
@@ -1177,17 +1155,6 @@
       "catKey": "other",
       "catLabel": "その他",
       "carrier": "ソフトバンク",
-      "image": null
-    },
-    {
-      "id": "docomo-https://www.docomo.ne.jp/corporate/anatatodocomo/docomoeveryday/article233/index.html?icid=CRP_INFO_to_CRP_CORP_anatatodocomo_docomoeveryday_article233",
-      "title": "あなたとドコモ 新着記事：「おもちゃを届けよう！」トイザらス×e-Craftが創る、新しいものづくり体験",
-      "link": "https://www.docomo.ne.jp/corporate/anatatodocomo/docomoeveryday/article233/index.html?icid=CRP_INFO_to_CRP_CORP_anatatodocomo_docomoeveryday_article233",
-      "date": "2026-10-16T01:00:00+00:00",
-      "sourceKey": "docomo",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "ドコモ",
       "image": null
     },
     {
