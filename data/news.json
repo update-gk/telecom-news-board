@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-11-20T11:13:06.649215+00:00",
+  "generated_at": "2026-11-20T19:52:42.984612+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/20/news069.html",
+      "title": "GoogleやAppleなどのアカウント乗っ取りでPayPay不正利用の事例　サポートが注意喚起",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/20/news069.html",
+      "date": "2026-11-20T10:56:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/20/cover_news069.jpg"
+    },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/20/news067.html",
       "title": "ソフトバンクの「iPhone 18 Pro Max（256GB）」、MNPで約30万円が2年間8万円台に【スマホお得情報】",
