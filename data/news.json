@@ -1,7 +1,194 @@
 {
-  "generated_at": "2026-11-20T02:10:26.177148+00:00",
+  "generated_at": "2026-11-20T11:13:06.649215+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/20/news067.html",
+      "title": "ソフトバンクの「iPhone 18 Pro Max（256GB）」、MNPで約30万円が2年間8万円台に【スマホお得情報】",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/20/news067.html",
+      "date": "2026-11-20T09:30:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "ソフトバンク",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/20/l_asa_sumaotoku_01.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/20/news066.html",
+      "title": "iPhone Duoで「顔認証によるロック解除」が追加へ　iOS 27.3 Beta 2で確認、ただしFace IDとは別物",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/20/news066.html",
+      "date": "2026-11-20T09:25:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/20/cover_news066.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/20/news064.html",
+      "title": "Samsungオンラインショップで「ブラックフライデー」開催　最大19％ポイント還元、折りたたみスマホも対象",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/20/news064.html",
+      "date": "2026-11-20T08:05:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/20/l_asa_samsung_01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2158169.html",
+      "title": "シャオミ、表参道で「Xiaomi 18 Pro シリーズ」体験イベント開催　23日まで",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2158169.html",
+      "date": "2026-11-20T07:01:03+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2158/169/01.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/20/news059.html",
+      "title": "配線不要の準固体バッテリー内蔵ソーラー充電式ドラレコ「SDR-01」、オートバックスで先行販売　1万9800円",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/20/news059.html",
+      "date": "2026-11-20T06:46:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/20/cover_news059.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2158221.html",
+      "title": "Netflix、12月は「国民クイズ」、「僕の狂ったフェミ彼女」などを配信",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2158221.html",
+      "date": "2026-11-20T06:00:06+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": null
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/20/news055.html",
+      "title": "光回線サービスの満足度は「eo光」がトップ、利用は「ドコモ光」が最多　MMD研究所調べ",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/20/news055.html",
+      "date": "2026-11-20T05:22:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ドコモ",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/20/l_asa_MMD_01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2158186.html",
+      "title": "「Amazon ブラックフライデー」、対象製品が一部公開　「Kindle」や「Apple Watch Series 12」など",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2158186.html",
+      "date": "2026-11-20T05:05:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2158/186/01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2158152.html",
+      "title": "楽天カード会員が楽天モバイルを初契約で2万ポイント還元、26年最後の「楽天マジ得フェスティバル」開催",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2158152.html",
+      "date": "2026-11-20T03:35:21+00:00",
+      "sourceKey": "ktai",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": "楽天モバイル",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2158/152/main.png"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2158160.html",
+      "title": "「超PayPay祭」本日20日スタート、最大100％還元の「スクラッチくじ」など",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2158160.html",
+      "date": "2026-11-20T03:35:17+00:00",
+      "sourceKey": "ktai",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2158/160/01.png"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2158117.html",
+      "title": "「Apple TV」が半年間月額600円、ブラックフライデーで割引",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2158117.html",
+      "date": "2026-11-20T03:24:52+00:00",
+      "sourceKey": "ktai",
+      "catKey": "price",
+      "catLabel": "料金プラン",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2158/117/01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2158137.html",
+      "title": "ワイモバイルで「ブラックフライデーセール」、オンラインストアで中古「iPhone 14」が2.3万円",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2158137.html",
+      "date": "2026-11-20T03:23:45+00:00",
+      "sourceKey": "ktai",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": "Y!mobile",
+      "image": null
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/20/news051.html",
+      "title": "Nintendo Switch 2に直接接続　バッテリーレスのモバイルWi-Fi「Switch Direct Link」予約開始",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/20/news051.html",
+      "date": "2026-11-20T02:53:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/20/l_asa_recharge_01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2158122.html",
+      "title": "「dカード プリペイド」、2027年9月にサービス終了へ",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2158122.html",
+      "date": "2026-11-20T02:51:03+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2158/122/main.png"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2158112.html",
+      "title": "出前館で「ピザ半額祭」、20日から4日間限定",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2158112.html",
+      "date": "2026-11-20T02:32:54+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2158/112/main.jpeg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/20/news050.html",
+      "title": "「dカード プリペイド」2027年9月30日にサービス終了へ　新規発行は2026年12月20日まで",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/20/news050.html",
+      "date": "2026-11-20T02:12:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/20/cover_news050.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/20/news048.html",
+      "title": "スピーカー内蔵メガネ「サウンドグラス」発売、ハンスフリーで通話可能　ブルーライトカット機能付き",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/20/news048.html",
+      "date": "2026-11-20T01:57:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/20/l_asa_HIDISC_01.jpg"
+    },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/20/news035.html",
       "title": "【ダイソー】330円の屋内向けの「センサーライト」　人を感知して自動で点灯／消灯",
@@ -124,28 +311,6 @@
       "image": null
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/19/news071.html",
-      "title": "ネットもLINEも非対応の「INFOBAR ZERO」は誰が買う？　3万2780円の価値や向き合い方を考える",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/19/news071.html",
-      "date": "2026-11-19T09:30:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/19/cover_news071.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/19/news070.html",
-      "title": "ドコモ／ahamo光の「10ギガ」プランが最大12カ月目まで月額2970円に　12月からキャンペーン開催",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/19/news070.html",
-      "date": "2026-11-19T08:33:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "price",
-      "catLabel": "料金プラン",
-      "carrier": "ドコモ",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/19/l_asa_docomo_01.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2157929.html",
       "title": "mineoで最大142万件の情報漏えい、決済情報やパスワードは含まず",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2157929.html",
@@ -177,17 +342,6 @@
       "catLabel": "端末",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2157/874/01.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/19/news064.html",
-      "title": "楽天モバイル、Apple Watchが最大15％オフになる期間限定クーポン進呈　「Apple Watch Series 12」も対象",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/19/news064.html",
-      "date": "2026-11-19T06:03:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "楽天モバイル",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/19/l_asa_rakutenAW_01.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2157864.html",
@@ -232,17 +386,6 @@
       "catLabel": "その他",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2157/838/neon.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/19/news056.html",
-      "title": "mineoのユーザー情報が最大142万件漏えいした可能性　解約者も対象に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/19/news056.html",
-      "date": "2026-11-19T03:52:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/19/cover_news056.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2157815.html",
@@ -309,17 +452,6 @@
       "catLabel": "MVNO・格安SIM",
       "carrier": "au/KDDI",
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2157/783/00.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/19/news050.html",
-      "title": "IIJmioで「AQUOS sense11」「からだメイト Watch」発売　sense 11はMNPだと約7.5万円～に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/19/news050.html",
-      "date": "2026-11-19T02:33:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/19/l_asa_IIJ_01.jpg"
     },
     {
       "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc56f/index.html",
@@ -419,105 +551,6 @@
       "catLabel": "その他",
       "carrier": null,
       "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/value/2157646.html",
-      "title": "最小構成9万4600円の「AQUOS sense11」、メモリー増量や薄型化でミッドハイを狙うシャープの戦略",
-      "link": "https://k-tai.watch.impress.co.jp/docs/column/value/2157646.html",
-      "date": "2026-11-18T15:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2157633.html",
-      "title": "持続可能なAIへのカギは「光」、NTTが取り組む光電融合や光量子などR&Dの最前線",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2157633.html",
-      "date": "2026-11-18T15:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2157/633/02.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2156860.html",
-      "title": "OPPOが「Find X10」シリーズを12月10日に発表、部材価格高騰のなかハイエンド2機種展開でブランド向上へ",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2156860.html",
-      "date": "2026-11-18T15:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2156841.html",
-      "title": "OPPOが上位モデル「Find X10 Pro Max」発表へ、日本初のトリプル2億画素カメラ搭載　12月17日発売",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2156841.html",
-      "date": "2026-11-18T15:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2156836.html",
-      "title": "OPPO Find X10が登場、広角・望遠のデュアル2億画素カメラとおサイフケータイ搭載　12月17日発売",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2156836.html",
-      "date": "2026-11-18T15:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2157619.html",
-      "title": "OpenAI、新AIモデル「GPT-6.2 Astra」と「GPT-6.2 Sol」を発表",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2157619.html",
-      "date": "2026-11-18T09:48:40+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2157/619/01.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2157593.html",
-      "title": "Xiaomi 18 Pro Maxが「SoftBank／Y!mobile Free Style」で27日発売",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2157593.html",
-      "date": "2026-11-18T09:13:30+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "ソフトバンク",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2157/593/01.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2157497.html",
-      "title": "好きな人やモノだけを入れる「特別な器」に――通話・SMS専用「INFOBAR ZERO」に込めた開発陣の思い",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2157497.html",
-      "date": "2026-11-18T06:45:10+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2157312.html",
-      "title": "Google、「Google Play ベスト オブ 2026」の受賞作品を発表",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2157312.html",
-      "date": "2026-11-18T05:33:49+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2157/312/01.jpg"
     },
     {
       "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr-1244_4831.html",
