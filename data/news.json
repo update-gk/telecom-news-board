@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-11-19T20:21:35.172710+00:00",
+  "generated_at": "2026-11-20T02:10:26.177148+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/20/news035.html",
+      "title": "【ダイソー】330円の屋内向けの「センサーライト」　人を感知して自動で点灯／消灯",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/20/news035.html",
+      "date": "2026-11-20T01:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/20/l_asa_100item_01.jpg"
+    },
+    {
+      "id": "docomo-https://www.docomo.ne.jp/corporate/anatatodocomo/docomoeveryday/article237/index.html?icid=CRP_INFO_to_CRP_CORP_anatatodocomo_docomoeveryday_article237",
+      "title": "あなたとドコモ 新着記事：18年以上続く『ドコモの森』を子どもたちへ。自然と未来を学ぶ特別な1日",
+      "link": "https://www.docomo.ne.jp/corporate/anatatodocomo/docomoeveryday/article237/index.html?icid=CRP_INFO_to_CRP_CORP_anatatodocomo_docomoeveryday_article237",
+      "date": "2026-11-20T01:00:00+00:00",
+      "sourceKey": "docomo",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ドコモ",
+      "image": null
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/ishikawa/2158013.html",
       "title": "「Premiere」モバイル版、アドビがAndroid版の開発に本腰を入れる理由",
@@ -44,6 +66,17 @@
       "catKey": "other",
       "catLabel": "その他",
       "carrier": null,
+      "image": null
+    },
+    {
+      "id": "ymobile-https://www.ymobile.jp/info/press/2026/26112001.html",
+      "title": "「超PayPay祭」が2026年11月20日（金）からスタート！",
+      "link": "https://www.ymobile.jp/info/press/2026/26112001.html",
+      "date": "2026-11-19T15:00:00+00:00",
+      "sourceKey": "ymobile",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "Y!mobile",
       "image": null
     },
     {
@@ -287,17 +320,6 @@
       "catLabel": "端末",
       "carrier": null,
       "image": "https://image.itmedia.co.jp/mobile/articles/2611/19/l_asa_IIJ_01.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/19/news037.html",
-      "title": "中古「iPhone 14」、楽天市場で128GBモデルが約5万円から販売中",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/19/news037.html",
-      "date": "2026-11-19T01:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "楽天モバイル",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/19/l_asa_rakuten_01.jpg"
     },
     {
       "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc56f/index.html",
@@ -883,17 +905,6 @@
       "image": null
     },
     {
-      "id": "docomo-https://www.docomo.ne.jp/support/product_update/m51f/index.html",
-      "title": "「motorola razr 60d M-51F」のソフトウェアアップデート情報のお知らせ",
-      "link": "https://www.docomo.ne.jp/support/product_update/m51f/index.html",
-      "date": "2026-11-05T01:00:00+00:00",
-      "sourceKey": "docomo",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "ドコモ",
-      "image": null
-    },
-    {
       "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20261104_01/",
       "title": "ソフトバンク、「MWC Barcelona」に初出展し、通信事業者において最大規模のブースを展開",
       "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20261104_01/",
@@ -1298,17 +1309,6 @@
       "catKey": "mvno",
       "catLabel": "MVNO・格安SIM",
       "carrier": "ソフトバンク",
-      "image": null
-    },
-    {
-      "id": "ymobile-https://www.ymobile.jp/info/press/2026/26091401.html",
-      "title": "【2026年10月2日更新】ワイモバイルのeSIMでiPhone Duo、iPhone 18 Pro、iPhone 18 Pro Maxがご利用いただけます。",
-      "link": "https://www.ymobile.jp/info/press/2026/26091401.html",
-      "date": "2026-09-13T15:00:00+00:00",
-      "sourceKey": "ymobile",
-      "catKey": "mvno",
-      "catLabel": "MVNO・格安SIM",
-      "carrier": "Y!mobile",
       "image": null
     },
     {
