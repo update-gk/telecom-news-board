@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-11-20T19:52:42.984612+00:00",
+  "generated_at": "2026-11-21T02:03:37.346379+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2158289.html",
+      "title": "サムスン「Galaxy Ring」米韓で睡眠時無呼吸検知に対応",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2158289.html",
+      "date": "2026-11-21T01:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": null
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/21/news007.html",
+      "title": "楽天市場で中古「Google Pixel 9a（128GB）」を販売中　ディスプレイの状態も選べて約7万円から",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/21/news007.html",
+      "date": "2026-11-21T01:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "楽天モバイル",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/21/l_asa_rakuten_01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/mca/2158319.html",
+      "title": "「端末のレンタル化」と「契約長期化」が加速する法人向け携帯回線市場の攻防",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/mca/2158319.html",
+      "date": "2026-11-20T21:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2158/319/20261120.png"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2158301.html",
+      "title": "「Pontaパス」会員は毎日映画が1200円に、KDDIがキャンペーン",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2158301.html",
+      "date": "2026-11-20T21:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": "au/KDDI",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2158/301/01.jpeg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/21/news001.html",
+      "title": "「500mm望遠レンズ」をスマホに装着、手持ちでも撮れた！　「HONOR Magic9 Pro Max」を深センで試す",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/21/news001.html",
+      "date": "2026-11-20T21:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/21/cover_news001.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/21/news010.html",
+      "title": "日本でも「ダムフォン」は広がるか？　KDDIが「INFOBAR ZERO」で目指す2台持ちの新しい形",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/21/news010.html",
+      "date": "2026-11-20T21:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "au/KDDI",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/21/cover_news010.jpg"
+    },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/20/news069.html",
       "title": "GoogleやAppleなどのアカウント乗っ取りでPayPay不正利用の事例　サポートが注意喚起",
@@ -278,17 +344,6 @@
       "image": null
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/19/news057.html",
-      "title": "OPPO、公式ショップと楽天市場で「BLACK FRIDAY」開催　スマートフォンやタブレットがおトクに",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/19/news057.html",
-      "date": "2026-11-19T12:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "楽天モバイル",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/19/l_asa_OPPO_01.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2158018.html",
       "title": "ドコモ、10ギガの光回線が最大1年間2970円／月　12月1日から",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2158018.html",
@@ -298,17 +353,6 @@
       "catLabel": "その他",
       "carrier": "ドコモ",
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2158/018/01.png"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/19/news073.html",
-      "title": "UQ mobile、PANTONEカラーの「motorola edge 60」がMNPで2年47円に【スマホお得情報】",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/19/news073.html",
-      "date": "2026-11-19T10:52:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "UQ mobile",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/19/l_asa_sumaotoku_01.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2157902.html",
@@ -454,17 +498,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2157/768/00.jpg"
     },
     {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2157783.html",
-      "title": "povo、CHARGESPOTクーポン＋データのトッピングを発売",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2157783.html",
-      "date": "2026-11-19T02:53:02+00:00",
-      "sourceKey": "ktai",
-      "catKey": "mvno",
-      "catLabel": "MVNO・格安SIM",
-      "carrier": "au/KDDI",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2157/783/00.jpg"
-    },
-    {
       "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc56f/index.html",
       "title": "「Samsung Galaxy Z Fold7 SC-56F」のソフトウェアアップデート情報のお知らせ",
       "link": "https://www.docomo.ne.jp/support/product_update/sc56f/index.html",
@@ -539,28 +572,6 @@
       "catKey": "device",
       "catLabel": "端末",
       "carrier": "ドコモ",
-      "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/minna/2157679.html",
-      "title": "予定管理やWeb調査まで自律でこなすMetaのAIエージェント「Muse」、原稿ネタまで提案された体験記",
-      "link": "https://k-tai.watch.impress.co.jp/docs/column/minna/2157679.html",
-      "date": "2026-11-18T15:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2157667.html",
-      "title": "「iPad mini（A20 Pro）」を購入、薄くて軽くて大画面になった完成形かも",
-      "link": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2157667.html",
-      "date": "2026-11-18T15:00:00+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
       "image": null
     },
     {
