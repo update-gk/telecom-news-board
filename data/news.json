@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-11-22T10:58:55.018912+00:00",
+  "generated_at": "2026-11-22T19:20:54.167799+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/22/news008.html",
+      "title": "「圏外が当たり前」の尾瀬国立公園に“つながる安心”を　KDDI×Starlinkでどう変わったのか",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/22/news008.html",
+      "date": "2026-11-22T11:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "au/KDDI",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/22/cover_news008.jpg"
+    },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/22/news007.html",
       "title": "iPhone Duo専用の耐衝撃ケース「GRAVITY」登場　MagSafe対応やリングスタンド付きも",
