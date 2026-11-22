@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-11-22T01:06:17.056964+00:00",
+  "generated_at": "2026-11-22T10:58:55.018912+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/22/news007.html",
+      "title": "iPhone Duo専用の耐衝撃ケース「GRAVITY」登場　MagSafe対応やリングスタンド付きも",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/22/news007.html",
+      "date": "2026-11-22T04:53:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": null
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/22/news006.html",
+      "title": "楽天モバイルが「最強衛星サービス」に加えてJ-LEOにも参入――なぜ、4番目のキャリアに2つも衛星サービスが必要なのか",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/22/news006.html",
+      "date": "2026-11-22T04:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "楽天モバイル",
+      "image": "https://image.itmedia.co.jp/images/logo/1200x630_500x500_mobile.gif"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/22/news005.html",
+      "title": "MetaのAIエージェント「Muse」は何ができる？　ChatGPTやGeminiとの違い、注意点を解説",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/22/news005.html",
+      "date": "2026-11-22T02:14:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/22/cover_news005.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/22/news003.html",
+      "title": "36万円超の「iPhone Duo」、買って合わなかったら返品できる？　Apple Storeの返品条件と注意すべき“落とし穴”",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/22/news003.html",
+      "date": "2026-11-22T01:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/22/cover_news003.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/22/news004.html",
+      "title": "【ダイソー】330円の「充電式COBライト」　コンパクトサイズで250ルーメンを実現",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/22/news004.html",
+      "date": "2026-11-22T01:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/22/l_asa_100item_01.jpg"
+    },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/21/news011.html",
       "title": "令和8年に「INFOBAR」が復活するも、通話とSMSしかできない「ダムフォン」に",
