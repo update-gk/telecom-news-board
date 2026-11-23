@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-11-22T19:20:54.167799+00:00",
+  "generated_at": "2026-11-23T01:29:14.821489+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2158387.html",
+      "title": "JAL NEOBANK、米ドルの受け取りで最大15万マイルもらえる",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2158387.html",
+      "date": "2026-11-23T00:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2158/387/01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2158009.html",
+      "title": "ドコモの「AQUOS sense10」、Android 17にアップデート",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2158009.html",
+      "date": "2026-11-23T00:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "ドコモ",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2158/009/01-1.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2158259.html",
+      "title": "ドコモ、Amazonブラックフライデーでdポイントの還元・山分けキャンペーン",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2158259.html",
+      "date": "2026-11-22T23:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": "ドコモ",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2158/259/main.jpeg"
+    },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/22/news008.html",
       "title": "「圏外が当たり前」の尾瀬国立公園に“つながる安心”を　KDDI×Starlinkでどう変わったのか",
@@ -551,39 +584,6 @@
       "catLabel": "端末",
       "carrier": null,
       "image": null
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2157793.html",
-      "title": "Amazon、11月30日～12月7日に「ブラックフライデー」開催　先行セールは27日から",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2157793.html",
-      "date": "2026-11-19T03:10:44+00:00",
-      "sourceKey": "ktai",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2157/793/main.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2157773.html",
-      "title": "楽天市場「ブラックフライデーセール」開催、ポイント最大47.5倍　19日20時スタート",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2157773.html",
-      "date": "2026-11-19T03:07:27+00:00",
-      "sourceKey": "ktai",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": "楽天モバイル",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2157/773/main.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2157768.html",
-      "title": "楽天モバイル、Apple Watchの最大15％引きクーポン配布　楽天市場で",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2157768.html",
-      "date": "2026-11-19T02:53:08+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "楽天モバイル",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2157/768/00.jpg"
     },
     {
       "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc56f/index.html",
