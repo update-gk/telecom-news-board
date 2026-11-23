@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-11-23T01:29:14.821489+00:00",
+  "generated_at": "2026-11-23T12:06:00.931133+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/23/news006.html",
+      "title": "iPhone DuoとGalaxy Z Fold8で「サイゼリヤの注文画面」を開いて分かった意外な事実　折りたたみならではの活用法も",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/23/news006.html",
+      "date": "2026-11-23T02:30:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/23/cover_news006.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/23/news005.html",
+      "title": "なぜ駅の改札機で混乱？　Suica、クレカ、QRコードの集約で「立ち止まらない快適さ」を奪う理由",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/23/news005.html",
+      "date": "2026-11-23T02:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/23/cover_news005.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/23/news007.html",
+      "title": "楽天市場、ほぼ新品のSIMフリー「Xperia 10 VI」を約5万円で販売中",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/23/news007.html",
+      "date": "2026-11-23T01:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "mvno",
+      "catLabel": "MVNO・格安SIM",
+      "carrier": "楽天モバイル",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/23/l_asa_rakuten_01.jpg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2158387.html",
       "title": "JAL NEOBANK、米ドルの受け取りで最大15万マイルもらえる",
@@ -333,17 +366,6 @@
       "image": null
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/20/news051.html",
-      "title": "Nintendo Switch 2に直接接続　バッテリーレスのモバイルWi-Fi「Switch Direct Link」予約開始",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/20/news051.html",
-      "date": "2026-11-20T02:53:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/20/l_asa_recharge_01.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2158122.html",
       "title": "「dカード プリペイド」、2027年9月にサービス終了へ",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2158122.html",
@@ -364,39 +386,6 @@
       "catLabel": "その他",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2158/112/main.jpeg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/20/news050.html",
-      "title": "「dカード プリペイド」2027年9月30日にサービス終了へ　新規発行は2026年12月20日まで",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/20/news050.html",
-      "date": "2026-11-20T02:12:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/20/cover_news050.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/20/news048.html",
-      "title": "スピーカー内蔵メガネ「サウンドグラス」発売、ハンスフリーで通話可能　ブルーライトカット機能付き",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/20/news048.html",
-      "date": "2026-11-20T01:57:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/20/l_asa_HIDISC_01.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/20/news035.html",
-      "title": "【ダイソー】330円の屋内向けの「センサーライト」　人を感知して自動で点灯／消灯",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/20/news035.html",
-      "date": "2026-11-20T01:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/20/l_asa_100item_01.jpg"
     },
     {
       "id": "docomo-https://www.docomo.ne.jp/corporate/anatatodocomo/docomoeveryday/article237/index.html?icid=CRP_INFO_to_CRP_CORP_anatatodocomo_docomoeveryday_article237",
