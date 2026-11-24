@@ -1,7 +1,106 @@
 {
-  "generated_at": "2026-11-23T12:06:00.931133+00:00",
+  "generated_at": "2026-11-24T02:05:03.020650+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/24/news033.html",
+      "title": "【ダイソー】110円の「鉛筆型スタイラスペン」　ポケットに収納できて握りやすい",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/24/news033.html",
+      "date": "2026-11-24T01:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/24/l_asa_100item_01.jpg"
+    },
+    {
+      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc52e/index.html",
+      "title": "「Galaxy S24 Ultra SC-52E」のソフトウェアアップデート情報のお知らせ",
+      "link": "https://www.docomo.ne.jp/support/product_update/sc52e/index.html",
+      "date": "2026-11-24T01:00:00+00:00",
+      "sourceKey": "docomo",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "ドコモ",
+      "image": null
+    },
+    {
+      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc51e/index.html",
+      "title": "「Galaxy S24 SC-51E」のソフトウェアアップデート情報のお知らせ",
+      "link": "https://www.docomo.ne.jp/support/product_update/sc51e/index.html",
+      "date": "2026-11-24T01:00:00+00:00",
+      "sourceKey": "docomo",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "ドコモ",
+      "image": null
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/ranking/galapagos_ranking/2158324.html",
+      "title": "電子書籍人気ランキング（11月13日～11月19日）",
+      "link": "https://k-tai.watch.impress.co.jp/docs/ranking/galapagos_ranking/2158324.html",
+      "date": "2026-11-23T21:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/include/common/p01/images/logo/ktw.l.png"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/24/news034.html",
+      "title": "ドコモ・バイクシェア、新ブランド「NOLL」始動　延期をへて“きょうから”　新型車両・新料金を順次展開",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/24/news034.html",
+      "date": "2026-11-23T21:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "price",
+      "catLabel": "料金プラン",
+      "carrier": "ドコモ",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/24/cover_news034.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2158338.html",
+      "title": "光るメガネ「LEDパーティーグラス」でたまには自分推し！",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2158338.html",
+      "date": "2026-11-23T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2158/338/1.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/minna/2157956.html",
+      "title": "横長折りたたみスマホ「Galaxy Z Fold8」をどこでも仕事ができる作業環境にする3つの工夫",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/minna/2157956.html",
+      "date": "2026-11-23T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2157/956/Thumbnail.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/review/2157103.html",
+      "title": "iPhoneに乗り換えてでも使う価値があるかも!?　新型センサー搭載「Apple Watch Series 12」を使ってみた",
+      "link": "https://k-tai.watch.impress.co.jp/docs/review/2157103.html",
+      "date": "2026-11-23T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2157/103/01-1.jpg"
+    },
+    {
+      "id": "uq-https://www.uqwimax.jp/annai/news_release/202611241.html",
+      "title": "UQ WiMAX、ホームルーター「Speed Wi-Fi HOME 5G L14」とモバイルルーター「Speed Wi-Fi 5G X13」を12月に発売",
+      "link": "https://www.uqwimax.jp/annai/news_release/202611241.html",
+      "date": "2026-11-23T15:00:00+00:00",
+      "sourceKey": "uq",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "UQ mobile",
+      "image": null
+    },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/23/news006.html",
       "title": "iPhone DuoとGalaxy Z Fold8で「サイゼリヤの注文画面」を開いて分かった意外な事実　折りたたみならではの活用法も",
@@ -256,17 +355,6 @@
       "image": "https://image.itmedia.co.jp/mobile/articles/2611/20/cover_news066.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/20/news064.html",
-      "title": "Samsungオンラインショップで「ブラックフライデー」開催　最大19％ポイント還元、折りたたみスマホも対象",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/20/news064.html",
-      "date": "2026-11-20T08:05:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/20/l_asa_samsung_01.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2158169.html",
       "title": "シャオミ、表参道で「Xiaomi 18 Pro シリーズ」体験イベント開催　23日まで",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2158169.html",
@@ -278,17 +366,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2158/169/01.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/20/news059.html",
-      "title": "配線不要の準固体バッテリー内蔵ソーラー充電式ドラレコ「SDR-01」、オートバックスで先行販売　1万9800円",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/20/news059.html",
-      "date": "2026-11-20T06:46:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/20/cover_news059.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2158221.html",
       "title": "Netflix、12月は「国民クイズ」、「僕の狂ったフェミ彼女」などを配信",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2158221.html",
@@ -298,17 +375,6 @@
       "catLabel": "その他",
       "carrier": null,
       "image": null
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/20/news055.html",
-      "title": "光回線サービスの満足度は「eo光」がトップ、利用は「ドコモ光」が最多　MMD研究所調べ",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/20/news055.html",
-      "date": "2026-11-20T05:22:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "ドコモ",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/20/l_asa_MMD_01.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2158186.html",
@@ -531,50 +597,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2157/834/06.jpg"
     },
     {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2157835.html",
-      "title": "アップル、2026年の「App Store Awards」ファイナリスト45作品を発表――「アークナイツ：エンドフィールド」や「デイヴ・ザ・ダイバー」などが選出",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2157835.html",
-      "date": "2026-11-19T04:12:05+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2157/835/cont0.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2157838.html",
-      "title": "グーグル、推論の深さとコスト効率を両立した新AIモデル「Gemini 4 Neon」を発表　APIやGeminiアプリで提供",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2157838.html",
-      "date": "2026-11-19T04:10:01+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2157/838/neon.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2157815.html",
-      "title": "ドコモ、dアカウントの「写真撮影で本人確認」を2027年2月末に終了へ",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2157815.html",
-      "date": "2026-11-19T03:51:06+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "ドコモ",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2157/815/dacc.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2157802.html",
-      "title": "iPhone版「My docomo」で緊急メンテ実施中、18日夕～",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2157802.html",
-      "date": "2026-11-19T03:47:35+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": null
-    },
-    {
       "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc56f/index.html",
       "title": "「Samsung Galaxy Z Fold7 SC-56F」のソフトウェアアップデート情報のお知らせ",
       "link": "https://www.docomo.ne.jp/support/product_update/sc56f/index.html",
@@ -718,17 +740,6 @@
       "image": null
     },
     {
-      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc55g/index.html",
-      "title": "「Samsung Galaxy Z Flip8 SC-55G」のソフトウェアアップデート情報のお知らせ",
-      "link": "https://www.docomo.ne.jp/support/product_update/sc55g/index.html",
-      "date": "2026-11-18T01:00:00+00:00",
-      "sourceKey": "docomo",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "ドコモ",
-      "image": null
-    },
-    {
       "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr-1245_4832.html",
       "title": "「INFOBAR ZERO」をau Flex Styleから12月25日に発売",
       "link": "https://newsroom.kddi.com/news/detail/kddi_nr-1245_4832.html",
@@ -770,17 +781,6 @@
       "catKey": "price",
       "catLabel": "料金プラン",
       "carrier": "Y!mobile",
-      "image": null
-    },
-    {
-      "id": "docomo-https://www.docomo.ne.jp/product/sh53g/",
-      "title": "「AQUOS sense11 SH-53G」11月26日発売",
-      "link": "https://www.docomo.ne.jp/product/sh53g/",
-      "date": "2026-11-17T01:00:00+00:00",
-      "sourceKey": "docomo",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "ドコモ",
       "image": null
     },
     {
@@ -1583,17 +1583,6 @@
       "sourceKey": "uq",
       "catKey": "other",
       "catLabel": "その他",
-      "carrier": "UQ mobile",
-      "image": null
-    },
-    {
-      "id": "uq-https://www.uqwimax.jp/annai/news_release/202511141.html",
-      "title": "「ユニバーサルサービス料」の改定について",
-      "link": "https://www.uqwimax.jp/annai/news_release/202511141.html",
-      "date": "2025-11-13T15:00:00+00:00",
-      "sourceKey": "uq",
-      "catKey": "price",
-      "catLabel": "料金プラン",
       "carrier": "UQ mobile",
       "image": null
     }
