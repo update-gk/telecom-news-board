@@ -1,7 +1,117 @@
 {
-  "generated_at": "2026-11-25T07:59:18.889927+00:00",
+  "generated_at": "2026-11-25T19:04:13.963264+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2159303.html",
+      "title": "PayPayで障害、クレカ機能で　25日夜～",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2159303.html",
+      "date": "2026-11-25T15:05:50+00:00",
+      "sourceKey": "ktai",
+      "catKey": "trouble",
+      "catLabel": "障害・不具合",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2159/303/paypay01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/value/2159112.html",
+      "title": "「INFOBAR ZERO」の利用法と最適な回線とは？　2台持ちから\"家電\"運用まで",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/value/2159112.html",
+      "date": "2026-11-25T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2159/112/1.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/mitsui/2159096.html",
+      "title": "薄さ7.6mm・157gに進化した「AQUOS sense11」のカメラをチェック",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/mitsui/2159096.html",
+      "date": "2026-11-25T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2159/096/DSC_6444.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/minna/2158896.html",
+      "title": "15年課金し続けた「塩漬けEvernote」が覚醒？ Galaxy Z Flip8との組み合わせで最強のAI議事録マシンになった",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/minna/2158896.html",
+      "date": "2026-11-25T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2158/896/MW_gfp8_04_01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2158888.html",
+      "title": "ニンテンドーDSにBluetoothで音声を転送できるトランスミッターを装着！",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2158888.html",
+      "date": "2026-11-25T15:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": null
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2159267.html",
+      "title": "「motorola signature」12月発売、AI時代に向けエコシステム強化と人間のコンシェルジュを提供する理由",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2159267.html",
+      "date": "2026-11-25T11:51:40+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2159/267/354.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/25/news070.html",
+      "title": "「motorola signature」発表　24時間対応の“人間コンシェルジュ”も付帯　折りたたみ新型「razr」の行方は？",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/25/news070.html",
+      "date": "2026-11-25T10:24:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/25/cover_news070.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/25/news069.html",
+      "title": "片手に収まる3軸ジンバルカメラ「Buren」発売　KEIYOから約4.4万円",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/25/news069.html",
+      "date": "2026-11-25T09:33:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/25/l_asa_KEIYO_01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2159155.html",
+      "title": "TVer、新機能「シーン」提供開始　番組の見どころをショート形式で閲覧・再生",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2159155.html",
+      "date": "2026-11-25T08:42:20+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2159/155/01.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/25/news068.html",
+      "title": "ベルキン初、追跡機能付きウォレットスタンド発売　最大80dBのアラート音で知らせる",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/25/news068.html",
+      "date": "2026-11-25T08:04:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/25/l_asa_Belkin_01.jpg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2159124.html",
       "title": "「CES 2027」に合わせレノボ「Tech World」開催へ",
@@ -14,6 +124,17 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2159/124/39.jpg"
     },
     {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/25/news066.html",
+      "title": "ゴールド特典改定後も好調、PayPayカードの勝算を宮崎CEOに聞く　ポイント還元以外の強みとは？",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/25/news066.html",
+      "date": "2026-11-25T07:33:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "price",
+      "catLabel": "料金プラン",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/25/cover_news066.jpg"
+    },
+    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2159166.html",
       "title": "エレコムが発火リスクを抑える新設計モバイルバッテリー「Next Li＋」を発表",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2159166.html",
@@ -23,6 +144,17 @@
       "catLabel": "その他",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2159/166/cont0.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/25/news062.html",
+      "title": "Y!mobile、認定中古「iPhone SE（第3世代）」がMNPで1円に【スマホお得情報】",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/25/news062.html",
+      "date": "2026-11-25T06:57:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "Y!mobile",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/25/l_asa_sumaotoku_01.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2159111.html",
@@ -399,48 +531,15 @@
       "image": null
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/24/news072.html",
-      "title": "非常時の通信手段「JAPANローミング」と「00000JAPAN」の違い、NTTドコモがXで解説　初心者は必見",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/24/news072.html",
-      "date": "2026-11-24T10:25:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "ドコモ",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/24/cover_news072.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/24/news069.html",
-      "title": "ドコモの「Apple Watch Series 12」など対象製品が最大2万7500円割引に　2027年1月5日まで",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/24/news069.html",
-      "date": "2026-11-24T10:25:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": "ドコモ",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/24/l_asa_docomowatch_01.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/24/news071.html",
-      "title": "20万円超の高値はむしろ“大チャンス”!?　携帯電話ショップ店員が見る「iPhone 18 Pro」の売れ行き",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/24/news071.html",
-      "date": "2026-11-24T10:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/24/cover_news071.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/24/news070.html",
-      "title": "JALマイルが100円ごとに5マイルたまる、海外eSIM「JAL ABC eSIM」登場　トリファとJALエービーシーが提供",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/24/news070.html",
-      "date": "2026-11-24T09:25:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "mvno",
-      "catLabel": "MVNO・格安SIM",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/24/cover_news070.jpg"
+      "id": "ymobile-https://stn.mb.softbank.jp/H8J0S",
+      "title": "「海外あんしん定額」サービスメンテナンス終了のお知らせ",
+      "link": "https://stn.mb.softbank.jp/H8J0S",
+      "date": "2026-11-24T15:00:00+00:00",
+      "sourceKey": "ymobile",
+      "catKey": "trouble",
+      "catLabel": "障害・不具合",
+      "carrier": "Y!mobile",
+      "image": null
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2158843.html",
@@ -485,83 +584,6 @@
       "catLabel": "キャンペーン",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2158/830/cont0.png"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2158814.html",
-      "title": "「LINEMO5周年大週穫祭」11月第4弾、PayPay増額と契約事務手数料無料",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2158814.html",
-      "date": "2026-11-24T08:46:47+00:00",
-      "sourceKey": "ktai",
-      "catKey": "mvno",
-      "catLabel": "MVNO・格安SIM",
-      "carrier": "ソフトバンク",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2158/814/20261123_cpn.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2158782.html",
-      "title": "PLAZAとマクドナルドが初コラボ、「マクドナルドの福袋2027」公式アプリで抽選",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2158782.html",
-      "date": "2026-11-24T08:00:52+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2158/782/sub.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2158793.html",
-      "title": "トリファ、「JAL ABC eSIM」提供開始　100円につき5マイル貯まる",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2158793.html",
-      "date": "2026-11-24T07:55:57+00:00",
-      "sourceKey": "ktai",
-      "catKey": "mvno",
-      "catLabel": "MVNO・格安SIM",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2158/793/main.png"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2158774.html",
-      "title": "SPAJAM2026、ウォーキングアプリ「mingo」開発の「Knot」が最優秀賞",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2158774.html",
-      "date": "2026-11-24T07:04:58+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2158/774/spj1.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2158719.html",
-      "title": "アンカー、防犯カメラ2機種発売　4K対応で屋外監視用と窓に貼るだけのお手軽モデル",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2158719.html",
-      "date": "2026-11-24T05:01:48+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2158/719/sub.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2158713.html",
-      "title": "「Amazonキッズタブレット 8 しまじろうエディション」発売、ベネッセと協業",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2158713.html",
-      "date": "2026-11-24T04:55:24+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2158/713/cont0.png"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2158692.html",
-      "title": "総務省、改正された携帯電話不正利用防止法の施行へ、政令案への意見募集",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2158692.html",
-      "date": "2026-11-24T04:37:41+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": null
     },
     {
       "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc52e/index.html",
@@ -814,17 +836,6 @@
       "catKey": "other",
       "catLabel": "その他",
       "carrier": "楽天モバイル",
-      "image": null
-    },
-    {
-      "id": "ymobile-https://stn.mb.softbank.jp/H8J0S",
-      "title": "「海外あんしん定額」サービスメンテナンス終了のお知らせ",
-      "link": "https://stn.mb.softbank.jp/H8J0S",
-      "date": "2026-11-12T15:00:00+00:00",
-      "sourceKey": "ymobile",
-      "catKey": "trouble",
-      "catLabel": "障害・不具合",
-      "carrier": "Y!mobile",
       "image": null
     },
     {
