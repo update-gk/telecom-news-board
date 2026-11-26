@@ -1,7 +1,106 @@
 {
-  "generated_at": "2026-11-25T19:04:13.963264+00:00",
+  "generated_at": "2026-11-26T03:27:11.785151+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2159420.html",
+      "title": "PayPayの障害、現在は復旧済み　クレカ決済やチャージなど",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2159420.html",
+      "date": "2026-11-26T02:55:51+00:00",
+      "sourceKey": "ktai",
+      "catKey": "trouble",
+      "catLabel": "障害・不具合",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2159/420/paypay01.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/26/news055.html",
+      "title": "ソフトバンクが「シンプルスマホ8」発売　AIが詐欺電話を判定、書類のゆがみ補正撮影も",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/26/news055.html",
+      "date": "2026-11-26T02:20:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "ソフトバンク",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/26/cover_news055.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/26/news052.html",
+      "title": "「AQUOS sense11」の価格まとめ　ソフトバンクは2年24円から、IIJmioもMNP特価あり　8000円相当の還元も",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/26/news052.html",
+      "date": "2026-11-26T01:21:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": "ソフトバンク",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/26/cover_news052.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2154914.html",
+      "title": "ソフトバンクからシャープ製「シンプルスマホ8」を12月4日発売、迷惑電話防止AI機能など",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2154914.html",
+      "date": "2026-11-26T01:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "ソフトバンク",
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2154/914/00.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/26/news048.html",
+      "title": "【3COINS】880円の「クリアインナーイヤーワイヤードイヤホン：1.2m」　USB Type-Cで接続",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/26/news048.html",
+      "date": "2026-11-26T01:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/26/l_asa_100item_01.jpg"
+    },
+    {
+      "id": "docomo-https://www.docomo.ne.jp/support/product_update/m51g/index.html",
+      "title": "「moto g37 M-51G」のソフトウェアアップデート情報のお知らせ",
+      "link": "https://www.docomo.ne.jp/support/product_update/m51g/index.html",
+      "date": "2026-11-26T01:00:00+00:00",
+      "sourceKey": "docomo",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ドコモ",
+      "image": null
+    },
+    {
+      "id": "docomo-https://www.docomo.ne.jp/support/product_update/hr03/index.html",
+      "title": "「home 5G HR03」のソフトウェアアップデート情報のお知らせ",
+      "link": "https://www.docomo.ne.jp/support/product_update/hr03/index.html",
+      "date": "2026-11-26T01:00:00+00:00",
+      "sourceKey": "docomo",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ドコモ",
+      "image": null
+    },
+    {
+      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sh53g/index.html",
+      "title": "「AQUOS sense11 SH-53G」のソフトウェアアップデート情報のお知らせ",
+      "link": "https://www.docomo.ne.jp/support/product_update/sh53g/index.html",
+      "date": "2026-11-26T01:00:00+00:00",
+      "sourceKey": "docomo",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "ドコモ",
+      "image": null
+    },
+    {
+      "id": "docomo-https://www.docomo.ne.jp/product/f53g/index.html",
+      "title": "「らくらくスマートフォン F-53G」事前予約開始！",
+      "link": "https://www.docomo.ne.jp/product/f53g/index.html",
+      "date": "2026-11-26T00:00:00+00:00",
+      "sourceKey": "docomo",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "ドコモ",
+      "image": null
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2159303.html",
       "title": "PayPayで障害、クレカ機能で　25日夜～",
@@ -55,6 +154,28 @@
       "catKey": "other",
       "catLabel": "その他",
       "carrier": null,
+      "image": null
+    },
+    {
+      "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20261126_02/",
+      "title": "会話の内容をリアルタイムでレンズに表示するスマートグラスを従業員の情報保障として導入 〜外部のサーバーにデータを送らず端末内で音声の文字起こしが可能なアプリを約2カ月で独自開発して、セキュリティーを確保～",
+      "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20261126_02/",
+      "date": "2026-11-25T15:00:00+00:00",
+      "sourceKey": "softbank",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ソフトバンク",
+      "image": null
+    },
+    {
+      "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20261126_01/",
+      "title": "「シンプルスマホ8」を“ソフトバンク”で12月4日に発売",
+      "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20261126_01/",
+      "date": "2026-11-25T15:00:00+00:00",
+      "sourceKey": "softbank",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "ソフトバンク",
       "image": null
     },
     {
@@ -344,28 +465,6 @@
       "image": "https://image.itmedia.co.jp/mobile/articles/2611/25/l_rk1640414_ebookjapan-01.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/25/news035.html",
-      "title": "折りたたみ「iPhone Duo」との相性抜群　4画面分割ブラウザ「検索エース」アプリを試す",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/25/news035.html",
-      "date": "2026-11-25T02:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/25/cover_news035.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/25/news041.html",
-      "title": "楽天市場で新品未開封「AQUOS sense9」が5万8500円　2眼カメラや5000mAhバッテリー搭載",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/25/news041.html",
-      "date": "2026-11-25T01:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "楽天モバイル",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/25/l_asa_rakuten_01.jpg"
-    },
-    {
       "id": "docomo-https://www.docomo.ne.jp/support/product_update/f52g/index.html",
       "title": "「arrows We3 F-52G」のソフトウェアアップデート情報のお知らせ",
       "link": "https://www.docomo.ne.jp/support/product_update/f52g/index.html",
@@ -465,17 +564,6 @@
       "image": null
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/25/news048.html",
-      "title": "LINEが「iPhone Duo」の7.6型ディスプレイに最適化　“小さく表示される問題”解消　AI「Agent i」も快適",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/25/news048.html",
-      "date": "2026-11-24T21:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/25/cover_news048.jpg"
-    },
-    {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2158904.html",
       "title": "auでんき、12月から電気料金を値引き　節電でPontaポイントも",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2158904.html",
@@ -564,28 +652,6 @@
       "image": null
     },
     {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2158792.html",
-      "title": "ソニー銀行の「スマホ口座開設」で「本人確認書類の撮影」終了へ、法改正でICチップや郵送に",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2158792.html",
-      "date": "2026-11-24T09:08:48+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2158/792/01-1.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2158830.html",
-      "title": "アンカー製品が「Amazon ブラックフライデー」で300製品が最大53％割引、「Soundcore Liberty 5」が1万円など",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2158830.html",
-      "date": "2026-11-24T09:04:43+00:00",
-      "sourceKey": "ktai",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2158/830/cont0.png"
-    },
-    {
       "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc52e/index.html",
       "title": "「Galaxy S24 Ultra SC-52E」のソフトウェアアップデート情報のお知らせ",
       "link": "https://www.docomo.ne.jp/support/product_update/sc52e/index.html",
@@ -619,17 +685,6 @@
       "image": null
     },
     {
-      "id": "docomo-https://www.docomo.ne.jp/corporate/anatatodocomo/docomoeveryday/article237/index.html?icid=CRP_INFO_to_CRP_CORP_anatatodocomo_docomoeveryday_article237",
-      "title": "あなたとドコモ 新着記事：18年以上続く『ドコモの森』を子どもたちへ。自然と未来を学ぶ特別な1日",
-      "link": "https://www.docomo.ne.jp/corporate/anatatodocomo/docomoeveryday/article237/index.html?icid=CRP_INFO_to_CRP_CORP_anatatodocomo_docomoeveryday_article237",
-      "date": "2026-11-20T01:00:00+00:00",
-      "sourceKey": "docomo",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "ドコモ",
-      "image": null
-    },
-    {
       "id": "ymobile-https://www.ymobile.jp/info/press/2026/26112001.html",
       "title": "「超PayPay祭」が2026年11月20日（金）からスタート！",
       "link": "https://www.ymobile.jp/info/press/2026/26112001.html",
@@ -638,39 +693,6 @@
       "catKey": "other",
       "catLabel": "その他",
       "carrier": "Y!mobile",
-      "image": null
-    },
-    {
-      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc56f/index.html",
-      "title": "「Samsung Galaxy Z Fold7 SC-56F」のソフトウェアアップデート情報のお知らせ",
-      "link": "https://www.docomo.ne.jp/support/product_update/sc56f/index.html",
-      "date": "2026-11-19T01:00:00+00:00",
-      "sourceKey": "docomo",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "ドコモ",
-      "image": null
-    },
-    {
-      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc55f/index.html",
-      "title": "「Samsung Galaxy Z Flip7 SC-55F」のソフトウェアアップデート情報のお知らせ",
-      "link": "https://www.docomo.ne.jp/support/product_update/sc55f/index.html",
-      "date": "2026-11-19T01:00:00+00:00",
-      "sourceKey": "docomo",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "ドコモ",
-      "image": null
-    },
-    {
-      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc52f/index.html",
-      "title": "「Galaxy S25 Ultra SC-52F」のソフトウェアアップデート情報のお知らせ",
-      "link": "https://www.docomo.ne.jp/support/product_update/sc52f/index.html",
-      "date": "2026-11-19T01:00:00+00:00",
-      "sourceKey": "docomo",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "ドコモ",
       "image": null
     },
     {
@@ -1330,28 +1352,6 @@
       "sourceKey": "ymobile",
       "catKey": "campaign",
       "catLabel": "キャンペーン",
-      "carrier": "ソフトバンク",
-      "image": null
-    },
-    {
-      "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260917_02/",
-      "title": "2026パーソル パ・リーグ優勝を記念して「ソフトバンクホークス 優勝キャンペーン」を本日から順次実施",
-      "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260917_02/",
-      "date": "2026-09-16T15:00:00+00:00",
-      "sourceKey": "softbank",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": "ソフトバンク",
-      "image": null
-    },
-    {
-      "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260917_01/",
-      "title": "世界初、HAPSを地上から追尾してレーザー測距する実証に成功",
-      "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260917_01/",
-      "date": "2026-09-16T15:00:00+00:00",
-      "sourceKey": "softbank",
-      "catKey": "other",
-      "catLabel": "その他",
       "carrier": "ソフトバンク",
       "image": null
     },
