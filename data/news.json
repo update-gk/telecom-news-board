@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-11-26T16:41:44.496062+00:00",
+  "generated_at": "2026-11-27T01:37:46.678598+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/topic/special/2157637.html",
+      "title": "Xiaomi 18 Pro Maxが超絶ほしいッ!?　IIJmioの“4万円引き＆お得なキャンペーン”で長く賢く使おう!![Sponsored]",
+      "link": "https://k-tai.watch.impress.co.jp/docs/topic/special/2157637.html",
+      "date": "2026-11-27T01:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2157/637/001.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/27/news048.html",
+      "title": "中古「Apple Watch Series 10」、楽天市場で約4.2万円で販売中",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/27/news048.html",
+      "date": "2026-11-27T01:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "楽天モバイル",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/27/l_asa_rakuten_01.jpg"
+    },
+    {
+      "id": "docomo-https://www.docomo.ne.jp/corporate/anatatodocomo/docomoeveryday/article238/index.html?icid=CRP_INFO_to_CRP_CORP_anatatodocomo_docomoeveryday_article238",
+      "title": "あなたとドコモ 新着記事：未来のくらしを自由に描こう！小学校で「ドコモ未来ミュージアム」出張授業を開催",
+      "link": "https://www.docomo.ne.jp/corporate/anatatodocomo/docomoeveryday/article238/index.html?icid=CRP_INFO_to_CRP_CORP_anatatodocomo_docomoeveryday_article238",
+      "date": "2026-11-27T01:00:00+00:00",
+      "sourceKey": "docomo",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ドコモ",
+      "image": null
+    },
+    {
+      "id": "docomo-https://www.docomo.ne.jp/product/xrealaura/index.html",
+      "title": "「XREAL AURA」11月27日発売",
+      "link": "https://www.docomo.ne.jp/product/xrealaura/index.html",
+      "date": "2026-11-27T01:00:00+00:00",
+      "sourceKey": "docomo",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "ドコモ",
+      "image": null
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/sale/2159593.html",
       "title": "整備済み品「Apple Watch」がセール　「Amazonブラックフライデー」で",
@@ -66,6 +110,17 @@
       "catKey": "campaign",
       "catLabel": "キャンペーン",
       "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2155/658/001.jpg"
+    },
+    {
+      "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20261127_01/",
+      "title": "日本初、「Infrinia AI Cloud OS」が「Kubernetes Conformance」と「Kubernetes AI Conformance」の二つの認証を取得～国際的な標準仕様への準拠により、AIワークロードの相互運用性の向上とグローバル展開を推進～",
+      "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20261127_01/",
+      "date": "2026-11-26T15:00:00+00:00",
+      "sourceKey": "softbank",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "ソフトバンク",
       "image": null
     },
     {
@@ -553,28 +608,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2159/267/354.jpg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/25/news070.html",
-      "title": "「motorola signature」発表　24時間対応の“人間コンシェルジュ”も付帯　折りたたみ新型「razr」の行方は？",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/25/news070.html",
-      "date": "2026-11-25T10:24:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/25/cover_news070.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2159155.html",
-      "title": "TVer、新機能「シーン」提供開始　番組の見どころをショート形式で閲覧・再生",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2159155.html",
-      "date": "2026-11-25T08:42:20+00:00",
-      "sourceKey": "ktai",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2159/155/01.jpg"
-    },
-    {
       "id": "docomo-https://www.docomo.ne.jp/support/product_update/f52g/index.html",
       "title": "「arrows We3 F-52G」のソフトウェアアップデート情報のお知らせ",
       "link": "https://www.docomo.ne.jp/support/product_update/f52g/index.html",
@@ -693,28 +726,6 @@
       "catKey": "trouble",
       "catLabel": "障害・不具合",
       "carrier": "Y!mobile",
-      "image": null
-    },
-    {
-      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc52e/index.html",
-      "title": "「Galaxy S24 Ultra SC-52E」のソフトウェアアップデート情報のお知らせ",
-      "link": "https://www.docomo.ne.jp/support/product_update/sc52e/index.html",
-      "date": "2026-11-24T01:00:00+00:00",
-      "sourceKey": "docomo",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "ドコモ",
-      "image": null
-    },
-    {
-      "id": "docomo-https://www.docomo.ne.jp/support/product_update/sc51e/index.html",
-      "title": "「Galaxy S24 SC-51E」のソフトウェアアップデート情報のお知らせ",
-      "link": "https://www.docomo.ne.jp/support/product_update/sc51e/index.html",
-      "date": "2026-11-24T01:00:00+00:00",
-      "sourceKey": "docomo",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "ドコモ",
       "image": null
     },
     {
@@ -1349,17 +1360,6 @@
       "title": "国内初、5G SA接続時に専用ネットワークロゴの表示を開始～5G SAの接続状況を端末上で“見える化”し、ネットワークの進化をより身近に～",
       "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260929_01/",
       "date": "2026-09-28T15:00:00+00:00",
-      "sourceKey": "softbank",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "ソフトバンク",
-      "image": null
-    },
-    {
-      "id": "softbank-https://www.softbank.jp/corp/news/press/sbkk/2026/20260925_01/",
-      "title": "AIグラス「Ray-Ban Meta（Gen 3）」を9月25日に取り扱い開始～Meta Glasses by LISAを含む「Meta Glasses」のラインアップも拡充～",
-      "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260925_01/",
-      "date": "2026-09-24T15:00:00+00:00",
       "sourceKey": "softbank",
       "catKey": "other",
       "catLabel": "その他",
