@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-11-27T11:57:13.608777+00:00",
+  "generated_at": "2026-11-27T21:03:12.291936+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2160155.html",
+      "title": "Xに「ペアレンタルコントロール」機能、未成年の利用時間やDMを保護者が管理可能に",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2160155.html",
+      "date": "2026-11-27T21:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2160/155/01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/sale/2159550.html",
+      "title": "「Amazon　ブラックフライデー」で「Notta Memo AIボイスレコーダー」が23％オフ",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/sale/2159550.html",
+      "date": "2026-11-27T21:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2159/550/01-1.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/27/news082.html",
+      "title": "KDDI、楽天モバイル向けローミングエリアのマップ更新　12月以降は地方都市の中心部で終了へ",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/27/news082.html",
+      "date": "2026-11-27T12:40:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": "au/KDDI",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/27/cover_news082.jpg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2160113.html",
       "title": "マネックス証券の漏えいはメアド112万件、本人確認書類流出に見舞金5000円",
@@ -12,6 +45,17 @@
       "catLabel": "その他",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2160/113/00.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/27/news092.html",
+      "title": "ソースネクストが6980円の「DIGI＋スマートウォッチ02」発売　心拍・睡眠計測や100種類以上の運動モードに対応",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/27/news092.html",
+      "date": "2026-11-27T10:34:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/27/l_asa_sourcenext_01.jpg"
     },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/27/news091.html",
@@ -562,28 +606,6 @@
       "catLabel": "端末",
       "carrier": "ドコモ",
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2159/438/cont1.png"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2159432.html",
-      "title": "サムスン、「Galaxy Buds4」シリーズ用ケース3種と「Galaxy Watch」用急速充電器を発売",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2159432.html",
-      "date": "2026-11-26T03:22:27+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2159/432/main.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2159423.html",
-      "title": "Amazonブラックフライデー、iPhone Airなど今年最安値　「厳選目玉商品」一部発表",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2159423.html",
-      "date": "2026-11-26T03:22:02+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": null,
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2159/423/00.jpg"
     },
     {
       "id": "docomo-https://www.docomo.ne.jp/support/product_update/m51g/index.html",
