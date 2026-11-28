@@ -1,7 +1,84 @@
 {
-  "generated_at": "2026-11-27T21:03:12.291936+00:00",
+  "generated_at": "2026-11-28T07:19:36.522849+00:00",
   "errors": [],
   "articles": [
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/28/news018.html",
+      "title": "駅の「自動改札機」にたくさんリーダーが付くのはなぜなのか　ヒントは「分かりやすさ」？",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/28/news018.html",
+      "date": "2026-11-28T05:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/28/cover_news018.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/28/news017.html",
+      "title": "高負荷なゲームも快適に遊べる「POCO F9 Ultra」がセールで12％オフの14万9800円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/28/news017.html",
+      "date": "2026-11-28T02:33:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/28/l_amazon_a7K9mP2x113200-01.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/28/news016.html",
+      "title": "ダイソーで330円の「ハンドストラップケーブル」を試す　使い方をアレンジするとケーブルを探す手間が省けていい",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/28/news016.html",
+      "date": "2026-11-28T02:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/28/cover_news016.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/28/news015.html",
+      "title": "11型「iPad Air（M4）」128GBモデルが10％引きの11万6800円で販売中",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/28/news015.html",
+      "date": "2026-11-28T01:22:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/28/l_amazon_t1kzysbh102100-01.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/28/news013.html",
+      "title": "ドコモ販売ランキング：「iPhone 18 Pro」が首位に浮上、「Xperia 10 VIII」と「moto g37」が初登場【2026年10月】",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/28/news013.html",
+      "date": "2026-11-28T01:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "ドコモ",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/28/cover_news013.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/28/news004.html",
+      "title": "【3COINS】880円の「縦長サコッシュ」　大きめスマホも収納OK、はっ水加工付き",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/28/news004.html",
+      "date": "2026-11-28T01:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/28/l_asa_100item_01.jpg"
+    },
+    {
+      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2160011.html",
+      "title": "モンストやウマ娘のWebストアでの支払いに「d払い」を使うと抽選でdポイントをプレゼント",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2160011.html",
+      "date": "2026-11-27T23:00:00+00:00",
+      "sourceKey": "ktai",
+      "catKey": "campaign",
+      "catLabel": "キャンペーン",
+      "carrier": null,
+      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2160/011/main.jpeg"
+    },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2160155.html",
       "title": "Xに「ペアレンタルコントロール」機能、未成年の利用時間やDMを保護者が管理可能に",
@@ -23,6 +100,39 @@
       "catLabel": "その他",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2159/550/01-1.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/28/news001.html",
+      "title": "空冷ファン内蔵スマホが当たり前に？　vivo「iQOO Neo12」は185Hz表示と9000mAhバッテリーでゲーム特化",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/28/news001.html",
+      "date": "2026-11-27T21:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/28/cover_news001.jpg"
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/28/news014.html",
+      "title": "モトローラが“型落ちの最上位”「signature」を投入する狙い　切り札の「コンシェルジュ」で勝負",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/28/news014.html",
+      "date": "2026-11-27T21:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "other",
+      "catLabel": "その他",
+      "carrier": null,
+      "image": null
+    },
+    {
+      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/27/news078.html",
+      "title": "au、発売直後の「AQUOS sense11（128GB）」を2年間2万円台から発売",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/27/news078.html",
+      "date": "2026-11-27T21:00:00+00:00",
+      "sourceKey": "itmedia",
+      "catKey": "device",
+      "catLabel": "端末",
+      "carrier": "au/KDDI",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2611/27/l_asa_sumaotoku_01.jpg"
     },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/27/news082.html",
@@ -147,7 +257,7 @@
     },
     {
       "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/26/news081.html",
-      "title": "ソフトバンクの「AQUOS sense11」、MNPだと2年24年に【スマホお得情報】",
+      "title": "ソフトバンクの「AQUOS sense11」、MNPだと2年24円に【スマホお得情報】",
       "link": "https://www.itmedia.co.jp/mobile/articles/2611/26/news081.html",
       "date": "2026-11-27T07:00:00+00:00",
       "sourceKey": "itmedia",
@@ -289,17 +399,6 @@
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2159/875/01.jpeg"
     },
     {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/27/news064.html",
-      "title": "頑丈ボディーの「arrows Alpha2（8GB＋128GB）」がセールで21％オフの7万5250円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/27/news064.html",
-      "date": "2026-11-27T03:04:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "campaign",
-      "catLabel": "キャンペーン",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/27/l_amazon_qy2ri1xl120200-01.jpg"
-    },
-    {
       "id": "au-https://newsroom.kddi.com/news/detail/kddi_nr-1261_4845.html",
       "title": "TBS×ユニバーサル ミュージック×KDDI 新人アーティスト発掘プロジェクト「SCAN」始動",
       "link": "https://newsroom.kddi.com/news/detail/kddi_nr-1261_4845.html",
@@ -309,17 +408,6 @@
       "catLabel": "その他",
       "carrier": "au/KDDI",
       "image": null
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/27/news062.html",
-      "title": "「Xiaomi 18 Pro／18 Pro Max」投入の狙い　なぜMaxのみFeliCa？　ただの飛び道具ではない背面ディスプレイ",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/27/news062.html",
-      "date": "2026-11-27T02:37:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": null,
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/27/cover_news062.jpg"
     },
     {
       "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2159826.html",
@@ -342,17 +430,6 @@
       "catLabel": "キャンペーン",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2157/637/001.jpg"
-    },
-    {
-      "id": "itmedia-https://www.itmedia.co.jp/mobile/articles/2611/27/news048.html",
-      "title": "中古「Apple Watch Series 10」、楽天市場で約4.2万円で販売中",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/27/news048.html",
-      "date": "2026-11-27T01:00:00+00:00",
-      "sourceKey": "itmedia",
-      "catKey": "other",
-      "catLabel": "その他",
-      "carrier": "楽天モバイル",
-      "image": "https://image.itmedia.co.jp/mobile/articles/2611/27/l_asa_rakuten_01.jpg"
     },
     {
       "id": "docomo-https://www.docomo.ne.jp/corporate/anatatodocomo/docomoeveryday/article238/index.html?icid=CRP_INFO_to_CRP_CORP_anatatodocomo_docomoeveryday_article238",
@@ -595,17 +672,6 @@
       "catLabel": "その他",
       "carrier": null,
       "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2159/302/pay01.jpg"
-    },
-    {
-      "id": "ktai-https://k-tai.watch.impress.co.jp/docs/news/2159438.html",
-      "title": "ドコモ「らくらくスマートフォン F-53G」を27年1月下旬以降に発売",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2159438.html",
-      "date": "2026-11-26T03:22:35+00:00",
-      "sourceKey": "ktai",
-      "catKey": "device",
-      "catLabel": "端末",
-      "carrier": "ドコモ",
-      "image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2159/438/cont1.png"
     },
     {
       "id": "docomo-https://www.docomo.ne.jp/support/product_update/m51g/index.html",
